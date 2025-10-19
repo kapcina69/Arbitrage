@@ -70,7 +70,7 @@ FIND_SCROLLABLE_JS = """
   const all = deepCollect(document);
   let cands = [];
   for (const el of all) if (el instanceof Element && canScroll(el) && looksLikeMatches(el)) cands.push(el);
-  if (!cands.length) for (const el of all) if (el instanceof Element && canScroll(el)) cands.push(el);
+  if (!cands.length) for (const el of all) if (canScroll(el)) cands.push(el);
   if (!cands.length) return null;
   cands.sort((a,b)=>{
     const ra=a.getBoundingClientRect(), rb=b.getBoundingClientRect();
@@ -96,7 +96,10 @@ def do_20_scrolls(page, container_handle=None, pause=0.45):
     # inače skrolujemo ceo page.
     if container_handle:
         try:
-            box = page.evaluate("(e)=>{const r=e.getBoundingClientRect();return {x:r.left + r.width/2, y:r.top + Math.min(r.height/2, r.height-30)};}", container_handle)
+            box = page.evaluate(
+                "(e)=>{const r=e.getBoundingClientRect();return {x:r.left + r.width/2, y:r.top + Math.min(r.height/2, r.height-30)};}",
+                container_handle
+            )
             page.mouse.move(box["x"], box["y"])
             try:
                 container_handle.click(force=True)
@@ -105,7 +108,8 @@ def do_20_scrolls(page, container_handle=None, pause=0.45):
         except Exception:
             container_handle = None
 
-    for _ in range(100):
+    # (ostavljam veći broj “koraka” jer stranica često lenjo učitava)
+    for _ in range(400):  # prvobitno 20; praktično je više koraka
         if container_handle:
             page.mouse.wheel(0, 1500)
         else:
@@ -164,7 +168,7 @@ def _to_float(s: str) -> float:
 def parse_matches_from_text(text: str) -> List[Dict]:
     lines = [ln.strip() for ln in text.splitlines()]
     # ukloni prazne i samotne “•”
-    clean = [ln for ln in lines if ln and ln != "•" and ln != "·" and ln != "• "]
+    clean = [ln for ln in lines if ln and ln not in {"•", "·", "• "}]
 
     matches: List[Dict] = []
     i = 0
@@ -184,8 +188,8 @@ def parse_matches_from_text(text: str) -> List[Dict]:
         home = clean[i].strip(); i += 1
         away = clean[i].strip(); i += 1
 
-        # sledi 9 kvota
-        odds: List[float] = []
+        # sledi do 9 kvota
+        odds: List[Optional[float]] = []
         while i < n and len(odds) < 9:
             tok = clean[i]
             if _is_float_like(tok):
@@ -202,24 +206,12 @@ def parse_matches_from_text(text: str) -> List[Dict]:
                 match_id = m.group(1)
                 i += 1  # pojeli smo i taj red
 
-        # Ako nismo dobili 9 kvota, probaj da dopuniš skeniranjem sledećih tokena (ponekad upadne prazan red)
-        j = i
-        while len(odds) < 9 and j < n:
-            tok = clean[j]
-            if _is_float_like(tok):
-                odds.append(_to_float(tok))
-                j += 1
-            else:
-                break
-        # pomeri i ako smo trošili napred
-        i = max(i, j)
+        # Ako nismo dobili 9 kvota, dopuni None do 9
+        while len(odds) < 9:
+            odds.append(None)
 
         # validacija minimalna: vreme + 2 tima + 3 kvote (1,X,2)
-        if home and away and len(odds) >= 3:
-            # popuni do 9 ako manjka (None)
-            while len(odds) < 9:
-                odds.append(None)
-
+        if home and away and odds[0] is not None and odds[1] is not None and odds[2] is not None:
             rec = {
                 "time": time_str,
                 "home": home,
@@ -251,17 +243,47 @@ def save_csv(matches: List[Dict], path: Path):
                 m["gg"], m["i_gg"], m["gg_3_plus"]
             ])
 
+def _fmt(x: Optional[float]) -> str:
+    if x is None:
+        return "-"
+    # Bez nepotrebnih .0 na celim brojevima
+    return str(int(x)) if float(x).is_integer() else f"{x}"
+
 def save_pretty(matches: List[Dict], path: Path):
+    """
+    Traženi format:
+    ======================================================================
+    18:45  Uto
+    Barcelona  vs  Olympiakos   (ID: 523)
+    1=1.18   X=7.25   2=15
+    0-2=-   2+=-   3+=-
+    GG=-   IGG=-   GG&3+=-
+    """
     lines = []
     for m in matches:
-        lines.append("=" * 64)
-        lines.append(f"{m['time']}  |  {m['home']}  vs  {m['away']}" + (f"   (ID: {m['match_id']})" if m['match_id'] else ""))
-        lines.append(f"1={m['odd_1']}   X={m['odd_x']}   2={m['odd_2']}")
-        lines.append(f"UG 0-2={m['ug_0_2']}   3+={m['ug_3_plus']}   4+={m['ug_4_plus']}")
-        lines.append(f"GG={m['gg']}   I GG={m['i_gg']}   GG&3+={m['gg_3_plus']}")
-        lines.append("")
+        lines.append("=" * 70)
+
+        # Nemamo “dan” u raw podacima — ostavi prazan string
+        day_abbr = ""  # npr. "Uto" ako ga negde budeš izvlačio
+        time_and_day = f"{m['time']}" if not day_abbr else f"{m['time']}  {day_abbr}"
+        lines.append(time_and_day)
+
+        id_part = f"   (ID: {m['match_id']})" if m['match_id'] else ""
+        lines.append(f"{m['home']}  vs  {m['away']}{id_part}")
+
+        # 1, X, 2
+        lines.append(f"1={_fmt(m['odd_1'])}   X={_fmt(m['odd_x'])}   2={_fmt(m['odd_2'])}")
+
+        # 0-2, 2+, 3+  (Merkur nema direktnu 2+, pa je postavljamo na '-')
+        two_plus = None  # nema u ovoj šemi -> '-'
+        lines.append(f"0-2={_fmt(m['ug_0_2'])}   2+={_fmt(two_plus)}   3+={_fmt(m['ug_3_plus'])}")
+
+        # GG, IGG, GG&3+
+        lines.append(f"GG={_fmt(m['gg'])}   IGG={_fmt(m['i_gg'])}   GG&3+={_fmt(m['gg_3_plus'])}")
+
     if not matches:
         lines.append("Nije pronađen nijedan meč u očekivanom formatu.")
+
     path.write_text("\n".join(lines), encoding="utf-8")
 
 def run(headless=True):
@@ -277,5 +299,5 @@ def run(headless=True):
     print(f"[OK] Sačuvano:\n - RAW: {RAW_TXT.resolve()}\n - CSV: {OUT_CSV.resolve()}\n - TXT: {OUT_TXT.resolve()}")
 
 if __name__ == "__main__":
-    # Ako želiš da GLEDAŠ skrol, stavi headless=False
+    #Ako želiš da GLEDAŠ skrol, stavi headless=False
     run(headless=True)

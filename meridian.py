@@ -1,4 +1,4 @@
-# soccer_text_30scrolls_naredni_bounce.py
+# meridian.py
 # -*- coding: utf-8 -*-
 
 import re
@@ -8,7 +8,8 @@ from pathlib import Path
 from typing import List, Dict, Optional, Tuple
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeoutError
 
-URL = "https://meridianbet.rs/sr/kladjenje/fudbal"
+# URL može biti sr ili en verzija; ostavi onaj koji ti bolje radi
+URL = "https://meridianbet.rs/en/betting/football"
 OUT_TXT = Path("meridian_sledeci_mecevi.txt")        # RAW
 OUT_PRETTY = Path("meridian_mecevi_pregled.txt")     # Soccer-like
 
@@ -37,6 +38,47 @@ def accept_cookies(page) -> None:
         except Exception:
             pass
         time.sleep(0.2)
+
+def click_all(page) -> None:
+    """Pokušaj da klikneš 'All' ili 'All matches' pre skrolovanja (ako postoji)."""
+    import re as _re
+    def _click_first(locator) -> bool:
+        try:
+            n = locator.count()
+        except Exception:
+            return False
+        for i in range(min(n, 6)):
+            try:
+                el = locator.nth(i)
+                if not el.is_visible(timeout=1200):
+                    continue
+                el.click(timeout=1500)
+                time.sleep(0.2)
+                return True
+            except Exception:
+                continue
+        return False
+
+    exact_all = _re.compile(r"^\s*All\s*$", _re.I)
+    if _click_first(page.get_by_role("tab", name=exact_all)) \
+       or _click_first(page.get_by_role("button", name=exact_all)) \
+       or _click_first(page.get_by_role("link", name=exact_all)):
+        return
+    try:
+        if _click_first(page.get_by_text("All", exact=True)):
+            return
+    except Exception:
+        pass
+
+    exact_all_matches = _re.compile(r"^\s*All matches\s*$", _re.I)
+    if _click_first(page.get_by_role("tab", name=exact_all_matches)) \
+       or _click_first(page.get_by_role("button", name=exact_all_matches)) \
+       or _click_first(page.get_by_role("link", name=exact_all_matches)):
+        return
+    try:
+        _click_first(page.get_by_text("All matches", exact=True))
+    except Exception:
+        pass
 
 FIND_SCROLLABLE_JS = """
 () => {
@@ -137,7 +179,8 @@ def do_30_down_with_bounce(page, container_handle=None, pause=0.45,
 # PARSER Meridian RAW → Pretty
 # -----------------------------
 
-LEAGUE_RE = re.compile(r"^[A-ZŽĐŠČĆa-zžđšćč .'/()-]+\s-\s[A-ZŽĐŠČĆa-zžđšćč .'/()-]+$")
+LEAGUE_RE = re.compile(r"^[A-Za-zŽĐŠČĆžđšćč .'/()-]+\s-\s[A-Za-zŽĐŠČĆžđšćč .'/()-]+$")  # npr. "Italian - Supercoppa Italiana"
+DATE_RE   = re.compile(r"^\d{1,2}\.\d{1,2}\.?$")  # "18.12" ili "18.12."
 
 def _to_float(s: str) -> Optional[float]:
     s = s.strip().replace(",", ".")
@@ -158,35 +201,48 @@ def _day_and_date(token: str) -> Tuple[str, str]:
     t = token.strip().lower()
     days = ["Pon","Uto","Sre","Čet","Pet","Sub","Ned"]
     now = datetime.now()
-    if t == "danas":
+    if t in ("danas", "today"):
         return days[now.weekday()], now.strftime("%d.%m.")
-    if t == "sutra":
+    if t in ("sutra", "tomorrow"):
         d = now + timedelta(days=1)
         return days[d.weekday()], d.strftime("%d.%m.")
-    if re.fullmatch(r"\d{1,2}\.\d{1,2}\.", t):
-        return "", token.strip()
+    if DATE_RE.fullmatch(token.strip()):
+        try:
+            dd, mm = token.replace(".", " ").split()[:2]
+            dt = f"{int(dd):02d}.{int(mm):02d}."
+            return "", dt
+        except Exception:
+            return "", token.strip()
     return "", ""
 
 def _read_trimmed_text(path: Path, trim_last: int = 100) -> str:
-    """Učitaj fajl i potpuno odbaci zadnjih `trim_last` linija pre obrade."""
+    """Odbaci zadnjih `trim_last` linija (popup/footer); ako fajl ima manje — ne diraj."""
     lines = path.read_text(encoding="utf-8", errors="ignore").splitlines()
     if len(lines) > trim_last:
         lines = lines[:-trim_last]
-    else:
-        lines = []
     return "\n".join(lines)
 
 def parse_meridian_raw(text: str) -> List[Dict]:
     """
-    Podržava 2 formata:
-      A) 1, X, 2, U2.5, [2.5 etiketa IGNORE], O2.5, (+ID?)
-      B) 1, X, 2, U2.5, [2.5 etiketa IGNORE], O2.5, GG, GG&3+, GG&4+, (+ID?)
-    Liga linija "Država - Liga" važi do promene.
+    Format:
+      LIGA (npr. 'Italian - Supercoppa Italiana')
+      HH:MM
+      Danas/Sutra/Today/Tomorrow ili datum DD.MM( . )
+      Home
+      Away
+      <kvote ...> do '+ID' ili do sledeće sekcije
+      +ID (opciono)
+
+    Kvote:
+      Minimalno: 1, X, 2
+      Produženo: 1, X, 2, U2.5, [etiketa] 2.5 (IGNORISATI), O2.5, GG, GG&3+, GG&4+
     """
     SKIP = {
+        # sr/eng sekcioni naslovi i filteri koje ponekad upiše u RAW
         "KONAČAN ISHOD","UKUPNO GOLOVA 2.5","OBA TIMA DAJU GOL",
-        "1","X","2","Manje","O/U","Više","GG","GG&3+","GG&4+",
+        "FULL TIME RESULT","TOTAL GOALS 2.5","BOTH TEAMS TO SCORE",
         "SPORT","FUDBAL","MEČEVI","Sortiraj po","ISTAKNUTA TAKMIČENJA","OMILJENE LIGE",
+        "SPORTS","FOOTBALL","MATCHES","FAVOURITES"
     }
 
     lines = [ln.replace("\xa0", " ").strip() for ln in text.splitlines()]
@@ -199,13 +255,13 @@ def parse_meridian_raw(text: str) -> List[Dict]:
     while i < n:
         ln = lines[i]
 
-        # liga sekcija
+        # Liga
         if LEAGUE_RE.match(ln):
             current_league = ln
             i += 1
             continue
 
-        # vreme
+        # Vreme
         if not _is_time(ln):
             i += 1
             continue
@@ -214,45 +270,47 @@ def parse_meridian_raw(text: str) -> List[Dict]:
         if i >= n:
             break
 
-        # Danas/Sutra/DD.MM.
+        # Danas/Sutra/Today/Tomorrow/ili datum
         day_s, date_s = _day_and_date(lines[i])
         i += 1
         if i + 1 >= n:
             break
 
-        # timovi
+        # Timovi
         home = lines[i]; away = lines[i+1]
         i += 2
 
-        # kvote do +ID / sledećeg vremena / nove lige
+        # Kvote do +ID / sledeće sekcije
         nums: List[float] = []
         while i < n:
             tk = lines[i]
             if _is_id(tk) or _is_time(tk) or LEAGUE_RE.match(tk):
                 break
 
-            val = _to_float(tk)
-            # IGNORIŠI etiketu '2.5' (granica)
-            if val is not None and abs(val - 2.5) < 1e-12:
+            # IGNORIŠI SAMO literal granicu "2.5" / "2,5" (etiketa), NE i kvote tipa "2.50"
+            norm = tk.strip().replace(",", ".")
+            if norm == "2.5":
                 i += 1
                 continue
+
+            val = _to_float(tk)
             if val is not None:
                 nums.append(val)
             i += 1
 
         match_id = ""
         if i < n and _is_id(lines[i]):
-            match_id = lines[i][1:]
+            match_id = lines[i][1:]  # skini '+'
             i += 1
 
-        # nums: 5 (A) ili 8 (B)
+        # mapiranje: 1,X,2,U2.5,O2.5,GG,GG&3+,GG&4+ (popuni None ako nema)
         vals = (nums + [None]*8)[:8]
         q1, qx, q2, u25, o25, qgg, qgg3, qgg4 = vals
 
         odds = {
             "1": q1, "X": qx, "2": q2,
             "0-2": u25,     # Manje 2.5
-            "2+": None,     # nema u Meridian RAW
+            "2+": None,     # nema u ovom formatu
             "3+": o25,      # Više 2.5
             "GG": qgg,
             "IGG": None,
@@ -294,6 +352,7 @@ def write_pretty_meridian(blocks: List[Dict], out_path: Path):
         lines.append(f"0-2={fmt(od.get('0-2'))}   2+={fmt(od.get('2+'))}   3+={fmt(od.get('3+'))}")
         lines.append(f"GG={fmt(od.get('GG'))}   IGG={fmt(od.get('IGG'))}   GG&3+={fmt(od.get('GG&3+'))}")
         if od.get("GG&4+") is not None:
+            # popravljen f-string (navodnici)
             lines.append(f"GG&4+={fmt(od.get('GG&4+'))}")
     out_path.write_text("\n".join(lines), encoding="utf-8")
 
@@ -314,6 +373,7 @@ def main(headless=True):
         try:
             page.goto(URL, wait_until="domcontentloaded", timeout=60000)
             accept_cookies(page)
+            click_all(page)
 
             time.sleep(0.8)
             try:

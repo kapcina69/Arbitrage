@@ -125,7 +125,7 @@ def do_30_down_with_bounce(page, container_handle=None, pause=0.45,
             container_handle = None
 
     down_done = 0
-    while down_done < 100:
+    while down_done < 300:
         # jedan DOWN
         if container_handle:
             page.mouse.wheel(0, delta_down)

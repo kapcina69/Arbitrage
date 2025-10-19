@@ -7,26 +7,33 @@ import unicodedata
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 from difflib import SequenceMatcher
+from collections import defaultdict, deque
+from statistics import mode
 
+# -----------------------------
 # Ulazni fajlovi (pretty)
-SOCCER_TXT    = Path("soccer_mecevi_pregled.txt")
-MERKUR_TXT    = Path("merkur_mecevi_pregled.txt")
-MOZZART_TXT   = Path("mozzart_mecevi_pregled.txt")      # opcioni
-BETOLE_TXT    = Path("betole_mecevi_pregled.txt")        # opcioni
-MERIDIAN_TXT  = Path("meridian_mecevi_pregled.txt")      # NOVO (pretty)
+# -----------------------------
+SOCCER_TXT   = Path("soccer_mecevi_pregled.txt")
+MERKUR_TXT   = Path("merkur_mecevi_pregled.txt")
+MOZZART_TXT  = Path("mozzart_mecevi_pregled.txt")
+BETOLE_TXT   = Path("betole_mecevi_pregled.txt")
+MERIDIAN_TXT = Path("meridian_mecevi_pregled.txt")
+BALKAN_TXT   = Path("balkanbet_mecevi_pregled.txt")
 
 # Izlazi
-OUT_CSV = Path("mecevi_spojeno.csv")
-OUT_TXT = Path("mecevi_spojeno.txt")
+OUT_CSV      = Path("mecevi_spojeno.csv")
+OUT_TXT      = Path("mecevi_spojeno.txt")
+REPORT_MATCH = Path("izvestaj_o_mecevima.txt")
+REPORT_ARB   = Path("izvestaj.txt")  # arbitražno klađenje
 
-# Regex paterni
+# -----------------------------
+# Regex i pomoćne rutine
+# -----------------------------
 TIME_RE = r"(?:[01]?\d|2[0-3]):[0-5]\d"
 DAY_RE = r"(Pon|Uto|Sre|Čet|Cet|Pet|Sub|Ned)"
 DATE_RE = r"\d{1,2}\.\d{1,2}\."
-LEAGUE_BRACKET_RE = r"\[([A-ZČĆŠĐŽ0-9 ,.'/-]{2,40})\]"
+LEAGUE_BRACKET_RE = r"\[([A-ZČĆŠĐŽA-Za-zčćšđž0-9 .'/()-]{2,40})\]"
 FLOAT_VAL_RE = r"(\d+(?:[.,]\d+)?)"
-
-# ----------------- util -----------------
 
 def _to_float(s: str) -> Optional[float]:
     try:
@@ -35,7 +42,6 @@ def _to_float(s: str) -> Optional[float]:
         return None
 
 def _grab_val(label: str, line: str) -> Optional[float]:
-    """Traži '<label>\s*=\s*<broj>'."""
     pat = rf"{re.escape(label)}\s*=\s*{FLOAT_VAL_RE}"
     m = re.search(pat, line, flags=re.I)
     return _to_float(m.group(1)) if m else None
@@ -46,46 +52,49 @@ def strip_accents(s: str) -> str:
 
 def normalize_team(s: str) -> str:
     s0 = strip_accents(s.lower())
+    s0 = re.sub(r"[’'`]", "", s0)
     s0 = re.sub(r"[.\-–—_/]", " ", s0)
-    replacements = {
-        r"\butd\b": "united",
-        r"\bu\.?n\.?a\.?m\.?\b": "unam",
-        r"\bpumas\b": "pumas",
-        r"\bafc\b": "",
-        r"\bfc\b": "",
-        r"\bcf\b": "",
-        r"\bsc\b": "",
-        r"\bif\b": "",
-        r"\bab\b": "",
-        r"\bthe\b": "",
-    }
-    for pat, rep in replacements.items():
-        s0 = re.sub(pat, rep, s0)
+    s0 = re.sub(r"[()]", " ", s0)
     s0 = re.sub(r"\s+", " ", s0).strip()
     return s0
+
+# Stop-reči (nebitni tokeni u poređenju)
+_STOPWORDS = {
+    "fc","cf","sc","if","afc","bk","fk","kk","ac","as","cd","sd","ud","acf","sv","ss","sp","ca",
+    "united","city","club","the","de","la","el","da","do","del","dep","ud","ac","atletico","atl",
+    "calcio","cf","cp","st","saint","saints","om","psg","bc","bcf","w","wom","women","ladies"
+}
+
+def team_tokens(name: str) -> set:
+    n = normalize_team(name)
+    toks = [t for t in re.split(r"\s+", n) if t]
+    toks = [t for t in toks if t not in _STOPWORDS]
+    return set(toks)
 
 def fuzzy(a: str, b: str) -> float:
     return SequenceMatcher(None, a, b).ratio()
 
 def _time_to_minutes(t: str) -> Optional[int]:
-    m = re.fullmatch(r"([01]?\d|2[0-3]):([0-5]\d)", t.strip())
+    m = re.fullmatch(r"([01]?\d|2[0-3]):([0-5]\d)", (t or "").strip())
     if not m:
         return None
     return int(m.group(1)) * 60 + int(m.group(2))
 
-def _times_close(t1: str, t2: str, tolerance_min: int = 10) -> bool:
+def _times_close(t1: str, t2: str, tolerance_min: int = 20) -> bool:
     m1, m2 = _time_to_minutes(t1), _time_to_minutes(t2)
     if m1 is None or m2 is None:
         return False
     return abs(m1 - m2) <= tolerance_min
 
+# -----------------------------
+# Blok parser: PRETTY → record
+# -----------------------------
 def parse_blocks_pretty(txt: str) -> List[List[str]]:
-    """Razbije na blokove po linijama '====...'; vraća liste nepraznih linija po bloku."""
     lines = [ln.rstrip() for ln in txt.splitlines()]
     blocks: List[List[str]] = []
     cur: List[str] = []
     for ln in lines:
-        if re.match(r"^=+", ln):
+        if re.match(r"^=+\s*$", ln):
             if cur:
                 blocks.append(cur)
             cur = []
@@ -96,17 +105,7 @@ def parse_blocks_pretty(txt: str) -> List[List[str]]:
         blocks.append(cur)
     return blocks
 
-# ----------------- PARSERI -----------------
-
-def parse_pretty_block(lines: List[str], src_name: str) -> Optional[Dict]:
-    """
-    Očekivani pretty format:
-      0: "HH:MM  DAY  DD.MM.  [LEAGUE]"   (datum/league mogu izostati)
-      1: "Home  vs  Away   (ID: ...?)"
-      2: "1=...   X=...   2=..."
-      3: "0-2=...  2+=...  3+=..."
-      4: "GG=...   IGG=...   GG&3+=..."
-    """
+def parse_pretty_block(lines: List[str], src_tag: str) -> Optional[Dict]:
     if not lines:
         return None
 
@@ -118,7 +117,7 @@ def parse_pretty_block(lines: List[str], src_name: str) -> Optional[Dict]:
     m_date = re.search(DATE_RE, head)
     date_s = m_date.group(0) if m_date else ""
     m_league = re.search(LEAGUE_BRACKET_RE, head)
-    league_s = m_league.group(1).strip() if m_league else ""
+    league_s = (m_league.group(1).strip() if m_league else "")
 
     home = away = match_id = ""
     team_line = next((l for l in lines if " vs " in l.lower()), "")
@@ -135,27 +134,31 @@ def parse_pretty_block(lines: List[str], src_name: str) -> Optional[Dict]:
     odds_map: Dict[str, Optional[float]] = {
         "1": None, "X": None, "2": None,
         "0-2": None, "2+": None, "3+": None,
-        "GG": None, "IGG": None, "GG&3+": None
+        "GG": None, "IGG": None, "GG&3+": None, "GG&4+": None
     }
 
     for ln in lines:
-        if odds_map["1"] is None: odds_map["1"] = _grab_val("1", ln)
-        if odds_map["X"] is None: odds_map["X"] = _grab_val("X", ln)
-        if odds_map["2"] is None: odds_map["2"] = _grab_val("2", ln)
+        odds_map["1"] = odds_map["1"] or _grab_val("1", ln)
+        odds_map["X"] = odds_map["X"] or _grab_val("X", ln)
+        odds_map["2"] = odds_map["2"] or _grab_val("2", ln)
 
-        if odds_map["0-2"] is None: odds_map["0-2"] = _grab_val("0-2", ln)
-        if odds_map["2+"]  is None: odds_map["2+"]  = _grab_val("2+", ln)
-        if odds_map["3+"]  is None: odds_map["3+"]  = _grab_val("3+", ln)
+        if odds_map["0-2"] is None:
+            odds_map["0-2"] = _grab_val("0-2", ln) or _grab_val("UG 0-2", ln)
+        if odds_map["2+"] is None:
+            odds_map["2+"] = _grab_val("2+", ln)
+        if odds_map["3+"] is None:
+            odds_map["3+"] = _grab_val("3+", ln)
 
-        if odds_map["GG"]     is None: odds_map["GG"]     = _grab_val("GG", ln)
-        if odds_map["IGG"]    is None: odds_map["IGG"]    = _grab_val("IGG", ln) or _grab_val("I GG", ln)
-        if odds_map["GG&3+"]  is None: odds_map["GG&3+"]  = _grab_val("GG&3+", ln)
+        odds_map["GG"]    = odds_map["GG"]    or _grab_val("GG", ln)
+        odds_map["IGG"]   = odds_map["IGG"]   or _grab_val("IGG", ln) or _grab_val("I GG", ln)
+        odds_map["GG&3+"] = odds_map["GG&3+"] or _grab_val("GG&3+", ln)
+        odds_map["GG&4+"] = odds_map["GG&4+"] or _grab_val("GG&4+", ln)
 
     if not (time_s and home and away):
         return None
 
     return {
-        "src": src_name,
+        "src": src_tag,
         "time": time_s,
         "day": day_s,
         "date": date_s,
@@ -166,424 +169,652 @@ def parse_pretty_block(lines: List[str], src_name: str) -> Optional[Dict]:
         "odds": odds_map,
     }
 
-def parse_soccer_block(lines: List[str]) -> Optional[Dict]:
-    return parse_pretty_block(lines, "soccer")
-
-def parse_mozzart_block(lines: List[str]) -> Optional[Dict]:
-    return parse_pretty_block(lines, "mozzart")
-
-def parse_betole_block(lines: List[str]) -> Optional[Dict]:
-    return parse_pretty_block(lines, "betole")
-
-def parse_meridian_block(lines: List[str]) -> Optional[Dict]:
-    return parse_pretty_block(lines, "meridian")
-
-def parse_merkur_block(lines: List[str]) -> Optional[Dict]:
-    """
-    Merkur pretty je malo drugačiji (može 'UG 0-2', '4+' itd.)
-    """
-    if not lines:
-        return None
-
-    head_line = next((l for l in lines if "vs" in l.lower()), "")
-    if not head_line:
-        return None
-
-    m_time = re.search(TIME_RE, head_line)
-    time_s = m_time.group(0) if m_time else ""
-
-    seg = head_line
-    if "|" in seg:
-        seg = seg.split("|", 1)[1].strip()
-
-    match_id = ""
-    mid = re.search(r"\(ID:\s*([^)]+)\)", seg)
-    if mid:
-        match_id = mid.group(1).strip()
-        seg = re.sub(r"\(ID:[^)]+\)", "", seg).strip()
-
-    mt = re.search(r"(.+?)\s+vs\s+(.+)", seg, re.I)
-    if not mt:
-        return None
-    home = mt.group(1).strip()
-    away = mt.group(2).strip()
-
-    odds_map: Dict[str, Optional[float]] = {
-        "1": None, "X": None, "2": None,
-        "0-2": None, "2+": None, "3+": None,
-        "GG": None, "IGG": None, "GG&3+": None
-    }
-
-    for ln in lines:
-        odds_map["1"] = odds_map["1"] or _grab_val("1", ln)
-        odds_map["X"] = odds_map["X"] or _grab_val("X", ln)
-        odds_map["2"] = odds_map["2"] or _grab_val("2", ln)
-
-        if odds_map["0-2"] is None:
-            odds_map["0-2"] = _grab_val("0-2", ln) or _grab_val("UG 0-2", ln)
-        if odds_map["3+"] is None:
-            odds_map["3+"] = _grab_val("3+", ln)
-        if odds_map["3+"] is None:
-            alt_4 = _grab_val("4+", ln)
-            if alt_4 is not None:
-                odds_map["3+"] = alt_4
-
-        odds_map["GG"] = odds_map["GG"] or _grab_val("GG", ln)
-        if odds_map["IGG"] is None:
-            odds_map["IGG"] = _grab_val("IGG", ln) or _grab_val("I GG", ln)
-        odds_map["GG&3+"] = odds_map["GG&3+"] or _grab_val("GG&3+", ln)
-
-    if not (time_s and home and away):
-        return None
-
-    return {
-        "src": "merkur",
-        "time": time_s,
-        "day": "",
-        "date": "",
-        "league": "",
-        "home": home,
-        "away": away,
-        "match_id": match_id,
-        "odds": odds_map,
-    }
-
-def parse_file_generic(path: Path, which: str) -> List[Dict]:
+def parse_file_pretty(path: Path, src_tag: str) -> List[Dict]:
+    if not path.exists():
+        print(f"(!) Upozorenje: nema fajla {path}")
+        return []
     txt = path.read_text(encoding="utf-8", errors="ignore")
     blocks = parse_blocks_pretty(txt)
     out: List[Dict] = []
     for b in blocks:
-        if which == "soccer":
-            rec = parse_soccer_block(b)
-        elif which == "merkur":
-            rec = parse_merkur_block(b)
-        elif which == "mozzart":
-            rec = parse_mozzart_block(b)
-        elif which == "betole":
-            rec = parse_betole_block(b)
-        elif which == "meridian":
-            rec = parse_meridian_block(b)
-        else:
-            rec = None
+        rec = parse_pretty_block(b, src_tag)
         if rec:
             out.append(rec)
     return out
 
-# ----------------- UPARIVANJE (5 izvora) -----------------
+# -----------------------------
+# Napredna sličnost timova
+# -----------------------------
+def _ngrams(s: str, n: int = 3) -> set:
+    s = re.sub(r"\s+", " ", s).strip()
+    if len(s) < n:
+        return {s} if s else set()
+    return {s[i:i+n] for i in range(len(s)-n+1)}
 
-def match_records_five(
-    soc: List[Dict], mer: List[Dict], moz: List[Dict], bet: List[Dict], mdi: List[Dict],
-    team_threshold: float = 0.82,
-    time_tolerance_min: int = 10
-) -> Tuple[
-    List[Tuple[Dict, Optional[Dict], bool, Optional[Dict], bool, Optional[Dict], bool, Optional[Dict], bool]],
-    List[Dict], List[Dict], List[Dict], List[Dict]
-]:
+def token_jaccard(a: set, b: set) -> float:
+    if not a or not b:
+        return 0.0
+    inter = len(a & b)
+    union = len(a | b)
+    return inter / union if union else 0.0
+
+def token_dice(a: set, b: set) -> float:
+    if not a or not b:
+        return 0.0
+    inter = 2 * len(a & b)
+    denom = (len(a) + len(b))
+    return inter / denom if denom else 0.0
+
+def team_signature(name: str) -> str:
+    toks = [t for t in team_tokens(name)]
+    toks.sort()
+    sig = "".join(t[:4] for t in toks)
+    return sig[:24]
+
+def prefix_or_contains(a_name: str, b_name: str) -> bool:
+    a = normalize_team(a_name)
+    b = normalize_team(b_name)
+    if a and b:
+        if a == b:
+            return True
+        if a in b or b in a:
+            return True
+        if b.startswith(a) or a.startswith(b):
+            return True
+    return False
+
+def significant_tokens(tokset: set) -> set:
+    return {t for t in tokset if len(t) >= 3 and re.search(r"[a-z0-9]", t)}
+
+def is_token_subset(a: set, b: set) -> bool:
+    A = significant_tokens(a)
+    B = significant_tokens(b)
+    return bool(A) and A.issubset(B)
+
+def team_char_score(a_name: str, b_name: str) -> float:
+    a = normalize_team(a_name)
+    b = normalize_team(b_name)
+    ng_a = _ngrams(a, 3)
+    ng_b = _ngrams(b, 3)
+    ng_score = (len(ng_a & ng_b) / len(ng_a | ng_b)) if (ng_a and ng_b) else 0.0
+    fz = fuzzy(a, b)
+    sig_a, sig_b = team_signature(a), team_signature(b)
+    sig_sim = fuzzy(sig_a, sig_b)
+    base = 0.5 * ng_score + 0.4 * fz + 0.1 * sig_sim
+    if prefix_or_contains(a_name, b_name):
+        base = min(1.0, base + 0.12)
+    return base
+
+# "Al" izuzetak
+def has_al(name: str) -> bool:
+    n = normalize_team(name)
+    if re.match(r"^al($|[\s\-])", n): return True
+    if re.search(r"\bal\b", n): return True
+    return False
+
+def al_enforced_equal(a_name: str, b_name: str) -> bool:
+    if has_al(a_name) or has_al(b_name):
+        return normalize_team(a_name) == normalize_team(b_name)
+    return True
+
+def league_tokens(league: str) -> set:
+    if not league:
+        return set()
+    s = strip_accents(league.lower())
+    s = re.sub(r"[-–—/()]", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    toks = [t for t in s.split(" ") if len(t) >= 2]
+    stop = {"liga","league","division","divison","apertura","clausura",
+            "serija","serie","premier","prva","druga","championship",
+            "cup","women","w","mx","la","de","el"}
+    return {t for t in toks if t not in stop}
+
+# -----------------------------
+# ALL-vs-ALL: građenje klastera
+# -----------------------------
+def _time_factor(t1: str, t2: str) -> float:
+    m1, m2 = _time_to_minutes(t1), _time_to_minutes(t2)
+    if m1 is None or m2 is None:
+        return 0.90
+    dt = abs(m1 - m2)
+    if dt <= 5:   return 1.00
+    if dt <= 10:  return 0.97
+    if dt <= 20:  return 0.92
+    return 0.0
+
+def _side_score(nameA, nameB):
+    toksA, toksB = team_tokens(nameA), team_tokens(nameB)
+    tj = token_jaccard(toksA, toksB)
+    td = token_dice(toksA, toksB)
+    tok = max(tj, td)
+
+    subset_bonus = 0.0
+    if is_token_subset(toksA, toksB) or is_token_subset(toksB, toksA):
+        subset_bonus += 0.20
+    if prefix_or_contains(nameA, nameB):
+        subset_bonus += 0.10
+    subset_bonus = min(subset_bonus, 0.25)
+
+    ch = team_char_score(nameA, nameB)
+    w_tok = 0.55 if (toksA and toksB and (toksA & toksB)) else 0.40
+    base = w_tok * tok + (1.0 - w_tok) * ch
+    return min(1.0, base + subset_bonus)
+
+def _match_ok(a: Dict, b: Dict, team_threshold: float = 0.82) -> bool:
+    if not _times_close(a.get("time",""), b.get("time",""), tolerance_min=20):
+        return False
+    tf = _time_factor(a.get("time",""), b.get("time",""))
+    if tf == 0.0:
+        return False
+
+    lg1, lg2 = league_tokens(a.get("league","")), league_tokens(b.get("league",""))
+    if lg1 and lg2:
+        if not (lg1 & lg2):
+            sig1 = "".join(sorted(lg1))[:24]
+            sig2 = "".join(sorted(lg2))[:24]
+            if fuzzy(sig1, sig2) < 0.50:
+                return False
+
+    straight_al = al_enforced_equal(a["home"], b["home"]) and al_enforced_equal(a["away"], b["away"])
+    swap_al     = al_enforced_equal(a["home"], b["away"]) and al_enforced_equal(a["away"], b["home"])
+    if not (straight_al or swap_al):
+        return False
+
+    straight = -1.0
+    swap     = -1.0
+    if straight_al:
+        straight = (_side_score(a["home"], b["home"]) + _side_score(a["away"], b["away"])) / 2.0
+    if swap_al:
+        swap = (_side_score(a["home"], b["away"]) + _side_score(a["away"], b["home"])) / 2.0
+
+    base = max(straight, swap)
+    if base < 0:
+        return False
+
+    final_score = base * tf
+    base_threshold = 0.53
+    if final_score >= base_threshold:
+        return True
+
+    if straight >= swap and straight_al:
+        fz = (fuzzy(normalize_team(a["home"]), normalize_team(b["home"])) +
+              fuzzy(normalize_team(a["away"]), normalize_team(b["away"]))) / 2.0
+    elif swap_al:
+        fz = (fuzzy(normalize_team(a["home"]), normalize_team(b["away"])) +
+              fuzzy(normalize_team(a["away"]), normalize_team(b["home"]))) / 2.0
+    else:
+        fz = 0.0
+    return (fz >= team_threshold and tf >= 0.92)
+
+def cluster_all_sources(records: List[Dict]) -> List[List[Dict]]:
+    n = len(records)
+    adj = [[] for _ in range(n)]
+
+    buckets = defaultdict(list)
+    def bucket_key(t: str):
+        m = _time_to_minutes(t or "")
+        if m is None: return "none"
+        return m // 10
+
+    for i, r in enumerate(records):
+        buckets[bucket_key(r.get("time",""))].append(i)
+
+    for _, idxs in buckets.items():
+        L = len(idxs)
+        for ii in range(L):
+            a = records[idxs[ii]]
+            for jj in range(ii+1, L):
+                b = records[idxs[jj]]
+                if _match_ok(a, b):
+                    u, v = idxs[ii], idxs[jj]
+                    adj[u].append(v)
+                    adj[v].append(u)
+
+    seen = [False]*n
+    clusters: List[List[Dict]] = []
+    for i in range(n):
+        if seen[i]: continue
+        q = deque([i]); seen[i] = True; comp = [i]
+        while q:
+            u = q.popleft()
+            for v in adj[u]:
+                if not seen[v]:
+                    seen[v] = True
+                    q.append(v)
+                    comp.append(v)
+        clusters.append([records[k] for k in comp])
+    return clusters
+
+# -----------------------------
+# Izlazi (CSV, TXT, Report)
+# -----------------------------
+SRC_ORDER = ["soccer", "merkur", "mozzart", "betole", "meridian", "balkanbet"]
+SRC_LABEL = {
+    "soccer":"Soccer",
+    "merkur":"Merkur",
+    "mozzart":"Mozzart",
+    "betole":"Betole",
+    "meridian":"Meridian",
+    "balkanbet":"BalkanBet",
+}
+
+def fmt_od(x: Optional[float]) -> str:
+    if x is None: return "-"
+    return str(int(x)) if float(x).is_integer() else f"{x}"
+
+def canonical_time(cluster: List[Dict]) -> str:
+    ts = [r.get("time","") for r in cluster if r.get("time")]
+    return mode(ts) if ts else (cluster[0].get("time","") if cluster else "")
+
+def canonical_pair(cluster: List[Dict]) -> Tuple[str,str]:
+    pref = ["soccer","mozzart","merkur","meridian","betole","balkanbet"]
+    by_src = {r["src"]: r for r in cluster}
+    for p in pref:
+        if p in by_src:
+            return by_src[p]["home"], by_src[p]["away"]
+    return cluster[0]["home"], cluster[0]["away"]
+
+# -----------------------------
+# >>> NOVO: Poravnanje i izbor najboljeg zapisa po izvoru
+# -----------------------------
+def is_plausible_odd(x: Optional[float]) -> bool:
+    """Osnovni sanity check za kvotu."""
+    if x is None:
+        return False
+    return 1.01 <= float(x) <= 25.0
+
+def coherent_1x2_for_source(rec: Dict) -> Tuple[bool, Optional[float]]:
     """
-    Vraća:
-      merged: (soccer, merkur?, mer_swap, mozzart?, moz_swap, betole?, bet_swap, meridian?, mdi_swap)
-      leftovers_mer / leftovers_moz / leftovers_bet / leftovers_mdi
+    Proverava da izvor ima smislen kompletan 1X2 set i vraća (ok, S),
+    gde je S suma recipročnih.
     """
-    used_mer, used_moz, used_bet, used_mdi = set(), set(), set(), set()
-    merged: List[Tuple[Dict, Optional[Dict], bool, Optional[Dict], bool, Optional[Dict], bool, Optional[Dict], bool]] = []
+    od = rec.get("odds", {})
+    a, b, c = od.get("1"), od.get("X"), od.get("2")
+    if not (is_plausible_odd(a) and is_plausible_odd(b) and is_plausible_odd(c)):
+        return False, None
+    S = (1.0/float(a)) + (1.0/float(b)) + (1.0/float(c))
+    if 0.95 <= S <= 1.90:
+        return True, S
+    return False, S
 
-    for s in soc:
-        h_s = normalize_team(s["home"])
-        a_s = normalize_team(s["away"])
-        t_s = s["time"]
+def filter_sources_for_1x2_best(by_src: Dict[str, Dict]) -> Dict[str, Dict]:
+    """Zadrži samo izvore sa koherentnim 1X2 setom."""
+    out = {}
+    for code, rec in by_src.items():
+        ok, _ = coherent_1x2_for_source(rec)
+        if ok:
+            out[code] = rec
+    return out
 
-        # MERKUR
-        best_mer_j, best_mer_sw, best_mer_score = -1, False, 0.0
-        for j, m in enumerate(mer):
-            if j in used_mer:
-                continue
-            if not _times_close(m["time"], t_s, tolerance_min=time_tolerance_min):
-                continue
-            h_m = normalize_team(m["home"]); a_m = normalize_team(m["away"])
-            score_straight = (fuzzy(h_s, h_m) + fuzzy(a_s, a_m)) / 2.0
-            score_swap    = (fuzzy(h_s, a_m) + fuzzy(a_s, h_m)) / 2.0
-            if score_straight >= best_mer_score and score_straight >= team_threshold:
-                best_mer_score, best_mer_j, best_mer_sw = score_straight, j, False
-            if score_swap >= best_mer_score and score_swap >= team_threshold:
-                best_mer_score, best_mer_j, best_mer_sw = score_swap, j, True
+def _orientation_vs_canon(rec: Dict, canon_home: str, canon_away: str) -> str:
+    """Vrati 'straight' ili 'swap' u odnosu na (canon_home, canon_away)."""
+    straight_al = al_enforced_equal(rec["home"], canon_home) and al_enforced_equal(rec["away"], canon_away)
+    swap_al     = al_enforced_equal(rec["home"], canon_away) and al_enforced_equal(rec["away"], canon_home)
+    if straight_al and not swap_al:
+        return "straight"
+    if swap_al and not straight_al:
+        return "swap"
+    s_st = (_side_score(rec["home"], canon_home) + _side_score(rec["away"], canon_away)) / 2.0
+    s_sw = (_side_score(rec["home"], canon_away) + _side_score(rec["away"], canon_home)) / 2.0
+    return "straight" if s_st >= s_sw else "swap"
 
-        # MOZZART
-        best_moz_k, best_moz_sw, best_moz_score = -1, False, 0.0
-        for k, z in enumerate(moz):
-            if k in used_moz:
-                continue
-            if not _times_close(z["time"], t_s, tolerance_min=time_tolerance_min):
-                continue
-            h_z = normalize_team(z["home"]); a_z = normalize_team(z["away"])
-            score_straight = (fuzzy(h_s, h_z) + fuzzy(a_s, a_z)) / 2.0
-            score_swap    = (fuzzy(h_s, a_z) + fuzzy(a_s, h_z)) / 2.0
-            if score_straight >= best_moz_score and score_straight >= team_threshold:
-                best_moz_score, best_moz_k, best_moz_sw = score_straight, k, False
-            if score_swap >= best_moz_score and score_swap >= team_threshold:
-                best_moz_score, best_moz_k, best_moz_sw = score_swap, k, True
+def _swap_1x2_if_needed(odds: Dict[str, Optional[float]], orientation: str) -> Dict[str, Optional[float]]:
+    """Ako je 'swap', zameni 1<->2. Ostalo ostaje isto."""
+    if orientation != "swap":
+        return odds
+    new_odds = dict(odds)
+    new_odds["1"], new_odds["2"] = odds.get("2"), odds.get("1")
+    return new_odds
 
-        # BETOLE
-        best_bet_l, best_bet_sw, best_bet_score = -1, False, 0.0
-        for l, b in enumerate(bet):
-            if l in used_bet:
-                continue
-            if not _times_close(b["time"], t_s, tolerance_min=time_tolerance_min):
-                continue
-            h_b = normalize_team(b["home"]); a_b = normalize_team(b["away"])
-            score_straight = (fuzzy(h_s, h_b) + fuzzy(a_s, a_b)) / 2.0
-            score_swap    = (fuzzy(h_s, a_b) + fuzzy(a_s, h_b)) / 2.0
-            if score_straight >= best_bet_score and score_straight >= team_threshold:
-                best_bet_score, best_bet_l, best_bet_sw = score_straight, l, False
-            if score_swap >= best_bet_score and score_swap >= team_threshold:
-                best_bet_score, best_bet_l, best_bet_sw = score_swap, l, True
+def _rec_completeness_score(rec: Dict) -> Tuple[int, int]:
+    """
+    Rang za izbor najboljeg dvojnika istog izvora:
+    1) koherentan 1X2 (1/0)
+    2) broj popunjenih polja u rec['odds']
+    """
+    ok, _ = coherent_1x2_for_source(rec)
+    filled = sum(1 for v in rec.get("odds", {}).values() if isinstance(v, (int, float)))
+    return (1 if ok else 0, filled)
 
-        # MERIDIAN
-        best_mdi_h, best_mdi_sw, best_mdi_score = -1, False, 0.0
-        for h, d in enumerate(mdi):
-            if h in used_mdi:
-                continue
-            if not _times_close(d["time"], t_s, tolerance_min=time_tolerance_min):
-                continue
-            h_d = normalize_team(d["home"]); a_d = normalize_team(d["away"])
-            score_straight = (fuzzy(h_s, h_d) + fuzzy(a_s, a_d)) / 2.0
-            score_swap    = (fuzzy(h_s, a_d) + fuzzy(a_s, h_d)) / 2.0
-            if score_straight >= best_mdi_score and score_straight >= team_threshold:
-                best_mdi_score, best_mdi_h, best_mdi_sw = score_straight, h, False
-            if score_swap >= best_mdi_score and score_swap >= team_threshold:
-                best_mdi_score, best_mdi_h, best_mdi_sw = score_swap, h, True
+def aligned_by_src(cluster: List[Dict]) -> Dict[str, Dict]:
+    """
+    {src: rec_aligned} — poravnato na kanonski HOME/AWAY i 1↔2 po potrebi.
+    Ako u klasteru postoji više zapisa istog izvora, bira najkompletniji.
+    """
+    canon_home, canon_away = canonical_pair(cluster)
 
-        mer_obj = mer[best_mer_j] if best_mer_j >= 0 else None
-        moz_obj = moz[best_moz_k] if best_moz_k >= 0 else None
-        bet_obj = bet[best_bet_l] if best_bet_l >= 0 else None
-        mdi_obj = mdi[best_mdi_h] if best_mdi_h >= 0 else None
+    per_src: Dict[str, List[Dict]] = defaultdict(list)
+    for r in cluster:
+        per_src[r["src"]].append(r)
 
-        if best_mer_j >= 0: used_mer.add(best_mer_j)
-        if best_moz_k >= 0: used_moz.add(best_moz_k)
-        if best_bet_l >= 0: used_bet.add(best_bet_l)
-        if best_mdi_h >= 0: used_mdi.add(best_mdi_h)
+    chosen: Dict[str, Dict] = {}
+    for code, items in per_src.items():
+        items_sorted = sorted(items, key=_rec_completeness_score, reverse=True)
+        chosen[code] = items_sorted[0]
 
-        merged.append((s, mer_obj, best_mer_sw, moz_obj, best_moz_sw, bet_obj, best_bet_sw, mdi_obj, best_mdi_sw))
+    out: Dict[str, Dict] = {}
+    for code, r in chosen.items():
+        ori = _orientation_vs_canon(r, canon_home, canon_away)
+        aligned_odds = _swap_1x2_if_needed(r.get("odds", {}), ori)
+        rr = dict(r)
+        rr["home"] = canon_home
+        rr["away"] = canon_away
+        rr["odds"] = aligned_odds
+        out[code] = rr
+    return out
 
-    leftovers_mer = [m for j, m in enumerate(mer) if j not in used_mer]
-    leftovers_moz = [z for k, z in enumerate(moz) if k not in used_moz]
-    leftovers_bet = [b for l, b in enumerate(bet) if l not in used_bet]
-    leftovers_mdi = [d for h, d in enumerate(mdi) if h not in used_mdi]
-    return merged, leftovers_mer, leftovers_moz, leftovers_bet, leftovers_mdi
+# -----------------------------
+# CSV/TXT/Report upis
+# -----------------------------
+def row_for_source(rec: Optional[Dict]) -> List[Optional[float]]:
+    if not rec:
+        return ["", "", "", "", "", "", "", "", ""]
+    od = rec["odds"]
+    return [
+        od.get("1"), od.get("X"), od.get("2"),
+        od.get("0-2"), od.get("2+"), od.get("3+"),
+        od.get("GG"), od.get("IGG"), od.get("GG&3+"),
+    ]
 
-# ----------------- IZLAZ -----------------
-
-def write_csv_and_txt_five(
-    merged: List[Tuple[Dict, Optional[Dict], bool, Optional[Dict], bool, Optional[Dict], bool, Optional[Dict], bool]],
-    leftovers_mer: List[Dict],
-    leftovers_moz: List[Dict],
-    leftovers_bet: List[Dict],
-    leftovers_mdi: List[Dict],
-    summary: Dict[str, Tuple[int, int, float]]
-):
-    # CSV
+def write_csv(clusters: List[List[Dict]]):
+    header = [
+        "TIME","HOME","AWAY",
+        # Soccer
+        "S_1","S_X","S_2","S_0-2","S_2+","S_3+","S_GG","S_IGG","S_GG&3+",
+        # Merkur
+        "M_1","M_X","M_2","M_0-2","M_2+","M_3+","M_GG","M_IGG","M_GG&3+",
+        # Mozzart
+        "Z_1","Z_X","Z_2","Z_0-2","Z_2+","Z_3+","Z_GG","Z_IGG","Z_GG&3+",
+        # Betole
+        "B_1","B_X","B_2","B_0-2","B_2+","B_3+","B_GG","B_IGG","B_GG&3+",
+        # Meridian
+        "D_1","D_X","D_2","D_0-2","D_2+","D_3+","D_GG","D_IGG","D_GG&3+",
+        # BalkanBet
+        "Q_1","Q_X","Q_2","Q_0-2","Q_2+","Q_3+","Q_GG","Q_IGG","Q_GG&3+",
+    ]
     with OUT_CSV.open("w", newline="", encoding="utf-8") as f:
         w = csv.writer(f, delimiter=";")
-        w.writerow([
-            "TIME","DAY","DATE","LEAGUE","HOME","AWAY",
-            "SOCCER_ID","MERKUR_ID","MOZ_ID","BET_ID","MDI_ID",
-            "S_1","S_X","S_2","S_0-2","S_2+","S_3+","S_GG","S_IGG","S_GG&3+",
-            "M_1","M_X","M_2","M_0-2","M_2+","M_3+","M_GG","M_IGG","M_GG&3+",
-            "MOZ_1","MOZ_X","MOZ_2","MOZ_0-2","MOZ_2+","MOZ_3+","MOZ_GG","MOZ_IGG","MOZ_GG&3+",
-            "BET_1","BET_X","BET_2","BET_0-2","BET_2+","BET_3+","BET_GG","BET_IGG","BET_GG&3+",
-            "MDI_1","MDI_X","MDI_2","MDI_0-2","MDI_2+","MDI_3+","MDI_GG","MDI_IGG","MDI_GG&3+",
-            "SWAP_M","SWAP_MOZ","SWAP_BET","SWAP_MDI"
-        ])
-        for s, m, m_sw, z, z_sw, b, b_sw, d, d_sw in merged:
-            s_od = s["odds"]
-            m_od = (m or {}).get("odds") if m else {}
-            z_od = (z or {}).get("odds") if z else {}
-            b_od = (b or {}).get("odds") if b else {}
-            d_od = (d or {}).get("odds") if d else {}
+        w.writerow(header)
+        for cl in clusters:
+            t = canonical_time(cl)
+            h, a = canonical_pair(cl)
+            by_src = aligned_by_src(cl)   # <<< PORAVNATO
+            row = [t, h, a]
+            row += row_for_source(by_src.get("soccer"))
+            row += row_for_source(by_src.get("merkur"))
+            row += row_for_source(by_src.get("mozzart"))
+            row += row_for_source(by_src.get("betole"))
+            row += row_for_source(by_src.get("meridian"))
+            row += row_for_source(by_src.get("balkanbet"))
+            w.writerow(row)
 
-            w.writerow([
-                s["time"], s["day"], s["date"], s["league"], s["home"], s["away"],
-                s.get("match_id",""), (m or {}).get("match_id",""), (z or {}).get("match_id",""),
-                (b or {}).get("match_id",""), (d or {}).get("match_id",""),
-                s_od.get("1"), s_od.get("X"), s_od.get("2"),
-                s_od.get("0-2"), s_od.get("2+"), s_od.get("3+"),
-                s_od.get("GG"), s_od.get("IGG"), s_od.get("GG&3+"),
-                (m_od or {}).get("1"), (m_od or {}).get("X"), (m_od or {}).get("2"),
-                (m_od or {}).get("0-2"), (m_od or {}).get("2+"), (m_od or {}).get("3+"),
-                (m_od or {}).get("GG"), (m_od or {}).get("IGG"), (m_od or {}).get("GG&3+"),
-                (z_od or {}).get("1"), (z_od or {}).get("X"), (z_od or {}).get("2"),
-                (z_od or {}).get("0-2"), (z_od or {}).get("2+"), (z_od or {}).get("3+"),
-                (z_od or {}).get("GG"), (z_od or {}).get("IGG"), (z_od or {}).get("GG&3+"),
-                (b_od or {}).get("1"), (b_od or {}).get("X"), (b_od or {}).get("2"),
-                (b_od or {}).get("0-2"), (b_od or {}).get("2+"), (b_od or {}).get("3+"),
-                (b_od or {}).get("GG"), (b_od or {}).get("IGG"), (b_od or {}).get("GG&3+"),
-                (d_od or {}).get("1"), (d_od or {}).get("X"), (d_od or {}).get("2"),
-                (d_od or {}).get("0-2"), (d_od or {}).get("2+"), (d_od or {}).get("3+"),
-                (d_od or {}).get("GG"), (d_od or {}).get("IGG"), (d_od or {}).get("GG&3+"),
-                "swap" if m_sw else "", "swap" if z_sw else "", "swap" if b_sw else "", "swap" if d_sw else ""
-            ])
-
-    # TXT
-    def fmt(x):
-        return "-" if x is None else (str(int(x)) if isinstance(x,(int,float)) and float(x).is_integer() else f"{x}")
-
-    soc_u, soc_t, soc_p = summary.get("soccer", (0,0,0.0))
-    mer_u, mer_t, mer_p = summary.get("merkur", (0,0,0.0))
-    moz_u, moz_t, moz_p = summary.get("mozzart", (0,0,0.0))
-    bet_u, bet_t, bet_p = summary.get("betole",  (0,0,0.0))
-    mdi_u, mdi_t, mdi_p = summary.get("meridian",(0,0,0.0))
-
+def write_txt(clusters: List[List[Dict]]):
     lines: List[str] = []
-    lines.append("SAŽETAK NEUPAREĐENIH (u odnosu na broj mečeva u kladionici)")
-    lines.append(f"- Soccer:   {soc_u}/{soc_t}  ({soc_p:.1f}%) nije upareno")
-    lines.append(f"- Merkur:   {mer_u}/{mer_t}  ({mer_p:.1f}%) nije upareno")
-    lines.append(f"- Mozzart:  {moz_u}/{moz_t}  ({moz_p:.1f}%) nije upareno")
-    lines.append(f"- Betole:   {bet_u}/{bet_t}  ({bet_p:.1f}%) nije upareno")
-    lines.append(f"- Meridian: {mdi_u}/{mdi_t}  ({mdi_p:.1f}%) nije upareno")
-    lines.append("")
+    for cl in clusters:
+        lines.append("="*86)
+        t = canonical_time(cl)
+        h, a = canonical_pair(cl)
+        leagues = [r.get("league","") for r in cl if r.get("league")]
+        league_tag = f"[{mode(leagues)}]" if leagues else ""
+        lines.append(f"{t}  {league_tag}".strip())
+        present = ", ".join(SRC_LABEL[r["src"]] for r in cl)
+        lines.append(f"{h}  vs  {a}   (izvori: {present})")
 
-    for s, m, m_sw, z, z_sw, b, b_sw, d, d_sw in merged:
-        lines.append("=" * 84)
-        hdr = f"{s['time']}  {s['day']} {s['date']}  [{s['league']}]".strip()
-        lines.append(hdr)
-        pair = f"{s['home']}  vs  {s['away']}"
-        flags = []
-        if m: flags.append("upareno sa Merkur" + (" [swap]" if m_sw else ""))
-        if z: flags.append("upareno sa Mozzart" + (" [swap]" if z_sw else ""))
-        if b: flags.append("upareno sa Betole"  + (" [swap]" if b_sw else ""))
-        if d: flags.append("upareno sa Meridian" + (" [swap]" if d_sw else ""))
-        pair += "    (" + " ; ".join(flags) + ")" if flags else "    (NEMA parova u drugim kladionicama)"
-        lines.append(pair)
-
-        s_od = s["odds"]
-        lines.append(f"SOCCER:    1={fmt(s_od.get('1'))}   X={fmt(s_od.get('X'))}   2={fmt(s_od.get('2'))}")
-        lines.append(f"           0-2={fmt(s_od.get('0-2'))}   2+={fmt(s_od.get('2+'))}   3+={fmt(s_od.get('3+'))}")
-        lines.append(f"           GG={fmt(s_od.get('GG'))}   IGG={fmt(s_od.get('IGG'))}   GG&3+={fmt(s_od.get('GG&3+'))}")
-
-        if m:
-            m_od = m["odds"]
-            lines.append(f"MERKUR:    1={fmt(m_od.get('1'))}   X={fmt(m_od.get('X'))}   2={fmt(m_od.get('2'))}")
-            lines.append(f"           0-2={fmt(m_od.get('0-2'))}   2+={fmt(m_od.get('2+'))}   3+={fmt(m_od.get('3+'))}")
-            lines.append(f"           GG={fmt(m_od.get('GG'))}   IGG={fmt(m_od.get('IGG'))}   GG&3+={fmt(m_od.get('GG&3+'))}")
-
-        if z:
-            z_od = z["odds"]
-            lines.append(f"MOZZART:   1={fmt(z_od.get('1'))}   X={fmt(z_od.get('X'))}   2={fmt(z_od.get('2'))}")
-            lines.append(f"           0-2={fmt(z_od.get('0-2'))}   2+={fmt(z_od.get('2+'))}   3+={fmt(z_od.get('3+'))}")
-            lines.append(f"           GG={fmt(z_od.get('GG'))}   IGG={fmt(z_od.get('IGG'))}   GG&3+={fmt(z_od.get('GG&3+'))}")
-
-        if b:
-            b_od = b["odds"]
-            lines.append(f"BETOLE:    1={fmt(b_od.get('1'))}   X={fmt(b_od.get('X'))}   2={fmt(b_od.get('2'))}")
-            lines.append(f"           0-2={fmt(b_od.get('0-2'))}   2+={fmt(b_od.get('2+'))}   3+={fmt(b_od.get('3+'))}")
-            lines.append(f"           GG={fmt(b_od.get('GG'))}   IGG={fmt(b_od.get('IGG'))}   GG&3+={fmt(b_od.get('GG&3+'))}")
-
-        if d:
-            d_od = d["odds"]
-            lines.append(f"MERIDIAN:  1={fmt(d_od.get('1'))}   X={fmt(d_od.get('X'))}   2={fmt(d_od.get('2'))}")
-            lines.append(f"           0-2={fmt(d_od.get('0-2'))}   2+={fmt(d_od.get('2+'))}   3+={fmt(d_od.get('3+'))}")
-            lines.append(f"           GG={fmt(d_od.get('GG'))}   IGG={fmt(d_od.get('IGG'))}   GG&3+={fmt(d_od.get('GG&3+'))}")
-
+        by_src = aligned_by_src(cl)  # <<< PORAVNATO
+        for code in SRC_ORDER:
+            r = by_src.get(code)
+            if not r: continue
+            od = r["odds"]
+            tag = SRC_LABEL[code].upper()
+            lines.append(f"{tag}:  1={fmt_od(od.get('1'))}  X={fmt_od(od.get('X'))}  2={fmt_od(od.get('2'))}")
+            lines.append(f"       0-2={fmt_od(od.get('0-2'))}  2+={fmt_od(od.get('2+'))}  3+={fmt_od(od.get('3+'))}")
+            lines.append(f"       GG={fmt_od(od.get('GG'))}  IGG={fmt_od(od.get('IGG'))}  GG&3+={fmt_od(od.get('GG&3+'))}")
         lines.append("")
-
-    if leftovers_mer:
-        lines.append("\nNEUPAREĐENI MERKUR:")
-        for m in leftovers_mer:
-            m_od = m["odds"]
-            lines.append("-" * 84)
-            lines.append(f"{m['time']}  {m['home']} vs {m['away']}")
-            lines.append(f"  1={fmt(m_od.get('1'))}  X={fmt(m_od.get('X'))}  2={fmt(m_od.get('2'))}")
-            lines.append(f"  0-2={fmt(m_od.get('0-2'))}  2+={fmt(m_od.get('2+'))}  3+={fmt(m_od.get('3+'))}")
-            lines.append(f"  GG={fmt(m_od.get('GG'))}  IGG={fmt(m_od.get('IGG'))}  GG&3+={fmt(m_od.get('GG&3+'))}")
-
-    if leftovers_moz:
-        lines.append("\nNEUPAREĐENI MOZZART:")
-        for z in leftovers_moz:
-            z_od = z["odds"]
-            lines.append("-" * 84)
-            lines.append(f"{z['time']}  {z['home']} vs {z['away']}")
-            lines.append(f"  1={fmt(z_od.get('1'))}  X={fmt(z_od.get('X'))}  2={fmt(z_od.get('2'))}")
-            lines.append(f"  0-2={fmt(z_od.get('0-2'))}  2+={fmt(z_od.get('2+'))}  3+={fmt(z_od.get('3+'))}")
-            lines.append(f"  GG={fmt(z_od.get('GG'))}  IGG={fmt(z_od.get('IGG'))}  GG&3+={fmt(z_od.get('GG&3+'))}")
-
-    if leftovers_bet:
-        lines.append("\nNEUPAREĐENI BETOLE:")
-        for b in leftovers_bet:
-            b_od = b["odds"]
-            lines.append("-" * 84)
-            lines.append(f"{b['time']}  {b['home']} vs {b['away']}")
-            lines.append(f"  1={fmt(b_od.get('1'))}  X={fmt(b_od.get('X'))}  2={fmt(b_od.get('2'))}")
-            lines.append(f"  0-2={fmt(b_od.get('0-2'))}  2+={fmt(b_od.get('2+'))}  3+={fmt(b_od.get('3+'))}")
-            lines.append(f"  GG={fmt(b_od.get('GG'))}  IGG={fmt(b_od.get('IGG'))}  GG&3+={fmt(b_od.get('GG&3+'))}")
-
-    if leftovers_mdi:
-        lines.append("\nNEUPAREĐENI MERIDIAN:")
-        for d in leftovers_mdi:
-            d_od = d["odds"]
-            lines.append("-" * 84)
-            lines.append(f"{d['time']}  {d['home']} vs {d['away']}")
-            lines.append(f"  1={fmt(d_od.get('1'))}  X={fmt(d_od.get('X'))}  2={fmt(d_od.get('2'))}")
-            lines.append(f"  0-2={fmt(d_od.get('0-2'))}  2+={fmt(d_od.get('2+'))}  3+={fmt(d_od.get('3+'))}")
-            lines.append(f"  GG={fmt(d_od.get('GG'))}  IGG={fmt(d_od.get('IGG'))}  GG&3+={fmt(d_od.get('GG&3+'))}")
-
     OUT_TXT.write_text("\n".join(lines), encoding="utf-8")
 
-# ----------------- MAIN -----------------
+def write_report(clusters: List[List[Dict]], totals_by_src: Dict[str,int]):
+    matched: Dict[str, List[Tuple[str,List[str]]]] = {s: [] for s in SRC_ORDER}
+    leftovers: Dict[str, List[str]] = {s: [] for s in SRC_ORDER}
 
-def main():
-    if not SOCCER_TXT.exists():
-        raise SystemExit(f"Nema fajla: {SOCCER_TXT}")
-    if not MERKUR_TXT.exists():
-        raise SystemExit(f"Nema fajla: {MERKUR_TXT}")
+    def rec_key(r: Dict) -> str:
+        return f"{r.get('time','')}  {r['home']} vs {r['away']}"
 
-    moz_exists = MOZZART_TXT.exists()
-    bet_exists = BETOLE_TXT.exists()
-    mdi_exists = MERIDIAN_TXT.exists()
+    for cl in clusters:
+        if len(cl) == 1:
+            r = cl[0]
+            leftovers[r["src"]].append(rec_key(r))
+        else:
+            present_codes = [r["src"] for r in cl]
+            for r in cl:
+                others = [SRC_LABEL[c] for c in present_codes if c != r["src"]]
+                matched[r["src"]].append((rec_key(r), others))
 
-    soccer   = parse_file_generic(SOCCER_TXT, "soccer")
-    merkur   = parse_file_generic(MERKUR_TXT, "merkur")
-    mozzart  = parse_file_generic(MOZZART_TXT, "mozzart")  if moz_exists else []
-    betole   = parse_file_generic(BETOLE_TXT, "betole")    if bet_exists else []
-    meridian = parse_file_generic(MERIDIAN_TXT, "meridian") if mdi_exists else []
+    lines: List[str] = []
+    lines.append("="*90)
+    lines.append("UKUPAN BROJ MEČEVA PO KLADIONICI")
+    lines.append("-"*90)
+    for code in SRC_ORDER:
+        tot = totals_by_src.get(code, 0)
+        lines.append(f"{SRC_LABEL[code]}: {tot}")
+    lines.append("")
 
-    merged, leftovers_mer, leftovers_moz, leftovers_bet, leftovers_mdi = match_records_five(
-        soccer, merkur, mozzart, betole, meridian,
-        team_threshold=0.82,
-        time_tolerance_min=10
-    )
+    lines.append("PROCENAT NEUPAREĐENIH PO KLADIONICI")
+    lines.append("-"*90)
+    for code in SRC_ORDER:
+        tot = totals_by_src.get(code, 0)
+        if tot <= 0:
+            lines.append(f"{SRC_LABEL[code]}: -")
+            continue
+        unp = len(leftovers[code])
+        pct = 100.0 * unp / tot
+        lines.append(f"{SRC_LABEL[code]}: {unp}/{tot}  ({pct:.1f}%) nije upareno")
+    lines.append("")
 
-    # procenti neupaređenih
-    total_soc, total_mer, total_moz, total_bet, total_mdi = len(soccer), len(merkur), len(mozzart), len(betole), len(meridian)
-    soc_unp = sum(1 for s, m, _, z, _, b, _, d, _ in merged if m is None and z is None and b is None and d is None)
-    mer_unp = len(leftovers_mer)
-    moz_unp = len(leftovers_moz)
-    bet_unp = len(leftovers_bet)
-    mdi_unp = len(leftovers_mdi)
+    def sec(title_code: str) -> List[str]:
+        L: List[str] = []
+        L.append("="*90)
+        L.append(SRC_LABEL[title_code].upper())
+        L.append("-"*90)
+        L.append("POKLAPAJU SE:")
+        if matched[title_code]:
+            for k, others in matched[title_code]:
+                L.append(f"  • {k}   (sa: {', '.join(others)})")
+        else:
+            L.append("  (nema)")
+        L.append("")
+        L.append("NE POKLAPAJU SE:")
+        if leftovers[title_code]:
+            for k in leftovers[title_code]:
+                L.append(f"  • {k}")
+        else:
+            L.append("  (nema)")
+        L.append("")
+        return L
 
-    pct_soc = (100.0 * soc_unp / total_soc) if total_soc else 0.0
-    pct_mer = (100.0 * mer_unp / total_mer) if total_mer else 0.0
-    pct_moz = (100.0 * moz_unp / total_moz) if total_moz else 0.0
-    pct_bet = (100.0 * bet_unp / total_bet) if total_bet else 0.0
-    pct_mdi = (100.0 * mdi_unp / total_mdi) if total_mdi else 0.0
+    for code in SRC_ORDER:
+        lines += sec(code)
 
-    summary = {
-        "soccer":   (soc_unp, total_soc, pct_soc),
-        "merkur":   (mer_unp, total_mer, pct_mer),
-        "mozzart":  (moz_unp, total_moz, pct_moz),
-        "betole":   (bet_unp, total_bet, pct_bet),
-        "meridian": (mdi_unp, total_mdi, pct_mdi),
+    REPORT_MATCH.write_text("\n".join(lines), encoding="utf-8")
+
+# -----------------------------
+# Arbitraža: izvestaj.txt
+# -----------------------------
+def best_odds_for_market(by_src: Dict[str, Dict], keys: List[str], *, strict_1x2: bool = False) -> Dict[str, Tuple[float, str]]:
+    """
+    Vrati najbolju kvotu (value, source_label) po svakoj stavci iz 'keys'.
+    Ako je strict_1x2=True i keys su 1/X/2, koristi samo izvore koji imaju
+    koherentan komplet 1X2 (sprečava mešanje pogrešnih marketa).
+    """
+    scan_src = by_src
+    if strict_1x2 and set(keys) == {"1","X","2"}:
+        scan_src = filter_sources_for_1x2_best(by_src)
+
+    best: Dict[str, Tuple[float, str]] = {k: (0.0, "") for k in keys}
+    for code, rec in scan_src.items():
+        if not rec:
+            continue
+        od = rec.get("odds", {})
+        for k in keys:
+            val = od.get(k)
+            if is_plausible_odd(val):
+                v = float(val)
+                if v > best[k][0]:
+                    best[k] = (v, SRC_LABEL.get(code, code))
+
+    return {k: v for k, v in best.items() if v[0] > 0.0 and v[1]}
+
+def surebet_3way(best: Dict[str, Tuple[float,str]]) -> Optional[Dict]:
+    need = ["1","X","2"]
+    if not all(k in best for k in need):
+        return None
+    a, b, c = best["1"][0], best["X"][0], best["2"][0]
+    S = (1.0/a) + (1.0/b) + (1.0/c)
+    if S >= 1.0:
+        return None
+    profit_pct = (1.0 - S) * 100.0
+    bankroll = 100.0
+    s1 = (bankroll / a) / S
+    sX = (bankroll / b) / S
+    s2 = (bankroll / c) / S
+    return {
+        "S": S,
+        "profit_pct": profit_pct,
+        "bankroll": bankroll,
+        "stakes": {
+            "1": (s1, best["1"][1], a),
+            "X": (sX, best["X"][1], b),
+            "2": (s2, best["2"][1], c),
+        }
     }
 
-    write_csv_and_txt_five(merged, leftovers_mer, leftovers_moz, leftovers_bet, leftovers_mdi, summary)
+def surebet_2way(best: Dict[str, Tuple[float, str]], under_key: str, over_key: str) -> Optional[Dict]:
+    if under_key not in best or over_key not in best:
+        return None
+    a = best[under_key][0]
+    b = best[over_key][0]
+    S = (1.0/a) + (1.0/b)
+    if S >= 1.0:
+        return None
+    profit_pct = (1.0 - S) * 100.0
+    bankroll = 100.0
+    su = (bankroll / a) / S
+    so = (bankroll / b) / S
+    return {
+        "S": S,
+        "profit_pct": profit_pct,
+        "bankroll": bankroll,
+        "stakes": {
+            under_key: (su, best[under_key][1], a),
+            over_key:  (so, best[over_key][1], b),
+        }
+    }
+
+def write_arbitrage_report(clusters: List[List[Dict]]):
+    out: List[str] = []
+    total_found = 0
+
+    for cl in clusters:
+        by_src_raw = aligned_by_src(cl)  # <<< PORAVNATO KROZ SVE
+        t = canonical_time(cl)
+        h, a = canonical_pair(cl)
+        leagues = [r.get("league","") for r in cl if r.get("league")]
+        league_tag = f"[{mode(leagues)}]" if leagues else ""
+
+        # 1) 1X2 — samo koherentni izvori
+        best_1x2 = best_odds_for_market(by_src_raw, ["1","X","2"], strict_1x2=True)
+        sb3 = surebet_3way(best_1x2)
+
+        # 2) OU 2.5 (0-2 vs 3+)
+        best_ou = best_odds_for_market(by_src_raw, ["0-2","3+"], strict_1x2=False)
+        sb2 = surebet_2way(best_ou, "0-2", "3+")
+
+        if not sb3 and not sb2:
+            continue
+
+        total_found += 1
+        out.append("="*86)
+        out.append(f"{t}  {league_tag}".strip())
+        present = ", ".join(SRC_LABEL[r["src"]] for r in cl)
+        out.append(f"{h}  vs  {a}   (izvori: {present})")
+        out.append("")
+
+        if sb3:
+            out.append("ARBITRAŽA — 1X2 (samo koherentni izvori)")
+            out.append(f"  Najbolje kvote: 1={best_1x2['1'][0]} ({best_1x2['1'][1]}), "
+                       f"X={best_1x2['X'][0]} ({best_1x2['X'][1]}), "
+                       f"2={best_1x2['2'][0]} ({best_1x2['2'][1]})")
+            out.append(f"  Suma reciprocala: S={sb3['S']:.4f}  → Profit ≈ {sb3['profit_pct']:.2f}%")
+            out.append(f"  Raspodela uloga (bankroll=100):")
+            st = sb3["stakes"]
+            out.append(f"    1:  ulog={st['1'][0]:.2f}  | kvota={st['1'][2]}  | kladionica={st['1'][1]}")
+            out.append(f"    X:  ulog={st['X'][0]:.2f}  | kvota={st['X'][2]}  | kladionica={st['X'][1]}")
+            out.append(f"    2:  ulog={st['2'][0]:.2f}  | kvota={st['2'][2]}  | kladionica={st['2'][1]}")
+            out.append("")
+
+        if sb2:
+            out.append("ARBITRAŽA — UKUPNO GOLOVA 2.5  (0-2 vs 3+)")
+            out.append(f"  Najbolje kvote: 0-2={best_ou['0-2'][0]} ({best_ou['0-2'][1]}), "
+                       f"3+={best_ou['3+'][0]} ({best_ou['3+'][1]})")
+            out.append(f"  Suma reciprocala: S={sb2['S']:.4f}  → Profit ≈ {sb2['profit_pct']:.2f}%")
+            out.append(f"  Raspodela uloga (bankroll=100):")
+            st2 = sb2["stakes"]
+            su = st2['0-2']; so = st2['3+']
+            out.append(f"    0-2: ulog={su[0]:.2f}  | kvota={su[2]}  | kladionica={su[1]}")
+            out.append(f"    3+:  ulog={so[0]:.2f}  | kvota={so[2]}  | kladionica={so[1]}")
+            out.append("")
+
+    if total_found == 0:
+        out.append("Nisu pronađene arbitražne prilike na tržištima 1X2 i 0-2/3+ (na osnovu dostupnih kvota).")
+    REPORT_ARB.write_text("\n".join(out), encoding="utf-8")
+
+# -----------------------------
+# Main
+# -----------------------------
+def main():
+    # Parsiranje svih dostupnih izvora
+    soccer   = parse_file_pretty(SOCCER_TXT,   "soccer")
+    merkur   = parse_file_pretty(MERKUR_TXT,   "merkur")
+    mozzart  = parse_file_pretty(MOZZART_TXT,  "mozzart")
+    betole   = parse_file_pretty(BETOLE_TXT,   "betole")
+    meridian = parse_file_pretty(MERIDIAN_TXT, "meridian")
+    balkan   = parse_file_pretty(BALKAN_TXT,   "balkanbet")
+
+    all_records: List[Dict] = []
+    for rec in soccer:   all_records.append(rec)
+    for rec in merkur:   all_records.append(rec)
+    for rec in mozzart:  all_records.append(rec)
+    for rec in betole:   all_records.append(rec)
+    for rec in meridian: all_records.append(rec)
+    for rec in balkan:   all_records.append(rec)
+
+    if not all_records:
+        raise SystemExit("Nema nijednog ulaznog fajla sa mečevima (pretty).")
+
+    # ALL-vs-ALL klasterisanje
+    clusters = cluster_all_sources(all_records)
+
+    # Izlazi
+    write_csv(clusters)
+    write_txt(clusters)
+
+    totals_by_src = {
+        "soccer":   len(soccer),
+        "merkur":   len(merkur),
+        "mozzart":  len(mozzart),
+        "betole":   len(betole),
+        "meridian": len(meridian),
+        "balkanbet":len(balkan),
+    }
+    write_report(clusters, totals_by_src)
+
+    # izvestaj.txt — arbitraža
+    write_arbitrage_report(clusters)
 
     print("[OK] Napravljeno:")
     print(" -", OUT_CSV.resolve())
     print(" -", OUT_TXT.resolve())
-    if not moz_exists:
-        print("(!) Upozorenje: nema fajla", MOZZART_TXT)
-    if not bet_exists:
-        print("(!) Upozorenje: nema fajla", BETOLE_TXT)
-    if not mdi_exists:
-        print("(!) Upozorenje: nema fajla", MERIDIAN_TXT)
+    print(" -", REPORT_MATCH.resolve())
+    print(" -", REPORT_ARB.resolve())
 
 if __name__ == "__main__":
     main()

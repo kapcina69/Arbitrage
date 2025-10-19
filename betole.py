@@ -138,7 +138,7 @@ def do_30_down_with_bounce(page, container_handle=None, pause=0.45,
             container_handle = None
 
     down_done = 0
-    while down_done < 30:
+    while down_done < 300:
         if container_handle:
             page.mouse.wheel(0, delta_down)
         else:
@@ -358,4 +358,4 @@ def main(headless=True):
 
 if __name__ == "__main__":
     # za “uživo” praćenje, stavi headless=False
-    main(headless=True)
+    main(headless=False)
