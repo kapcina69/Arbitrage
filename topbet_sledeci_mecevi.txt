@@ -1,0 +1,663 @@
+Traži
+
+Fudbal
+Liga Šampiona
+KONAČAN ISHOD
+UKUPNO GOLOVA
+OBA TIMA DAJU GOL
+UTO. 21.10.
+1
+X
+2
+18:45
+Barcelona - Olympiacos
+1.18
+7.70
+19.00
++53
+18:45
+Kairat Almaty - Pafos
+2.75
+3.20
+2.65
++53
+21:00
+Arsenal - Atletico M.
+1.62
+3.90
+5.70
++53
+21:00
+B. Leverkusen - PSG
+4.85
+4.45
+1.62
++53
+21:00
+FC Copenhagen - B. Dortmund
+3.80
+3.70
+1.95
++53
+21:00
+Newcastle - Benfica
+1.60
+4.20
+5.60
++53
+21:00
+PSV - Napoli
+3.15
+3.60
+2.20
++53
+21:00
+Saint Gilloise - Inter
+4.55
+4.05
+1.72
++53
+21:00
+Villarreal - Man. City
+4.50
+4.05
+1.72
++53
+SRE. 22.10.
+1
+X
+2
+18:45
+Athletic B. - Qarabag
+1.32
+5.40
+10.00
++53
+18:45
+Galatasaray - Bodo Glimt
+1.55
+4.50
+5.50
++53
+21:00
+Atalanta - Slavia P.
+1.52
+4.65
+5.60
++53
+21:00
+Bayern M. - Club Brugge
+1.23
+7.00
+11.00
++53
+21:00
+Chelsea - Ajax
+1.25
+6.50
+12.00
++53
+21:00
+E. Frankfurt - Liverpool
+4.75
+4.50
+1.62
++53
+21:00
+Real M. - Juventus
+1.55
+4.55
+5.75
++53
+21:00
+Sporting - Marseille
+2.20
+3.60
+3.15
++53
+21:00
+Monaco - Tottenham
+2.85
+3.60
+2.35
++53
+Liga Evrope
+KONAČAN ISHOD
+UKUPNO GOLOVA
+OBA TIMA DAJU GOL
+ČET. 23.10.
+1
+X
+2
+18:45
+Salzburg - Ferencvarosi
+1.95
+3.80
+3.70
++53
+18:45
+Fenerbahce - Stuttgart
+2.25
+3.70
+3.00
++53
+18:45
+Feyenoord - Panathinaikos
+1.65
+4.15
+5.10
++53
+18:45
+FCSB - Bologna
+5.10
+3.65
+1.72
++53
+18:45
+Go Ahead Eagles - Aston Villa
+5.95
+4.40
+1.55
++53
+18:45
+Genk - Betis
+3.00
+3.65
+2.25
++53
+18:45
+Lyon - Basel
+1.58
+4.40
+5.35
++53
+18:45
+Braga - Crvena Zvezda
+1.85
+3.70
+4.20
++53
+18:45
+Brann - Rangers
+2.25
+3.60
+3.05
++53
+21:00
+Roma - Plzen
+1.38
+5.05
+8.25
++53
+21:00
+Celtic - Sturm
+1.50
+4.50
+6.30
++53
+21:00
+Lille - PAOK
+1.62
+4.05
+5.50
++53
+21:00
+Mac. Tel Aviv - Midtjylland
+2.75
+3.50
+2.45
++53
+21:00
+Malmo - Dinamo Z.
+3.30
+3.50
+2.15
++53
+21:00
+Nottingham Forest - Porto
+2.35
+3.65
+2.80
++53
+21:00
+Celta - Nice
+2.00
+3.55
+3.80
++53
+21:00
+Freiburg - Utrecht
+1.55
+4.25
+6.00
++53
+21:00
+Young Boys - Ludogorets
+1.72
+3.90
+4.75
++53
+Liga Konferencije
+KONAČAN ISHOD
+UKUPNO GOLOVA
+OBA TIMA DAJU GOL
+ČET. 23.10.
+1
+X
+2
+18:45
+AEK - Aberdeen
+1.38
+4.80
+6.20
++53
+18:45
+Breidablik - KuPS
+2.00
+3.50
+3.10
++53
+18:45
+Shakhtar D. - Legia W.
+1.68
+3.85
+4.00
++53
+18:45
+Hacken - Rayo Vallecano
+3.70
+3.70
+1.75
++53
+18:45
+Rijeka - Sparta P.
+3.20
+3.30
+2.05
++53
+18:45
+Drita - Omonia
+3.29
+3.50
+2.05
++53
+18:45
+Škendija - Shelbourne
+2.00
+3.35
+3.30
++53
+18:45
+Rapid W. - Fiorentina
+3.50
+3.45
+1.90
++53
+18:45
+Strasbourg - Jagiellonia
+1.48
+4.35
+5.70
++53
+21:00
+AZ Alkmaar - Slovan B.
+1.30
+5.35
+7.90
++53
+21:00
+Crystal Palace - AEK Larnaca
+1.16
+6.70
+14.40
++53
+21:00
+Uni.Craiova - Noah
+1.85
+3.45
+3.70
++53
+21:00
+Mainz - Zrinjski
+1.18
+6.60
+13.20
++53
+21:00
+Lincoln Red Imps - Lech P.
+8.00
+5.30
+1.30
++53
+21:00
+Samsun - Dynamo K.
+1.95
+3.35
+3.67
++53
+21:00
+Shamrock - Celje
+3.40
+3.40
+1.95
++53
+21:00
+Sigma O. - Rakow
+2.35
+3.20
+2.80
++53
+Engleska 1
+KONAČAN ISHOD
+UKUPNO GOLOVA
+OBA TIMA DAJU GOL
+PON. 20.10.
+1
+X
+2
+21:00
+West Ham - Brentford
+2.55
+3.35
+2.80
++53
+PET. 24.10.
+1
+X
+2
+21:00
+Leeds - West Ham
+2.05
+3.45
+3.65
++53
+SUB. 25.10.
+1
+X
+2
+16:00
+Chelsea - Sunderland
+1.40
+4.80
+8.25
++53
+16:00
+Newcastle - Fulham
+1.62
+3.95
+5.60
++53
+18:30
+Man . Utd - Brighton
+2.00
+3.90
+3.45
++53
+21:00
+Brentford - Liverpool
+4.75
+4.10
+1.68
++53
+NED. 26.10.
+1
+X
+2
+15:00
+Bournemouth - Nottingham Forest
+1.65
+4.00
+5.15
++53
+15:00
+Arsenal - Crystal Palace
+1.45
+4.45
+7.50
++53
+15:00
+Aston Villa - Man. City
+4.05
+3.75
+1.85
++53
+15:00
+Wolverhampton - Burnley
+1.90
+3.40
+4.50
++53
+17:30
+Everton - Tottenham
+2.40
+3.35
+2.95
++53
+Francuska 1
+KONAČAN ISHOD
+UKUPNO GOLOVA
+OBA TIMA DAJU GOL
+PET. 24.10.
+1
+X
+2
+20:45
+Paris - Nantes
+1.65
+4.00
+5.25
++53
+SUB. 25.10.
+1
+X
+2
+17:00
+Brest - PSG
+6.20
+4.85
+1.48
++53
+19:00
+Monaco - Toulouse
+1.78
+4.00
+4.25
++53
+21:05
+Lens - Marseille
+2.80
+3.70
+2.35
++53
+NED. 26.10.
+1
+X
+2
+15:00
+Lille - Metz
+1.35
+5.05
+9.25
++53
+17:15
+Auxerre - Le Havre
+2.15
+3.45
+3.35
++53
+17:15
+Angers - Lorient
+2.65
+3.30
+2.70
++53
+17:15
+Rennes - Nice
+2.20
+3.70
+3.10
++53
+20:45
+Lyon - Strasbourg
+2.15
+3.75
+3.20
++53
+Nemačka 1
+KONAČAN ISHOD
+UKUPNO GOLOVA
+OBA TIMA DAJU GOL
+PET. 24.10.
+1
+X
+2
+20:30
+Werder - Union Berlin
+2.05
+3.65
+3.50
++53
+SUB. 25.10.
+1
+X
+2
+15:30
+B. M'gladbach - Bayern M.
+10.00
+6.50
+1.27
++53
+15:30
+E. Frankfurt - St. Pauli
+1.70
+4.10
+4.60
++53
+15:30
+Augsburg - RB Leipzig
+3.25
+4.10
+2.00
++53
+15:30
+Hamburger - Wolfsburg
+1.80
+4.10
+4.05
++53
+15:30
+Hoffenheim - Heidenheim
+1.60
+4.25
+5.30
++53
+18:30
+B. Dortmund - Koln
+1.50
+4.75
+5.95
++53
+NED. 26.10.
+1
+X
+2
+15:30
+B. Leverkusen - Freiburg
+1.70
+4.05
+4.70
++53
+17:30
+Stuttgart - Mainz
+1.72
+4.10
+4.45
++53
+Italija 1
+KONAČAN ISHOD
+UKUPNO GOLOVA
+OBA TIMA DAJU GOL
+PON. 20.10.
+1
+X
+2
+20:45
+Cremonese - Udinese
+3.10
+3.20
+2.40
++53
+PET. 24.10.
+1
+X
+2
+20:45
+Milan - Pisa
+1.30
+5.55
+10.50
++53
+SUB. 25.10.
+1
+X
+2
+15:00
+Parma - Como
+3.55
+3.40
+2.10
++53
+15:00
+Udinese - Lecce
+1.80
+3.50
+4.75
++53
+18:00
+Napoli - Inter
+2.65
+3.25
+2.75
++53
+20:45
+Cremonese - Atalanta
+5.60
+4.20
+1.60
++53
+NED. 26.10.
+1
+X
+2
+12:30
+Torino - Genoa
+2.25
+3.05
+3.60
++53
+15:00
+Verona - Cagliari
+2.35
+3.20
+3.20
++53
+15:00
+Sassuolo - Roma
+4.55
+3.55
+1.85
++53
+18:00
+Fiorentina - Bologna
+2.65
+3.15
+2.80
++53
+20:45
+Lazio - Juventus
+3.10
+3.30
+2.35
++53
+
+Tiket (0)
