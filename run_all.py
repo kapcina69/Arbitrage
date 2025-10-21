@@ -24,9 +24,11 @@ SCRAPERS: List[Tuple[str, List[Path]]] = [
     ("merkur.py",   [Path("merkur_sledeci_mecevi.txt"),   Path("merkur_mecevi_pregled.txt")]),
     ("meridian.py", [Path("meridian_sledeci_mecevi.txt"), Path("meridian_mecevi_pregled.txt")]),
     ("mozzart.py",  [Path("mozzart_sledeci_mecevi.txt"),  Path("mozzart_mecevi_pregled.txt")]),
-    # ("betole.py",   [Path("betole_sledeci_mecevi.txt"),   Path("betole_mecevi_pregled.txt")]),
+    ("betole.py",   [Path("betole_sledeci_mecevi.txt"),   Path("betole_mecevi_pregled.txt")]),
     ("balkanbet.py",[Path("balkanbet_sledeci_mecevi.txt"),Path("balkanbet_mecevi_pregled.txt")]),
     ("brazil.py",   [Path("brazil_sledeci_mecevi.txt"),   Path("brazil_mecevi_pregled.txt")]),
+    ("brazil_sutra.py", [Path("brazil_sutra_sledeci_mecevi.txt"),   Path("brazil_sutra_mecevi_pregled.txt")]),
+    ("brazil_prekosutra.py", [Path("brazil_prekosutra_sledeci_mecevi.txt"),   Path("brazil_prekosutra_mecevi_pregled.txt")]),
     ("topbet.py",   [Path("topbet_sledeci_mecevi.txt"),   Path("topbet_mecevi_pregled.txt")]),
 ]
 

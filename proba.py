@@ -29,8 +29,9 @@ INPUT_FILES = {
     "Mozzart": "mozzart_mecevi_pregled.txt",
     "BalkanBet": "balkanbet_mecevi_pregled.txt",
     "Meridian": "meridian_mecevi_pregled.txt",
-    "Brazil": "brazil_mecevi_pregled_danas.txt",
-    "Brazil(1)": "brazil_mecevi_pregled_sutra.txt",
+    "Brazil_d": "brazil_mecevi_pregled.txt",
+    "Brazil_s": "brazil_sutra_mecevi_pregled.txt",
+    "Brazil_p": "brazil_prekosutra_mecevi_pregled.txt",
     "BetOle": "betole_mecevi_pregled.txt",
     "Topbet": "topbet_mecevi_pregled.txt" 
 }
@@ -42,7 +43,7 @@ SEP_RE = re.compile(r"^=+\s*$", re.MULTILINE)
 TEAM_STOPWORDS = {
     "fc","fk","al","cf","sc","ac","bc","ud","cd","sd","ad","ca",
     "the","club","de","of","sv","ss","ks","ik","if","sk",
-    "u19","u20","u21","b","c","a"
+    "u19","u20","u21","b","c","a","u23","u17","u16","u15","u14","u13"
 }
 
 def strip_accents(s: str) -> str:

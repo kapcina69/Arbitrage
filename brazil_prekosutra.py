@@ -1,43 +1,49 @@
-# brazil.py
+# brazil_prekosutra.py
 # -*- coding: utf-8 -*-
 #
-# BrazilBet → RAW tekst → PARSE u "soccer pretty" format.
-# Fokus: format iz brazil_sledeci_mecevi.txt (liga → [int] → vreme → home → away → [int] → label/kvota parovi).
+# BrazilBet → (klik na PREKOSUTRA datum, npr. "23.10.") → skrol 30x → kopiraj RAW → PARSE u "soccer pretty" format.
 
 import re
 import time
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 from pathlib import Path
 from typing import List, Dict, Optional, Tuple
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeoutError
 
 URL = "https://www.brazilbet.rs/sr/vremenska-ponuda"
-OUT_TXT = Path("brazil_sledeci_mecevi.txt")        # RAW (ceo tekst stranice)
-OUT_PRETTY = Path("brazil_mecevi_pregled.txt")     # Sređen pregled
+OUT_TXT = Path("brazil_prekosutra_sledeci_mecevi.txt")        # RAW (samo PREKOSUTRA)
+OUT_PRETTY = Path("brazil_prekosutra_mecevi_pregled.txt") # Sređen pregled (samo PREKOSUTRA)
 
 # -----------------------------
-# Skrol (po potrebi – možeš preskočiti i ručno nalepiti RAW)
+# Helpers: cookies, idle, scroll
 # -----------------------------
 
 def accept_cookies(page) -> None:
     labels = [
-        "Prihvatam", "Prihvatam sve", "Prihvati sve", "Slažem se",
-        "Accept", "Accept all", "I agree", "U redu", "Ok"
+        r"Prihvatam", r"Prihvatam sve", r"Prihvati sve", r"Slažem se",
+        r"Accept", r"Accept all", r"I agree", r"U redu", r"Ok"
     ]
     deadline = time.time() + 8
     while time.time() < deadline:
-        for lbl in labels:
+        for pat in labels:
             try:
-                page.get_by_role("button", name=re.compile(lbl, re.I)).click(timeout=700)
-                time.sleep(0.3); return
+                page.get_by_role("button", name=re.compile(pat, re.I)).click(timeout=500)
+                time.sleep(0.2); return
             except Exception:
                 pass
         try:
-            page.locator("button:has-text('Prihv')").first.click(timeout=700)
-            time.sleep(0.3); return
+            page.locator("button:has-text('Prihv')").first.click(timeout=500)
+            time.sleep(0.2); return
         except Exception:
             pass
         time.sleep(0.2)
+
+def wait_idle(page, ms=1200):
+    try:
+        page.wait_for_load_state("networkidle", timeout=ms)
+    except PWTimeoutError:
+        pass
 
 FIND_SCROLLABLE_JS = """
 () => {
@@ -85,7 +91,7 @@ def find_inner_scroll_container(page):
         pass
     return None
 
-def do_down_scrolls(page, container_handle=None, steps=20, pause=0.35, wheel_down=1400, bounce_every=4, wheel_up=-1100):
+def do_down_scrolls(page, container_handle=None, steps=30, pause=0.30, wheel_down=1400, bounce_every=4, wheel_up=-1100):
     # pozicioniraj miš na panel ili viewport
     if container_handle:
         try:
@@ -110,8 +116,7 @@ def do_down_scrolls(page, container_handle=None, steps=20, pause=0.35, wheel_dow
             page.evaluate("window.scrollBy(0, Math.max(window.innerHeight, 600))")
         done += 1
         time.sleep(pause)
-        try: page.wait_for_load_state("networkidle", timeout=int(pause*1000))
-        except PWTimeoutError: pass
+        wait_idle(page, int(pause*1000))
 
         if bounce_every and done % bounce_every == 0 and done < steps:
             if container_handle:
@@ -119,23 +124,53 @@ def do_down_scrolls(page, container_handle=None, steps=20, pause=0.35, wheel_dow
             else:
                 page.evaluate("window.scrollBy(0, -Math.max(window.innerHeight, 600))")
             time.sleep(max(0.25, pause-0.1))
-            try: page.wait_for_load_state("networkidle", timeout=int(pause*1000))
-            except PWTimeoutError: pass
+            wait_idle(page, int(pause*1000))
 
 # -----------------------------
-# PARSER RAW → Pretty (format iz fajla)
+# Klik na PREKOSUTRA (datum DD.MM. / DD.MM)
 # -----------------------------
 
-# Liga je oblika: "COLOMBIA, Primera B - Clausura" (dozvoli slova, zarez, crticu)
+def click_prekosutra(page) -> bool:
+    """Izračunaj datum za prekosutra (Europe/Belgrade), npr. '23.10.' i klikni odgovarajući tab/dugme/link."""
+    belgrade = ZoneInfo("Europe/Belgrade")
+    target = (datetime.now(belgrade) + timedelta(days=2))
+    txt1 = target.strftime("%d.%m.")   # '23.10.'
+    txt2 = target.strftime("%d.%m")    # '23.10'
+    # Dozvoli i vodeće nule i bez tačke (probaj više selektora)
+    pats = [
+        re.compile(rf"^\s*{re.escape(txt1)}\s*$"),
+        re.compile(rf"^\s*{re.escape(txt2)}\s*$"),
+        re.compile(rf"{re.escape(txt1)}", re.I),
+        re.compile(rf"{re.escape(txt2)}", re.I),
+    ]
+    selectors = []
+    for pat in pats:
+        selectors.extend([
+            ("button", lambda p=pat: page.get_by_role("button", name=p).click(timeout=1500)),
+            ("link",   lambda p=pat: page.get_by_role("link",   name=p).click(timeout=1500)),
+            ("text",   lambda p=pat: page.get_by_text(p, exact=False).first.click(timeout=1500)),
+            ("locator",lambda p=pat: page.locator(f"text={txt1}").first.click(timeout=1500)),
+            ("locator",lambda p=pat: page.locator(f"text={txt2}").first.click(timeout=1500)),
+        ])
+    for kind, fn in selectors:
+        try:
+            fn()
+            return True
+        except Exception:
+            continue
+    return False
+
+# -----------------------------
+# PARSER RAW → Pretty (Brazil format)
+# -----------------------------
+
 LEAGUE_RE = re.compile(r"^[A-Za-zŽĐŠČĆžđšćč .,'/()-]+,\s*[A-Za-zŽĐŠČĆžđšćč .,'/()-]+\s-\s[A-Za-zŽĐŠČĆžđšćč .,'/()-]+$")
 TIME_RE   = re.compile(r"^([01]?\d|2[0-3]):[0-5]\d$")
+DATE_RE   = re.compile(r"^\d{1,2}\.\d{1,2}\.?$")
 INT_RE    = re.compile(r"^\d+$")
 PLUS_ID   = re.compile(r"^\+\d+$")
 
-LABELS = {"1","X","2","0-2","2+","3+"}
-
 SKIP_HARD = {
-    # Navigacija/sekcije koje se pojavljuju u RAW-u – ignorisati
     "KLAĐENJE","UŽIVO KLAĐENJE","SLOT","IGRE UŽIVO","VIRTUELNO KLAĐENJE","AVIATOR","REZULTATI",
     "STATUS TIKETA","PROMO","TURNIRI","Prijava","Registruj se","Svi Top mečevi","Vremenska ponuda","Bonus tip",
     "Danas","Sutra","1:00","23:59","1:00 - 23:59","FUDBAL","KOŠARKA","STRELCI FUDBAL","TENIS","HOKEJ","RUKOMET",
@@ -148,7 +183,7 @@ SKIP_HARD = {
 
 def _to_float(s: str) -> Optional[float]:
     s = s.strip()
-    if s == "-" or not s:
+    if s in {"-", "–", "—"} or not s:
         return None
     s = s.replace(",", ".")
     try:
@@ -159,28 +194,29 @@ def _to_float(s: str) -> Optional[float]:
 def _is_time(s: str) -> bool:
     return bool(TIME_RE.fullmatch(s.strip()))
 
-def _read_trimmed_text(path: Path, trim_last: int = 80) -> str:
-    lines = path.read_text(encoding="utf-8", errors="ignore").splitlines()
+def _read_trimmed_text(raw_text: str, trim_last: int = 80) -> str:
+    lines = raw_text.splitlines()
     if len(lines) > trim_last:
         lines = lines[:-trim_last]
     return "\n".join(lines)
 
 def parse_brazil_raw(text: str) -> List[Dict]:
     """
-    Očekivani tok po meču (primer iz RAW-a):
-        LIGA
-        (opciono) int (kod)
-        HH:MM
-        Home
-        Away
-        (opciono) int (match_id)
-        1 / <kvota>
-        X / <kvota>
-        2 / <kvota>
-        0-2 / <kvota>
-        2+ / <kvota>
-        3+ / <kvota>
-    Sledeća LIGA signalizira novu sekciju. Usput se pojavljuju i 'plus ID' (+1151 …) – ignorišemo ih.
+    Sekvenca po meču:
+      LIGA
+      (opciono) int
+      HH:MM
+      (opciono) datum
+      Home
+      Away
+      (opciono) int (match_id)
+      '1'  kvota
+      'X'  kvota
+      '2'  kvota
+      '0-2' kvota
+      '2+'  kvota
+      '3+'  kvota
+    Meč se preskače ako ima ≤ 1 realnu kvotu.
     """
     lines = [ln.replace("\xa0", " ").strip() for ln in text.splitlines()]
     lines = [ln for ln in lines if ln and ln not in SKIP_HARD]
@@ -191,7 +227,6 @@ def parse_brazil_raw(text: str) -> List[Dict]:
     current_league = ""
 
     def take_label_value(i: int, lab: str) -> Tuple[Optional[float], int]:
-        """Ako je lines[i] == lab, vrati float sa lines[i+1], inače (None, i)."""
         if i < n and lines[i] == lab:
             if i+1 < n:
                 return _to_float(lines[i+1]), i+2
@@ -201,16 +236,15 @@ def parse_brazil_raw(text: str) -> List[Dict]:
     while i < n:
         ln = lines[i]
 
-        # 1) Liga
+        # Liga
         if LEAGUE_RE.match(ln):
             current_league = ln
             i += 1
-            # preskoči eventualni int posle lige (liga kod)
-            if i < n and INT_RE.fullmatch(lines[i]):
+            if i < n and INT_RE.fullmatch(lines[i]):  # opcioni broj posle lige
                 i += 1
             continue
 
-        # 2) Vreme
+        # Vreme
         if not _is_time(ln):
             i += 1
             continue
@@ -219,10 +253,8 @@ def parse_brazil_raw(text: str) -> List[Dict]:
         if i >= n:
             break
 
-        # 3) Timovi (sledeće dve linije)
-        #   U nekim slučajevima postoji “datum” tipa 22.10 – u tvom fajlu ga nema između vremena i timova,
-        #   ali ako naidje nešto tipa DD.MM, samo ga preskoči (nije label/kvota).
-        if i < n and re.fullmatch(r"\d{1,2}\.\d{1,2}\.?", lines[i]):
+        # (opciono) datum
+        if i < n and DATE_RE.fullmatch(lines[i]):
             i += 1
 
         if i + 1 >= n:
@@ -230,37 +262,37 @@ def parse_brazil_raw(text: str) -> List[Dict]:
         home = lines[i]; away = lines[i+1]
         i += 2
 
-        # 4) Opcioni int kao match_id
+        # opcioni match_id (plain integer)
         match_id = ""
         if i < n and INT_RE.fullmatch(lines[i]):
             match_id = lines[i]
             i += 1
 
-        # 5) Labelirane kvote
-        odds = {"1": None, "X": None, "2": None, "0-2": None, "2+": None, "3+": None}
-
-        # Moguća je pojava “+1234” – ignoriši
+        # preskoči eventualne "+id"
         while i < n and PLUS_ID.fullmatch(lines[i]):
             i += 1
 
-        # Uzima redom 1, X, 2, 0-2, 2+, 3+ — ali tolerantno:
+        odds = {"1": None, "X": None, "2": None, "0-2": None, "2+": None, "3+": None}
+        taken_vals = []
+
         for lab in ("1","X","2","0-2","2+","3+"):
-            val, i = take_label_value(i, lab)
-            odds[lab] = val
-            # preskoči eventualne zalutale "+id" između labela
+            val, i2 = take_label_value(i, lab)
+            if i2 != i:
+                odds[lab] = val
+                taken_vals.append(val)
+                i = i2
             while i < n and PLUS_ID.fullmatch(lines[i]):
                 i += 1
-            # stop ako smo stigli do sledeće sekcije (nova liga ili vreme)
             if i < n and (LEAGUE_RE.match(lines[i]) or _is_time(lines[i])):
                 break
 
+        if sum(v is not None for v in taken_vals) <= 1:
+            continue
+
         out.append({
-            "time": time_s,
-            "day": "",
-            "date": "",
+            "time": time_s, "day": "", "date": "",
             "league": current_league,
-            "home": home,
-            "away": away,
+            "home": home, "away": away,
             "match_id": match_id,
             "odds": odds
         })
@@ -277,8 +309,6 @@ def write_pretty(blocks: List[Dict], out_path: Path):
     for b in blocks:
         lines.append("=" * 70)
         header = b["time"]
-        if b.get("day"):  header += f"  {b['day']}"
-        if b.get("date"): header += f"  {b['date']}"
         if b.get("league"):
             header += f"  [{b['league']}]"
         lines.append(header)
@@ -289,16 +319,14 @@ def write_pretty(blocks: List[Dict], out_path: Path):
         od = b["odds"]
         lines.append(f"1={fmt(od.get('1'))}   X={fmt(od.get('X'))}   2={fmt(od.get('2'))}")
         lines.append(f"0-2={fmt(od.get('0-2'))}   2+={fmt(od.get('2+'))}   3+={fmt(od.get('3+'))}")
-        # Brazil RAW nema GG/IGG/GG&3+ u ovom modu — ostavi crte zbog uniformnosti:
         lines.append("GG=-   IGG=-   GG&3+=-")
     out_path.write_text("\n".join(lines), encoding="utf-8")
 
 # -----------------------------
-# Glavni tok
+# Glavni tok — SAMO PREKOSUTRA
 # -----------------------------
 
-def main(headless=True):
-    # 1) (Opc.) Skrol i snimi RAW – možeš preskočiti ako već imaš fajl
+def main(headless=False):
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=headless)
         context = browser.new_context(
@@ -310,27 +338,34 @@ def main(headless=True):
         try:
             page.goto(URL, wait_until="domcontentloaded", timeout=60000)
             accept_cookies(page)
-            try:
-                page.wait_for_load_state("networkidle", timeout=1500)
-            except PWTimeoutError:
-                pass
+            wait_idle(page, 1500)
+
+            # Klik PREKOSUTRA (npr. "23.10."), računato iz Europe/Belgrade + 2 dana
+            if not click_prekosutra(page):
+                print("[WARN] Nije pronađen PREKOSUTRA tab po datumu – pokušavam sa trenutnim prikazom.")
+            wait_idle(page, 1500)
+            time.sleep(0.5)
+
+            # Skrol 30x i kopiraj RAW
             inner = find_inner_scroll_container(page)
-            do_down_scrolls(page, inner, steps=40, pause=0.3)
+            do_down_scrolls(page, inner, steps=40, pause=0.30)
+            try:
+                page.evaluate("window.scrollTo(0,0)")
+            except Exception:
+                pass
 
-            try: page.evaluate("window.scrollTo(0,0)")
-            except Exception: pass
+            raw_txt = page.locator("body").inner_text()
+            OUT_TXT.write_text(raw_txt, encoding="utf-8")
+            print(f"[OK] RAW (PREKOSUTRA) snimljen: {OUT_TXT.resolve()}")
 
-            raw = page.locator("body").inner_text()
-            OUT_TXT.write_text(raw, encoding="utf-8")
-            print(f"[OK] RAW snimljen: {OUT_TXT.resolve()}")
         finally:
             browser.close()
 
-    # 2) Parsiranje (odbaci poslednjih ~80 linija – footer/popup)
-    raw_trim = _read_trimmed_text(OUT_TXT, trim_last=80)
+    # Parsiranje + Pretty (samo PREKOSUTRA)
+    raw_trim = _read_trimmed_text(OUT_TXT.read_text(encoding="utf-8", errors="ignore"), trim_last=80)
     blocks = parse_brazil_raw(raw_trim)
     write_pretty(blocks, OUT_PRETTY)
-    print(f"[OK] Pretty: {OUT_PRETTY.resolve()} (mečeva: {len(blocks)})")
+    print(f"[OK] Pretty (PREKOSUTRA): {OUT_PRETTY.resolve()}  (mečeva: {len(blocks)})")
 
 if __name__ == "__main__":
     main(headless=True)

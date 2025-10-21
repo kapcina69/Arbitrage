@@ -38,6 +38,40 @@ def accept_cookies(page) -> None:
             pass
         time.sleep(0.2)
 
+def install_popup_killer(context, main_page):
+    """
+    Zatvori svaku novootvorenu stranicu (popup/tab) odmah po otvaranju.
+    Takođe obezbedi pomoćnu funkciju da pometemo višak stranica po potrebi.
+    """
+    def _on_page(new_page):
+        try:
+            # Sačekaj da se stabilizuje pa zatvori
+            try:
+                new_page.wait_for_load_state("domcontentloaded", timeout=2000)
+            except Exception:
+                pass
+            # ne diraj main tab
+            if new_page != main_page:
+                new_page.close()
+        except Exception:
+            pass
+    try:
+        context.on("page", _on_page)
+    except Exception:
+        pass
+
+def close_extra_pages(context, main_page):
+    """Prođi kroz sve tabove i zatvori sve koji nisu glavni."""
+    try:
+        for p in list(context.pages):
+            if p != main_page:
+                try:
+                    p.close()
+                except Exception:
+                    pass
+    except Exception:
+        pass
+
 # Pronađi najlogičniji skrol-panel (traži i kroz shadow DOM).
 FIND_SCROLLABLE_JS = """
 () => {
@@ -94,9 +128,6 @@ def find_inner_scroll_container(page):
     return None
 
 def click_Vremenska(page) -> None:
-    """
-    Klik na 'Vremenska' (dugme/link). Probamo više selektora.
-    """
     attempts = [
         lambda: page.get_by_role("button", name=re.compile(r"^\s*Vremenska\s*$", re.I)).click(timeout=1500),
         lambda: page.get_by_role("link",   name=re.compile(r"^\s*Vremenska\s*$", re.I)).click(timeout=1500),
@@ -115,14 +146,19 @@ def click_Vremenska(page) -> None:
             return
         except Exception:
             continue
-    # ako ne nađe, moguće da je već aktivno
 
 def do_30_down_with_bounce(page, container_handle=None, pause=0.45,
-                           delta_down=1500, delta_up=-1200, bounce_every=4):
+                           delta_down=1500, delta_up=-1200, bounce_every=4,
+                           context=None, main_page=None):
     """
     TAČNO 30 skrolova NA DOLE; posle svakih 'bounce_every' down skrolova,
     uradi JEDAN skrol NA GORE (koji se ne broji u 30).
+    Usput zatvaraj eventualne popup prozore.
     """
+    # mali helper za čišćenje prozora u toku skrolovanja
+    if context and main_page:
+        close_extra_pages(context, main_page)
+
     if container_handle:
         try:
             box = page.evaluate(
@@ -139,6 +175,10 @@ def do_30_down_with_bounce(page, container_handle=None, pause=0.45,
 
     down_done = 0
     while down_done < 30:
+        # pre svakog skrola — zatvori popup tabove
+        if context and main_page:
+            close_extra_pages(context, main_page)
+
         if container_handle:
             page.mouse.wheel(0, delta_down)
         else:
@@ -152,6 +192,9 @@ def do_30_down_with_bounce(page, container_handle=None, pause=0.45,
             pass
 
         if down_done % bounce_every == 0:
+            if context and main_page:
+                close_extra_pages(context, main_page)
+
             if container_handle:
                 page.mouse.wheel(0, delta_up)
             else:
@@ -163,7 +206,7 @@ def do_30_down_with_bounce(page, container_handle=None, pause=0.45,
                 pass
 
 # -----------------------------
-# Parser + formatiranje
+# Parser + formatiranje (isto kao ranije)
 # -----------------------------
 
 DAY_NAMES_SR = ["Pon", "Uto", "Sre", "Čet", "Pet", "Sub", "Ned"]
@@ -199,19 +242,6 @@ def _fmt(x: Optional[float]) -> str:
     return str(int(x)) if float(x).is_integer() else f"{x}"
 
 def parse_betole_raw(text: str) -> List[Dict]:
-    """
-    Očekivani obrazac:
-      <LEAGUE>                 npr. "Guatemala, Primera Division" (opciono; važi do promene)
-      +ID
-      Home
-      Away
-      DD.MM. HH:MM
-      ki 1        <odd>
-      ki X        <odd>
-      ki 2        <odd>
-      manje 2.5   <odd>   -> 0-2
-      više 2.5    <odd>   -> 3+   (ISPRAVKA)
-    """
     lines = [ln.strip().replace("\xa0", " ") for ln in text.splitlines()]
     lines = [ln for ln in lines if ln and ln.strip()]
 
@@ -222,13 +252,11 @@ def parse_betole_raw(text: str) -> List[Dict]:
     while i < n:
         ln = lines[i]
 
-        # Liga (sekcijski naslov)
         if LEAGUE_RE.match(ln):
             current_league = ln
             i += 1
             continue
 
-        # Početak meča -> +ID
         if not ID_RE.match(ln):
             i += 1
             continue
@@ -241,7 +269,6 @@ def parse_betole_raw(text: str) -> List[Dict]:
         home = lines[i]; i += 1
         away = lines[i]; i += 1
 
-        # Datum + vreme
         if i >= n or not DATE_TIME_RE.match(lines[i]):
             i += 1
             continue
@@ -253,12 +280,10 @@ def parse_betole_raw(text: str) -> List[Dict]:
         odds = {"1": None, "X": None, "2": None, "0-2": None, "2+": None, "3+": None,
                 "GG": None, "IGG": None, "GG&3+": None}
 
-        # Čitaj parove labela i vrednosti dok ne naiđe novi blok
         while i + 1 < n:
             label = lines[i].lower()
             val_line = lines[i + 1]
 
-            # Kraj bloka ako nailazi nešto što liči na novi meč/ligu/datum
             if ID_RE.match(label) or LEAGUE_RE.match(label) or DATE_TIME_RE.match(label):
                 break
 
@@ -273,8 +298,7 @@ def parse_betole_raw(text: str) -> List[Dict]:
             elif label.startswith("manje") and "2.5" in label:
                 odds["0-2"] = val
             elif label.startswith("više") and "2.5" in label:
-                odds["3+"] = val  # *** ispravljeno: 3+ ***
-            # dodatne mape lako proširljive ovde
+                odds["3+"] = val
 
             i += 2
 
@@ -304,7 +328,7 @@ def write_pretty(blocks: List[Dict], out_path: Path):
 
         od = b["odds"]
         lines.append(f"1={_fmt(od.get('1'))}   X={_fmt(od.get('X'))}   2={_fmt(od.get('2'))}")
-        lines.append(f"0-2={_fmt(od.get('0-2'))}   2={_fmt(od.get('2+'))}   3+={_fmt(od.get('3+'))}".replace(" 2=", " 2+="))
+        lines.append(f"0-2={_fmt(od.get('0-2'))}   2+={_fmt(od.get('2+'))}   3+={_fmt(od.get('3+'))}")
         lines.append(f"GG={_fmt(od.get('GG'))}   IGG={_fmt(od.get('IGG'))}   GG&3+={_fmt(od.get('GG&3+'))}")
     out_path.write_text("\n".join(lines), encoding="utf-8")
 
@@ -325,6 +349,10 @@ def main(headless=True):
             page.goto(URL, wait_until="domcontentloaded", timeout=60000)
             accept_cookies(page)
 
+            # Instaliraj „ubicu“ popup prozora i odmah pometi višak
+            install_popup_killer(context, page)
+            close_extra_pages(context, page)
+
             time.sleep(0.8)
             try:
                 page.wait_for_load_state("networkidle", timeout=1200)
@@ -334,8 +362,16 @@ def main(headless=True):
             click_Vremenska(page)
 
             inner = find_inner_scroll_container(page)
-            do_30_down_with_bounce(page, inner, pause=0.45,
-                                   delta_down=1500, delta_up=-1200, bounce_every=4)
+            do_30_down_with_bounce(
+                page,
+                inner,
+                pause=0.45,
+                delta_down=1500,
+                delta_up=-1200,
+                bounce_every=4,
+                context=context,
+                main_page=page
+            )
 
             try:
                 page.evaluate("window.scrollTo(0,0)")
@@ -348,6 +384,8 @@ def main(headless=True):
             print(f"[OK] Tekst sačuvan u: {OUT_TXT_RAW.resolve()}")
 
         finally:
+            # za svaki slučaj ponovo zatvori sve dodatne tabove
+            close_extra_pages(context, page)
             browser.close()
 
     # --- PARSIRANJE + LEPI IZLAZ ---

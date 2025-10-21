@@ -1,612 +1,774 @@
 ======================================================================
-01:00  Pon  20.10.  [Guatemala, Liga Nacional - Apertura]
-CSD Comunicaciones  vs  Municipal   (ID: 803)
-1=3.25   X=3   2=2.12
-0-2=1.61   2+=-   3+=2.15
+03:30  Uto  21.10.  [Panama, LPF - Clausura]
+Veraguas  vs  SD Atletico Nacional   (ID: 636)
+1=2.27   X=3.4   2=2.65
+0-2=2.12   2+=-   3+=1.62
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-01:00  Pon  20.10.  [Mexico, Liga de Expansion MX - Apertura]
-CD Tapatio  vs  Zacatecas Mineros   (ID: 814)
-1=2.55   X=3.3   2=2.55
-0-2=1.93   2+=-   3+=1.77
-GG=-   IGG=-   GG&3+=-
-======================================================================
-01:00  Pon  20.10.  [Mexico, Liga MX Women - Apertura]
-Monterrey Wom.  vs  Club Leon Wom.   (ID: 631)
-1=1.25   X=5.3   2=8.1
-0-2=2.88   2+=-   3+=1.35
-GG=-   IGG=-   GG&3+=-
-======================================================================
-01:00  Pon  20.10.  [Nicaragua, Liga Primera - Apertura]
-Rancho Santana  vs  Managua FC   (ID: 630)
-1=6.3   X=4.5   2=1.37
-0-2=2.41   2+=-   3+=1.45
-GG=-   IGG=-   GG&3+=-
-======================================================================
-01:00  Pon  20.10.  [USA, MLS Next Pro - Play Offs]
-Chattanooga  vs  Huntsville   (ID: 635)
-1=3.7   X=3.45   2=1.82
-0-2=1.95   2+=-   3+=1.75
-GG=-   IGG=-   GG&3+=-
-======================================================================
-01:00  Pon  20.10.  [USA, MLS Next Pro - Play Offs]
-New York Red Bulls 2  vs  Carolina Core   (ID: 639)
-1=1.7   X=4.1   2=3.6
-0-2=3.2   2+=-   3+=1.29
-GG=-   IGG=-   GG&3+=-
-======================================================================
-01:00  Pon  20.10.  [USA, MLS Next Pro - Play Offs]
-St Louis City II  vs  Ventura County   (ID: 637)
-1=1.43   X=4.55   2=5.35
-0-2=2.9   2+=-   3+=1.35
-GG=-   IGG=-   GG&3+=-
-======================================================================
-01:00  Pon  20.10.  [Ecuador, Liga Pro - Championship Group]
-Libertad Loja  vs  U. Catolica   (ID: 637)
-1=3   X=3.25   2=2.15
-0-2=1.93   2+=-   3+=1.77
-GG=-   IGG=-   GG&3+=-
-======================================================================
-01:15  Pon  20.10.  [Honduras, Liga Nacional - Apertura]
-Juticalpa  vs  CD Olimpia   (ID: 800)
-1=6.5   X=4.1   2=1.4
-0-2=2.02   2+=-   3+=1.7
-GG=-   IGG=-   GG&3+=-
-======================================================================
-01:20  Pon  20.10.  [Colombia, Primera B - Clausura]
-Cartagena  vs  Cucuta   (ID: 41)
-1=1.97   X=3.15   2=3.55
-0-2=1.65   2+=-   3+=2.08
-GG=-   IGG=-   GG&3+=-
-======================================================================
-01:30  Pon  20.10.  [Brazil, Serie A]
-Bahia  vs  Gremio   (ID: 989)
-1=1.75   X=3.55   2=4.65
-0-2=1.85   2+=-   3+=1.87
-GG=-   IGG=-   GG&3+=-
-======================================================================
-01:30  Pon  20.10.  [Brazil, Serie B]
-Goias  vs  Chapecoense-SC   (ID: 808)
-1=1.77   X=3.45   2=4.65
-0-2=1.8   2+=-   3+=1.92
-GG=-   IGG=-   GG&3+=-
-======================================================================
-02:00  Pon  20.10.  [Costa Rica, Primera Division - Apertura]
-Alajuelense  vs  Saprissa   (ID: 806)
-1=2.3   X=3.05   2=3.05
-0-2=1.65   2+=-   3+=2.1
-GG=-   IGG=-   GG&3+=-
-======================================================================
-02:00  Pon  20.10.  [Jamaica, Premier League]
-Montego Bay United  vs  Racing United   (ID: 633)
-1=2   X=3.15   2=3.45
-0-2=1.65   2+=-   3+=2
-GG=-   IGG=-   GG&3+=-
-======================================================================
-02:00  Pon  20.10.  [USA, MLS Next Pro - Play Offs]
-Real Monarchs  vs  Minnesota 2   (ID: 640)
-1=1.75   X=3.8   2=3.6
-0-2=2.55   2+=-   3+=1.45
-GG=-   IGG=-   GG&3+=-
-======================================================================
-03:00  Pon  20.10.  [Mexico, Liga MX Women - Apertura]
-Pachuca Wom.  vs  Guadalajara Chivas Wom.   (ID: 634)
-1=1.63   X=3.8   2=4.3
-0-2=2.2   2+=-   3+=1.57
-GG=-   IGG=-   GG&3+=-
-======================================================================
-03:00  Pon  20.10.  [Nicaragua, Liga Primera - Apertura]
-Diriangen  vs  UNAN-Managua   (ID: 616)
-1=1.11   X=7.3   2=14
-0-2=3.35   2+=-   3+=1.25
-GG=-   IGG=-   GG&3+=-
-======================================================================
-03:00  Pon  20.10.  [USA, MLS Next Pro - Play Offs]
-San Jose Earthquakes II  vs  North Texas   (ID: 639)
-1=1.57   X=4.15   2=4.35
-0-2=2.7   2+=-   3+=1.4
-GG=-   IGG=-   GG&3+=-
-======================================================================
-03:30  Pon  20.10.  [Guatemala, Liga Nacional - Apertura]
-Malacateco  vs  Guastatoya   (ID: 803)
-1=1.55   X=3.8   2=5
-0-2=1.83   2+=-   3+=1.85
-GG=-   IGG=-   GG&3+=-
-======================================================================
-10:30  Pon  20.10.  [Indonesia, Super League]
-Semen Padang  vs  FC Bhayangkara   (ID: 802)
-1=2.15   X=3.1   2=3.1
+04:00  Uto  21.10.  [Costa Rica, Primera Division - Apertura]
+Guadalupe  vs  Sporting San Jose   (ID: 810)
+1=3.05   X=3.15   2=2.25
 0-2=1.73   2+=-   3+=1.97
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  Pon  20.10.  [Myanmar, National League]
-Thitsar Arman  vs  Rakhapura United   (ID: 80)
-1=1.17   X=6.5   2=9.75
+04:05  Uto  21.10.  [Mexico, Liga Premier Serie A]
+Chiapas  vs  Deportiva Venados   (ID: 640)
+1=2.12   X=3.65   2=2.73
+0-2=2.57   2+=-   3+=1.43
+GG=-   IGG=-   GG&3+=-
+======================================================================
+09:00  Uto  21.10.  [International Clubs, UEFA Youth League - League phase]
+Kairat Almaty U19  vs  Pafos U19   (ID: 813)
+1=1.45   X=4.25   2=5.45
+0-2=2.37   2+=-   3+=1.5
+GG=-   IGG=-   GG&3+=-
+======================================================================
+09:45  Uto  21.10.  [International Clubs, AFC Champions League - League Phase]
+Melbourne City  vs  Buriram   (ID: 950)
+1=2.1   X=3.3   2=3.25
+0-2=1.88   2+=-   3+=1.82
+GG=-   IGG=-   GG&3+=-
+======================================================================
+12:00  Uto  21.10.  [International Clubs, AFC Champions League - League Phase]
+Chengdu Rongcheng  vs  Johor DT   (ID: 911)
+1=2.75   X=3.35   2=2.35
+0-2=2.03   2+=-   3+=1.7
+GG=-   IGG=-   GG&3+=-
+======================================================================
+12:00  Uto  21.10.  [International Clubs, AFC Champions League - League Phase]
+Ulsan Hyundai  vs  Sanfrecce Hiroshima   (ID: 955)
+1=3.2   X=3.55   2=2.02
+0-2=2.12   2+=-   3+=1.63
+GG=-   IGG=-   GG&3+=-
+======================================================================
+12:00  Uto  21.10.  [International Clubs, UEFA Youth League - League phase]
+Barcelona U19  vs  Olympiacos Piraeus U19   (ID: 811)
+1=1.31   X=5   2=7
+0-2=2.83   2+=-   3+=1.36
+GG=-   IGG=-   GG&3+=-
+======================================================================
+12:00  Uto  21.10.  [International Clubs, UEFA Youth League - League phase]
+Villarreal U19  vs  Manchester City U19   (ID: 817)
+1=3.9   X=3.9   2=1.67
+0-2=2.55   2+=-   3+=1.45
+GG=-   IGG=-   GG&3+=-
+======================================================================
+14:00  Uto  21.10.  [England, Professional Development]
+Charlton U21  vs  Watford U21   (ID: 637)
+1=1.55   X=4.5   2=4.15
+0-2=3.75   2+=-   3+=1.22
+GG=-   IGG=-   GG&3+=-
+======================================================================
+14:00  Uto  21.10.  [England, Professional Development]
+Coventry U21  vs  Wigan U21   (ID: 636)
+1=1.45   X=4.75   2=4.7
 0-2=4.05   2+=-   3+=1.19
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:30  Pon  20.10.  [Myanmar, National League]
-Yarmanya United  vs  Yadanarbon   (ID: 72)
-1=33   X=15   2=-
-0-2=6.1   2+=-   3+=1.08
+14:00  Uto  21.10.  [England, Professional Development]
+Fleetwood U21  vs  Barnsley U21   (ID: 639)
+1=1.7   X=4.05   2=3.7
+0-2=2.75   2+=-   3+=1.38
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  Pon  20.10.  [Ukraine, Persha Liga]
-UCSA  vs  Livyi Bereg   (ID: 634)
-1=3.8   X=3.15   2=1.88
-0-2=1.62   2+=-   3+=2.12
+14:00  Uto  21.10.  [North Macedonia, Macedonian Cup]
+Bashkimi  vs  Sileks   (ID: 621)
+1=2.65   X=3.1   2=2.45
+0-2=1.73   2+=-   3+=1.9
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  Pon  20.10.  [Uzbekistan, Pro Liga]
-Olimpik-Mobiuz  vs  Aral   (ID: 635)
-1=2.5   X=2.97   2=2.67
-0-2=1.6   2+=-   3+=2.2
+14:00  Uto  21.10.  [North Macedonia, Macedonian Cup]
+Makedonija GP  vs  Struga   (ID: 636)
+1=3.1   X=3.3   2=2.07
+0-2=1.91   2+=-   3+=1.73
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:30  Pon  20.10.  [Bangladesh, Premier League]
-Bashundara Kings  vs  Fortis   (ID: 633)
-1=1.47   X=4.4   2=4.95
-0-2=2.35   2+=-   3+=1.52
+14:00  Uto  21.10.  [North Macedonia, Macedonian Cup]
+Rabotnicki  vs  Bregalnica Stip   (ID: 617)
+1=2.07   X=3.25   2=3.15
+0-2=1.82   2+=-   3+=1.81
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:00  Pon  20.10.  [Bhutan, Premier League]
-Thimphu City  vs  Paro FC   (ID: 640)
-1=3.2   X=4   2=1.83
+14:00  Uto  21.10.  [North Macedonia, Macedonian Cup]
+Shkendija Haracine  vs  Pelister   (ID: 621)
+1=2.3   X=3.2   2=2.8
+0-2=1.82   2+=-   3+=1.81
+GG=-   IGG=-   GG&3+=-
+======================================================================
+14:00  Uto  21.10.  [International Clubs, UEFA Youth League - League phase]
+Arsenal U19  vs  Atl. Madrid U19   (ID: 817)
+1=2.88   X=3.65   2=2.05
+0-2=2.35   2+=-   3+=1.51
+GG=-   IGG=-   GG&3+=-
+======================================================================
+14:15  Uto  21.10.  [International Clubs, AFC Champions League - League Phase]
+Shanghai Port  vs  Machida   (ID: 911)
+1=4.55   X=3.9   2=1.63
+0-2=2.3   2+=-   3+=1.55
+GG=-   IGG=-   GG&3+=-
+======================================================================
+14:30  Uto  21.10.  [International Clubs, UEFA Youth League - League phase]
+PSV U19  vs  Napoli U19   (ID: 810)
+1=1.23   X=5.7   2=8.5
 0-2=3.25   2+=-   3+=1.28
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:00  Pon  20.10.  [England, Professional Development]
-Crewe U21  vs  Sheffield Wed U21   (ID: 640)
-1=2.73   X=3.7   2=2.1
-0-2=2.7   2+=-   3+=1.4
+14:30  Uto  21.10.  [International Clubs, UEFA Youth League - League phase]
+Royale Union SG U19  vs  Inter U19   (ID: 811)
+1=5.4   X=4.33   2=1.45
+0-2=2.35   2+=-   3+=1.51
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:00  Pon  20.10.  [England, Professional Development]
-Bournemouth U21  vs  QPR U21   (ID: 632)
-1=1.31   X=5.4   2=6.2
-0-2=4.5   2+=-   3+=1.16
+15:00  Uto  21.10.  [International Clubs, UEFA Youth League - League phase]
+Newcastle U19  vs  Benfica U19   (ID: 816)
+1=6.5   X=5.1   2=1.32
+0-2=3.25   2+=-   3+=1.28
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:00  Pon  20.10.  [Indonesia, Super League]
-Persis Solo  vs  Malut United   (ID: 818)
-1=2.55   X=3.15   2=2.5
-0-2=1.8   2+=-   3+=1.88
-GG=-   IGG=-   GG&3+=-
-======================================================================
-15:00  Pon  20.10.  [Bulgaria, Vtora Liga]
-Sevlievo  vs  CSKA Sofia II   (ID: 636)
-1=2.5   X=3.15   2=2.5
-0-2=1.81   2+=-   3+=1.83
-GG=-   IGG=-   GG&3+=-
-======================================================================
-15:00  Pon  20.10.  [Ethiopia, Premier League]
-Bahir Dar Kenema  vs  Hadiya Hossana   (ID: 81)
-1=1.85   X=2.95   2=4
-0-2=1.4   2+=-   3+=2.6
-GG=-   IGG=-   GG&3+=-
-======================================================================
-15:00  Pon  20.10.  [Ethiopia, Premier League]
-Shire Endaselassie  vs  Mekelle 70 Enderta F.C.   (ID: 82)
-1=2.83   X=2.67   2=2.5
+16:00  Uto  21.10.  [International Clubs, UEFA Youth League - League phase]
+Biskra  vs  CA Batna   (ID: 620)
+1=1.55   X=3.35   2=6.25
 0-2=1.45   2+=-   3+=2.45
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-15:00  Pon  20.10.  [Jordan, Jordan Cup]
-Al-Arabi Irbid  vs  Al Hashemeya   (ID: 616)
-1=1.95   X=3.15   2=3.55
-0-2=1.61   2+=-   3+=2.1
+16:00  Uto  21.10.  [International Clubs, UEFA Youth League - League phase]
+MSP Batna  vs  Khroub   (ID: 628)
+1=1.77   X=3.15   2=4.45
+0-2=1.53   2+=-   3+=2.25
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-15:00  Pon  20.10.  [Kyrgyzstan, Premier Liga]
-Alga  vs  Aldier   (ID: 615)
-1=5.1   X=3.8   2=1.53
-0-2=1.9   2+=-   3+=1.8
+16:00  Uto  21.10.  [International Clubs, UEFA Youth League - League phase]
+RC Kouba  vs  Temouchent   (ID: 620)
+1=1.72   X=3.1   2=4.85
+0-2=1.4   2+=-   3+=2.57
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-15:00  Pon  20.10.  [Zimbabwe, Premier Soccer League]
-Bikita Minerals  vs  Herentals   (ID: 82)
-1=2.85   X=2.67   2=2.6
-0-2=1.29   2+=-   3+=3.05
+16:00  Uto  21.10.  [International Clubs, UEFA Youth League - League phase]
+Saida  vs  Bechar Djedid   (ID: 617)
+1=1.48   X=3.4   2=7
+0-2=1.42   2+=-   3+=2.5
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-15:00  Pon  20.10.  [Mozambique, Mocambola]
-Ferroviario Lichinga  vs  UD Songo   (ID: 40)
-1=3.7   X=3.05   2=1.95
-0-2=1.53   2+=-   3+=2.3
+16:00  Uto  21.10.  [International Clubs, UEFA Youth League - League phase]
+US Chaouia  vs  Annaba   (ID: 624)
+1=1.83   X=3.05   2=4.25
+0-2=1.43   2+=-   3+=2.5
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-15:15  Pon  20.10.  [Zanzibar, Premier League]
-Uhamiaji FC  vs  Junguni United FC   (ID: 40)
-1=1.7   X=3.1   2=4.6
-0-2=1.52   2+=-   3+=2.25
+16:00  Uto  21.10.  [Egypt, Premier League]
+Pyramids  vs  Pharco   (ID: 627)
+1=1.28   X=4.45   2=9.5
+0-2=1.83   2+=-   3+=1.85
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-15:45  Pon  20.10.  [International Clubs, AFC Champions League - League Phase]
-Al Wahda Abu Dhabi  vs  Al-Duhail   (ID: 953)
-1=1.91   X=3.75   2=3.35
-0-2=2.22   2+=-   3+=1.6
+16:00  Uto  21.10.  [Egypt, Premier League]
+Estrela U23  vs  SC Farense U23   (ID: 636)
+1=2.41   X=3.4   2=2.5
+0-2=2.08   2+=-   3+=1.62
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-16:00  Pon  20.10.  [Estonia, Esiliiga]
-Levadia U21  vs  Nomme Kalju U21   (ID: 639)
-1=1.97   X=3.9   2=2.9
-0-2=2.97   2+=-   3+=1.31
+16:00  Uto  21.10.  [Egypt, Premier League]
+Gil Vicente U23  vs  Vizela U23   (ID: 636)
+1=2.05   X=3.5   2=2.95
+0-2=2.2   2+=-   3+=1.55
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-16:00  Pon  20.10.  [Russia, FNL]
-Ulyanovsk  vs  Ufa   (ID: 798)
-1=2.22   X=3   2=3.25
-0-2=1.52   2+=-   3+=2.37
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  Pon  20.10.  [Uruguay, Reserve League]
-CA River Plate Res.  vs  Club Atletico Progreso Res.   (ID: 40)
-1=2.5   X=2.95   2=2.55
-0-2=1.48   2+=-   3+=2.3
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:30  Pon  20.10.  [Bulgaria, Parva Liga]
-Arda  vs  Septemvri Sofia   (ID: 800)
-1=1.42   X=4.05   2=7.25
-0-2=1.83   2+=-   3+=1.87
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:30  Pon  20.10.  [Oman, Professional League]
-Bahla  vs  Al Shabab Seeb   (ID: 785)
-1=2.77   X=2.73   2=2.63
-0-2=1.43   2+=-   3+=2.55
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:50  Pon  20.10.  [Oman, Professional League]
-Al Adalah  vs  Al Orubah   (ID: 638)
-1=2.41   X=3.15   2=2.65
-0-2=1.8   2+=-   3+=1.88
-GG=-   IGG=-   GG&3+=-
-======================================================================
-17:00  Pon  20.10.  [Romania, Superliga]
-FC Hermannstadt  vs  Csikszereda M. Ciuc   (ID: 807)
-1=1.7   X=3.5   2=4.75
-0-2=1.82   2+=-   3+=1.88
-GG=-   IGG=-   GG&3+=-
-======================================================================
-17:00  Pon  20.10.  [Ukraine, Premier League]
-Kudrivka  vs  Metalist 1925   (ID: 804)
-1=4.9   X=3.45   2=1.67
-0-2=1.73   2+=-   3+=1.97
-GG=-   IGG=-   GG&3+=-
-======================================================================
-17:00  Pon  20.10.  [Ghana, Premier League]
-Bibiani Gold Stars  vs  Heart of Lions   (ID: 80)
-1=1.85   X=3.1   2=4.15
-0-2=1.48   2+=-   3+=2.41
-GG=-   IGG=-   GG&3+=-
-======================================================================
-17:00  Pon  20.10.  [Ghana, Premier League]
-Eleven Wonders  vs  Karela   (ID: 82)
-1=3.15   X=2.83   2=2.27
-0-2=1.43   2+=-   3+=2.57
-GG=-   IGG=-   GG&3+=-
-======================================================================
-17:00  Pon  20.10.  [Latvia, Virsliga]
-Auda  vs  FK Liepaja   (ID: 814)
-1=2.6   X=3.3   2=2.4
-0-2=2   2+=-   3+=1.7
-GG=-   IGG=-   GG&3+=-
-======================================================================
-17:00  Pon  20.10.  [Russia, FNL]
-FK Chayka  vs  Ural   (ID: 803)
-1=6   X=4.1   2=1.47
-0-2=1.97   2+=-   3+=1.73
-GG=-   IGG=-   GG&3+=-
-======================================================================
-17:00  Pon  20.10.  [Ghana, Division One League]
-Accra Lions  vs  True Democracy   (ID: 40)
-1=1.97   X=2.97   2=3.8
-0-2=1.43   2+=-   3+=2.57
-GG=-   IGG=-   GG&3+=-
-======================================================================
-17:15  Pon  20.10.  [Israel, Liga Alef South]
-Holon Yermiyahu  vs  Maccabi Yavne   (ID: 636)
-1=2.27   X=3.03   2=2.97
-0-2=1.65   2+=-   3+=2.08
-GG=-   IGG=-   GG&3+=-
-======================================================================
-17:30  Pon  20.10.  [Bulgaria, Vtora Liga]
-Fratria  vs  Spartak Pleven   (ID: 619)
-1=1.24   X=4.85   2=10.5
-0-2=1.97   2+=-   3+=1.7
-GG=-   IGG=-   GG&3+=-
-======================================================================
-17:30  Pon  20.10.  [Russia, FNL]
-Chernomorets Novorossijsk  vs  Neftekhimik   (ID: 801)
-1=1.95   X=3.15   2=3.85
-0-2=1.55   2+=-   3+=2.27
-GG=-   IGG=-   GG&3+=-
-======================================================================
-18:00  Pon  20.10.  [Czech Republic, ChNL]
-Chrudim  vs  Taborsko   (ID: 806)
-1=3.4   X=3.15   2=2.02
-0-2=1.7   2+=-   3+=2
-GG=-   IGG=-   GG&3+=-
-======================================================================
-18:00  Pon  20.10.  [Israel, Leumit League]
-Hapoel Kfar Shalem  vs  Ironi Modiin   (ID: 796)
-1=1.53   X=4   2=4.85
-0-2=2.27   2+=-   3+=1.55
-GG=-   IGG=-   GG&3+=-
-======================================================================
-18:00  Pon  20.10.  [Israel, Leumit League]
-MS Kafr Qasim  vs  SC Kiryat Yam   (ID: 815)
-1=2.5   X=3.15   2=2.5
-0-2=1.85   2+=-   3+=1.83
-GG=-   IGG=-   GG&3+=-
-======================================================================
-18:00  Pon  20.10.  [Israel, Leumit League]
-Maccabi Petah Tikva  vs  Bnei Yehuda   (ID: 796)
-1=1.42   X=4.4   2=5.7
-0-2=2.35   2+=-   3+=1.52
-GG=-   IGG=-   GG&3+=-
-======================================================================
-18:00  Pon  20.10.  [Jordan, Jordan Cup]
-Al Hussein  vs  Sama Club   (ID: 36)
-1=1.04   X=9.25   2=28
-0-2=2.55   2+=-   3+=1.41
-GG=-   IGG=-   GG&3+=-
-======================================================================
-18:00  Pon  20.10.  [Jordan, Jordan Cup]
-Al Jazeera Amman  vs  Al Tora   (ID: 613)
-1=1.1   X=6.9   2=18
-0-2=2.3   2+=-   3+=1.48
-GG=-   IGG=-   GG&3+=-
-======================================================================
-18:00  Pon  20.10.  [Jordan, Jordan Cup]
-Al Salt  vs  Sahab   (ID: 31)
-1=-   X=16.25   2=36
-0-2=5.4   2+=-   3+=1.09
-GG=-   IGG=-   GG&3+=-
-======================================================================
-18:00  Pon  20.10.  [Jordan, Jordan Cup]
-Sola  vs  Viking 2   (ID: 82)
-1=2.3   X=3.7   2=2.3
-0-2=3   2+=-   3+=1.29
-GG=-   IGG=-   GG&3+=-
-======================================================================
-18:00  Pon  20.10.  [Rwanda, Premier League]
-SC Kiyovu  vs  Musanze   (ID: 81)
-1=2.27   X=2.8   2=3.2
-0-2=1.43   2+=-   3+=2.55
-GG=-   IGG=-   GG&3+=-
-======================================================================
-18:00  Pon  20.10.  [International Clubs, AFC Champions League - League Phase]
-Al Sharjah  vs  Tractor   (ID: 944)
-1=2.03   X=3.2   2=3.55
-0-2=1.7   2+=-   3+=2.03
-GG=-   IGG=-   GG&3+=-
-======================================================================
-18:00  Pon  20.10.  [International Clubs, AFC Champions League - League Phase]
-Al Shorta  vs  Al Ittihad Jeddah   (ID: 906)
-1=3.7   X=3.45   2=1.9
-0-2=1.9   2+=-   3+=1.8
-GG=-   IGG=-   GG&3+=-
-======================================================================
-18:30  Pon  20.10.  [Russia, FNL]
-F. Voronezh  vs  R. Volgograd   (ID: 781)
-1=2.22   X=2.67   2=3.75
-0-2=1.27   2+=-   3+=3.35
-GG=-   IGG=-   GG&3+=-
-======================================================================
-18:30  Pon  20.10.  [Russia, FNL]
-Torpedo Moscow  vs  Shinnik Yaroslavl   (ID: 791)
-1=1.85   X=3.05   2=4.5
-0-2=1.45   2+=-   3+=2.55
-GG=-   IGG=-   GG&3+=-
-======================================================================
-19:00  Pon  20.10.  [Turkey, Super Lig]
-Eyupspor  vs  Kasimpasa   (ID: 909)
-1=2.35   X=3.1   2=3.1
-0-2=1.67   2+=-   3+=2.08
-GG=-   IGG=-   GG&3+=-
-======================================================================
-19:00  Pon  20.10.  [Denmark, Superliga]
-Sonderjyske  vs  Fredericia   (ID: 822)
-1=1.81   X=3.75   2=3.95
-0-2=2.27   2+=-   3+=1.57
-GG=-   IGG=-   GG&3+=-
-======================================================================
-19:00  Pon  20.10.  [Poland, Ekstraklasa]
-Wisla Plock  vs  Termalica B-B.   (ID: 818)
-1=2.05   X=3.45   2=3.4
-0-2=1.97   2+=-   3+=1.75
-GG=-   IGG=-   GG&3+=-
-======================================================================
-19:00  Pon  20.10.  [Sweden, Allsvenskan]
-Degerfors  vs  Halmstad   (ID: 902)
-1=1.95   X=3.3   2=3.9
-0-2=1.72   2+=-   3+=2.02
-GG=-   IGG=-   GG&3+=-
-======================================================================
-19:00  Pon  20.10.  [Bulgaria, Parva Liga]
-Beroe  vs  Montana   (ID: 803)
-1=2.15   X=3.03   2=3.4
-0-2=1.62   2+=-   3+=2.15
-GG=-   IGG=-   GG&3+=-
-======================================================================
-19:00  Pon  20.10.  [Israel, Ligat ha'Al]
-Beitar Jerusalem  vs  SC Ashdod   (ID: 816)
-1=1.48   X=4.4   2=5.4
-0-2=2.55   2+=-   3+=1.45
-GG=-   IGG=-   GG&3+=-
-======================================================================
-19:00  Pon  20.10.  [Jordan, Jordan Cup]
-Aqaba  vs  Umm Al Qotain   (ID: 627)
-1=1.47   X=3.85   2=6
+16:00  Uto  21.10.  [Egypt, Premier League]
+Leixoes U23  vs  Rio Ave U23   (ID: 635)
+1=2.07   X=3.25   2=3.15
 0-2=1.85   2+=-   3+=1.8
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-19:00  Pon  20.10.  [Jordan, Jordan Cup]
-Drobak-Frogn  vs  Sarpsborg 08 2   (ID: 82)
-1=2.3   X=3.65   2=2.37
-0-2=2.85   2+=-   3+=1.32
+16:00  Uto  21.10.  [International Clubs, UEFA Youth League - League phase]
+FC Copenhagen U19  vs  Dortmund U19   (ID: 822)
+1=2   X=3.85   2=2.88
+0-2=2.93   2+=-   3+=1.35
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-19:00  Pon  20.10.  [Jordan, Jordan Cup]
-Al-Ula  vs  Al Draih   (ID: 624)
-1=2.55   X=3.15   2=2.5
-0-2=1.81   2+=-   3+=1.87
+16:30  Uto  21.10.  [Italy, Serie C - Group A]
+Inter U23  vs  Renate   (ID: 799)
+1=1.75   X=3.25   2=4.75
+0-2=1.63   2+=-   3+=2.15
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-19:00  Pon  20.10.  [Jordan, Jordan Cup]
-Istanbulspor AS  vs  Bandirmaspor   (ID: 815)
-1=2.67   X=3.3   2=2.45
-0-2=1.9   2+=-   3+=1.8
+17:00  Uto  21.10.  [Estonia, Meistriliiga]
+Flora  vs  Narva   (ID: 812)
+1=1.53   X=4.05   2=4.8
+0-2=2.27   2+=-   3+=1.55
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-19:10  Pon  20.10.  [Sweden, Allsvenskan]
-Goteborg  vs  Mjallby   (ID: 917)
-1=2.55   X=3.35   2=2.62
-0-2=1.95   2+=-   3+=1.77
+17:00  Uto  21.10.  [Estonia, Meistriliiga]
+Parnu JK Vaprus  vs  Kuressaare   (ID: 812)
+1=1.51   X=4   2=5.1
+0-2=2.22   2+=-   3+=1.57
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-19:30  Pon  20.10.  [Romania, Superliga]
-Petrolul  vs  CFR Cluj   (ID: 803)
-1=3.5   X=2.97   2=2.12
-0-2=1.5   2+=-   3+=2.41
+17:00  Uto  21.10.  [Georgia, Crystalbet Erovnuli Liga]
+Dila Gori  vs  Gagra   (ID: 629)
+1=1.36   X=4.15   2=7.3
+0-2=1.93   2+=-   3+=1.75
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-20:00  Pon  20.10.  [Netherlands, Eerste Divisie]
-Dordrecht  vs  Waalwijk   (ID: 826)
-1=2.03   X=3.85   2=2.95
-0-2=2.6   2+=-   3+=1.43
+17:00  Uto  21.10.  [Russia, Russian Cup - Group Stage]
+Dynamo Makhachkala  vs  Spartak Moscow   (ID: 805)
+1=4.15   X=3.5   2=1.85
+0-2=1.75   2+=-   3+=1.97
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-20:00  Pon  20.10.  [Netherlands, Eerste Divisie]
-Jong AZ  vs  Willem II   (ID: 820)
-1=2.77   X=3.7   2=2.2
-0-2=2.5   2+=-   3+=1.45
+18:00  Uto  21.10.  [Czech Republic, ChNL]
+Brno  vs  Opava   (ID: 805)
+1=1.48   X=4   2=5.5
+0-2=2.1   2+=-   3+=1.65
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-20:00  Pon  20.10.  [Netherlands, Eerste Divisie]
-Roda  vs  Almere City   (ID: 822)
-1=2.15   X=3.65   2=2.8
-0-2=2.3   2+=-   3+=1.53
+18:00  Uto  21.10.  [Georgia, Crystalbet Erovnuli Liga]
+Torpedo Kutaisi  vs  Iberia 1999   (ID: 637)
+1=3.1   X=3.3   2=2.07
+0-2=1.93   2+=-   3+=1.75
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-20:00  Pon  20.10.  [Netherlands, Eerste Divisie]
-Jong PSV  vs  Den Haag   (ID: 821)
-1=5.5   X=5   2=1.41
-0-2=3.25   2+=-   3+=1.29
+18:00  Uto  21.10.  [International Clubs, AFC Champions League - League Phase]
+Shabab Al-Ahli Dubai  vs  Nasaf Qarshi   (ID: 906)
+1=1.43   X=4.45   2=6
+0-2=2.27   2+=-   3+=1.55
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-20:00  Pon  20.10.  [Netherlands, Eerste Divisie]
-Wolves U21  vs  Swansea U21   (ID: 640)
-1=1.71   X=4.55   2=3.3
-0-2=2.85   2+=-   3+=1.36
+18:45  Uto  21.10.  [International Clubs, AFC Champions League - League Phase]
+K. Almaty  vs  Pafos   (ID: 1018)
+1=3.03   X=3.1   2=2.5
+0-2=1.67   2+=-   3+=2.22
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-20:00  Pon  20.10.  [Hungary, NB II.]
-Bekescsaba 1912  vs  Kecskemeti TE   (ID: 636)
-1=3.2   X=3.2   2=2.07
-0-2=1.8   2+=-   3+=1.88
+19:10  Uto  21.10.  [International Clubs, AFC Champions League - League Phase]
+Sandecja Nowy S.  vs  Slask Wroclaw 2   (ID: 815)
+1=1.81   X=3.65   2=3.5
+0-2=2.25   2+=-   3+=1.55
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-20:15  Pon  20.10.  [International Clubs, AFC Champions League - League Phase]
-Al Ahli SC  vs  Al-Gharafa   (ID: 896)
-1=1.17   X=6.8   2=11
-0-2=3.25   2+=-   3+=1.29
+19:30  Uto  21.10.  [France, National]
+Bourg en Bresse  vs  Fleury-Merogis   (ID: 800)
+1=3.75   X=3.05   2=2.1
+0-2=1.55   2+=-   3+=2.3
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-20:30  Pon  20.10.  [Italy, Serie C - Group B]
-Carpi  vs  Ascoli   (ID: 799)
-1=3.7   X=3.15   2=2
-0-2=1.55   2+=-   3+=2.27
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:30  Pon  20.10.  [Italy, Serie C - Group B]
-Pontedera  vs  Vis Pesaro   (ID: 804)
-1=3.25   X=3.05   2=2.2
-0-2=1.61   2+=-   3+=2.15
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:30  Pon  20.10.  [Uruguay, Reserve League]
-Defensor Sporting Res.  vs  Montevideo Wanderers Res.   (ID: 40)
-1=2.45   X=2.88   2=2.7
-0-2=1.53   2+=-   3+=2.2
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:45  Pon  20.10.  [Italy, Serie A]
-Cremonese  vs  Udinese   (ID: 935)
-1=3.3   X=3.05   2=2.37
-0-2=1.65   2+=-   3+=2.25
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:45  Pon  20.10.  [England, Southern League Premier Central]
-Redditch  vs  Alvechurch   (ID: 812)
-1=2.35   X=3.1   2=2.77
-0-2=1.75   2+=-   3+=1.93
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:45  Pon  20.10.  [England, Northern League Division One]
-Coleshill Town  vs  Shepshed   (ID: 622)
-1=2.08   X=3.3   2=3.05
-0-2=2   2+=-   3+=1.71
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:45  Pon  20.10.  [Ireland, Premier Division]
-Bohemian  vs  St. Patricks   (ID: 814)
-1=2.37   X=3.15   2=3.03
+19:30  Uto  21.10.  [France, National]
+Concarneau  vs  Chateauroux   (ID: 806)
+1=2   X=3.3   2=3.75
 0-2=1.71   2+=-   3+=2.03
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-21:00  Pon  20.10.  [England, Premier League]
-West Ham  vs  Brentford   (ID: 1041)
-1=2.62   X=3.35   2=2.7
-0-2=1.91   2+=-   3+=1.9
+19:30  Uto  21.10.  [France, National]
+Quevilly Rouen  vs  Sochaux   (ID: 803)
+1=3.35   X=3.15   2=2.2
+0-2=1.63   2+=-   3+=2.15
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-21:00  Pon  20.10.  [Spain, LaLiga]
-Alaves  vs  Valencia   (ID: 1016)
-1=2.25   X=3.05   2=3.6
-0-2=1.57   2+=-   3+=2.41
+19:30  Uto  21.10.  [France, National]
+Versailles  vs  Dijon   (ID: 798)
+1=2.73   X=2.93   2=2.75
+0-2=1.57   2+=-   3+=2.3
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-21:00  Pon  20.10.  [Colombia, Primera B - Clausura]
-Tigres  vs  Bogota   (ID: 41)
-1=2.45   X=3.1   2=2.67
-0-2=1.73   2+=-   3+=1.95
+19:30  Uto  21.10.  [France, National]
+Villefranche  vs  Orleans   (ID: 804)
+1=3.35   X=3.2   2=2.15
+0-2=1.67   2+=-   3+=2.1
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-21:00  Pon  20.10.  [Uruguay, Reserve League]
-La Luz Res.  vs  Club Oriental Res.   (ID: 39)
-1=1.42   X=3.65   2=6.6
-0-2=1.65   2+=-   3+=2
+19:30  Uto  21.10.  [France, National]
+Aubagne  vs  Valenciennes   (ID: 807)
+1=2.75   X=3.1   2=2.6
+0-2=1.67   2+=-   3+=2.1
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-21:00  Pon  20.10.  [Uruguay, Reserve League]
-Torque Res.  vs  Penarol Res.   (ID: 40)
-1=3.15   X=2.93   2=2.12
-0-2=1.55   2+=-   3+=2.15
+19:30  Uto  21.10.  [France, National]
+Paris 13 Atl.  vs  Stade Briochin   (ID: 804)
+1=2.05   X=3.3   2=3.6
+0-2=1.63   2+=-   3+=2.15
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-21:00  Pon  20.10.  [Uruguay, Liga AUF Uruguaya - Clausura]
-Racing Montevideo  vs  Juventud   (ID: 805)
-1=2.27   X=3.03   2=3.15
-0-2=1.6   2+=-   3+=2.2
+19:30  Uto  21.10.  [Russia, Russian Cup - Group Stage]
+CSKA Moscow  vs  Akron Togliatti   (ID: 806)
+1=1.37   X=4.9   2=7.25
+0-2=2.27   2+=-   3+=1.57
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-21:15  Pon  20.10.  [Iceland, Besta-deild karla - Championship Group]
-Fram  vs  Stjarnan   (ID: 822)
-1=3.1   X=3.95   2=1.95
-0-2=2.88   2+=-   3+=1.36
+19:30  Uto  21.10.  [South Africa, Premiership]
+Sekhukhune  vs  Mamelodi Sundowns   (ID: 785)
+1=6   X=3.3   2=1.61
+0-2=1.45   2+=-   3+=2.55
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-23:00  Pon  20.10.  [Colombia, Primera B - Clausura]
-Boca Juniors  vs  Barranquilla   (ID: 39)
-1=1.72   X=3.15   2=4.75
-0-2=1.53   2+=-   3+=2.3
+20:00  Uto  21.10.  [Netherlands, Eerste Divisie]
+Den Bosch  vs  Helmond   (ID: 821)
+1=2.22   X=3.55   2=2.8
+0-2=2.22   2+=-   3+=1.57
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-23:00  Pon  20.10.  [Colombia, Primera B - Clausura]
-Cortulua  vs  Real Santander   (ID: 39)
-1=1.47   X=3.7   2=6.5
-0-2=1.71   2+=-   3+=2
+20:00  Uto  21.10.  [Netherlands, Eerste Divisie]
+Maastricht  vs  Vitesse   (ID: 816)
+1=2.5   X=3.5   2=2.5
+0-2=2.25   2+=-   3+=1.57
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:00  Uto  21.10.  [Netherlands, Eerste Divisie]
+Oss  vs  Jong Ajax   (ID: 820)
+1=1.92   X=3.8   2=3.25
+0-2=2.57   2+=-   3+=1.45
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:00  Uto  21.10.  [Netherlands, Eerste Divisie]
+Venlo  vs  Jong Utrecht   (ID: 824)
+1=1.7   X=4   2=4.05
+0-2=2.57   2+=-   3+=1.45
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:00  Uto  21.10.  [England, EFL Trophy]
+Barnsley  vs  Manchester Utd U21   (ID: 821)
+1=1.87   X=4.05   2=3.25
+0-2=3   2+=-   3+=1.33
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:00  Uto  21.10.  [England, EFL Trophy]
+Stevenage  vs  Crystal Palace U21   (ID: 811)
+1=1.28   X=5.35   2=8.05
+0-2=3   2+=-   3+=1.33
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:00  Uto  21.10.  [France, National]
+Caen  vs  Rouen   (ID: 811)
+1=2.45   X=3.03   2=3.03
+0-2=1.65   2+=-   3+=2.15
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:00  Uto  21.10.  [England, National League Cup]
+Aldershot  vs  Southampton U21   (ID: 821)
+1=2.41   X=3.8   2=2.45
+0-2=2.73   2+=-   3+=1.4
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:00  Uto  21.10.  [England, National League Cup]
+Braintree  vs  West Brom U21   (ID: 820)
+1=2.07   X=3.7   2=3
+0-2=2.5   2+=-   3+=1.47
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:00  Uto  21.10.  [England, National League Cup]
+Sutton  vs  West Ham U21   (ID: 821)
+1=2.8   X=3.75   2=2.15
+0-2=2.67   2+=-   3+=1.41
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:00  Uto  21.10.  [England, National League Cup]
+Truro  vs  Brighton U21   (ID: 816)
+1=2.5   X=3.55   2=2.41
+0-2=2.27   2+=-   3+=1.55
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:00  Uto  21.10.  [England, National League Cup]
+Wealdstone  vs  Nottingham U21   (ID: 807)
+1=2.07   X=3.7   2=2.97
+0-2=2.47   2+=-   3+=1.48
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:00  Uto  21.10.  [England, National League Cup]
+Woking  vs  Fulham U21   (ID: 803)
+1=2.47   X=3.55   2=2.47
+0-2=2.3   2+=-   3+=1.55
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:15  Uto  21.10.  [International Clubs, AFC Champions League - League Phase]
+Al Hilal Riyadh  vs  Al-Sadd   (ID: 942)
+1=1.2   X=6.3   2=10.5
+0-2=3.4   2+=-   3+=1.27
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:30  Uto  21.10.  [Wales, Cymru South]
+Caerau Ely  vs  Newport City   (ID: 636)
+1=2.05   X=3.5   2=2.85
+0-2=2.05   2+=-   3+=1.65
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Championship]
+Blackburn  vs  Sheffield Utd   (ID: 973)
+1=2.6   X=3.2   2=2.85
+0-2=1.72   2+=-   3+=2.15
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Championship]
+Derby  vs  Norwich   (ID: 906)
+1=2.57   X=3.15   2=2.9
+0-2=1.67   2+=-   3+=2.2
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Championship]
+Hull  vs  Leicester   (ID: 912)
+1=3.2   X=3.35   2=2.27
+0-2=1.92   2+=-   3+=1.88
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Championship]
+Ipswich  vs  Charlton   (ID: 977)
+1=1.67   X=3.75   2=5.4
+0-2=1.83   2+=-   3+=1.97
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Championship]
+Millwall  vs  Stoke   (ID: 971)
+1=2.27   X=3.1   2=3.45
+0-2=1.65   2+=-   3+=2.25
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Championship]
+Portsmouth  vs  Coventry   (ID: 977)
+1=4.05   X=3.65   2=1.9
+0-2=2.07   2+=-   3+=1.77
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Championship]
+Preston  vs  Birmingham   (ID: 970)
+1=2.93   X=3.15   2=2.57
+0-2=1.67   2+=-   3+=2.22
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, League Two]
+Swindon  vs  Notts Co   (ID: 818)
+1=2.1   X=3.45   2=3.25
+0-2=1.92   2+=-   3+=1.8
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League]
+Boston Utd  vs  Morecambe   (ID: 817)
+1=1.9   X=3.65   2=3.5
+0-2=2.22   2+=-   3+=1.57
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League]
+Eastleigh  vs  Scunthorpe   (ID: 811)
+1=3.2   X=3.2   2=2.15
+0-2=1.82   2+=-   3+=1.88
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League]
+York  vs  Boreham Wood   (ID: 814)
+1=1.75   X=3.9   2=3.85
+0-2=2.15   2+=-   3+=1.61
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League North]
+Alfreton  vs  Chester   (ID: 808)
+1=3.1   X=3.1   2=2.15
+0-2=1.77   2+=-   3+=1.92
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League North]
+Bedford  vs  Oxford City   (ID: 815)
+1=2.2   X=3.5   2=2.7
+0-2=2.3   2+=-   3+=1.53
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League North]
+Hereford  vs  AFC Telford   (ID: 814)
+1=2.3   X=3.25   2=2.7
+0-2=1.95   2+=-   3+=1.75
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League North]
+Merthyr Town  vs  Kidderminster   (ID: 812)
+1=3.6   X=3.5   2=1.82
+0-2=2.1   2+=-   3+=1.65
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League North]
+Peterborough Sports  vs  Buxton   (ID: 816)
+1=3.3   X=3.55   2=1.9
+0-2=2.15   2+=-   3+=1.6
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League North]
+Radcliffe  vs  Darlington   (ID: 813)
+1=1.57   X=4   2=4.45
+0-2=2.35   2+=-   3+=1.52
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League North]
+South Shields  vs  Scarborough   (ID: 809)
+1=1.93   X=3.4   2=3.35
+0-2=1.95   2+=-   3+=1.73
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League North]
+Southport  vs  Chorley   (ID: 812)
+1=2.8   X=3.15   2=2.27
+0-2=1.83   2+=-   3+=1.85
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League North]
+Spennymoor  vs  AFC Fylde   (ID: 815)
+1=2.62   X=3.45   2=2.3
+0-2=2.3   2+=-   3+=1.52
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League North]
+Worksop  vs  King’s Lynn   (ID: 814)
+1=2.6   X=3.25   2=2.4
+0-2=2   2+=-   3+=1.71
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League North]
+Leamington  vs  Macclesfield   (ID: 811)
+1=3.6   X=3.45   2=1.85
+0-2=1.97   2+=-   3+=1.72
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League South]
+Bath  vs  AFC Totton   (ID: 803)
+1=2.55   X=3.03   2=2.57
+0-2=1.67   2+=-   3+=2.03
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League South]
+Chesham  vs  Worthing   (ID: 814)
+1=2.55   X=3.25   2=2.45
+0-2=1.97   2+=-   3+=1.72
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League South]
+Dag & Red  vs  Horsham FC   (ID: 813)
+1=2.2   X=3.25   2=2.9
+0-2=1.95   2+=-   3+=1.75
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League South]
+Dover  vs  Dorking   (ID: 811)
+1=4.05   X=3.6   2=1.71
+0-2=2.1   2+=-   3+=1.65
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League South]
+Enfield Town  vs  Ebbsfleet   (ID: 806)
+1=3.8   X=3.3   2=1.83
+0-2=1.77   2+=-   3+=1.9
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League South]
+Hampton & Richmond  vs  Hemel Hempstead   (ID: 808)
+1=3.2   X=3.25   2=2.03
+0-2=1.87   2+=-   3+=1.82
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League South]
+Maidenhead  vs  Tonbridge   (ID: 804)
+1=1.38   X=4.3   2=6.6
+0-2=2.2   2+=-   3+=1.6
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League South]
+Maidstone  vs  Eastbourne Boro   (ID: 801)
+1=2.1   X=3.1   2=3.25
+0-2=1.7   2+=-   3+=2
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League South]
+Salisbury  vs  Farnborough   (ID: 812)
+1=2.15   X=3.3   2=2.93
+0-2=2.05   2+=-   3+=1.67
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League South]
+Torquay  vs  Chippenham   (ID: 806)
+1=1.37   X=4.45   2=6.5
+0-2=2.3   2+=-   3+=1.53
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League South]
+Weston-super-Mare  vs  Slough   (ID: 812)
+1=1.48   X=4.1   2=5.25
+0-2=2.22   2+=-   3+=1.57
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Southern League Premier Central]
+Banbury  vs  Kettering   (ID: 813)
+1=2.6   X=3.3   2=2.37
+0-2=1.85   2+=-   3+=1.83
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Southern League Premier Central]
+Harborough  vs  Stratford   (ID: 803)
+1=1.65   X=3.45   2=4.7
+0-2=1.8   2+=-   3+=1.88
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Southern League Premier Central]
+Leiston  vs  AFC Sudbury   (ID: 811)
+1=1.82   X=3.45   2=3.7
+0-2=2.05   2+=-   3+=1.67
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Southern League Premier Central]
+Quorn  vs  Halesowen   (ID: 812)
+1=2.08   X=3.3   2=3.05
+0-2=1.95   2+=-   3+=1.75
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Southern League Premier Central]
+Real Bedford  vs  Stourbridge   (ID: 811)
+1=2   X=3.4   2=3.15
+0-2=1.93   2+=-   3+=1.75
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Southern League Premier Central]
+Spalding United  vs  Royston   (ID: 812)
+1=1.6   X=3.9   2=4.5
+0-2=2.25   2+=-   3+=1.55
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Southern League Premier Central]
+Worcester City  vs  Bromsgrove   (ID: 812)
+1=1.83   X=3.45   2=3.65
+0-2=1.97   2+=-   3+=1.73
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Southern League South Division]
+Chertsey  vs  Sholing   (ID: 813)
+1=2.4   X=3.35   2=2.5
+0-2=2.1   2+=-   3+=1.63
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Southern League South Division]
+Dorchester  vs  Basingstoke   (ID: 815)
+1=2.2   X=3.5   2=2.7
+0-2=2.25   2+=-   3+=1.55
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Southern League South Division]
+Farnham  vs  Walton & Hersham   (ID: 819)
+1=2.35   X=3.6   2=2.47
+0-2=2.55   2+=-   3+=1.45
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Southern League South Division]
+Gloucester  vs  Berkhamsted   (ID: 811)
+1=1.57   X=3.9   2=4.55
+0-2=2.25   2+=-   3+=1.55
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Southern League South Division]
+Tiverton  vs  Wimborne   (ID: 809)
+1=3.3   X=3.35   2=1.97
+0-2=1.92   2+=-   3+=1.77
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, EFL Trophy]
+Barnet  vs  Cambridge Utd   (ID: 814)
+1=2.6   X=3.4   2=2.45
+0-2=2.05   2+=-   3+=1.67
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, NPL Premier Division]
+FC United  vs  Rushall   (ID: 805)
+1=1.77   X=3.3   2=4.1
+0-2=1.75   2+=-   3+=1.95
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, NPL Premier Division]
+Hyde  vs  Stocksbridge   (ID: 812)
+1=2.07   X=3.35   2=3.05
+0-2=2.05   2+=-   3+=1.67
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Isthmian League Premier Division]
+Folkestone  vs  Lewes   (ID: 813)
+1=1.67   X=3.65   2=4.25
+0-2=2.22   2+=-   3+=1.57
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Isthmian League Premier Division]
+Chatham Town  vs  Dulwich Hamlet   (ID: 816)
+1=1.77   X=3.65   2=3.75
+0-2=2.25   2+=-   3+=1.55
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, Isthmian League Premier Division]
+Cray Wanderers  vs  St. Albans   (ID: 815)
+1=2.5   X=3.5   2=2.35
+0-2=2.25   2+=-   3+=1.57
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [Scotland, Championship]
+Airdrieonians  vs  Dunfermline   (ID: 804)
+1=3.25   X=3.1   2=2.15
+0-2=1.62   2+=-   3+=2.15
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [Scotland, Championship]
+Partick Thistle  vs  Ayr   (ID: 813)
+1=2.12   X=3.15   2=3.3
+0-2=1.67   2+=-   3+=2.07
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League Cup]
+Brackley Town  vs  Everton U21   (ID: 822)
+1=2.15   X=3.85   2=2.75
+0-2=2.85   2+=-   3+=1.37
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45  Uto  21.10.  [England, National League Cup]
+Tamworth  vs  Burnley U21   (ID: 803)
+1=1.62   X=4   2=4.5
+0-2=2.37   2+=-   3+=1.52
+GG=-   IGG=-   GG&3+=-
+======================================================================
+21:00  Uto  21.10.  [England, National League Cup]
+Bayer Leverkusen  vs  Paris SG   (ID: 1030)
+1=4.5   X=4.15   2=1.7
+0-2=2.55   2+=-   3+=1.52
+GG=-   IGG=-   GG&3+=-
+======================================================================
+21:00  Uto  21.10.  [England, National League Cup]
+FC Copenhagen  vs  Dortmund   (ID: 1013)
+1=4.3   X=3.7   2=1.83
+0-2=2.15   2+=-   3+=1.71
+GG=-   IGG=-   GG&3+=-
+======================================================================
+21:00  Uto  21.10.  [England, National League Cup]
+Newcastle  vs  Benfica   (ID: 1035)
+1=1.63   X=3.95   2=5.4
+0-2=2.12   2+=-   3+=1.72
+GG=-   IGG=-   GG&3+=-
+======================================================================
+21:00  Uto  21.10.  [England, National League Cup]
+PSV  vs  Napoli   (ID: 1016)
+1=3.1   X=3.45   2=2.27
+0-2=2.22   2+=-   3+=1.67
+GG=-   IGG=-   GG&3+=-
+======================================================================
+21:00  Uto  21.10.  [England, National League Cup]
+Royale Union SG  vs  Inter   (ID: 1012)
+1=4.7   X=3.8   2=1.75
+0-2=2.05   2+=-   3+=1.77
+GG=-   IGG=-   GG&3+=-
+======================================================================
+21:00  Uto  21.10.  [England, National League Cup]
+Villarreal  vs  Manchester City   (ID: 1039)
+1=4.45   X=3.9   2=1.75
+0-2=2.37   2+=-   3+=1.6
+GG=-   IGG=-   GG&3+=-
+======================================================================
+21:00  Uto  21.10.  [England, Championship]
+Bristol City  vs  Southampton   (ID: 982)
+1=2.63   X=3.3   2=2.7
+0-2=1.92   2+=-   3+=1.9
+GG=-   IGG=-   GG&3+=-
+======================================================================
+21:00  Uto  21.10.  [England, League One]
+Reading  vs  Northampton   (ID: 813)
+1=2   X=3.35   2=3.65
+0-2=1.8   2+=-   3+=1.93
+GG=-   IGG=-   GG&3+=-
+======================================================================
+22:45  Uto  21.10.  [Colombia, Primera B - Clausura]
+Huila  vs  Real Cundinamarca   (ID: 39)
+1=1.83   X=3.1   2=4.1
+0-2=1.48   2+=-   3+=2.41
 GG=-   IGG=-   GG&3+=-

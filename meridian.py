@@ -183,9 +183,18 @@ LEAGUE_RE = re.compile(r"^[A-Za-zŽĐŠČĆžđšćč .'/()-]+\s-\s[A-Za-zŽĐŠ
 DATE_RE   = re.compile(r"^\d{1,2}\.\d{1,2}\.?$")  # "18.12" ili "18.12."
 
 def _to_float(s: str) -> Optional[float]:
-    s = s.strip().replace(",", ".")
-    if s == "-" or not s:
+    """
+    Pretvara token u float. Ako je token oznaka za 'nema kvote',
+    vrati None. Podržava razne crtice: '-', '–', '—'.
+    """
+    if not s:
         return None
+    s = s.strip().replace(",", ".")
+    # sve varijante 'nema kvote'
+    if s in {"-", "–", "—"}:
+        return None
+    # zaštita: ponekad stigne '−' (minus znak iz Unicode-a)
+    s = s.replace("−", "-")
     try:
         return float(s)
     except Exception:
@@ -236,6 +245,7 @@ def parse_meridian_raw(text: str) -> List[Dict]:
     Kvote:
       Minimalno: 1, X, 2
       Produženo: 1, X, 2, U2.5, [etiketa] 2.5 (IGNORISATI), O2.5, GG, GG&3+, GG&4+
+      Napomena: token '-' / '–' / '—' znači 'nema kvote' → None
     """
     SKIP = {
         # sr/eng sekcioni naslovi i filteri koje ponekad upiše u RAW
@@ -281,7 +291,7 @@ def parse_meridian_raw(text: str) -> List[Dict]:
         i += 2
 
         # Kvote do +ID / sledeće sekcije
-        nums: List[float] = []
+        nums: List[Optional[float]] = []
         while i < n:
             tk = lines[i]
             if _is_id(tk) or _is_time(tk) or LEAGUE_RE.match(tk):
@@ -294,7 +304,8 @@ def parse_meridian_raw(text: str) -> List[Dict]:
                 continue
 
             val = _to_float(tk)
-            if val is not None:
+            # dozvoli None (npr. '-'), samo preskoči prazan šum
+            if val is not None or tk in {"-", "–", "—"}:
                 nums.append(val)
             i += 1
 
@@ -352,7 +363,6 @@ def write_pretty_meridian(blocks: List[Dict], out_path: Path):
         lines.append(f"0-2={fmt(od.get('0-2'))}   2+={fmt(od.get('2+'))}   3+={fmt(od.get('3+'))}")
         lines.append(f"GG={fmt(od.get('GG'))}   IGG={fmt(od.get('IGG'))}   GG&3+={fmt(od.get('GG&3+'))}")
         if od.get("GG&4+") is not None:
-            # popravljen f-string (navodnici)
             lines.append(f"GG&4+={fmt(od.get('GG&4+'))}")
     out_path.write_text("\n".join(lines), encoding="utf-8")
 
