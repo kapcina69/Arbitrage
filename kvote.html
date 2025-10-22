@@ -2,27 +2,35 @@
 <html lang="sr">
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Kvote vizuelno • Luka (v9 – auto 10s + datum u naslovu)</title>
+<title>Kvote vizuelno • Luka (v9 – auto 10s + datum/vreme u naslovu)</title>
 <style>
   :root{ --bg:#0f1222; --card:#161a2f; --muted:#9aa3b2; --txt:#e8ecf5; --line:#232842; --accent:#7c9aff; --accent-2:#8af5c8; --good:#3ddc97; --good-ink:#072117; --bad:#ff6b6b; --bad-ink:#2a0a0a; --pill:#22314f; --best-ring:#f7f7ff; }
   *{box-sizing:border-box}
   body{margin:0; font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif; background:var(--bg); color:var(--txt)}
   .wrap{max-width:1100px; margin:24px auto 48px; padding:0 16px}
   header{position:sticky; top:0; z-index:10; backdrop-filter:saturate(1.2) blur(8px); background:linear-gradient(180deg, rgba(15,18,34,.85), rgba(15,18,34,.6) 60%, transparent);} 
-  .bar{display:flex; align-items:center; gap:12px; padding:14px 16px; border-bottom:1px solid var(--line)}
-  h1{font-size:20px; margin:0; letter-spacing:.3px}
+  .bar{display:flex; align-items:center; justify-content:center; gap:8px; padding:12px 16px; border-bottom:1px solid var(--line)}
+  h1{font-size:18px; margin:0; letter-spacing:.3px}
   .spacer{flex:1}
-  button{border:1px solid var(--line); background:#1c2240; color:var(--txt); padding:8px 12px; border-radius:12px; cursor:pointer; transition:.15s transform,.2s background}
+  button{border:1px solid var(--line); background:#1c2240; color:#fff; padding:6px 10px; border-radius:12px; cursor:pointer; transition:.15s transform,.2s background; font-size:13px}
   button:hover{background:#242b53} button:active{transform:translateY(1px)}
-  .pill{display:inline-flex; align-items:center; gap:6px; padding:4px 10px; border-radius:999px; background:var(--pill); color:var(--txt); font-size:12px; border:1px solid var(--line)}
+  .pill{display:inline-flex; align-items:center; gap:6px; padding:4px 8px; border-radius:999px; background:#22314f; color:#fff; font-size:11px; border:1px solid var(--line); white-space:nowrap}
   .pill.good{background:var(--good); color:var(--good-ink); font-weight:700}
   .pill.bad{background:var(--bad); color:var(--bad-ink); font-weight:700}
   .controls{display:grid; grid-template-columns:1fr; gap:10px; margin:16px 0 8px}
-  @media(min-width:1200px){.controls{grid-template-columns:1.3fr .8fr .9fr auto}}
+  @media(min-width:1200px){.controls{grid-template-columns:.8fr .9fr auto}}
   .in{background:#0c0f24; color:var(--txt); border:1px solid var(--line); border-radius:12px; padding:10px 12px}
-  textarea.in{height:140px; font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
-  .grid{display:grid; grid-template-columns:1fr; gap:14px}
-  @media(min-width:780px){.grid{grid-template-columns:1fr 1fr}}
+  textarea.in{height:140px; font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace; display:none}
+  .small{font-size:12px; color:var(--muted)}
+  .content-wrapper{display:flex; gap:20px; align-items:flex-start}
+  .sidebar{flex:0 0 220px; position:sticky; top:80px; background:var(--card); border:1px solid var(--line); border-radius:12px; padding:12px; max-height:calc(100vh - 100px); overflow-y:auto}
+  .sidebar h3{margin:0 0 10px; font-size:14px; color:var(--muted); text-transform:uppercase; letter-spacing:.5px}
+  .league-item{padding:8px 10px; margin:4px 0; border-radius:8px; cursor:pointer; font-size:13px; transition:.15s all; border:1px solid transparent}
+  .league-item:hover{background:rgba(124,154,255,.1); border-color:var(--line)}
+  .league-item.active{background:linear-gradient(135deg,rgba(105,137,255,.2),rgba(118,238,198,.15)); border-color:var(--accent); font-weight:600}
+  .league-count{float:right; opacity:.6; font-size:11px}
+  .grid{display:grid; grid-template-columns:1fr; gap:14px; flex:1}
+  @media(max-width:1000px){.sidebar{display:none}}
   .match{border:1px solid var(--line); border-radius:16px; background:var(--card); overflow:hidden; box-shadow:0 6px 24px rgba(0,0,0,.25)}
   .head{display:flex; gap:10px; align-items:center; padding:14px; background:linear-gradient(90deg, rgba(124,154,255,.12), rgba(138,245,200,.08)); border-bottom:1px solid var(--line)}
   .teams{font-weight:800; letter-spacing:.2px}
@@ -48,9 +56,8 @@
 <body>
   <header>
     <div class="wrap bar">
-      <h1>Vizuelni prikaz kvota — auto 10s</h1>
+      <h1>Vizuelni prikaz kvota</h1>
       <span class="pill" id="pillStatus">status: spremno</span>
-      <div class="spacer"></div>
       <button id="btnPrint">Štampa / PDF</button>
     </div>
   </header>
@@ -67,30 +74,40 @@
         <option value="time">Sortiraj po vremenu</option>
         <option value="none">Sortiranje: bez</option>
       </select>
+      <div class="small">Automatsko učitavanje svakih <b>5 minuta</b>.</div>
     </div>
 
-    <div id="out" class="grid"></div>
+    <div class="content-wrapper">
+      <div class="sidebar" id="sidebar">
+        <h3>Lige</h3>
+        <div id="leagueList"></div>
+      </div>
+      <div id="out" class="grid"></div>
+    </div>
   </div>
 
 <script>
 // === Podešavanja ===
 const DEFAULT_FILE = 'kvote_arbitraza_FULL.txt';
-const AUTO_INTERVAL_MS = 10_000; // 10 sekundi
+const AUTO_INTERVAL_MS = 300_000; // 5 minuta
 
-// === Parser ===
+// Globalna promenljiva za podatke
+let currentData = [];
+
+// === Parser (robustan datum/vreme/ligа) ===
 function parseBlock(txt){
   const parts = txt.split(/\r?\n-{5,}\r?\n/).map(s=>s.trim()).filter(Boolean);
   return parts.map(block=>{
     const lines = block.split(/\r?\n/).map(s=>s.replace(/\r/g,'')).filter(l=>l.trim()!=='');
     const headLines = lines.filter(l=> !l.trim().startsWith('- ') && !/^Najveća/i.test(l) && !/^Arbitraža/i.test(l) );
 
-    // robustno: tražimo vreme/datum/ligu u prve 3 linije (hvata i "00:30   22.10." i obrnut redosled)
+    // uzmi iz prve 2-3 linije (radi i za "00:30   22.10." i obrnuto)
     const top3 = lines.slice(0,3).join(' ');
     const time   = (top3.match(/(\d{1,2}:\d{2})/) || [])[1] || '';
     const date   = (top3.match(/(\d{1,2}\.\d{1,2}\.(?:\d{2,4}\.)?)/) || [])[1] || '';
     const league = (top3.match(/\[(.+?)\]/) || [])[1] || '';
 
-    // timovi (linija sa "vs")
+    // timovi (linija sa “vs”)
     const teamsLine = (lines.find(l=> /\bvs\b/i.test(l)) || headLines[1] || '').trim();
     const teams = teamsLine.replace(/\s+/g,' ');
 
@@ -99,6 +116,10 @@ function parseBlock(txt){
     const rows = [];
     for(const r of bookRows){
       const m = r.replace(/^- /,'').trim();
+      
+      // Preskoči prazne kao "Brazil_d   -"
+      if(m === '-' || !m.includes('=')) continue;
+      
       const bName = m.split(/\s{2,}/)[0].trim();
       const pairs = m.slice(bName.length).split('|').map(s=>s.trim()).filter(Boolean);
       const markets = {};
@@ -106,9 +127,12 @@ function parseBlock(txt){
         const mm = p.match(/^([A-Za-z0-9+&IGG-]+)\s*=\s*([0-9.]+)$/);
         if(mm){ markets[mm[1]] = parseFloat(mm[2]); }
       }
-      rows.push({book:bName, markets});
+      
+      // Dodaj samo ako ima kvota
+      if(Object.keys(markets).length > 0){
+        rows.push({book:bName, markets});
+      }
     }
-
     return { time, date, league, teams, rows, raw:block };
   });
 }
@@ -131,22 +155,36 @@ function render(data){
   if(sortVal==='time')       withArb.sort((a,b)=> (a.date+a.time).localeCompare(b.date+b.time));
 
   const needle = document.getElementById('q').value.trim().toLowerCase();
+  const selectedLeague = window.selectedLeague || null;
+  
   for(const m of withArb){
     if(needle){ const hay=(m.teams+" "+m.league+" "+m.date+" "+m.time).toLowerCase(); if(!hay.includes(needle)) continue; }
+    
+    // Filtriranje po ligi
+    if(selectedLeague){
+      const mLeague = m.league ? m.league : '(bez lige)';
+      if(mLeague !== selectedLeague) continue;
+    }
 
     const card = document.createElement('div'); card.className='match';
     const head=document.createElement('div'); head.className='head';
     const left=document.createElement('div'); left.style.display='flex'; left.style.flexDirection='column';
 
+    // Datum i vreme iznad timova
+    const datetime=document.createElement('div'); datetime.className='sub';
+    const when=[(m.date||'').trim(), (m.time||'').trim()].filter(Boolean).join(' ');
+    datetime.textContent = when;
+    
+    // Naziv timova
     const title=document.createElement('div'); title.className='teams';
     const teamsTxt=(m.teams && /\bvs\b/i.test(m.teams))? m.teams : ((m.raw.match(/^(?:.*\n)?(.+?\s+vs\s+.+?)\s*$/m)||[])[1]||'(nepoznat meč)');
-    const when=[(m.date||'').trim(), (m.time||'').trim()].filter(Boolean).join(' ');
-    title.textContent = when ? `${teamsTxt} — ${when}` : teamsTxt;
+    title.textContent = teamsTxt;
 
+    // Liga ispod timova
     const sub=document.createElement('div'); sub.className='sub';
     sub.textContent = m.league ? `[${m.league}]` : '';
 
-    left.appendChild(title); left.appendChild(sub); head.appendChild(left);
+    left.appendChild(datetime); left.appendChild(title); left.appendChild(sub); head.appendChild(left);
 
     const meta=document.createElement('div'); meta.className='meta';
     const badge=document.createElement('span'); badge.className='pill ' + (m.arb.ok?'good':'bad');
@@ -170,7 +208,29 @@ function render(data){
     const tb=document.createElement('tbody');
     for(const r of m.rows){
       const tr=document.createElement('tr');
-      tr.innerHTML=`<td>${r.book}</td>` + mkts.map(k=>{ const v=r.markets[k]; const isBest=v && bestMap[k]===v; const p=scalers[k](v)*100; const cell=`<span class="cell ${isBest?'best':''}">${v??''}</span>`; return `<td class="num">${cell}<div class="barwrap"><div class="bar" style="width:${p.toFixed(0)}%; background:linear-gradient(90deg, ${isBest?'#8af5c8,#7c9aff':'#434d8b,#2e365f'})"></div></div></td>`; }).join('');
+      tr.innerHTML=`<td>${r.book}</td>` + mkts.map(k=>{ 
+        const v=r.markets[k]; 
+        const isBest=v && bestMap[k]===v; 
+        const p=scalers[k](v)*100; 
+        
+        // Padding za poravnanje
+        let paddingRight = '12px';
+        if(v){
+          const vStr = v.toString();
+          const decimalPos = vStr.indexOf('.');
+          if(decimalPos === -1){
+            paddingRight = '36px'; // nema decimale
+          } else {
+            const decimals = vStr.length - decimalPos - 1;
+            if(decimals === 1){
+              paddingRight = '24px'; // jedna decimala
+            }
+          }
+        }
+        
+        const cell=`<span class="cell ${isBest?'best':''}" style="padding-right:${paddingRight}">${v??''}</span>`; 
+        return `<td class="num">${cell}<div class="barwrap"><div class="bar" style="width:${p.toFixed(0)}%; background:linear-gradient(90deg, ${isBest?'#8af5c8,#7c9aff':'#434d8b,#2e365f'})"></div></div></td>`; 
+      }).join('');
       tb.appendChild(tr);
     }
     tbl.appendChild(tb); body.appendChild(tbl);
@@ -178,6 +238,44 @@ function render(data){
     const ft=document.createElement('div'); ft.className='footer'; ft.innerHTML=`<span class="muted">Ukupno kladionica: <b>${m.rows.length}</b></span>`; body.appendChild(ft);
 
     card.appendChild(body); out.appendChild(card);
+  }
+  
+  // Ažuriraj sidebar sa ligama
+  updateLeagueSidebar(data);
+}
+
+function updateLeagueSidebar(data){
+  const leagueList = document.getElementById('leagueList');
+  if(!leagueList) return;
+  
+  const leagueCounts = {};
+  for(const m of data){
+    const league = m.league ? m.league : '(bez lige)';
+    leagueCounts[league] = (leagueCounts[league] || 0) + 1;
+  }
+  
+  const leagues = Object.entries(leagueCounts).sort((a,b)=> a[0].localeCompare(b[0]));
+  
+  leagueList.innerHTML = '';
+  
+  const allItem = document.createElement('div');
+  allItem.className = 'league-item' + (!window.selectedLeague ? ' active' : '');
+  allItem.innerHTML = `Sve lige <span class="league-count">${data.length}</span>`;
+  allItem.onclick = ()=>{
+    window.selectedLeague = null;
+    render(currentData);
+  };
+  leagueList.appendChild(allItem);
+  
+  for(const [league, count] of leagues){
+    const item = document.createElement('div');
+    item.className = 'league-item' + (window.selectedLeague === league ? ' active' : '');
+    item.innerHTML = `${league} <span class="league-count">${count}</span>`;
+    item.onclick = ()=>{
+      window.selectedLeague = league;
+      render(currentData);
+    };
+    leagueList.appendChild(item);
   }
 }
 
@@ -194,14 +292,23 @@ function setStatus(txt, ok=true){
 
 async function fetchAndRender(){
   try{
-    const url = `${DEFAULT_FILE}?cb=${Date.now()}`; // cache-bust
+    const url = `${DEFAULT_FILE}?cb=${Date.now()}&r=${Math.random()}`;
     const started = new Date();
-    const resp = await fetch(url, {cache:'no-store'});
+    const resp = await fetch(url, {
+      cache:'no-store',
+      headers: {
+        'Cache-Control': 'no-cache, no-store, must-revalidate',
+        'Pragma': 'no-cache',
+        'Expires': '0'
+      }
+    });
     if(!resp.ok) throw new Error('HTTP '+resp.status);
     const text = await resp.text();
     srcEl.value = text; srcEl.readOnly = true;
-    const data = parseBlock(text);
-    render(data);
+    
+    currentData = parseBlock(text);
+    render(currentData);
+    
     const t = new Date();
     const hh = t.toLocaleTimeString(undefined, {hour:'2-digit', minute:'2-digit', second:'2-digit'});
     setStatus(`Učitano OK u ${hh} (${((t-started)/1000).toFixed(1)}s)`, true);
@@ -209,19 +316,19 @@ async function fetchAndRender(){
     const t = new Date();
     const hh = t.toLocaleTimeString(undefined, {hour:'2-digit', minute:'2-digit', second:'2-digit'});
     setStatus(`Greška u ${hh}: ${err.message}`, false);
-    console.warn('Ne mogu da učitam default .txt', err);
+    console.error('Greška:', err);
   }
 }
 
-// Filter/sort bez dodatnog fetch-a
+// Filter/sort osvežavaju prikaz bez novog fetch-a
 [qEl, sortEl].forEach(el=>{
-  el.addEventListener('input', ()=>{ render(parseBlock(srcEl.value)); });
-  el.addEventListener('change', ()=>{ render(parseBlock(srcEl.value)); });
+  el.addEventListener('input', ()=>{ render(currentData); });
+  el.addEventListener('change', ()=>{ render(currentData); });
 });
 
 document.getElementById('btnPrint').onclick = ()=> window.print();
 
-// Start: odmah učitaj, pa na 10s ponovi
+// Start: odmah učitaj, pa svakih 5 minuta ponovi
 window.addEventListener('DOMContentLoaded', ()=>{
   fetchAndRender();
   setInterval(fetchAndRender, AUTO_INTERVAL_MS);

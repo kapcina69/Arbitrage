@@ -47,13 +47,9 @@ TEAM_STOPWORDS = {
 }
 
 # ============================================================
-# 1) SINONIMI TIMOVA — dodaj/menjaj po potrebi
-#    Ključ je PREFERIRANI (kanonski) naziv za prikaz.
-#    Vrednost je lista svih alternativnih oblika (uklj. greške/slang).
-#    Poređenje se radi nad "omekšanim" ključem (bez dijakritika/znakova).
+# 1) SINONIMI TIMOVA
 # ============================================================
 TEAM_SYNONYMS: Dict[str, List[str]] = {
-    # Primeri iz poruke:
     "Villarreal": ["Villareal", "Vila Real", "Villarreal CF"],
     "Dinamo Moscow": ["Dynamo Moscow", "Dinamo Moskva", "Dinamo M.", "FC Dynamo Moscow"],
     "CSKA Moscow": ["CSKA Moskva", "CSKA M.", "PFC CSKA Moscow"],
@@ -64,9 +60,6 @@ TEAM_SYNONYMS: Dict[str, List[str]] = {
     "Hajduk Split": ["Hajduk", "HNK Hajduk Split"],
     "Dinamo Zagreb": ["Dinamo", "GNK Dinamo Zagreb"],
     "Soenderjyske": ["Sonderjyske", "Soenderjyske FK"],
-
-
-    # Češći evropski:
     "Crvena Zvezda": ["Red Star", "Red Star Belgrade", "Crvena Zvezda Beograd", "FK Crvena Zvezda"],
     "Partizan": ["FK Partizan", "Partizan Beograd"],
     "Atletico Madrid": ["Atl Madrid", "Atletico de Madrid", "Atlético Madrid"],
@@ -88,8 +81,6 @@ TEAM_SYNONYMS: Dict[str, List[str]] = {
     "AIK": ["AIK Stockholm"],
     "Rangers": ["Glasgow Rangers"],
     "Celtic": ["Celtic Glasgow"],
-
-    # Dodaj još po želji...
 }
 
 def strip_accents(s: str) -> str:
@@ -110,27 +101,22 @@ def split_team_words(name: str) -> List[str]:
 # 2) Mapiranje aliasa na kanonski naziv
 # ---------------------------------------------
 def make_key(name: str) -> str:
-    """Ključ za poređenje: bez dijakritika, mala slova, ne-slova->razmak, višestruki razmaci->jedan."""
     s = strip_accents(name).lower()
     s = re.sub(r"[^a-z0-9]+", " ", s).strip()
     s = re.sub(r"\s+", " ", s)
     return s
 
-# Izgradi obrnuti indeks: alias -> kanonski
 ALIAS_TO_CANON: Dict[str, str] = {}
 for canon, aliases in TEAM_SYNONYMS.items():
-    # i sam kanonski naziv treba da radi kao sopstveni alias
     all_forms = [canon] + list(aliases)
     for form in all_forms:
         ALIAS_TO_CANON[make_key(form)] = canon
 
 def alias_normalize(name: str) -> str:
-    """Ako je ime u sinonimima, vrati kanonski naziv; u suprotnom vrati original."""
     key = make_key(name)
     return ALIAS_TO_CANON.get(key, name)
 
 def share_meaningful_word(a: str, b: str) -> bool:
-    """Uporedi timove posle alias normalizacije i filtriranja stop-reči."""
     a_n = alias_normalize(a)
     b_n = alias_normalize(b)
     A = set(split_team_words(a_n))
@@ -268,7 +254,7 @@ def main():
 
     df_all = pd.DataFrame(rows)
 
-    # Grupisanje po: isto vreme + smisleno poklapanje timova (domacin/gost) uz SINONIME
+    # Grupisanje po: isto vreme + smisleno poklapanje timova
     match_groups: List[List[int]] = []
     used = set()
     for i, row in df_all.iterrows():
@@ -282,14 +268,13 @@ def main():
                 continue
             if row2["time"] != t0:
                 continue
-            # => poređenje sa alias normalizacijom unutra share_meaningful_word
             if share_meaningful_word(h0, row2["home"]) and share_meaningful_word(a0, row2["away"]):
                 group.append(j)
                 used.add(j)
         match_groups.append(group)
 
-    all_lines: List[str] = []      # puni blokovi svih mečeva (bez SAŽETKA)
-    arb_only_lines: List[str] = [] # puni blokovi samo mečeva sa arbitražom
+    all_lines: List[str] = []      # FULL: samo mečevi
+    arb_only_lines: List[str] = [] # ONLY_ARBS: mečevi sa arbitražom
 
     # podaci za SAŽETAK (samo za ONLY_ARBS)
     total_per_book = df_all.groupby("bookmaker").size().to_dict()
@@ -313,7 +298,7 @@ def main():
     for g in match_groups:
         subset = df_all.loc[g].copy()
 
-        # DEDUPE po bookmaker-u: zadrži red sa najviše popunjenih tržišta
+        # DEDUPE po bookmaker-u
         subset["__filled"] = subset.apply(nonempty_markets_count, axis=1)
         subset = subset.sort_values(["bookmaker","__filled"], ascending=[True, False])
         subset = subset.drop_duplicates("bookmaker", keep="first")
@@ -334,7 +319,9 @@ def main():
             hdr_parts.append(f"[{league_str}]")
         block.append("   ".join(hdr_parts).rstrip())
         block.append(f"{home_str}  vs  {away_str}")
-        block.append("-"*86)
+
+        # === FORMAT FULL: umesto unutrašnje linije crtica, stavi praznu liniju ===
+        block.append("")
 
         # 1) Kompletan listing kvota po kladionici
         for _, r in subset.sort_values("bookmaker").iterrows():
@@ -371,10 +358,13 @@ def main():
             block.append("Arbitraža (0-2 / 3+): nedovoljno podataka")
         block.append("")
 
-        # U FULL idu svi mečevi (bez SAŽETKA na kraju)
-        all_lines.extend(block)
+        # === FORMAT FULL: spoljne crte pre prvog i posle svakog bloka ===
+        if not all_lines:
+            all_lines.append("-"*86)     # top crta pre prvog bloka
+        all_lines.extend(block)          # sam blok
+        all_lines.append("-"*86)         # završna crta bloka (i separator ka sledećem)
 
-        # U ONLY_ARBS idu samo mečevi koji imaju bar jednu arbitražu
+        # ONLY_ARBS (ne menjamo stil, ostaje raniji)
         any_arb = False
         if inv3 is not None and ok3:
             arb_1x2_groups += 1
@@ -401,6 +391,8 @@ def main():
     summary_lines.append("")
     summary_lines.append("Po kladionici:")
     all_books = sorted(set(df_all["bookmaker"].tolist()))
+    total_per_book = total_per_book
+    paired_per_book = paired_per_book
     for bk in all_books:
         total_bk = total_per_book.get(bk, 0)
         paired_bk = paired_per_book.get(bk, 0)
@@ -418,11 +410,9 @@ def main():
         encoding="utf-8"
     )
 
-    # ONLY_ARBS dobija mečeve sa arbitražom + SAŽETAK na kraju
     only_arbs_out = []
     if arb_only_lines:
         only_arbs_out.extend(arb_only_lines)
-        # odvoji mečeve od sažetka
         only_arbs_out.append("")
     only_arbs_out.extend(summary_lines)
     Path("kvote_arbitraza_ONLY_arbs.txt").write_text(
