@@ -355,4 +355,4 @@ def main(headless=False):
     print(f"[OK] Pretty (SUTRA): {OUT_PRETTY.resolve()}  (mečeva: {len(blocks)})")
 
 if __name__ == "__main__":
-    main(headless=True)
+    main(headless=False)

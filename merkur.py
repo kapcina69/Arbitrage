@@ -109,7 +109,7 @@ def do_20_scrolls(page, container_handle=None, pause=0.45):
             container_handle = None
 
     # (ostavljam veći broj “koraka” jer stranica često lenjo učitava)
-    for _ in range(400):  # prvobitno 20; praktično je više koraka
+    for _ in range(100):  # prvobitno 20; praktično je više koraka
         if container_handle:
             page.mouse.wheel(0, 1500)
         else:

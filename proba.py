@@ -30,7 +30,7 @@ INPUT_FILES = {
     "BalkanBet": "balkanbet_mecevi_pregled.txt",
     "Meridian": "meridian_mecevi_pregled.txt",
     "Brazil_d": "brazil_mecevi_pregled.txt",
-    "Brazil_s": "brazil_sutra_mecevi_pregled.txt",
+    # "Brazil_s": "brazil_sutra_mecevi_pregled.txt",
     "Brazil_p": "brazil_prekosutra_mecevi_pregled.txt",
     "BetOle": "betole_mecevi_pregled.txt",
     "Topbet": "topbet_mecevi_pregled.txt"

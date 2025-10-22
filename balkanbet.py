@@ -9,7 +9,7 @@ from playwright.sync_api import sync_playwright, TimeoutError as PWTimeoutError
 
 # ======= PODEŠAVANJA (menjaj ovde) =======
 SCROLL_STEPS = 120        # ← tačno ovoliko skrol "klikova" će se izvršiti
-HEADLESS = True           # ← True = headless; False = vidljivo
+HEADLESS = False          # ← True = headless; False = vidljivo
 SCROLL_DELTA = 1500       # ← jačina točkića po koraku (pozitivan broj = naniže)
 SCROLL_PAUSE = 0.20       # ← pauza između skrol koraka u sekundama
 # =========================================
@@ -52,7 +52,7 @@ def wait_networkidle_soft(page, ms: int = 1200):
         pass
 
 def dismiss_interstitials(page) -> bool:
-    """Pokuša da zatvori iskačuće prozore ('Ne sada', razne varijante)."""
+    """Pokuša da zatvori iskačuće prozore ('Ne sada', 'Ne hvala', 'Kasnije', 'Zatvori', 'Close', '×')."""
     clicked = False
     attempts = [
         lambda: page.get_by_role("button", name=re.compile(r"^\s*Ne\s*sada\s*$", re.I)).click(timeout=400),
@@ -76,6 +76,65 @@ def dismiss_interstitials(page) -> bool:
     if clicked:
         wait_networkidle_soft(page, 800)
     return clicked
+
+def force_close_overlays(page) -> None:
+    """
+    Dodatno zatvaranje pre kopiranja:
+    - pokuša 'Ne sada/Ne hvala/Kasnije', X/Close
+    - pritisne Escape
+    - poslednje: sakrije tipične modal/pop-up elemente
+    """
+    try:
+        dismissed = dismiss_interstitials(page)
+
+        try:
+            page.keyboard.press("Escape")
+            time.sleep(0.1)
+        except Exception:
+            pass
+
+        dismissed2 = dismiss_interstitials(page)
+
+        if not (dismissed or dismissed2):
+            js_hide = """
+            (() => {
+              const sel = [
+                "[role=dialog]", ".modal", ".popup", ".popover",
+                ".overlay", ".cookie", ".gdpr", ".subscribe", ".newsletter",
+                ".modal-backdrop", "[class*='modal']", "[class*='popup']",
+                "[id*='modal']", "[id*='popup']"
+              ].join(',');
+              document.querySelectorAll(sel).forEach(el => {
+                try { el.style.setProperty('display', 'none', 'important'); } catch(e) {}
+              });
+            })();
+            """
+            try:
+                page.evaluate(js_hide)
+            except Exception:
+                pass
+
+        wait_networkidle_soft(page, 800)
+    except Exception:
+        pass
+
+def early_dismiss(page, window_ms: int = 4000):
+    """
+    U prvih `window_ms` ms posle otvaranja, agresivno pokušava da zatvori
+    'Ne sada' / 'Ne hvala' / 'Kasnije' / 'Zatvori' prozore.
+    """
+    deadline = time.time() + (window_ms / 1000.0)
+    while time.time() < deadline:
+        try:
+            dismiss_interstitials(page)
+            try:
+                page.keyboard.press("Escape")
+            except Exception:
+                pass
+            time.sleep(0.15)
+        except Exception:
+            time.sleep(0.15)
+    wait_networkidle_soft(page, 800)
 
 def click_Engleska1(page) -> None:
     """Sačekaj 3s i klikni na 'Engleska 1' (više selektora)."""
@@ -125,7 +184,6 @@ def do_fixed_scroll(page,
             page.mouse.wheel(0, delta)
             done += 1
         except Exception:
-            # ako dođe do greške, probaj bar mali predah
             time.sleep(pause)
         time.sleep(pause)
     return done
@@ -398,23 +456,29 @@ def main():
 
         page = context.new_page()
         try:
+            # Otvori stranicu
             page.goto(URL, wait_until="domcontentloaded", timeout=60000)
-            accept_cookies(page)
-            time.sleep(0.8)
-            wait_networkidle_soft(page, 1000)
 
-            # Po želji možeš filtrirati — ostavio sam primer:
+            # ODMAH zatvori "Ne sada"/pop-up prozorčiće
+            early_dismiss(page, window_ms=5000)
+
+            # Cookies (ako postoji) — pa opet zatvori ako nešto iskoči
+            accept_cookies(page)
+            early_dismiss(page, window_ms=2500)
+
+            # (opciono) filtriraj ligu
             click_Engleska1(page)
 
             # FIKSNO SKROLOVANJE (bez smart heuristike)
             down = do_fixed_scroll(page, steps=SCROLL_STEPS, delta=SCROLL_DELTA, pause=SCROLL_PAUSE)
             print(f"[i] Down koraka (wheel): {down}")
 
-            # Vrati na vrh pre kopiranja
+            # Vrati na vrh i JOŠ JEDNOM osiguraj da ništa ne prekriva stranu
             try:
                 page.evaluate("window.scrollTo(0,0)")
             except Exception:
                 pass
+            early_dismiss(page, window_ms=1500)
 
             # Kopiranje teksta: Ctrl+A -> 'Ne sada' -> klik centar -> Ctrl+A -> Ctrl/Cmd+C
             copied = copy_all_via_keyboard(page)

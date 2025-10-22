@@ -367,7 +367,7 @@ def write_pretty(blocks: List[Dict], out_path: Path):
 
 def main():
     # forsiramo vidljivo (headless=False) da vidiš skrol
-    raw = fetch_raw_topbet(headless=True)
+    raw = fetch_raw_topbet(headless=False)
     blocks = parse_topbet(raw)
     write_pretty(blocks, PRETTY_TXT)
     print(f"[OK] Isparsiranih mečeva: {len(blocks)}")
