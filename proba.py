@@ -13,8 +13,8 @@ Ulaz:
     balkanbet_mecevi_pregled.txt, meridian_mecevi_pregled.txt, betole_mecevi_pregled.txt
 
 Izlaz:
-    kvote_arbitraza_FULL.txt
-    kvote_arbitraza_ONLY_arbs.txt
+    kvote_arbitraza_FULL.txt           # samo mečevi (bez sažetka)
+    kvote_arbitraza_ONLY_arbs.txt      # samo mečevi sa arbitražom + SAŽETAK
 """
 
 from pathlib import Path
@@ -33,7 +33,7 @@ INPUT_FILES = {
     "Brazil_s": "brazil_sutra_mecevi_pregled.txt",
     "Brazil_p": "brazil_prekosutra_mecevi_pregled.txt",
     "BetOle": "betole_mecevi_pregled.txt",
-    "Topbet": "topbet_mecevi_pregled.txt" 
+    "Topbet": "topbet_mecevi_pregled.txt"
 }
 
 ALL_MARKETS = ["1", "X", "2", "0-2", "2+", "3+", "GG", "IGG", "GG&3+", "GG&4+", "4+"]
@@ -44,6 +44,52 @@ TEAM_STOPWORDS = {
     "fc","fk","al","cf","sc","ac","bc","ud","cd","sd","ad","ca",
     "the","club","de","of","sv","ss","ks","ik","if","sk",
     "u19","u20","u21","b","c","a","u23","u17","u16","u15","u14","u13"
+}
+
+# ============================================================
+# 1) SINONIMI TIMOVA — dodaj/menjaj po potrebi
+#    Ključ je PREFERIRANI (kanonski) naziv za prikaz.
+#    Vrednost je lista svih alternativnih oblika (uklj. greške/slang).
+#    Poređenje se radi nad "omekšanim" ključem (bez dijakritika/znakova).
+# ============================================================
+TEAM_SYNONYMS: Dict[str, List[str]] = {
+    # Primeri iz poruke:
+    "Villarreal": ["Villareal", "Vila Real", "Villarreal CF"],
+    "Dinamo Moscow": ["Dynamo Moscow", "Dinamo Moskva", "Dinamo M.", "FC Dynamo Moscow"],
+    "CSKA Moscow": ["CSKA Moskva", "CSKA M.", "PFC CSKA Moscow"],
+    "Spartak Moscow": ["Spartak Moskva", "Spartak M.", "FC Spartak Moscow"],
+    "Lokomotiv Moscow": ["Lokomotiv Moskva", "Lokomotiv M.", "FC Lokomotiv Moscow"],
+    "Brondby": ["Brøndby", "Brondby IF","Brndby IF"],
+    "Nordsjaelland": ["Nordsjælland", "Nordsjaelland FC"],
+    "Hajduk Split": ["Hajduk", "HNK Hajduk Split"],
+    "Dinamo Zagreb": ["Dinamo", "GNK Dinamo Zagreb"],
+    "Soenderjyske": ["Sonderjyske", "Soenderjyske FK"],
+
+
+    # Češći evropski:
+    "Crvena Zvezda": ["Red Star", "Red Star Belgrade", "Crvena Zvezda Beograd", "FK Crvena Zvezda"],
+    "Partizan": ["FK Partizan", "Partizan Beograd"],
+    "Atletico Madrid": ["Atl Madrid", "Atletico de Madrid", "Atlético Madrid"],
+    "Athletic Bilbao": ["Athletic Club", "Ath Bilbao", "Athl. Bilbao"],
+    "Inter": ["Inter Milan", "Inter Milano", "Internazionale", "FC Internazionale"],
+    "AC Milan": ["Milan", "A.C. Milan"],
+    "Manchester United": ["Man Utd", "Manchester Utd", "Man United", "Man. United"],
+    "Manchester City": ["Man City", "Manchester C", "Man. City"],
+    "Newcastle United": ["Newcastle Utd"],
+    "Sporting CP": ["Sporting Lisbon", "Sporting Clube de Portugal"],
+    "Marseille": ["Olympique Marseille", "OM", "O. Marseille"],
+    "Real Betis": ["Betis", "Real Betis Balompie"],
+    "Sevilla": ["Sevilla FC"],
+    "Bayern Munich": ["Bayern Munchen", "Bayern München", "FC Bayern"],
+    "Koln": ["Cologne", "1. FC Koln", "1. FC Köln", "FC Koln", "FC Köln"],
+    "Fenerbahce": ["Fenerbahçe", "Fener"],
+    "Besiktas": ["Beşiktaş", "Besiktas JK"],
+    "Galatasaray": ["Gala", "Galata", "Galatasaray SK"],
+    "AIK": ["AIK Stockholm"],
+    "Rangers": ["Glasgow Rangers"],
+    "Celtic": ["Celtic Glasgow"],
+
+    # Dodaj još po želji...
 }
 
 def strip_accents(s: str) -> str:
@@ -60,35 +106,50 @@ def split_team_words(name: str) -> List[str]:
     clean = [norm_word(p) for p in parts if norm_word(p)]
     return [w for w in clean if (w not in TEAM_STOPWORDS and len(w) >= 2)]
 
+# ---------------------------------------------
+# 2) Mapiranje aliasa na kanonski naziv
+# ---------------------------------------------
+def make_key(name: str) -> str:
+    """Ključ za poređenje: bez dijakritika, mala slova, ne-slova->razmak, višestruki razmaci->jedan."""
+    s = strip_accents(name).lower()
+    s = re.sub(r"[^a-z0-9]+", " ", s).strip()
+    s = re.sub(r"\s+", " ", s)
+    return s
+
+# Izgradi obrnuti indeks: alias -> kanonski
+ALIAS_TO_CANON: Dict[str, str] = {}
+for canon, aliases in TEAM_SYNONYMS.items():
+    # i sam kanonski naziv treba da radi kao sopstveni alias
+    all_forms = [canon] + list(aliases)
+    for form in all_forms:
+        ALIAS_TO_CANON[make_key(form)] = canon
+
+def alias_normalize(name: str) -> str:
+    """Ako je ime u sinonimima, vrati kanonski naziv; u suprotnom vrati original."""
+    key = make_key(name)
+    return ALIAS_TO_CANON.get(key, name)
+
 def share_meaningful_word(a: str, b: str) -> bool:
-    A = set(split_team_words(a))
-    B = set(split_team_words(b))
+    """Uporedi timove posle alias normalizacije i filtriranja stop-reči."""
+    a_n = alias_normalize(a)
+    b_n = alias_normalize(b)
+    A = set(split_team_words(a_n))
+    B = set(split_team_words(b_n))
     return len(A.intersection(B)) > 0
 
 def parse_block(block: str) -> Optional[Dict]:
-    """
-    1. linija (primeri):
-        "20:45    21.10.  [English - Southern Central]"
-        "22:00"
-        "18:30  Ned  21.10.  [ITA1]"  (dan ignorisemo)
-    2. linija:
-        "Banbury United  vs  Kettering Town   (ID: 715)"
-    Sledece linije: KEY=VAL ...
-    """
     lines = [ln.strip() for ln in block.splitlines() if ln.strip()]
     if not lines:
         return None
 
-    # 1) vreme + (opciono) datum + (opciono) liga iz PRVE linije
     m_hdr = re.match(
         r"^\s*(?P<time>\d{1,2}:\d{2})"
-        r"(?:\s+(?:Pon|Uto|Sre|Čet|Pet|Sub|Ned))?"        # opcioni dan
-        r"(?:\s+(?P<date>\d{1,2}\.\d{1,2}\.))?"           # opcioni datum
-        r"(?:\s+\[(?P<league>[^\]]+)\])?\s*$",            # opcioni [liga]
+        r"(?:\s+(?:Pon|Uto|Sre|Čet|Pet|Sub|Ned))?"
+        r"(?:\s+(?P<date>\d{1,2}\.\d{1,2}\.))?"
+        r"(?:\s+\[(?P<league>[^\]]+)\])?\s*$",
         lines[0]
     )
     if not m_hdr:
-        # fallback: bar vreme
         m_time = re.match(r"^\s*(\d{1,2}:\d{2})", lines[0])
         if not m_time:
             return None
@@ -100,14 +161,12 @@ def parse_block(block: str) -> Optional[Dict]:
         match_date = m_hdr.group("date")
         match_league = m_hdr.group("league")
 
-    # 2) linija sa timovima
     teams_line = None
-    for ln in lines[1:3]:  # najcesce je odmah na 2. liniji
+    for ln in lines[1:3]:
         if re.search(r"\bvs\b", ln, flags=re.IGNORECASE):
             teams_line = ln
             break
     if not teams_line:
-        # ako ipak nije na 2., pretrazimo sve
         for ln in lines:
             if re.search(r"\bvs\b", ln, flags=re.IGNORECASE):
                 teams_line = ln
@@ -122,7 +181,6 @@ def parse_block(block: str) -> Optional[Dict]:
     home = m_vs[0].strip(" -\t")
     away = m_vs[1].strip(" -\t")
 
-    # 3) kvote KEY=VAL
     odds: Dict[str, str] = {}
     key_val_pat = re.compile(r"((?:IGG|GG)(?:&[0-9]+\+)?|X|[0-9]+(?:-[0-9]+)?\+?)=([^\s]+)")
     for ln in lines[1:]:
@@ -210,7 +268,7 @@ def main():
 
     df_all = pd.DataFrame(rows)
 
-    # Grupisanje po: isto vreme + smisleno poklapanje timova (domacin/gost)
+    # Grupisanje po: isto vreme + smisleno poklapanje timova (domacin/gost) uz SINONIME
     match_groups: List[List[int]] = []
     used = set()
     for i, row in df_all.iterrows():
@@ -224,18 +282,22 @@ def main():
                 continue
             if row2["time"] != t0:
                 continue
+            # => poređenje sa alias normalizacijom unutra share_meaningful_word
             if share_meaningful_word(h0, row2["home"]) and share_meaningful_word(a0, row2["away"]):
                 group.append(j)
                 used.add(j)
         match_groups.append(group)
 
-    all_lines: List[str] = []
-    arb_only_lines: List[str] = []
+    all_lines: List[str] = []      # puni blokovi svih mečeva (bez SAŽETKA)
+    arb_only_lines: List[str] = [] # puni blokovi samo mečeva sa arbitražom
 
-    # Sažetak po kladionici i veličine grupa
+    # podaci za SAŽETAK (samo za ONLY_ARBS)
     total_per_book = df_all.groupby("bookmaker").size().to_dict()
     paired_indices = set(idx for g in match_groups if len(g) > 1 for idx in g)
-    paired_per_book = df_all.loc[list(paired_indices)].groupby("bookmaker").size().to_dict() if paired_indices else {}
+    paired_per_book = (
+        df_all.loc[list(paired_indices)].groupby("bookmaker").size().to_dict()
+        if paired_indices else {}
+    )
     total_groups = len(match_groups)
     paired_groups = sum(1 for g in match_groups if len(g) > 1)
     ge3 = sum(1 for g in match_groups if len(g) >= 3)
@@ -265,14 +327,12 @@ def main():
         away_str = base["away"]
 
         block: List[str] = []
-        # Prva linija: vreme + (datum) + [liga] — samo ako postoje
         hdr_parts = [time_str]
         if date_str:
             hdr_parts.append(date_str)
         if league_str:
             hdr_parts.append(f"[{league_str}]")
         block.append("   ".join(hdr_parts).rstrip())
-        # Druga linija: timovi
         block.append(f"{home_str}  vs  {away_str}")
         block.append("-"*86)
 
@@ -287,9 +347,8 @@ def main():
             best_val, best_books = best_odds_for_market(subset, m)
             best_map[m] = (best_val, best_books)
             block.append(
-                f"Najveća {m:<3}: {best_val:.2f}  [{', '.join(best_books)}]"
-                if best_val else
-                f"Najveća {m:<3}: -"
+                f"Najveća {m:<3}: {best_val:.2f}  [{', '.join(best_books)}]" if best_val
+                else f"Najveća {m:<3}: -"
             )
 
         # 3) Arbitraže
@@ -312,8 +371,10 @@ def main():
             block.append("Arbitraža (0-2 / 3+): nedovoljno podataka")
         block.append("")
 
+        # U FULL idu svi mečevi (bez SAŽETKA na kraju)
         all_lines.extend(block)
 
+        # U ONLY_ARBS idu samo mečevi koji imaju bar jednu arbitražu
         any_arb = False
         if inv3 is not None and ok3:
             arb_1x2_groups += 1
@@ -325,33 +386,49 @@ def main():
             arb_any_groups += 1
             arb_only_lines.extend(block)
 
-    # SAŽETAK
-    all_lines.append("="*86)
-    all_lines.append("SAŽETAK".center(86))
-    all_lines.append("="*86)
-    all_lines.append(f"Ukupno mečeva (grupa): {total_groups}")
-    all_lines.append(f"Mečeva spojenih sa ≥2 kladionice (grupa size>1): {paired_groups}")
-    all_lines.append(f"Grupa sa veličinom ≥3: {ge3}")
-    all_lines.append(f"Grupa sa veličinom ≥4: {ge4}")
-    all_lines.append(f"Grupa sa veličinom ≥5: {ge5}")
-    all_lines.append(f"Grupa sa veličinom ≥6: {ge6}")
-    all_lines.append(f"Grupa sa veličinom ≥7: {ge7}")
-    all_lines.append("")
-    all_lines.append("Po kladionici:")
+    # ======= SAŽETAK — samo u ONLY_ARBS =======
+    summary_lines: List[str] = []
+    summary_lines.append("="*86)
+    summary_lines.append("SAŽETAK".center(86))
+    summary_lines.append("="*86)
+    summary_lines.append(f"Ukupno mečeva (grupa): {total_groups}")
+    summary_lines.append(f"Mečeva spojenih sa ≥2 kladionice (grupa size>1): {paired_groups}")
+    summary_lines.append(f"Grupa sa veličinom ≥3: {ge3}")
+    summary_lines.append(f"Grupa sa veličinom ≥4: {ge4}")
+    summary_lines.append(f"Grupa sa veličinom ≥5: {ge5}")
+    summary_lines.append(f"Grupa sa veličinom ≥6: {ge6}")
+    summary_lines.append(f"Grupa sa veličinom ≥7: {ge7}")
+    summary_lines.append("")
+    summary_lines.append("Po kladionici:")
     all_books = sorted(set(df_all["bookmaker"].tolist()))
     for bk in all_books:
         total_bk = total_per_book.get(bk, 0)
         paired_bk = paired_per_book.get(bk, 0)
-        all_lines.append(f"  - {bk:<10} ukupno zapisa: {total_bk:>4}   spojeno (u grupama >1): {paired_bk:>4}")
-    all_lines.append("")
-    all_lines.append("Arbitraže (broj mečeva/grupa):")
-    all_lines.append(f"  - 1-X-2: {arb_1x2_groups}")
-    all_lines.append(f"  - 0-2 / 3+: {arb_uo_groups}")
-    all_lines.append(f"  - Barem jedna arbitraža: {arb_any_groups}")
-    all_lines.append("")
+        summary_lines.append(f"  - {bk:<10} ukupno zapisa: {total_bk:>4}   spojeno (u grupama >1): {paired_bk:>4}")
+    summary_lines.append("")
+    summary_lines.append("Arbitraže (broj mečeva/grupa):")
+    summary_lines.append(f"  - 1-X-2: {arb_1x2_groups}")
+    summary_lines.append(f"  - 0-2 / 3+: {arb_uo_groups}")
+    summary_lines.append(f"  - Barem jedna arbitraža: {arb_any_groups}")
+    summary_lines.append("")
 
-    Path("kvote_arbitraza_FULL.txt").write_text("\n".join(all_lines).rstrip() + "\n", encoding="utf-8")
-    Path("kvote_arbitraza_ONLY_arbs.txt").write_text("\n".join(arb_only_lines).rstrip() + ("\n" if arb_only_lines else ""), encoding="utf-8")
+    # Pišemo fajlove:
+    Path("kvote_arbitraza_FULL.txt").write_text(
+        ("\n".join(all_lines).rstrip() + "\n") if all_lines else "",
+        encoding="utf-8"
+    )
+
+    # ONLY_ARBS dobija mečeve sa arbitražom + SAŽETAK na kraju
+    only_arbs_out = []
+    if arb_only_lines:
+        only_arbs_out.extend(arb_only_lines)
+        # odvoji mečeve od sažetka
+        only_arbs_out.append("")
+    only_arbs_out.extend(summary_lines)
+    Path("kvote_arbitraza_ONLY_arbs.txt").write_text(
+        ("\n".join(only_arbs_out).rstrip() + "\n") if only_arbs_out else "\n".join(summary_lines),
+        encoding="utf-8"
+    )
 
 if __name__ == "__main__":
     main()

@@ -15,1118 +15,825 @@ Vremenska ponuda
 Bonus tip
 Danas
 Sutra
-23.10.
-2:00
+24.10.
+0:00
 23:59
-2:00 - 23:59
+0:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
+KOŠARKA IGRAČI
 TENIS
 HOKEJ
+SPECIJAL HOKEJ
 RUKOMET
 ODBOJKA
+VATERPOLO
 STONI TENIS
+AMERIČKI FUDBAL
+SNUKER
+PIKADO
 BEJZBOL
 ESPORT
 BADMINTON
+FUDBAL VIRTUAL
+TENIS VIRTUAL
 POBEDNICI
 GOLOVI PO LIGAMA
 FUDBAL
-KONAČAN ISHOD
-UKUPNO GOLOVA
+BRAZIL, Campeonato Potiguar 2 - First stage
+6420
+00:30
+Potyguar Seridoense
+Mossoro
+660
+USA, USL League One
+274
+00:30
+Portland Hearts of Pine
+Spokane Velocity
+102
+BRAZIL, Copa Santa Catarina - Play Offs
+7943
+01:00
+Joinville
+Criciuma B
+656
+COLOMBIA, Primera A - Clausura
+151
+01:00
+Millonarios
+Bucaramanga
+818
+VENEZUELA, Liga FUTVE - Clausura - Quadrangular
+6419
+01:30
+La Guaira
+Zamora
+647
+BOLIVIA, Copa Pacena
+309
+02:00
+Tomayapo
+Bolivar
+657
 WORLD, Copa Sudamericana - Play Offs
-1763
+149
 02:30
 Ind. del Valle
 Atletico-MG
-975
-1
-1.89
-X
-3.10
-2
-4.20
-0-2
-1.55
-2+
-1.41
-3+
-2.30
+965
 COLOMBIA, Copa Colombia - Second stage
-1850
+245
 03:00
 Pereira
 Envigado
-815
-1
-1.52
-X
-3.70
-2
-6.20
-0-2
-1.65
-2+
-1.34
-3+
-2.10
+816
 MEXICO, Liga MX - Apertura
-1732
+137
 03:00
 Club America
 Puebla
-826
-1
-1.31
-X
-5.25
-2
-8.75
-0-2
-2.38
-2+
-1.15
-3+
-1.53
-1733
+824
+138
 03:00
 Necaxa
 Cruz Azul
-837
-1
-3.15
-X
-3.65
-2
-2.10
-0-2
-2.20
-2+
-1.18
-3+
-1.61
+836
+WORLD, CONCACAF Central American Cup - Play - In
+6418
+04:00
+Cartagines
+Motagua
+654
 MEXICO, Liga MX - Apertura
-1734
+139
 05:00
 Mazatlan FC
 Santos Laguna
-835
-1
-1.96
-X
-3.60
-2
-3.55
-0-2
-2.10
-2+
-1.20
-3+
-1.66
+836
 MEXICO, Liga MX - Apertura
-1735
+140
 05:05
 Monterrey
 Juarez
-830
-1
-1.63
-X
-3.90
-2
-5.00
-0-2
-2.10
-2+
-1.20
-3+
-1.66
+834
 INDONESIA, Super League
-33509
+85
 10:30
 PSIM Yogyakarta
 Dewa United
-829
-1
-3.45
-X
-3.35
-2
-1.93
-0-2
-1.90
-2+
-1.23
-3+
-1.79
+831
+ANDORRA, Primera Divisio
+31272
+11:00
+Ordino
+UE Santa Coloma
+642
+CZECH REPUBLIC, U19 League
+7930
+11:00
+FK Pardubice U19
+Sigma Olomouc U19
+102
+JAPAN, WE League Women
+7919
+11:00
+Nojima Stella Wom.
+JEF United Wom.
+654
+AZERBAIJAN, Division One
+7880
+12:00
+MOIK Baku
+Baku Sporting
+657
+31245
+12:00
+Simal
+Difai Agsu
+657
+CZECH REPUBLIC, U19 League
+7931
+12:00
+Brno U19
+Sparta Prague U19
+102
+EUROPE, UEFA Youth League - League phase
+7951
+12:00
+Galatasaray U19
+Bodo/Glimt U19
+797
+EUROPE, UEFA Youth League - Winners Play Offs
+31313
+12:00
+Legia U19
+Fiorentina U19
+660
+31314
+12:00
+Lok. Zagreb U19
+FCSB U19
+659
+GEORGIA, Crystalbet Erovnuli Liga
+7859
+12:00
+Kolkheti 1913
+Telavi
+657
 WORLD, AFC Champions League - League Phase
-40026
+253
 12:00
 Gangwon
 Vissel Kobe
 918
-1
-3.70
-X
-3.10
-2
-2.03
-0-2
-1.60
-2+
-1.38
-3+
-2.22
+WORLD, AFC Champions League 2
+31326
+12:00
+Gamba Osaka
+Nam Dinh
+833
+SERBIA, U19 League
+7944
+12:30
+TSC Backa Topola U19
+FK Graficar U19
+58
+EUROPE, UEFA Youth League - Winners Play Offs
+31315
+13:00
+Dyn. Kyiv U19
+IF Brommapojkarna U19
+659
+SERBIA, U19 League
+7945
+13:00
+Andreea Prisacariu
+Mladost Lucani U19
+59
+7946
+13:00
+FK Vozdovac U19
+Spartak Subotica U19
+59
+BHUTAN, Premier League
+7910
+14:00
+Transport United FC
+Ugyen Academy
+657
+EUROPE, UEFA Youth League - League phase
+6434
+14:00
+Atalanta U19
+Slavia Prague U19
+840
+6435
+14:00
+Chelsea U19
+Ajax U19
+841
+6436
+14:00
+Eintracht Frankfurt U19
+Liverpool U19
+841
+6437
+14:00
+Monaco U19
+Tottenham U19
+840
+IRAQ, First Division
+31324
+14:00
+Al-Masafi
+Al Hussein Baghdad
+60
+31325
+14:00
+Kadhimiya SC
+Masafi Al Janoob
+60
+ITALY, Coppa Italia Serie D
+6423
+14:00
+Valmontone
+Orvietana
+652
+NORTH MACEDONIA, Macedonia Cup
+31205
+14:00
+Vardar
+Novaci
+641
+SERBIA, U19 League
+7947
+14:00
+Cukaricki U19
+Novi Pazar U19
+59
+7948
+14:00
+OFK Beograd U19
+OFK Vrsac U19
+59
+7949
+14:00
+Vojvodina U19
+Partizan U19
+59
 WORLD, AFC Champions League - League Phase
-40027
+254
 14:15
 Shanghai Greenland Shenhua
 Seoul
 932
-1
-2.35
-X
-3.40
-2
-2.75
-0-2
-2.10
-2+
-1.19
-3+
-1.66
+WORLD, AFC Champions League 2
+31327
+14:15
+Ratchaburi
+Eastern AA
+823
+ANDORRA, Primera Divisio
+31273
+14:30
+FC Santa Coloma
+Penya
+644
+EUROPE, UEFA Youth League - Winners Play Offs
+31316
+14:30
+Ostrava U19
+Crvena zvezda U19
+660
 ITALY, Serie C - Group B
-36833
+119
 14:30
 Juventus U23
 Campobasso
-822
-1
-2.15
-X
-3.05
-2
-3.20
-0-2
-1.70
-2+
-1.31
-3+
-2.02
+824
+MALAWI, Super League
+7907
+14:30
+Blue Eagles
+Mighty Wanderers
+60
+7908
+14:30
+Civo Utd
+Mighty Tigers
+60
+7909
+14:30
+Ekhaya
+Kamuzu Barracks
+60
+MONTENEGRO, Montenegro Cup
+109
+14:30
+Igalo
+Mladost DG
+644
+110
+14:30
+Otrant
+Rudar Pljevlja
+643
+SLOVAKIA, Slovakia Cup
+7854
+14:30
+Galanta
+Komarno
+650
+7855
+14:30
+Malzenice
+AS Trencin
+653
+SLOVAKIA, Slovakia Cup
+7856
+14:45
+Zvolen
+Ruzomberok
+654
+EUROPE, UEFA Youth League - League phase
+6438
+15:00
+Sporting CP U19
+Marseille U19
+838
+ITALY, Coppa Italia Serie D
+6424
+15:00
+Ancona
+Atletico Ascoli
+636
+6425
+15:00
+Citta Di Fasano
+Savoia
+649
+6426
+15:00
+Club Milano
+Sondrio
+652
+6427
+15:00
+Correggese
+Prato
+653
+6428
+15:00
+Francavilla
+Martina Calcio
+633
+6429
+15:00
+NovaRomentin
+Asti
+652
+6430
+15:00
+Pavia
+Piacenza
+651
+6431
+15:00
+Rovato Vertovese SSD
+Este
+651
+MONTENEGRO, Montenegro Cup
+111
+15:00
+Decic
+Buducnost
+658
+112
+15:00
+Jedinstvo
+OFK Petrovac
+656
+SLOVAKIA, Slovakia Cup
+7857
+15:00
+Samorin
+Trnava
+648
+SLOVENIA, Slovenia Cup
+7860
+15:00
+Skofja Loka
+Nafta
+626
+TANZANIA, Ligi Kuu Bara
+31256
+15:00
+Kitayosce
+Mashujaa
+103
+UGANDA, Premier League
+31243
+15:00
+Lugazi
+URA SC
+102
+31244
+15:00
+Maroons
+Calvary
+102
+ZAMBIA, Premier League
+31258
+15:00
+Nkana
+Mufulira
+102
+31259
+15:00
+Nkwazi
+Red Arrows
+102
+31260
+15:00
+Prison Leopards
+Power Dynamos
+102
+31261
+15:00
+ZESCO
+Nchanga Rangers
+102
+EUROPE, UEFA Youth League - Winners Play Offs
+31317
+15:30
+Austria Vienna U19
+Maccabi Haifa U19
+658
+MONTENEGRO, Montenegro Cup
+113
+15:30
+Iskra
+Arsenal Tivat
+654
+114
+15:30
+Jezero
+Bokelj
+658
+WORLD, AFC Champions League 2
+31328
+15:45
+Andijan
+Al Khalidiyah
+816
+31329
+15:45
+Goa
+Al-Nassr Riyadh
+785
+31330
+15:45
+Istiqlol Dushanbe
+Al Zawraa
+826
+CYPRUS, Cyprus Cup
+31206
+16:00
+Paralimni
+Halkanoras Idaliou
+819
 EGYPT, Premier League
-1685
+83
 16:00
 Al Ahly Cairo
 Al Ittihad Al Sakandary
-646
-1
-1.26
-X
-4.40
-2
-11.0
-0-2
-1.73
-2+
-1.29
-3+
-1.97
+643
+EUROPE, UEFA Youth League - League phase
+6439
+16:00
+Bayern Munich U19
+Club Brugge U19
+843
+6440
+16:00
+Real Madrid U19
+Juventus U19
+831
+MONTENEGRO, Montenegro Cup
+115
+16:00
+Sutjeska
+Lovcen
+644
+POLAND, III Liga - Group II
+7892
+16:00
+Rewal
+Lech Poznan II
+59
+PORTUGAL, Campeonato de Portugal - Group A
+31312
+16:00
+Vilaverdense
+SC Mirandela
+647
 TUNISIA, Ligue 1
-40456
+46
 16:00
 Bizertin
 Stade Tunisien
+652
+31185
+16:00
+Etoile Sahel
+Olympique Beja
+649
+31186
+16:00
+Zarzis
+Esperance Tunis
+654
+TUNISIA, Ligue 2
+31274
+16:00
+Progres Sakiet
+Bouchamma
+650
+EUROPE, UEFA Youth League - Winners Play Offs
+31318
+16:30
+MSK Zilina U19
+Shelbourne U19
 653
-1
-2.40
-X
-2.88
-2
-2.88
-0-2
-1.50
-2+
-1.43
-3+
-2.38
+SAUDI ARABIA, Division 1
+7927
+16:40
+Al Jubail
+Al Taee
+654
+BOSNIA AND HERZEGOVINA, Prva Liga - RS
+31323
+17:00
+Sutjeska Foca
+Slavija Sarajevo
+59
 ESTONIA, Meistriliiga
-33527
+98
 17:00
 Harju JK Laagri
 Tammeka
 840
-1
-2.25
-X
-3.65
-2
-2.55
-0-2
-2.60
-2+
-1.11
-3+
-1.41
-33528
+99
 17:00
 Tallinna Kalev
 Kalju
 824
-1
-9.50
-X
-5.60
-2
-1.22
-0-2
-2.80
-2+
-1.08
-3+
-1.36
 FINLAND, Veikkausliiga - Championship Group
-1756
+146
 17:00
 Inter Turku
 Gnistan
-836
-1
-1.36
-X
-5.10
-2
-7.00
-0-2
-2.90
-2+
-1.09
-3+
-1.37
+834
+GEORGIA, Crystalbet Erovnuli Liga
+31204
+17:00
+Samgurali
+Dinamo Tbilisi
+653
+MONTENEGRO, Montenegro Cup
+116
+17:00
+Mornar Bar
+Grbalj
+650
+QATAR, Division 2
+31267
+17:00
+Al Mesaimeer
+Al Khor
+658
+31268
+17:00
+Al-Kharitiyath
+Lusail
+644
+31269
+17:00
+Al-Waab
+Al Bidda
+644
+31270
+17:00
+Muaither SC
+Al Markhiya
+658
 RUSSIA, Russian Cup - Group Stage
-1767
+156
 17:00
 Dynamo Moscow
 Krylya Sovetov
 833
-1
-1.45
-X
-4.35
-2
-6.60
-0-2
-2.30
-2+
-1.16
-3+
-1.56
-1768
+157
 17:00
 Rubin Kazan
 Akhmat Grozny
-830
-1
-2.60
-X
-2.90
-2
-2.95
-0-2
-1.70
-2+
-1.34
-3+
-2.07
+826
+WORLD, Gulf Club Champions League
+7952
+17:00
+Sitra
+Zakho
+654
 SAUDI ARABIA, Division 1
-37040
+163
 17:20
 Al Jandal
 Al Jabalain
-646
-1
-7.50
-X
-3.85
-2
-1.40
-0-2
-1.67
-2+
-1.33
-3+
-2.07
+651
 LITHUANIA, A Lyga
-36780
+86
 17:30
 Siauliai FA
 Banga
-827
-1
-1.72
-X
-3.45
-2
-4.25
-0-2
-1.88
-2+
-1.24
-3+
-1.82
+834
+POLAND, Division 2
+313
+17:30
+Chojniczanka
+Hutnik Krakow
+839
+WORLD, Gulf Club Champions League
+7953
+17:30
+Al Nahda
+Al Rayyan
+654
+CYPRUS, Cyprus Cup
+31207
+18:00
+APOEL
+Zakakiou
+756
+31208
+18:00
+Aris Limassol
+Omonia 29th May
+801
+DENMARK, Landspokal Cup
+314
+18:00
+Bronshoj
+Odense
+650
 ESTONIA, Meistriliiga
-36815
+100
 18:00
 Levadia
 Paide
-829
-1
-1.82
-X
-3.35
-2
-3.85
-0-2
-1.93
-2+
-1.23
-3+
-1.77
+825
+EUROPE, UEFA Youth League - Winners Play Offs
+31319
+18:00
+Brann U19
+Puskas Academy U19
+657
+31320
+18:00
+NK Bravo U19
+FC Porto U19
+647
 FINLAND, Veikkausliiga - Championship Group
-1757
+147
 18:00
 HJK
 SJK
-843
-1
-1.93
-X
-4.10
-2
-3.25
-0-2
-3.00
-2+
-1.08
-3+
-1.35
+846
 GEORGIA, Crystalbet Erovnuli Liga
-36808
+93
 18:00
 Dinamo Batumi
 FC Gareji Sagarejo
-654
-1
-1.97
-X
-3.15
-2
-3.55
-0-2
-1.65
-2+
-1.31
-3+
-2.04
+658
 GUATEMALA, Liga Nacional - Apertura
-36832
+117
 18:00
 Aurora
 Mictlan
-825
-1
-1.71
-X
-3.35
-2
-4.40
-0-2
-1.72
-2+
-1.30
-3+
-1.99
+817
 LITHUANIA, A Lyga
-36781
+87
 18:00
 FK Panevezys
 Riteriai
-826
-1
-1.52
-X
-3.85
-2
-5.25
-0-2
-2.07
-2+
-1.19
-3+
-1.66
+837
+6421
+18:00
+Kauno Zalgiris
+Zalgiris
+832
 NORWAY, OBOS Ligaen
-33733
+169
 18:00
 Aalesund
 Lyn
 834
-1
-1.79
-X
-3.55
-2
-4.05
-0-2
-2.10
-2+
-1.19
-3+
-1.66
-33734
+170
 18:00
 Egersund
 Moss
-837
-1
-1.75
-X
-3.65
-2
-4.05
-0-2
-2.25
-2+
-1.16
-3+
-1.56
-33735
+840
+171
+18:00
+Kongsvinger
+Hodd
+838
+172
 18:00
 Odd
 Lillestrom
-833
-1
-6.25
-X
-4.70
-2
-1.40
-0-2
-2.50
-2+
-1.12
-3+
-1.46
-33736
+836
+173
+18:00
+Ranheim
+Mjondalen
+834
+174
 18:00
 Raufoss
 Sogndal
 837
-1
-2.75
-X
-3.55
-2
-2.25
-0-2
-2.35
-2+
-1.15
-3+
-1.53
-33737
-18:00
-Start
-Skeid
-823
-1
-1.20
-X
-6.00
-2
-10.5
-0-2
-3.00
-2+
-1.08
-3+
-1.34
-37053
-18:00
-Kongsvinger
-Hodd
-837
-1
-1.41
-X
-4.70
-2
-6.00
-0-2
-2.90
-2+
-1.08
-3+
-1.35
-37054
-18:00
-Ranheim
-Mjondalen
-835
-1
-1.39
-X
-4.60
-2
-6.50
-0-2
-2.50
-2+
-1.12
-3+
-1.46
-37055
+175
 18:00
 Stabaek
 Asane
-835
-1
-1.55
-X
-4.15
-2
-4.85
-0-2
-2.50
-2+
-1.12
-3+
-1.46
+837
+176
+18:00
+Start
+Skeid
+822
+SLOVAKIA, Slovakia Cup
+7858
+18:00
+Z. Moravce-Vrable
+Kosice
+660
+TANZANIA, Ligi Kuu Bara
+7884
+18:00
+Coastal Union
+Fountain Gate
+102
+WORLD, AFC Champions League 2
+31331
+18:00
+Al Ahli Doha
+Arkadag
+821
+31332
+18:00
+Esteghlal F.C.
+Al Wehdat
+821
 CZECH REPUBLIC, Chance Liga
-1789
+167
 18:30
 Bohemians
 Mlada Boleslav
-834
-1
-1.93
-X
-3.60
-2
-3.65
-0-2
-2.10
-2+
-1.20
-3+
-1.66
+835
+MAURITANIA, Ligue 1
+7929
+18:30
+Inter Nouakchott
+Gendrim
+102
 UEFA, Champions League
-1799
+194
 18:45
 Athletic Bilbao
 Qarabag
-1037
-1
-1.35
-X
-4.95
-2
-9.25
-0-2
-2.35
-2+
-1.20
-3+
-1.61
-1800
+958
+195
 18:45
 Galatasaray
 Bodo/Glimt
-1054
-1
-1.60
-X
-4.30
-2
-5.20
-0-2
-3.10
-2+
-1.11
-3+
-1.38
+980
 EGYPT, Premier League
-1686
+84
 19:00
 El Masry
 Smouha
 653
-1
-2.05
-X
-2.90
-2
-3.60
-0-2
-1.50
-2+
-1.43
-3+
-2.38
-SAUDI ARABIA, Division 1
-37041
+EUROPE, UEFA Youth League - Winners Play Offs
+31321
 19:00
-Al Arabi
-Al Raed
-653
-1
-4.65
-X
-3.40
-2
-1.67
-0-2
-1.80
-2+
-1.27
-3+
-1.90
-SPAIN, Primera RFEF - Group 2
-37020
-19:00
-Hercules
-Atl. Madrid B
-654
-1
-2.15
-X
-3.00
-2
-3.20
-0-2
-1.62
-2+
-1.35
-3+
-2.15
-TURKEY, Super Lig
-1667
-19:00
-Konyaspor
-Besiktas
-930
-1
-3.10
-X
-3.40
-2
-2.20
-0-2
-2.05
-2+
-1.22
-3+
-1.72
-1668
-19:00
-Rizespor
-Basaksehir
-930
-1
-2.30
-X
-3.25
-2
-3.05
-0-2
-1.88
-2+
-1.26
-3+
-1.84
-RUSSIA, Russian Cup - Group Stage
-1769
-19:30
-FK Rostov
-Nizhny Novgorod
-824
-1
-1.57
-X
-3.75
-2
-6.00
-0-2
-1.90
-2+
-1.26
-3+
-1.84
-1770
-19:30
-Zenit
-Orenburg
-824
-1
-1.22
-X
-6.10
-2
-11.3
-0-2
-2.85
-2+
-1.09
-3+
-1.37
-SOUTH AFRICA, Premiership
-1845
-19:30
-Kaizer Chiefs
-Siwelele
-809
-1
-1.75
-X
-3.10
-2
-5.00
-0-2
-1.45
-2+
-1.49
-3+
-2.50
-1846
-19:30
-Orlando Pirates
-Polokwane
-807
-1
-1.37
-X
-3.90
-2
-9.50
-0-2
-1.52
-2+
-1.43
-3+
-2.38
-1847
-19:30
-Stellenbosch
-Golden Arrows
-802
-1
-1.67
-X
-3.15
-2
-5.70
-0-2
-1.39
-2+
-1.55
-3+
-2.75
-POLAND, Division 2
-36810
-20:00
-Zaglebie Sosnowiec SA
-Podbeskidzie
-832
-1
-2.10
-X
-3.20
-2
-3.10
-0-2
-1.90
-2+
-1.24
-3+
-1.82
-ENGLAND, Championship
-1543
-20:45
-Swansea
-QPR
-925
-1
-2.20
-X
-3.15
-2
-3.60
-0-2
-1.73
-2+
-1.37
-3+
-2.12
-1544
-20:45
-Watford
-West Bromwich
-925
-1
-2.75
-X
-3.15
-2
-2.75
-0-2
-1.68
-2+
-1.39
-3+
-2.20
-1545
-20:45
-Wrexham
-Oxford Utd
-926
-1
-2.07
-X
-3.40
-2
-3.70
-0-2
-1.80
-2+
-1.33
-3+
-2.02
-ENGLAND, Southern League Premier Central
-40015
-20:45
-Needham Market
-Bury Town
-829
-1
-2.00
-X
-3.25
-2
-3.30
-0-2
-1.88
-2+
-1.24
-3+
-1.82
-ENGLAND, Southern League South Division
-38786
-20:45
-Gosport
-Bracknell
-831
-1
-1.85
-X
-3.45
-2
-3.60
-0-2
-2.00
-2+
-1.21
-3+
-1.72
-38787
-20:45
-Havant & W
-Hanwell Town
-832
-1
-1.57
-X
-3.85
-2
-4.60
-0-2
-2.15
-2+
-1.17
-3+
-1.61
-38788
-20:45
-Taunton
-Poole
-834
-1
-2.35
-X
-3.40
-2
-2.55
-0-2
-2.03
-2+
-1.20
-3+
-1.68
-UEFA, Champions League
-1801
-21:00
-Atalanta
-Slavia Prague
-1052
-1
-1.48
-X
-4.60
-2
-6.30
-0-2
-2.55
-2+
-1.17
-3+
-1.51
-1802
-21:00
-Bayern Munich
-Club Brugge KV
-1049
-1
-1.20
-X
-7.25
-2
-13.0
-0-2
-3.90
-2+
-1.06
-3+
-1.25
-1803
-21:00
-Chelsea
-Ajax
-1052
-1
-1.27
-X
-5.80
-2
-11.0
-0-2
-3.05
-2+
-1.11
-3+
-1.39
-1804
-21:00
-Eintracht Frankfurt
-Liverpool
-1059
-1
-4.70
-X
-4.50
-2
-1.63
-0-2
-3.10
-2+
-1.11
-3+
-1.37
-1805
-21:00
-Monaco
-Tottenham
-1054
-1
-2.95
-X
-3.55
-2
-2.35
-0-2
-2.30
-2+
-1.20
-3+
-1.61
-1806
-21:00
-Real Madrid
-Juventus
-1054
-1
-1.49
-X
-4.40
-2
-6.50
-0-2
-2.40
-2+
-1.19
-3+
-1.59
-1807
-21:00
-Sporting CP
-Marseille
-1051
-1
-2.20
-X
-3.55
-2
-3.15
-0-2
-2.38
-2+
-1.19
-3+
-1.59
-ENGLAND, Championship
-1546
-21:00
-Sheffield Wed
-Middlesbrough
-997
-1
-5.00
-X
-3.55
-2
-1.77
-0-2
-1.90
-2+
-1.30
-3+
-1.92
+Basel U19
+Real Betis U19
+652
 Odigrani tiketi
-1732
-Club America - Puebla
-22.10. 03:00
-KONAČAN ISHOD 
-1
-  1.31  
-Običan
-Sistem
-Kvota:
-1.31
-Uplata:
-20.00 RSD
-Dobitak:
-26.20 RSD
-Prihvatam sve promene kvota.
-FREEBET
-Express
-Prijavi se
+Klikni na kvotu i pokreni
 Srpski
 O nama
 Odgovorno klađenje
@@ -1134,5 +841,5 @@ Kontakt
 Pomoć
 Pravila igre
 Preuzmi
-Uslovi uplate karticama
+Opšti uslovi uplate
 Opis igara

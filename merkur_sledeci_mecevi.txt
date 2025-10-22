@@ -1,6 +1,6 @@
 Klađenje
 Uživo
-46
+37
 eSport
 Turniri
 Slot igre
@@ -22,37 +22,38 @@ Ponuda
 Top
 Champions League
  
-18
+9
 Europa League
  
 18
 NBA
  
 4
+NBA Igrači
+ 
+29
 Premier League
  
 10
-Europa Conference League
- 
-18
 Omiljeno
 Sportovi
 Liste i dodaci
 SLEDEĆI MEČEVI >
 Fudbal
+Spec. fudbal
 Košarka
+Spec. košarka
 Tenis
 Hokej
-Specijal Hokej
 Am Fudbal
-Specijal Americki Fudbal
 Xtip Specijal
 Bejzbol
 Rukomet
 Odbojka
+Floorball
 Snuker
-Moto sport
 Pikado
+Vaterpolo
 POBEDNICI
 Stoni Tenis
 Bandy
@@ -70,21483 +71,3320 @@ I GG
 GG & 3+
  
  • 
-02:10
+00:30
 • 
-Toronto
-Seattle
--
--
--
--
--
--
--
--
--
- 23»
- • 
-02:15
-• 
-Atl. Tucuman
-San Lorenzo
-2.52
+Portland Hearts of Pine
+Spokane Velocity
+2.27
+3.20
 2.80
-3.30
-1.32
-3.30
-7.50
-2.55
-7.70
-4.05
- 766»
- • 
-02:15
-• 
-Nacional
-Aguada
-2.20
-13.0
-1.83
--
--
--
--
--
--
- 41»
- • 
-02:20
-• 
-Szymik, Robert
-Pawlowski, Krzysztof
-2.25
--
-1.57
--
--
--
--
--
--
- 2»
- • 
-02:30
-• 
-Santos
-Vitoria BA
-1.57
-4.00
-5.80
+1.87
 1.80
-2.00
+3.10
+1.63
+4.50
+2.13
+ 389»
+ • 
+01:00
+• 
+Millonarios
+Bucaramanga
+2.17
+2.95
 3.55
-2.05
-5.70
-2.65
- 787»
- • 
-02:30
-• 
-Kouble, Daniel
-Bares, Jaroslav
-3.20
--
-1.29
--
--
--
--
--
--
- • 
-02:30
-• 
-Picek, Petr
-Kucirek, Ondrej
-2.43
--
-1.48
--
--
--
--
--
--
- • 
-02:30
-• 
-Volhejn, Dan
-Vales, Jakub
-1.83
--
-1.83
--
--
--
--
--
--
- • 
-02:30
-• 
-Arnett Gardens
-Tivoli Gardens
+1.47
+2.45
+5.00
 2.10
-3.15
-3.20
-1.77
-1.90
-3.40
-1.72
+6.30
+3.05
+ 753»
+ • 
+01:30
+• 
+La Guaira
+Zamora
+1.37
+4.30
+8.00
+1.73
+1.97
+3.55
+2.35
+6.30
+3.00
+ 747»
+ • 
+02:00
+• 
+Tomayapo
+Bolivar
 4.80
-2.30
+4.20
+1.50
+2.60
+1.42
+2.10
+1.50
+3.75
+1.75
  390»
  • 
-02:40
+02:30
 • 
-Nowalinski, Maciej
-Kapik, Krzysztof
-1.45
--
-2.55
--
--
--
--
--
--
- 2»
- • 
-02:45
-• 
-Kowalczyk, Marcin
-Wnek, Stanislaw
-1.95
--
+Ind. del Valle
+Atletico MG
 1.75
--
--
--
--
--
--
+3.25
+5.50
+1.50
+2.55
+5.10
+2.37
+7.00
+3.35
+ 772»
  • 
 03:00
 • 
-Babos T./Stefani L.
-Mihalikova T./Nicholls O.
-1.53
--
-2.40
--
--
--
--
--
--
- 2»
- • 
-03:00
-• 
-Kato M./Ninomiya M.
-Dabrowski G./Kenin S.
-2.90
--
-1.37
--
--
--
--
--
--
- 2»
- • 
-03:00
-• 
-Melichar-Martinez N./Xu Y.
-Hozumi E./Wu F.
-1.53
--
-2.40
--
--
--
--
--
--
- 2»
- • 
-03:00
-• 
-Perez E./Townsend T.
-Hunter S./Krawczyk D.
-1.53
--
-2.40
--
--
--
--
--
--
- 2»
- • 
-03:00
-• 
-Pycha, Patrik
-Hlawatschke, Ales
-1.89
--
-1.78
--
--
--
--
--
--
- • 
-03:00
-• 
-Smrcek, Milan
-Trinta, Mihail
-1.55
--
+Club America
+Puebla
+1.25
+5.90
+9.75
+2.50
+1.52
+2.28
+1.95
+4.80
 2.25
--
--
--
--
--
--
+ 784»
  • 
 03:00
 • 
-Vavrecka, Michal
-Kolisnyk, Oleksandr
-1.69
--
-2.01
--
--
--
--
--
--
- • 
-03:05
-• 
-Ufnal, Mateusz Edward
-Kapik, Krzysztof
+Necaxa
+Cruz Azul
+3.70
+3.80
+1.87
+2.30
+1.60
+2.52
 1.57
--
-2.25
--
--
--
--
--
--
+3.95
+1.87
+ 797»
  • 
-03:10
+03:00
 • 
-Ind. Medellin
-Santa Fe
-1.62
-3.75
-5.20
-1.90
-1.80
-3.05
-1.83
-4.95
-2.32
+Pereira
+Envigado
+1.65
+3.40
+5.30
+1.60
+2.15
+4.05
+2.13
+6.00
+2.85
+ 749»
+ • 
+04:00
+• 
+Cartagines
+Motagua
+2.03
+3.00
+3.55
+1.73
+1.95
+3.50
+1.77
+4.90
+2.40
  759»
  • 
-03:10
+05:00
 • 
-Paisas Basktball
-Caribbean Storm Isl.
-1.27
-16.0
-3.85
--
--
--
--
--
--
- 6»
- • 
-03:10
-• 
-Szymik, Robert
-Wnek, Stanislaw
-2.25
--
-1.57
--
--
--
--
--
--
- 2»
- • 
-03:15
-• 
-U. de Deportes
-Ayacucho
-1.07
-9.00
-22.0
-2.75
-1.38
-1.97
-2.68
-6.10
-3.00
- 741»
- • 
-03:30
-• 
-Calgary
-Winnipeg
-2.80
-4.30
+Mazatlan FC
+Santos Laguna
+2.03
+3.60
+3.35
 2.15
--
--
--
-1.09
--
--
- 166»
+1.70
+2.75
+1.60
+4.20
+1.97
+ 796»
  • 
-03:30
+05:05
 • 
-D. Shnaider
-D. Yastremska
+CF Monterrey
+Juarez
 1.65
--
-2.20
--
--
--
--
--
--
- 55»
+4.05
+4.60
+2.13
+1.70
+2.78
+1.72
+4.50
+2.07
+ 793»
  • 
-03:30
+10:30
 • 
-L. Fernandez
-M. Sakkari
+PSIM Yogyakarta
+Dewa United
+4.05
+3.50
+1.80
+1.97
+1.75
+2.90
+1.67
+4.55
+2.12
+ 765»
+ • 
+11:00
+• 
+Nojima W
+JEF United W
+1.80
+3.15
+4.00
+1.55
+2.20
+4.20
+2.03
+5.75
+2.75
+ 751»
+ • 
+12:00
+• 
+Galatasaray U19
+Bodo/Glimt U19
+1.05
+9.75
+18.0
+5.30
+1.10
+1.35
+1.77
+3.80
+1.90
+ 738»
+ • 
+12:00
+• 
+Gangwon
+Vissel Kobe
+3.55
+3.05
+2.18
+1.53
+2.35
+4.60
+2.03
+5.90
+2.90
+ 755»
+ • 
+14:00
+• 
+Atalanta U19
+Slavia P. U19
+2.13
+3.90
+2.62
+2.50
 1.45
+2.15
+1.38
+3.45
+1.65
+ 775»
+ • 
+14:00
+• 
+Chelsea U19
+Ajax U19
+1.45
+5.00
+4.60
+3.10
+1.30
+1.80
+1.38
+3.35
+1.57
+ 771»
+ • 
+14:00
+• 
+Eintracht Frankfurt U19
+Liverpool U19
+2.03
+3.80
+2.85
+2.45
+1.45
+2.18
+1.40
+3.50
+1.67
+ 775»
+ • 
+14:00
+• 
+Monaco U19
+Tottenham U19
+2.47
+3.65
+2.32
+2.60
+1.42
+2.07
+1.37
+3.35
+1.62
+ 775»
+ • 
+14:15
+• 
+Shanghai Shenhua
+Seoul
+2.68
+3.60
+2.37
+2.10
+1.65
+2.68
+1.53
+4.10
+1.92
+ 770»
+ • 
+14:30
+• 
+Juventus U23
+Campobasso
+2.20
+3.10
+3.00
+1.75
+1.95
+3.50
+1.73
+4.85
+2.32
+ 765»
+ • 
+15:00
+• 
+Sporting U19
+Marseille U19
+1.50
+4.15
+4.85
+2.50
+1.45
+2.15
+1.52
+3.90
+1.80
+ 762»
+ • 
+15:00
+• 
+Ancona
+Atletico Ascoli
+1.92
+3.25
+3.55
+1.72
+2.01
+3.45
+1.83
+-
+2.27
+ 113»
+ • 
+15:00
+• 
+Citta Di Fasano
+Savoia
+1.81
+3.10
+4.20
+1.55
+2.30
+4.10
+2.07
 -
 2.70
--
--
--
--
--
--
- 55»
+ 113»
  • 
-03:30
+15:00
 • 
-Bares, Jaroslav
-Sopko, Martin
-1.87
+Club Milano
+Sondrio
+1.67
+3.55
+4.40
+1.85
+1.85
+3.05
+1.81
 -
+2.18
+ 113»
+ • 
+15:00
+• 
+Correggese
+Prato
+2.10
+3.20
+3.10
+1.72
+2.01
+3.45
 1.80
 -
--
--
--
--
--
+2.23
+ 113»
  • 
-03:30
+15:00
 • 
-Kucirek, Ondrej
-Bruzek, Petr
-1.66
+Francavilla
+Martina
+4.50
+3.20
+1.73
+1.56
+2.28
+4.10
+2.12
 -
+2.75
+ 113»
+ • 
+15:00
+• 
+NovaRomentin
+Asti
+2.31
+2.80
+3.10
+1.55
+2.32
+4.10
+1.93
+-
+2.60
+ 113»
+ • 
+15:00
+• 
+Pavia
+Piacenza
+4.80
+3.50
+1.62
+1.85
+1.85
+3.05
+1.83
+-
+2.22
+ 113»
+ • 
+15:00
+• 
+Rovato Vertovese
+AC Este
+2.31
+2.70
+3.20
+1.47
+2.50
+4.60
 2.05
 -
--
--
--
--
--
+2.80
+ 113»
  • 
-03:30
+15:00
 • 
-Vales, Jakub
-Kycelt, Jakub
-1.59
+Valmontone
+Orvietana
+2.11
+2.80
+3.55
+1.53
+2.32
+4.10
+1.97
 -
-2.17
--
--
--
--
--
--
+2.60
+ 113»
  • 
-03:30
+16:00
 • 
-Veraguas
-SD Atletico Nacional
-2.28
+Bayern Munich U19
+Club Brugge U19
+1.70
+4.55
+3.30
+3.00
+1.32
+1.83
+1.32
+3.15
+1.52
+ 773»
+ • 
+16:00
+• 
+Real Madrid U19
+Juventus U19
+1.30
+5.00
+7.10
+2.80
+1.37
+1.93
+1.60
+4.00
+1.85
+ 763»
+ • 
+16:00
+• 
+Al Ahly
+Al Ittihad
+1.22
+5.25
+13.0
+1.75
+1.93
+3.45
+2.95
+7.70
+3.75
+ 743»
+ • 
+16:40
+• 
+Al Jubail
+Al Taee
+3.25
+3.00
+2.13
+1.60
+2.13
+4.00
+1.88
+5.30
+2.60
+ 388»
+ • 
+17:00
+• 
+Inter Turku
+Gnistan
+1.35
+5.40
+7.25
+2.85
+1.40
+2.00
+1.62
+4.05
+1.87
+ 791»
+ • 
+17:00
+• 
+Dynamo Moscow
+Krylya Sovetov
+1.40
+4.85
+6.60
+2.35
+1.55
+2.42
+1.75
+4.55
+2.10
+ 764»
+ • 
+17:00
+• 
+Rubin
+Akhmat Grozny
+2.52
+3.10
+2.85
+1.67
+2.15
+3.95
+1.87
+5.25
+2.57
+ 763»
+ • 
+17:00
+• 
+Harju JK
+Tammeka
+2.32
+3.85
+2.52
+2.60
+1.43
+2.12
+1.38
 3.40
+1.63
+ 775»
+ • 
+17:00
+• 
+Tallinna Kalev
+Kalju
+10.0
+6.40
+1.20
+2.90
+1.35
+1.92
+1.77
+4.40
+2.03
+ 760»
+ • 
+17:20
+• 
+Al Jandal
+Al Jabalain
+5.10
+3.40
+1.62
+1.65
+2.05
+3.75
+2.05
+5.70
+2.72
+ 383»
+ • 
+17:30
+• 
+FA Siauliai
+Banga
+1.70
+3.95
+3.80
+2.00
+1.72
+2.85
+1.65
+4.45
+2.05
+ 765»
+ • 
+18:00
+• 
+HJK
+SJK
+1.92
+4.15
+3.35
+2.95
+1.38
+1.95
+1.37
+3.30
+1.57
+ 800»
+ • 
+18:00
+• 
+Bronshoj
+Odense
+9.00
+5.60
+1.25
+2.60
+1.43
+2.12
+1.82
+4.60
+2.12
+ 757»
+ • 
+18:00
+• 
+Levadia
+Paide
+1.72
+3.80
+4.15
+1.97
+1.75
+2.90
+1.70
+4.60
+2.13
+ 762»
+ • 
+18:00
+• 
+Panevezys
+Riteriai
+1.57
+4.10
+4.70
+2.20
+1.60
+2.52
+1.62
+4.33
+1.97
+ 766»
+ • 
+18:00
+• 
+Kauno Zalgiris
+Zalgiris
+2.10
+3.35
+3.15
+1.93
+1.77
+3.00
+1.63
+4.45
+2.10
+ 767»
+ • 
+18:00
+• 
+Aalesund
+Lyn
+1.70
+4.10
+4.20
+2.15
+1.62
+2.60
+1.62
+4.30
+1.97
+ 767»
+ • 
+18:00
+• 
+Egersund
+Moss
+1.75
+3.95
+4.10
+2.45
+1.50
+2.27
+1.48
+3.75
+1.77
+ 771»
+ • 
+18:00
+• 
+Kongsvinger
+Hodd
+1.38
+5.35
+6.20
+3.05
+1.32
+1.85
+1.48
+3.60
+1.67
+ 769»
+ • 
+18:00
+• 
+Odd
+Lillestrom
+6.00
+4.85
+1.43
 2.65
+1.42
+2.07
+1.55
+3.90
+1.82
+ 768»
+ • 
+18:00
+• 
+Ranheim
+Mjondalen
+1.37
+5.30
+6.75
+2.75
+1.40
+2.03
+1.60
+3.95
+1.83
+ 764»
+ • 
+18:00
+• 
+Raufoss
+Sogndal
+2.85
+3.65
+2.23
+2.35
+1.53
+2.37
+1.45
+3.70
+1.77
+ 772»
+ • 
+18:00
+• 
+Stabaek
+Asane
+1.45
+4.95
+5.60
+2.75
+1.40
+2.03
+1.52
+3.80
+1.75
+ 769»
+ • 
+18:00
+• 
+Start
+Skeid
+1.22
+6.50
+11.0
+2.90
+1.35
+1.92
+1.80
+4.45
+2.05
+ 762»
+ • 
+18:30
+• 
+Bohemians 1905
+Mlada Boleslav
+2.13
+3.60
+3.25
+2.10
+1.73
+2.80
+1.60
+4.30
+2.00
+ 794»
+ • 
+18:45
+• 
+Ath Bilbao
+Qarabag
+1.37
+5.20
+9.50
+2.27
+1.65
+2.63
+2.03
+5.35
+2.45
+ 885»
+ • 
+18:45
+• 
+Galatasaray
+Bodo/Glimt
+1.60
+4.70
+5.00
+3.20
+1.37
+1.90
+1.42
+3.25
+1.62
+ 904»
+ • 
+19:00
+• 
+Konyaspor
+Besiktas
+3.15
+3.50
+2.23
+2.10
+1.73
+2.85
+1.57
+4.30
+2.00
+ 794»
+ • 
+19:00
+• 
+Rizespor
+Basaksehir
+2.37
+3.50
+2.90
+1.90
+1.88
+3.25
+1.67
+4.65
+2.18
+ 791»
+ • 
+19:00
+• 
+Hercules
+Atl. Madrid B
+2.47
+2.95
+2.70
+1.62
+2.10
+3.90
+1.83
+5.20
+2.52
+ 763»
+ • 
+19:00
+• 
+El Masry
+Smouha SC
+1.92
+3.10
+4.10
+1.55
+2.30
+4.45
+2.05
+5.90
+2.85
+ 752»
+ • 
+19:00
+• 
+Al Arabi
+Al Raed
+4.20
+3.60
+1.67
+1.65
+2.10
+3.85
+1.97
+5.50
+2.62
+ 385»
+ • 
+19:30
+• 
+Rostov
+Nizhny Novgorod
+1.52
+4.15
+5.90
+1.90
+1.85
+3.15
+1.95
+5.25
+2.45
+ 759»
+ • 
+19:30
+• 
+Zenit
+Orenburg
+1.22
+6.50
+11.0
+2.90
+1.38
+1.97
+1.85
+4.55
+2.10
+ 763»
+ • 
+19:30
+• 
+Kaizer Chiefs
+Siwelele
+1.85
+3.15
+4.80
+1.42
+2.65
+5.50
+2.37
+7.10
+3.45
+ 738»
+ • 
+19:30
+• 
+Orlando Pirates
+Polokwane
+1.35
+4.25
+11.0
+1.55
+2.30
+4.40
+3.05
+8.25
+4.10
+ 743»
+ • 
+19:30
+• 
+Stellenbosch
+Golden Arrows
+1.67
+3.30
+6.00
+1.40
+2.75
+5.80
+2.65
+7.60
+3.85
+ 735»
+ • 
+20:30
+• 
+Pistoiese
+Vado FC
+2.11
+2.80
+3.55
+1.53
+2.32
+4.10
+1.97
+-
+2.60
+ 113»
+ • 
+20:30
+• 
+Reggina
+Nocerina
+1.86
+3.15
+3.90
+1.72
+2.00
+3.40
+1.83
+-
+2.30
+ 113»
+ • 
+20:45
+• 
+Swansea
+QPR
+2.15
+3.25
+3.55
+1.70
+2.13
+3.90
+1.90
+5.10
+2.55
+ 788»
+ • 
+20:45
+• 
+Watford
+WBA
+2.80
+3.25
+2.57
+1.65
+2.20
+4.10
+1.92
+5.25
+2.60
+ 795»
+ • 
+20:45
+• 
+Wrexham
+Oxford Utd
+1.97
+3.45
+3.90
+1.80
+2.00
+3.60
+1.83
+4.95
+2.37
+ 789»
+ • 
+20:45
+• 
+Needham Market
+Bury Town
+1.70
+3.70
+4.40
+2.07
+1.65
+2.72
+1.65
+4.40
+2.05
+ 388»
+ • 
+20:45
+• 
+Gosport Borough
+Bracknell
+1.82
+3.60
+3.55
+2.15
+1.60
+2.55
+1.55
+4.10
+1.90
+ 389»
+ • 
+20:45
+• 
+Havant & W
+Hanwell Town
+1.67
+3.75
+4.05
+2.25
+1.55
+2.45
+1.55
+4.05
+1.88
+ 389»
+ • 
+20:45
+• 
+Taunton Town
+Poole
+2.18
+3.35
+2.85
+1.97
+1.72
+2.90
+1.57
+4.30
+2.03
+ 389»
+ • 
+20:45
+• 
+Faetano
+Murata
+4.15
+3.80
+1.65
+2.25
+1.55
+2.45
+1.55
+4.05
+1.88
+ 389»
+ • 
+20:45
+• 
+Juvenes/Dogana
+Fiorentino
+2.35
+3.40
+2.57
 2.12
 1.62
 2.60
+1.50
+4.00
+1.88
+ 390»
+ • 
+20:45
+• 
+La Fiorita
+Folgore
+1.57
+3.45
+5.50
+1.63
+2.10
+3.90
+2.15
+6.00
+2.85
+ 383»
+ • 
+21:00
+• 
+Atalanta
+Slavia Prague
+1.43
+5.10
+6.80
+2.40
+1.57
+2.45
+1.75
+4.55
+2.07
+ 910»
+ • 
+21:00
+• 
+Bayern
+Club Brugge
+1.18
+7.50
+15.0
+4.10
+1.25
+1.62
+1.67
+3.75
+1.83
+ 893»
+ • 
+21:00
+• 
+Chelsea
+Ajax
+1.27
+6.80
+11.0
+3.10
+1.40
+1.95
+1.75
+4.33
+1.97
+ 909»
+ • 
+21:00
+• 
+Frankfurt
+Liverpool
+4.95
+4.70
+1.60
+3.45
+1.33
+1.82
+1.38
+3.15
+1.55
+ 912»
+ • 
+21:00
+• 
+Monaco
+Tottenham
+2.95
+3.75
+2.33
+2.37
+1.60
+2.50
+1.50
+3.90
+1.83
+ 894»
+ • 
+21:00
+• 
+Real Madrid
+Juventus
+1.47
+4.90
+6.70
+2.45
+1.57
+2.40
+1.70
+4.45
+2.03
+ 907»
+ • 
+21:00
+• 
+Sporting
+Marseille
+2.20
+3.75
+3.20
+2.37
+1.60
+2.50
+1.52
+3.90
+1.85
+ 897»
+ • 
+21:00
+• 
+Sheffield Wed
+Middlesbrough
+4.65
+4.05
+1.70
+1.95
+1.83
+3.15
+1.82
+4.80
+2.27
+ 791»
+ • 
+21:00
+• 
+MC Alger
+Paradou
+1.37
+4.25
+8.25
+1.67
+2.05
+3.75
+2.47
+6.70
+3.20
+ 747»
+ • 
+22:00
+• 
+Nacional As.
+.12 De Octubre Itagua
+1.35
+4.50
+6.60
+2.17
+1.60
+2.55
+1.85
+4.85
+2.23
+ 757»
+ • 
+00:00
+• 
+Bahia
+Internacional
+1.88
+3.35
+4.35
+1.73
+2.07
+3.75
+1.93
+5.35
+2.57
+ 785»
+ • 
+00:30
+• 
+Huracan
+Cent. Cordoba
+1.97
+3.05
+4.45
+1.37
+3.00
+6.60
+2.55
+7.50
+3.80
+ 763»
+ • 
+00:30
+• 
+Guarani As.
+River Plate As.
+1.35
+4.10
+7.25
+1.75
+1.93
+3.45
+2.27
+6.20
+2.90
+ 748»
+ • 
+00:30
+• 
+HFX Wanderers
+York Utd
+2.20
+3.30
+2.85
+2.00
+1.70
+2.80
+1.57
+4.25
+2.00
+ 389»
+ • 
+01:00
+• 
+Atl. Nacional
+Once Caldas
+1.52
+3.75
+5.90
+1.67
+2.05
+3.75
+2.13
+5.90
+2.80
+ 752»
+ • 
+01:00
+• 
+Guayaquil SC
+Emelec
+2.90
+3.30
+2.27
+1.65
+2.07
+3.85
+1.83
+5.10
+2.47
+ 390»
+ • 
+02:30
+• 
+Flamengo RJ
+Racing Club
+1.38
+4.60
+8.50
+1.87
+1.93
+3.35
+2.28
+6.00
+2.85
+ 779»
+ • 
+02:30
+• 
+Chicago
+Orlando City
+2.12
+3.80
+3.10
+2.60
+1.50
+2.25
+1.47
+3.55
+1.72
+ 802»
+ • 
+03:00
+• 
+Pachuca
+Tigres
+2.62
+3.35
+2.57
+1.92
+1.87
+3.20
+1.70
+4.50
+2.17
+ 795»
+ • 
+03:00
+• 
+Queretaro
+Guadalajara
+5.10
+3.40
+1.73
+1.73
+2.10
+3.80
+2.03
+5.40
+2.63
+ 785»
+ • 
+04:00
+• 
+Sacramento Rep.
+Charleston
+2.50
+3.40
+2.52
+1.83
+1.85
+3.25
+1.67
+4.65
+2.20
+ 769»
+ • 
+04:30
+• 
+Portland
+Salt Lake
+2.20
+3.65
+3.05
+2.35
+1.63
+2.52
+1.53
+3.85
+1.85
+ 798»
+ • 
+05:00
+• 
+Atlas
+Leon
+2.78
+3.60
+2.32
+2.28
+1.63
+2.55
+1.53
+3.85
+1.85
+ 797»
+ • 
+05:00
+• 
+Club Tijuana
+Toluca
+3.35
+3.95
+1.93
+2.65
+1.47
+2.15
+1.43
+3.45
+1.65
+ 801»
+ • 
+05:05
+• 
+UNAM Pumas
+Atl. San Luis
+1.77
+3.80
+4.10
+2.00
+1.82
+3.05
+1.73
+4.60
+2.15
+ 792»
+ • 
+16:55
+• 
+Al Riyadh
+Al Kholood
+2.55
+3.20
+2.60
+1.85
+1.85
+3.20
+1.65
+4.60
+2.18
+ 793»
+ • 
+17:00
+• 
+Al Feiha
+Al-Taawon Buraidah
+2.60
+3.15
+2.57
+1.65
+2.10
+3.90
+1.83
+5.20
+2.52
+ 786»
+ • 
+17:30
+• 
+Krasnodar
+Sochi
+1.30
+5.30
+8.50
+2.17
+1.65
+2.68
+2.03
+5.35
+2.47
+ 758»
+ • 
+17:30
+• 
+Hegelmann
+Dziugas
+1.45
+4.30
+6.00
+2.10
+1.65
+2.68
+1.80
+4.80
+2.20
+ 759»
+ • 
+18:30
+• 
+Hvidovre
+Koge
+1.70
+3.80
+4.65
+2.05
+1.70
+2.80
+1.70
+4.55
+2.12
+ 763»
+ • 
+18:45
+• 
+Braga
+Crvena zvezda
+1.90
+3.65
+3.95
+1.93
+1.87
+3.20
+1.72
+4.75
+2.20
+ 896»
+ • 
+18:45
+• 
+Brann
+Rangers
+2.13
+3.60
+3.30
+2.10
+1.73
+2.85
+1.60
+4.30
+2.00
+ 883»
+ • 
+18:45
+• 
+FCSB
+Bologna
+5.20
+3.85
+1.67
+1.85
+1.93
+3.45
+1.92
+5.30
+2.47
+ 882»
+ • 
+18:45
+• 
+Fenerbahce
+Stuttgart
+2.37
+3.65
+2.80
+2.35
+1.57
+2.47
+1.48
+3.85
+1.82
+ 882»
+ • 
+18:45
+• 
+Feyenoord
+Panathinaikos
+1.60
+4.15
+5.60
+2.13
+1.70
+2.78
+1.75
+4.75
+2.17
+ 877»
+ • 
+18:45
+• 
+G.A. Eagles
+Aston Villa
+6.00
+4.70
+1.50
+2.50
+1.52
+2.28
+1.62
+4.20
+1.92
+ 899»
+ • 
+18:45
+• 
+Genk
+Betis
+3.05
+3.55
+2.25
+2.05
+1.77
+2.90
+1.60
+4.35
+2.03
+ 890»
+ • 
+18:45
+• 
+Lyon
+Basel
+1.55
+4.55
+5.25
+2.55
+1.50
+2.27
+1.57
+4.05
+1.85
+ 893»
+ • 
+18:45
+• 
+Salzburg
+Ferencvaros
+1.95
+3.70
+3.70
+2.05
+1.75
+2.90
+1.63
+4.45
+2.05
+ 891»
+ • 
+18:45
+• 
+AEK
+Aberdeen
+1.32
+5.45
+8.50
+2.32
+1.57
+2.47
+1.90
+4.95
+2.27
+ 877»
+ • 
+18:45
+• 
+Breidablik
+KuPS
+2.17
+3.80
+2.90
+2.37
+1.57
+2.42
+1.47
+3.80
+1.77
+ 892»
+ • 
+18:45
+• 
+Drita
+Omonia
+3.70
+3.45
+1.88
+2.03
+1.70
+2.80
+1.60
+4.35
+2.00
+ 888»
+ • 
+18:45
+• 
+Hacken
+Rayo Vallecano
+4.35
+3.75
+1.73
+2.05
+1.73
+2.90
+1.67
+4.60
+2.10
+ 881»
+ • 
+18:45
+• 
+Rijeka
+Sparta Prague
+3.45
+3.50
+2.03
+1.88
+1.90
+3.30
+1.72
+4.80
+2.25
+ 886»
+ • 
+18:45
+• 
+SK Rapid
+Fiorentina
+3.20
+3.60
+2.10
+1.97
+1.82
+3.05
+1.65
+4.55
+2.12
+ 882»
+ • 
+18:45
+• 
+Shakhtar D.
+Legia
+1.82
+3.75
+3.95
+2.03
+1.77
+2.95
+1.67
+4.60
+2.10
+ 890»
+ • 
+18:45
+• 
+Shkendija
+Shelbourne
+2.12
+3.30
+3.40
+1.70
+2.13
+3.95
+1.87
+5.30
+2.55
+ 884»
+ • 
+18:45
+• 
+Strasbourg
+Jagiellonia
+1.47
+4.55
+6.00
+2.37
+1.57
+2.42
+1.67
+4.40
+2.00
+ 880»
+ • 
+20:00
+• 
+Baltika
+Lokomotiv M.
+2.35
+3.30
+2.90
+1.75
+2.00
+3.60
+1.77
+4.95
+2.40
+ 767»
+ • 
+20:00
+• 
+Al Najma
+Al Ahli SC
+8.75
+5.90
+1.23
+2.50
+1.47
+2.18
+1.85
+4.70
+2.15
+ 781»
+ • 
+21:00
+• 
+Celta
+Nice
+1.90
+3.60
+4.00
+2.00
+1.77
+3.00
+1.67
+4.60
+2.10
+ 904»
+ • 
+21:00
+• 
+Celtic
+Sturm
+1.53
+4.45
+5.75
+2.25
+1.63
+2.57
+1.70
+4.60
+2.07
+ 881»
+ • 
+21:00
+• 
+Freiburg
+Utrecht
+1.57
+4.25
+5.70
+2.20
+1.67
+2.68
+1.73
+4.70
+2.12
+ 879»
+ • 
+21:00
+• 
+Lille
+PAOK
+1.57
+4.20
+5.80
+2.00
+1.80
+3.00
+1.87
+5.00
+2.32
+ 874»
+ • 
+21:00
+• 
+M. Tel Aviv
+Midtjylland
+3.30
+3.40
+2.20
+2.00
+1.77
+3.00
+1.63
+4.45
+2.10
+ 889»
+ • 
+21:00
+• 
+Malmo FF
+Dinamo Zagreb
+3.05
+3.40
+2.35
+1.80
+2.00
+3.55
+1.73
+4.90
+2.32
+ 886»
+ • 
+21:00
+• 
+Nottingham
+Porto
+2.33
+3.30
+3.25
+1.88
+1.93
+3.35
+1.70
+4.75
+2.25
+ 892»
+ • 
+21:00
+• 
+Roma
+Plzen
+1.35
+5.20
+7.70
+2.45
+1.53
+2.33
+1.77
+4.60
+2.10
+ 882»
+ • 
+21:00
+• 
+Young Boys
+Ludogorets
+1.88
+3.65
+4.05
+2.00
+1.77
+3.00
+1.67
+4.60
+2.12
+ 890»
+ • 
+21:00
+• 
+AZ Alkmaar
+Slovan Bratislava
+1.30
+5.60
+7.90
+2.65
+1.47
+2.15
+1.72
+4.45
+2.00
+ 876»
+ • 
+21:00
+• 
+Crystal Palace
+AEK Larnaca
+1.16
+6.90
+16.0
+2.55
+1.50
+2.23
+2.37
+5.90
+2.72
+ 860»
+ • 
+21:00
+• 
+Hamrun
+Lausanne
+6.20
+4.05
+1.52
+2.00
+1.77
+3.00
+1.90
+5.10
+2.37
+ 873»
+ • 
+21:00
+• 
+Lincoln RI
+Lech Poznan
+11.0
+6.30
+1.22
+2.60
+1.48
+2.20
+2.00
+5.00
+2.30
+ 870»
+ • 
+21:00
+• 
+Mainz
+Zrinjski
+1.22
+6.00
+12.0
+2.45
+1.53
+2.33
+2.12
+5.35
+2.50
+ 874»
+ • 
+21:00
+• 
+Samsunspor
+Dyn. Kyiv
+1.92
+3.50
+3.80
+1.88
+1.90
+3.30
+1.73
+4.85
+2.23
+ 876»
+ • 
+21:00
+• 
+Shamrock
+Celje
+3.45
+3.50
+2.03
+1.85
+1.93
+3.40
+1.75
+4.90
+2.30
+ 884»
+ • 
+21:00
+• 
+Sigma Olomouc
+Rakow
+2.80
+3.15
+2.52
+1.75
+2.03
+3.65
+1.77
+4.95
+2.40
+ 885»
+ • 
+21:00
+• 
+Univ. Craiova
+Noah
+2.03
+3.40
+3.50
+1.75
+2.03
+3.65
+1.80
+5.10
+2.42
+ 875»
+ • 
+21:00
+• 
+Exeter
+Plymouth
+2.95
+3.35
+2.37
+1.95
+1.75
+2.95
+1.60
+4.40
+2.07
+ 769»
+ • 
+00:00
+• 
+U. De Chile
+Lanus
+2.65
+2.95
+2.90
+1.47
+2.65
+5.45
+2.17
+6.50
+3.20
+ 776»
+ • 
+02:10
+• 
+Def. Belgrano
+Argentinos Jrs
+3.85
+3.00
+2.05
+1.42
+2.70
+5.75
+2.30
+7.00
+3.40
+ 746»
+ • 
+02:30
+• 
+LDU Quito
+Palmeiras
+2.95
+2.95
+2.65
+1.48
+2.65
+5.40
+2.18
+6.40
+3.15
+ 776»
+ • 
+03:00
+• 
+Sporting Cristal
+U. de Deportes
+2.65
+3.10
+2.55
+1.62
+2.15
+4.00
+1.85
+5.25
+2.57
+ 763»
+ • 
+03:00
+• 
+Venados
+Tampico Madero
+2.20
+3.25
+2.90
+1.95
+1.75
+2.95
+1.60
+4.35
+2.05
+ 389»
+ • 
+10:35
+• 
+Newcastle Jets
+Melbourne Victory
+2.85
+3.85
+2.18
+2.60
+1.48
+2.23
+1.45
+3.45
+1.70
+ 801»
+ • 
+13:35
+• 
+Meizhou Hakka
+Yunnan Yukun
+1.75
+4.05
+3.70
+2.90
+1.35
+1.90
+1.35
+3.30
+1.57
+ 773»
+ • 
+13:35
+• 
+Wuhan TT
+Shenzhen Xinpengcheng
+2.15
+3.50
+2.95
+2.15
+1.60
+2.57
 1.52
 4.00
 1.88
  770»
  • 
-03:30
+14:00
 • 
-Adam Klapka
-Calgary
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Blake Coleman
-Calgary
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Connor Zary
-Calgary
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Jake Bean
-Calgary
--
--
--
--
--
--
--
--
--
- 1»
- • 
-03:30
-• 
-Joel Farabee
-Calgary
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Joel Hanley
-Calgary
--
--
--
--
--
--
--
--
--
- 1»
- • 
-03:30
-• 
-Jonathan Huberdeau
-Calgary
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Kevin Bahl
-Calgary
--
--
--
--
--
--
--
--
--
- 1»
- • 
-03:30
-• 
-Mackenzie Weegar
-Calgary
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Matt Coronato
-Calgary
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Mikael Backlund
-Calgary
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Morgan Frost
-Calgary
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Nazem Kadri
-Calgary
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Rasmus Andersson
-Calgary
--
--
--
--
--
--
--
--
--
- 1»
- • 
-03:30
-• 
-Ryan Lomberg
-Calgary
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Samuel Honzek
-Calgary
--
--
--
--
--
--
--
--
--
- 1»
- • 
-03:30
-• 
-Zayne Parekh
-Calgary
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Alex Iafallo
-Winnipeg
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Cole Koepke
-Winnipeg
--
--
--
--
--
--
--
--
--
- 1»
- • 
-03:30
-• 
-Dylan DeMelo
-Winnipeg
--
--
--
--
--
--
--
--
--
- 1»
- • 
-03:30
-• 
-Gabriel Vilardi
-Winnipeg
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Gustav Nyquist
-Winnipeg
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Haydn Fleury
-Winnipeg
--
--
--
--
--
--
--
--
--
- 1»
- • 
-03:30
-• 
-Jonathan Toews
-Winnipeg
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Josh Morrissey
-Winnipeg
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Kyle Connor
-Winnipeg
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Logan Stanley
-Winnipeg
--
--
--
--
--
--
--
--
--
- 1»
- • 
-03:30
-• 
-Luke Schenn
-Winnipeg
--
--
--
--
--
--
--
--
--
- 1»
- • 
-03:30
-• 
-Mark Scheifele
-Winnipeg
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Morgan Barron
-Winnipeg
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Neal Pionk
-Winnipeg
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Nino Niederreiter
-Winnipeg
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Tanner Pearson
-Winnipeg
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-Vladislav Namestnikov
-Winnipeg
--
--
--
--
--
--
--
--
--
- 3»
- • 
-03:30
-• 
-L. Weir
-S.S. Cadar
-5.50
--
-1.10
--
--
--
--
--
--
- • 
-03:30
-• 
-Brud, Szymon
-Nowalinski, Maciej
-4.60
--
-1.15
--
--
--
--
--
--
- 2»
- • 
-03:35
-• 
-Pawlowski, Krzysztof
-Kowalczyk, Marcin
-1.75
--
-1.97
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Las Vegas
-Carolina
-2.36
-4.30
-2.55
--
--
--
-1.07
--
--
- 166»
- • 
-04:00
-• 
-Seattle
-Houston
-1.62
-14.0
-2.55
--
--
--
--
--
--
- 149»
- • 
-04:00
-• 
-Guadalupe
-San Jose FC
-3.10
-3.15
-2.28
-1.73
-1.97
-3.55
-1.75
-4.90
-2.37
- 765»
- • 
-04:00
-• 
-Pycha, Patrik
-Kouble, Daniel
-1.45
--
-2.50
--
--
--
--
--
--
- • 
-04:00
-• 
-Smrcek, Milan
-Picek, Petr
-1.67
--
-2.03
--
--
--
--
--
--
- • 
-04:00
-• 
-Vavrecka, Michal
-Volhejn, Dan
-1.83
--
-1.84
--
--
--
--
--
--
- • 
-04:00
-• 
-Appleton E./Tang Q.
-Eala A./Kichenok N.
-2.15
--
-1.65
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Gleason Q./Pridankina E.
-Osorio C./Wang Y.
-1.60
--
-2.20
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Jeanjean L./Mladenovic K.
-Piter K./Tjen J.
-1.57
--
-2.30
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Ka'imi Fairbairn
-Total Kicking Points
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-C.J. Stroud
-Touchdown Scorers
-9.00
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Dalton Schultz
-Touchdown Scorers
-4.50
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Dameon Pierce
-Touchdown Scorers
-16.0
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Harrison Bryant
-Touchdown Scorers
-15.0
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Houston Texans D/ST
-Touchdown Scorers
-6.00
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Jayden Higgins
-Touchdown Scorers
-4.20
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Nick Chubb
-Touchdown Scorers
-3.28
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Nico Collins
-Touchdown Scorers
-2.45
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Woody Marks
-Touchdown Scorers
-3.18
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Xavier Hutchinson
-Touchdown Scorers
-5.50
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Azeez Al-Shaair
-Total Solo Tackles
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Derek Stingley Jr.
-Total Solo Tackles
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Danielle Hunter
-Total Sacks
--
--
--
--
--
--
--
--
--
- 1»
- • 
-04:00
-• 
-Sheldon Rankins
-Total Sacks
--
--
--
--
--
--
--
--
--
- 1»
- • 
-04:00
-• 
-C.J. Stroud
-Total Rushing Attempts
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Nick Chubb
-Total Rushing Attempts
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Woody Marks
-Total Rushing Attempts
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-C.J. Stroud
-Total Rushing Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Nick Chubb
-Total Rushing Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Woody Marks
-Total Rushing Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Dalton Schultz
-Total Receptions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Jayden Higgins
-Total Receptions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Nick Chubb
-Total Receptions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Nico Collins
-Total Receptions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Woody Marks
-Total Receptions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Xavier Hutchinson
-Total Receptions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Dalton Schultz
-Total Receiving Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Jayden Higgins
-Total Receiving Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Nick Chubb
-Total Receiving Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Nico Collins
-Total Receiving Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Woody Marks
-Total Receiving Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Xavier Hutchinson
-Total Receiving Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-C.J. Stroud
-Total Passing Attempts
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-C.J. Stroud
-Total Passing Completions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-C.J. Stroud
-Total Passing Interceptions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-C.J. Stroud
-Passing Touchdowns
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-C.J. Stroud
-Total Passing Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-C.J. Stroud
-Longest Pass Completion
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-C.J. Stroud
-Longest Rush
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Nick Chubb
-Longest Rush
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Woody Marks
-Longest Rush
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Dalton Schultz
-Longest Reception
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Jayden Higgins
-Longest Reception
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Nico Collins
-Longest Reception
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Woody Marks
-Longest Reception
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Xavier Hutchinson
-Longest Reception
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Indianapolis
-Outrights
-1.37
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Jacksonville
-Outrights
-4.50
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Houston
-Outrights
-8.50
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Tennessee
-Outrights
-350
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-LA Rams
-Outrights
-2.25
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-San Francisco
-Outrights
-2.45
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Seattle
-Outrights
-4.50
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Arizona
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Alexander Holtz
-Las Vegas
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Ben Hutton
-Las Vegas
--
--
--
--
--
--
--
--
--
- 1»
- • 
-04:00
-• 
-Brandon Saad
-Las Vegas
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Brayden McNabb
-Las Vegas
--
--
--
--
--
--
--
--
--
- 1»
- • 
-04:00
-• 
-Colton Sissons
-Las Vegas
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Ivan Barbashev
-Las Vegas
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Jack Eichel
-Las Vegas
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Jeremy Lauzon
-Las Vegas
--
--
--
--
--
--
--
--
--
- 1»
- • 
-04:00
-• 
-Kaedan Korczak
-Las Vegas
--
--
--
--
--
--
--
--
--
- 1»
- • 
-04:00
-• 
-Keegan Kolesar
-Las Vegas
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Mitchell Marner
-Las Vegas
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Pavel Dorofeyev
-Las Vegas
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Reilly Smith
-Las Vegas
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Shea Theodore
-Las Vegas
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Tomas Hertl
-Las Vegas
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-William Karlsson
-Las Vegas
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Zach Whitecloud
-Las Vegas
--
--
--
--
--
--
--
--
--
- 1»
- • 
-04:00
-• 
-Alexander Nikishin
-Carolina
--
--
--
--
--
--
--
--
--
- 1»
- • 
-04:00
-• 
-Andrei Svechnikov
-Carolina
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Eric Robinson
-Carolina
--
--
--
--
--
--
--
--
--
- 1»
- • 
-04:00
-• 
-Jackson Blake
-Carolina
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Jalen Chatfield
-Carolina
--
--
--
--
--
--
--
--
--
- 1»
- • 
-04:00
-• 
-Jesperi Kotkaniemi
-Carolina
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Jordan Martinook
-Carolina
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Jordan Staal
-Carolina
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-K'Andre Miller
-Carolina
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Logan Stankoven
-Carolina
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Mike Reilly
-Carolina
--
--
--
--
--
--
--
--
--
- 1»
- • 
-04:00
-• 
-Nikolaj Ehlers
-Carolina
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Sean Walker
-Carolina
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Seth Jarvis
-Carolina
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-Taylor Hall
-Carolina
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-William Carrier
-Carolina
--
--
--
--
--
--
--
--
--
- 3»
- • 
-04:00
-• 
-L. Karatancheva
-V. Rodriguez
-1.40
--
-2.75
--
--
--
--
--
--
- 20»
- • 
-04:00
-• 
-Jason Myers
-Total Kicking Points
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-AJ Barner
-Touchdown Scorers
-4.32
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Brady Russell
-Touchdown Scorers
-15.0
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Cooper Kupp
-Touchdown Scorers
-3.30
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Elijah Arroyo
-Touchdown Scorers
-7.50
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Jake Bobo
-Touchdown Scorers
-15.0
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Jaxon Smith-Njigba
-Touchdown Scorers
-2.26
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Kenneth Walker III
-Touchdown Scorers
-2.58
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Sam Darnold
-Touchdown Scorers
-10.0
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Seattle Seahawks D/ST
-Touchdown Scorers
-6.00
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Tory Horton
-Touchdown Scorers
-5.82
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-Zach Charbonnet
-Touchdown Scorers
-2.47
--
--
--
--
--
--
--
--
- • 
-04:00
-• 
-AJ Barner
-Total Receptions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Cooper Kupp
-Total Receptions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Elijah Arroyo
-Total Receptions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Jaxon Smith-Njigba
-Total Receptions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Kenneth Walker III
-Total Receptions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Tory Horton
-Total Receptions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Zach Charbonnet
-Total Receptions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-AJ Barner
-Total Receiving Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Cooper Kupp
-Total Receiving Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Elijah Arroyo
-Total Receiving Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Jaxon Smith-Njigba
-Total Receiving Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Kenneth Walker III
-Total Receiving Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Tory Horton
-Total Receiving Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Zach Charbonnet
-Total Receiving Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Riq Woolen
-Total Solo Tackles
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Kenneth Walker III
-Total Rushing Attempts
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Zach Charbonnet
-Total Rushing Attempts
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Kenneth Walker III
-Total Rushing Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Sam Darnold
-Total Rushing Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Zach Charbonnet
-Total Rushing Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Sam Darnold
-Total Passing Attempts
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Sam Darnold
-Total Passing Completions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Sam Darnold
-Total Passing Interceptions
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Sam Darnold
-Passing Touchdowns
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Sam Darnold
-Total Passing Yards
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Boye Mafe
-Total Sacks
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-DeMarcus Lawrence
-Total Sacks
--
--
--
--
--
--
--
--
--
- 1»
- • 
-04:00
-• 
-Jarran Reed
-Total Sacks
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Leonard Williams
-Total Sacks
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-AJ Barner
-Longest Reception
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Cooper Kupp
-Longest Reception
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Elijah Arroyo
-Longest Reception
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Jaxon Smith-Njigba
-Longest Reception
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Tory Horton
-Longest Reception
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Kenneth Walker III
-Longest Rush
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Sam Darnold
-Longest Rush
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Zach Charbonnet
-Longest Rush
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-Sam Darnold
-Longest Pass Completion
--
--
--
--
--
--
--
--
--
- 2»
- • 
-04:00
-• 
-A. Wang
-R. Te
-2.40
--
-1.53
--
--
--
--
--
--
- 18»
- • 
-04:00
-• 
-H. Mayot
-Y. Uchiyama
-1.40
--
-2.80
--
--
--
--
--
--
- 20»
- • 
-04:00
-• 
-Y. Mo
-N. Honda
-1.45
--
-2.65
--
--
--
--
--
--
- 20»
- • 
-04:05
-• 
-Chiapas
-Venados
-2.15
-3.75
-2.78
-2.60
-1.42
-2.10
-1.37
-3.40
-1.63
- 392»
- • 
-04:20
-• 
-Wnek, Stanislaw
-Pawlowski, Krzysztof
-1.72
--
-2.00
--
--
--
--
--
--
- 2»
- • 
-04:30
-• 
-Bruzek, Petr
-Trinta, Mihail
-2.44
--
-1.47
--
--
--
--
--
--
- • 
-04:30
-• 
-Kycelt, Jakub
-Kolisnyk, Oleksandr
-1.62
--
-2.11
--
--
--
--
--
--
- • 
-04:30
-• 
-Sopko, Martin
-Hlawatschke, Ales
-1.83
--
-1.83
--
--
--
--
--
--
- • 
-05:00
-• 
-A. Charaeva
-J. Cristian
-3.70
--
-1.27
--
--
--
--
--
--
- 55»
- • 
-05:00
-• 
-V. Mboko
-B. Andreescu
-1.85
--
-1.95
--
--
--
--
--
--
- 55»
- • 
-05:00
-• 
-E. Seidel
-L. Jeanjean
-1.57
--
-2.40
--
--
--
--
--
--
- 59»
- • 
-05:00
-• 
-M.C. Osorio
-L. Bronzetti
-1.55
--
-2.40
--
--
--
--
--
--
- 55»
- • 
-05:05
-• 
-Czerwinski, Bartosz
-Spychala, Adrian
-1.90
--
-1.80
--
--
--
--
--
--
- 2»
- • 
-05:30
-• 
-Malachowski, Michal
-Balcerzak, Marcin
-1.40
--
-2.75
--
--
--
--
--
--
- 2»
- • 
-05:55
-• 
-Glazowski, Kacper
-Wisniewski, Karol
-1.53
--
-2.35
--
--
--
--
--
--
- 2»
- • 
-06:15
-• 
-Czerwinski, Bartosz
-Malachowski, Michal
-1.85
--
-1.85
--
--
--
--
--
--
- • 
-06:30
-• 
-W. Sonobe
-N. Bartunkova
-2.90
--
-1.40
--
--
--
--
--
--
- 59»
- • 
-06:30
-• 
-Aoyama S./Bucsa C.
-Muhammad A./Schuurs D.
-2.05
--
-1.70
--
--
--
--
--
--
- 2»
- • 
-06:30
-• 
-A. Bondar
-H. Guo
-1.72
--
-2.10
--
--
--
--
--
--
- 59»
- • 
-06:35
-• 
-Wisniewski, Karol
-Spychala, Adrian
-1.80
--
-1.90
--
--
--
--
--
--
- 2»
- • 
-06:40
-• 
-Wiecek, Adrian
-Kosowski, Jakub
-2.00
--
-1.72
--
--
--
--
--
--
- 2»
- • 
-07:00
-• 
-Agafonov E./Simakin I.
-Cui J./Te R.
-1.65
--
-2.15
--
--
--
--
--
--
- 2»
- • 
-07:00
-• 
-Bayldon B./Ho R.
-Alcantara F. C./Harris L.
-1.30
--
-3.30
--
--
--
--
--
--
- 2»
- • 
-07:00
-• 
-Ferreira Silva F./Rocha H.
-Lammons N./Rojer J.
-5.20
--
-1.13
--
--
--
--
--
--
- 2»
- • 
-07:00
-• 
-Isaro P./Kaliyanda Poonacha N.
-Hsu Y. H./Huang T.
-1.88
--
-1.88
--
--
--
--
--
--
- 2»
- • 
-07:00
-• 
-Isomura K./Wang A.
-Reynolds F./Watt J.
-6.25
--
-1.09
--
--
--
--
--
--
- 2»
- • 
-07:00
-• 
-Uesugi K./Watanabe S.
-Shimizu Y./Tajima N.
-1.45
--
-2.65
--
--
--
--
--
--
- 2»
- • 
-07:00
-• 
-Glazowski, Kacper
-Balcerzak, Marcin
-1.30
--
-3.15
--
--
--
--
--
--
- 2»
- • 
-07:05
-• 
-Grela, Artur
-Wloczko, Krzysztof
-1.53
--
-2.35
--
--
--
--
--
--
- 2»
- • 
-07:20
-• 
-Malachowski, Michal
-Spychala, Adrian
-1.80
--
-1.90
--
--
--
--
--
--
- 2»
- • 
-07:25
-• 
-Kosowski, Jakub
-Petas, Kacper
-1.50
--
-2.45
--
--
--
--
--
--
- 2»
- • 
-07:45
-• 
-Czerwinski, Bartosz
-Glazowski, Kacper
-1.90
--
-1.80
--
--
--
--
--
--
- 2»
- • 
-07:50
-• 
-Wiecek, Adrian
-Miastowski, Maksymilian
-1.67
--
-2.10
--
--
--
--
--
--
- • 
-08:00
-• 
-Havel, Jiri
-Sulava, Lubor
-1.37
--
-2.75
--
--
--
--
--
--
- • 
-08:00
-• 
-Kostal, Marek
-Belovsky, Josef
-1.48
--
-2.42
--
--
--
--
--
--
- • 
-08:00
-• 
-Pycha, Matej
-Svec, Jiri
-1.56
--
-2.22
--
--
--
--
--
--
- • 
-08:00
-• 
-Zikmund, Ivo
-Stary, Jiri
-1.83
--
-1.84
--
--
--
--
--
--
- • 
-08:10
-• 
-Wisniewski, Karol
-Balcerzak, Marcin
-2.00
--
-1.72
--
--
--
--
--
--
- 2»
- • 
-08:15
-• 
-Wloczko, Krzysztof
-Petas, Kacper
-1.85
--
-1.85
--
--
--
--
--
--
- 2»
- • 
-08:30
-• 
-Kolenic, Tibor
-Havlicek, Vladimir
-1.98
--
-1.71
--
--
--
--
--
--
- • 
-08:30
-• 
-Monik, Petr
-Petr, Pavel
-1.45
--
-2.50
--
--
--
--
--
--
- • 
-08:30
-• 
-Pinc, Stanislav
-Cernik, Jaromir
-1.98
--
-1.71
--
--
--
--
--
--
- • 
-08:30
-• 
-Simecek, Jindrich
-Hruska, Vaclav
-1.52
--
-2.30
--
--
--
--
--
--
- • 
-08:30
-• 
-F. Sun
-Y. Shimizu
-1.95
--
-1.80
--
--
--
--
--
--
- 20»
- • 
-08:30
-• 
-I. Simakin
-S. Shimabukuro
-2.45
--
-1.50
--
--
--
--
--
--
- 20»
- • 
-08:35
-• 
-Malachowski, Michal
-Glazowski, Kacper
-1.80
--
-1.90
--
--
--
--
--
--
- 2»
- • 
-08:40
-• 
-Grela, Artur
-Wiecek, Adrian
-2.20
--
-1.60
--
--
--
--
--
--
- • 
-09:00
-• 
-Belovsky, Josef
-Kolenic, Tibor
-1.56
--
-2.23
--
--
--
--
--
--
- • 
-09:00
-• 
-Stary, Jiri
-Monik, Petr
-1.95
--
-1.73
--
--
--
--
--
--
- • 
-09:00
-• 
-Svec, Jiri
-Pinc, Stanislav
-2.07
--
-1.65
--
--
--
--
--
--
- • 
-09:00
-• 
-Sh. Zhang
-A. Zakharova
-1.55
--
-2.45
--
--
--
--
--
--
- 55»
- • 
-09:10
-• 
-Czerwinski, Bartosz
-Wisniewski, Karol
-2.00
--
-1.72
--
--
--
--
--
--
- • 
-09:15
-• 
-Kosowski, Jakub
-Miastowski, Maksymilian
-1.57
--
-2.25
--
--
--
--
--
--
- 2»
- • 
-09:30
-• 
-Olmos G./Sutjiadi A.
-Danilina A./Krunic A.
-3.20
--
-1.30
--
--
--
--
--
--
- 2»
- • 
-09:30
-• 
-Cernik, Jaromir
-Pycha, Matej
-1.71
--
-1.98
--
--
--
--
--
--
- • 
-09:30
-• 
-Havlicek, Vladimir
-Kostal, Marek
-2.23
--
-1.56
--
--
--
--
--
--
- • 
-09:30
-• 
-Hruska, Vaclav
-Havel, Jiri
-1.83
--
-1.83
--
--
--
--
--
--
- • 
-09:30
-• 
-Petr, Pavel
-Zikmund, Ivo
-1.65
--
-2.07
--
--
--
--
--
--
- • 
-09:35
-• 
-Balcerzak, Marcin
-Spychala, Adrian
-2.45
--
-1.50
--
--
--
--
--
--
- 2»
- • 
-09:40
-• 
-Wloczko, Krzysztof
-Wiecek, Adrian
-2.60
--
-1.43
--
--
--
--
--
--
- 2»
- • 
-09:45
-• 
-Melbourne City
-Buriram
-2.10
-3.40
-3.30
-1.88
-1.82
-3.15
-1.67
-4.60
-2.18
- 767»
- • 
-09:55
-• 
-Malachowski, Michal
-Wisniewski, Karol
-1.67
--
-2.10
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-S. Baez
-R. Opelka
-2.85
--
-1.40
--
--
--
--
--
--
- 60»
- • 
-10:00
-• 
-M. Uchijima
-S. Kenin
-2.20
--
-1.67
--
--
--
--
--
--
- 55»
- • 
-10:00
-• 
-JHC Molot U20
-SKA Varyagi U20
-2.35
-4.10
-2.35
--
--
--
-1.07
--
--
- 78»
- • 
-10:00
-• 
-Pel D./Gonzalez S.
-Diallo G./Brooksby J.
-1.33
--
-3.15
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-Zielinski J./Pavlasek A.
-Vavassori A./Bolelli S.
-2.20
--
-1.62
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-Bopanna R./Shelton B.
-Nys H./Roger-Vasselin E.
-2.85
--
-1.38
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-Harrison C./King E.
-Nouza P./Rikl P.
-1.53
--
-2.40
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-Barrientos N./Vocel M.
-Ruusuvuori E./Virtanen O.
-1.35
--
-3.00
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-Cukierman D./Sachko V.
-Arribage T./Olivetti A.
-2.80
--
-1.40
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-Goldhoff G./Winegar T.
-Bollipalli R./Kadhe A.
-1.88
--
-1.88
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-Hilderbrand T./Seggerman R.
-Reymond A./Sanchez L.
-1.65
--
-2.15
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-Kielan S./Pieczonka F.
-Maestrelli F./Passaro F.
-1.35
--
-3.00
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-F. Maestrelli
-H. Wendelken
-1.65
--
-2.15
--
--
--
--
--
--
- 20»
- • 
-10:00
-• 
-L. Van Assche
-S. Gueymard Wayenburg
-1.50
--
-2.45
--
--
--
--
--
--
- 20»
- • 
-10:00
-• 
-M. Echargui
-A. Bouquier
-2.05
--
-1.72
--
--
--
--
--
--
- 20»
- • 
-10:00
-• 
-M. Trungelliti
-D. Added
-1.40
--
-2.80
--
--
--
--
--
--
- 18»
- • 
-10:00
-• 
-Kostal, Marek
-Kolenic, Tibor
-1.71
--
-1.98
--
--
--
--
--
--
- • 
-10:00
-• 
-Pycha, Matej
-Pinc, Stanislav
-2.43
--
-1.48
--
--
--
--
--
--
- • 
-10:00
-• 
-Zikmund, Ivo
-Monik, Petr
-1.81
--
-1.86
--
--
--
--
--
--
- • 
-10:00
-• 
-Barnat J./Duda F.
-Geerts M./Ruehl T.
-1.65
--
-2.15
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-Masur D./Topo M.
-Karol M./Niklas-Salminen P.
-2.80
--
-1.40
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-Moeller M./Petkovic M.
-Jermar J./Kalyanpur A.
-2.00
--
-1.75
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-D. Semenistaja
-N. Basiletti
-1.10
--
-6.00
--
--
--
--
--
--
- 19»
- • 
-10:00
-• 
-L. Klimovicova
-A.K. Toth
-1.18
--
-4.45
--
--
--
--
--
--
- 20»
- • 
-10:00
-• 
-L. Stefanini
-A. Soboleva
-1.30
--
-3.25
--
--
--
--
--
--
- 20»
- • 
-10:00
-• 
-M. Timofeeva
-T.C. Grant
-1.45
--
-2.65
--
--
--
--
--
--
- 20»
- • 
-10:00
-• 
-S. De Stefano
-S. Ambrosio
-2.80
--
-1.40
--
--
--
--
--
--
- 20»
- • 
-10:00
-• 
-Y. Nishioka
-Y. Zhou
-1.50
--
-2.45
--
--
--
--
--
--
- 20»
- • 
-10:00
-• 
-Grela, Artur
-Kosowski, Jakub
-2.45
--
-1.50
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-A.R. Garcia
-M. Leclercq
-1.25
--
-3.60
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-J. Wnorowski
-E. Chiesa
-8.50
--
-1.04
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-L. Solar Donoso
-E. Haavisto
-1.55
--
-2.25
--
--
--
--
--
--
- 2»
- • 
-10:00
-• 
-L.C. Llorca
-S. Lam
-1.85
--
-1.85
--
--
--
--
--
--
- 2»
- • 
-10:20
-• 
-Glazowski, Kacper
-Spychala, Adrian
-1.72
--
-2.00
--
--
--
--
--
--
- 2»
- • 
-10:25
-• 
-Miastowski, Maksymilian
-Petas, Kacper
-2.20
--
-1.60
--
--
--
--
--
--
- 2»
- • 
-10:30
-• 
-Belovsky, Josef
-Havlicek, Vladimir
-2.02
--
-1.68
--
--
--
--
--
--
- • 
-10:30
-• 
-Stary, Jiri
-Petr, Pavel
-1.44
--
-2.55
--
--
--
--
--
--
- • 
-10:30
-• 
-Sulava, Lubor
-Hruska, Vaclav
-1.56
--
-2.23
--
--
--
--
--
--
- • 
-10:30
-• 
-Svec, Jiri
-Cernik, Jaromir
-2.23
--
-1.56
--
--
--
--
--
--
- • 
-10:30
-• 
-C. Negritu
-M. Erhard
-1.45
--
-2.65
--
--
--
--
--
--
- 20»
- • 
-10:30
-• 
-G. Oradini
-G. Cadenasso
-3.30
--
-1.27
--
--
--
--
--
--
- 2»
- • 
-10:30
-• 
-P. Marino
-A. De Marchi
-1.85
--
-1.85
--
--
--
--
--
--
- 2»
- • 
-10:35
-• 
-Larsson, Daniel
-Sykes, Tom
--
--
--
--
--
--
--
--
--
- 2»
- • 
-10:45
-• 
-Czerwinski, Bartosz
-Balcerzak, Marcin
-1.67
--
-2.10
--
--
--
--
--
--
- • 
-10:50
-• 
-Wloczko, Krzysztof
-Kosowski, Jakub
-2.95
--
-1.35
--
--
--
--
--
--
- 2»
- • 
-10:55
-• 
-Krcmar, Boris
-Thornton, Robert
--
--
--
--
--
--
--
--
--
- 2»
- • 
-11:00
-• 
-Bondar A./Erjavec V.
-Niculescu M./Santamaria S.
-1.37
--
-2.90
--
--
--
--
--
--
- 2»
- • 
-11:00
-• 
-Kudermetova P./Rakhimova K.
-Plipuech P./Zheng W.
-1.53
--
-2.40
--
--
--
--
--
--
- 2»
- • 
-11:00
-• 
-Anda Z.
-Davis M.
-1.37
--
-3.00
--
--
--
--
--
--
- 2»
- • 
-11:00
-• 
-Maguire S.
-Brecel L.
-1.88
--
-1.88
--
--
--
--
--
--
- 2»
- • 
-11:05
-• 
-Braun, Josef
-Glazowski, Kacper
-1.43
--
-2.60
--
--
--
--
--
--
- 2»
- • 
-11:10
-• 
-Monios, George
-Jones, Jake
--
--
--
--
--
--
--
--
--
- 2»
- • 
-11:10
-• 
-Wiecek, Adrian
-Petas, Kacper
-1.90
--
-1.80
--
--
--
--
--
--
- 2»
- • 
-11:30
-• 
-Admiral
-Cherepovets
-2.45
-4.10
-2.40
--
--
--
-1.10
--
--
- 154»
- • 
-11:30
-• 
-Samsung Lions
-Hanwha Eagles
--
--
--
--
--
--
--
--
--
- 31»
- • 
-11:30
-• 
-Thornton, Robert
-Larsson, Daniel
--
--
--
--
--
--
--
--
--
- 2»
- • 
-11:30
-• 
-F. Bondioli
-G. Tabacco
-1.38
--
-2.75
--
--
--
--
--
--
- 2»
- • 
-11:30
-• 
-Strowski, Karol
-Malachowski, Michal
-1.43
--
-2.60
--
--
--
--
--
--
- 2»
- • 
-11:30
-• 
-South Africa
-Pakistan
--
--
--
--
--
--
--
--
--
- 2»
- • 
-11:35
-• 
-Grela, Artur
-Miastowski, Maksymilian
-1.60
--
-2.20
--
--
--
--
--
--
- 2»
- • 
-11:45
-• 
-Sykes, Tom
-Jones, Jake
--
--
--
--
--
--
--
--
--
- 2»
- • 
-11:55
-• 
-Spychala, Adrian
-Balcerzak, Marcin
-1.50
--
-2.45
--
--
--
--
--
--
- 2»
- • 
-12:00
-• 
-Chengdu Rongcheng
-Johor DT
-2.57
-3.75
-2.40
-2.03
-1.70
-2.80
-1.57
+Montana
+Arda
 4.25
-1.97
- 769»
- • 
-12:00
-• 
-Ulsan HD
-Hiroshima
-3.25
-3.55
-2.07
-2.13
-1.65
-2.65
-1.55
-4.15
-1.93
- 772»
- • 
-12:00
-• 
-Maritimo U23
-Famalicao U23
-3.15
 3.30
-2.13
-1.95
-1.75
-2.95
+1.88
 1.62
-4.40
-2.07
- 386»
- • 
-12:00
-• 
-Arevalo M./Pavic M.
-Cobolli F./Moutet C.
-1.12
--
-5.70
--
--
--
--
--
--
- 2»
- • 
-12:00
-• 
-Bhambri Y./Goransson A.
-Oberleitner N./Schwaerzler J. J.
-1.42
--
-2.75
--
--
--
--
--
--
- 2»
- • 
-12:00
-• 
-Cabral F./Miedler L.
-Michelsen A./Peers J.
-1.72
--
-2.05
--
--
--
--
--
--
- 2»
- • 
-12:00
-• 
-Doumbia S./Reboul F.
-Cash J./Glasspool L.
-2.80
--
-1.40
--
--
--
--
--
--
- 2»
- • 
-12:00
-• 
-Erler A./Galloway R.
-Gonzalez M./Molteni A.
-1.72
--
-2.05
--
--
--
--
--
--
- 2»
- • 
-12:00
-• 
-Melo M./Zverev A.
-Heliovaara H./Patten H.
-3.30
--
-1.30
--
--
--
--
--
--
- 2»
- • 
-12:00
-• 
-Salisbury J./Skupski N.
-Cerundolo F./Ugo Carabelli C.
-1.09
--
-6.25
--
--
--
--
--
--
- 2»
- • 
-12:00
-• 
-Granollers M./Zeballos H.
-Arneodo R./Muller A.
-1.17
--
-4.50
--
--
--
--
--
--
- 2»
- • 
-12:00
-• 
-Jan, Steffan
-Malek, Lukas
-1.51
--
-2.33
--
--
--
--
--
--
- • 
-12:00
-• 
-Novotny, Ladislav
-Havrda, Cesta
-2.65
--
-1.40
--
--
--
--
--
--
- • 
-12:00
-• 
-Regner, Tomas
-Pospisil, Milos
-1.30
--
-3.15
--
--
--
--
--
--
- • 
-12:00
-• 
-Tuma, Miroslav
-Madle, Ludek
-1.78
--
-1.89
--
--
--
--
--
--
- • 
-12:00
-• 
-D. Kuzmanov
-M. Petkovic
-1.45
--
-2.65
--
--
--
--
--
--
- 20»
- • 
-12:00
-• 
-Wonju DB
-Sonic Boom
-1.70
-15.0
-2.35
--
--
--
--
--
--
- 74»
- • 
-12:00
-• 
-Wiecek, Adrian
-Petas, Kacper
-1.90
--
-1.80
--
--
--
--
--
--
- 2»
- • 
-12:05
-• 
-Krcmar, Boris
-Monios, George
--
--
--
--
--
--
--
--
--
- 2»
- • 
-12:20
-• 
-Jones, Jake
-Thornton, Robert
--
--
--
--
--
--
--
--
--
- 2»
- • 
-12:20
-• 
-Braun, Josef
-Strowski, Karol
-1.60
--
-2.20
--
--
--
--
--
--
- 2»
- • 
-12:25
-• 
-Grela, Artur
-Kosowski, Jakub
-2.45
--
-1.50
--
--
--
--
--
--
- 2»
- • 
-12:30
-• 
-L. Djere
-G. Zeppieri
-2.20
--
-1.60
--
--
--
--
--
--
- 20»
- • 
-12:30
-• 
-Parhomenko, Dmitro
-Hasmanda, Rotislav
-1.83
--
-1.83
--
--
--
--
--
--
- • 
-12:30
-• 
-Pycha, Matej
-Cernik, Jaromir
-1.98
--
-1.71
--
--
--
--
--
--
- • 
-12:30
-• 
-Strnad, Jaroslav
-Kubat, Vladimir
-1.93
--
-1.74
--
--
--
--
--
--
- • 
-12:35
-• 
-Rakuten
-Chinatrust
--
--
--
--
--
--
--
--
--
- 35»
- • 
-12:40
-• 
-Larsson, Daniel
-Krcmar, Boris
--
--
--
--
--
--
--
--
--
- 2»
- • 
-12:40
-• 
-Balcerzak, Marcin
-Glazowski, Kacper
-3.15
--
-1.33
--
--
--
--
--
--
- 2»
- • 
-12:45
-• 
-Abbasi, Amirreza
-Miastowski, Maksymilian
-1.43
--
-2.60
--
--
--
--
--
--
- 2»
- • 
-12:55
-• 
-Monios, George
-Sykes, Tom
--
--
--
--
--
--
--
--
--
- 2»
- • 
-13:00
-• 
-Portimonense U23
-Estoril U23
-2.52
-3.30
-2.57
-1.95
-1.75
-2.95
-1.60
-4.35
-2.05
- 386»
- • 
-13:00
-• 
-Havrda, Cesta
-Strnad, Jaroslav
-1.42
--
-2.60
--
--
--
--
--
--
- • 
-13:00
-• 
-Madle, Ludek
-Pycha, Matej
-1.83
--
-1.83
--
--
--
--
--
--
- • 
-13:00
-• 
-Malek, Lukas
-Parhomenko, Dmitro
-1.89
--
-1.78
--
--
--
--
--
--
- • 
-13:00
-• 
-A. Tomljanovic
-A.Parks
-1.35
--
-3.20
--
--
--
--
--
--
- 59»
- • 
-13:05
-• 
-Spychala, Adrian
-Malachowski, Michal
-1.90
--
-1.80
--
--
--
--
--
--
- 2»
- • 
-13:10
-• 
-Wiecek, Adrian
-Grela, Artur
-1.57
--
-2.25
--
--
--
--
--
--
- • 
-13:15
-• 
-Larsson, Daniel
-Jones, Jake
--
--
--
--
--
--
--
--
--
- 2»
- • 
-13:30
-• 
-C. Ugo Carabelli
-F. Misolic
-2.85
--
-1.40
--
--
--
--
--
--
- 59»
- • 
-13:30
-• 
-Cernik, Jaromir
-Tuma, Miroslav
-2.05
--
-1.66
--
--
--
--
--
--
- • 
-13:30
-• 
-Hasmanda, Rotislav
-Jan, Steffan
-2.23
--
-1.56
--
--
--
--
--
--
- • 
-13:30
-• 
-Havel, Jiri
-Regner, Tomas
-1.65
--
-2.07
--
--
--
--
--
--
- • 
-13:30
-• 
-Kubat, Vladimir
-Novotny, Ladislav
-1.68
--
-2.02
--
--
--
--
--
--
- • 
-13:30
-• 
-D. Merida Aguilar
-M. Geerts
-1.65
--
 2.15
--
--
--
--
--
--
- 20»
- • 
-13:30
-• 
-Thornton, Robert
-Monios, George
--
--
--
--
--
--
--
--
--
- 2»
- • 
-13:30
-• 
-Strowski, Karol
-Glazowski, Kacper
-1.60
--
-2.20
--
--
--
--
--
--
- 2»
- • 
-13:35
-• 
-Miastowski, Maksymilian
-Petas, Kacper
-2.20
--
-1.60
--
--
--
--
--
--
- 2»
- • 
-13:50
-• 
-Krcmar, Boris
-Sykes, Tom
--
--
--
--
--
--
--
--
--
- 2»
- • 
-13:55
-• 
-Braun, Josef
-Spychala, Adrian
-1.43
--
-2.60
--
--
--
--
--
--
- 2»
- • 
-14:00
-• 
-Charlton U21
-Watford U21
-1.55
-4.50
-4.15
-3.75
-1.22
-1.60
-1.27
-2.78
-1.42
- 387»
- • 
-14:00
-• 
-Coventry U21
-Wigan U21
-1.45
-4.75
-4.70
 4.05
-1.18
-1.53
-1.27
-2.75
-1.40
- 384»
- • 
-14:00
-• 
-Fleetwood U21
-Barnsley U21
-1.70
-3.95
-3.75
-2.75
-1.38
 1.97
-1.38
-3.40
-1.62
- 390»
+5.60
+2.68
+ 757»
  • 
 14:00
 • 
-Hull U21
-Huddersfield U21
-1.38
-4.95
-5.40
-3.90
-1.20
-1.57
-1.32
-2.90
-1.45
- 388»
- • 
-14:00
-• 
-Peterborough U21
-Sheffield Utd U21
-4.40
-4.50
-1.52
-3.60
-1.23
-1.63
-1.30
-2.85
-1.45
- 389»
- • 
-14:00
-• 
-D. Goffin
-M. Cilic
-2.45
--
-1.55
--
--
--
--
--
--
- 57»
- • 
-14:00
-• 
-Jan, Steffan
-Parhomenko, Dmitro
-2.55
--
-1.43
--
--
--
--
--
--
- • 
-14:00
-• 
-Novotny, Ladislav
-Strnad, Jaroslav
-1.65
--
-2.07
--
--
--
--
--
--
- • 
-14:00
-• 
-Tuma, Miroslav
-Pycha, Matej
-1.40
--
-2.70
--
--
--
--
--
--
- • 
-14:00
-• 
-Jiahui S.
-Cheung K.W.
-1.15
--
-5.25
--
--
--
--
--
--
- 2»
- • 
-14:00
-• 
-Wilson K.
-Lines O.
-1.25
--
-3.80
--
--
--
--
--
--
- 2»
- • 
-14:00
-• 
-Abbasi, Amirreza
-Kosowski, Jakub
-1.90
--
-1.80
--
--
--
--
--
--
- 2»
- • 
-14:05
-• 
-Monios, George
-Larsson, Daniel
--
--
--
--
--
--
--
--
--
- 2»
- • 
-14:15
-• 
-Shanghai Port
-Machida
-4.75
-4.25
-1.60
-2.30
-1.55
-2.42
-1.60
-4.15
-1.92
- 768»
- • 
-14:20
-• 
-Balcerzak, Marcin
-Malachowski, Michal
-2.75
--
-1.40
--
--
--
--
--
--
- 2»
- • 
-14:25
-• 
-Jones, Jake
-Krcmar, Boris
--
--
--
--
--
--
--
--
--
- 2»
- • 
-14:25
-• 
-Grela, Artur
-Petas, Kacper
-1.85
--
-1.85
--
--
--
--
--
--
- 2»
- • 
-14:30
-• 
-Sibir
-Metallurg MG
-4.80
-4.90
-1.52
--
--
--
-1.13
--
--
- 154»
- • 
-14:30
-• 
-FK Humenne
-Podbrezova
-6.70
-4.65
-1.38
-2.45
-1.47
-2.23
-1.67
-4.30
-2.00
- 385»
- • 
-14:30
-• 
-Lubovna
-Presov
-9.50
-5.30
-1.25
-2.45
-1.47
-2.23
-1.90
-4.80
-2.25
- 384»
- • 
-14:30
-• 
-Stropkov
-L. Mikulas
-7.30
-4.65
-1.35
-2.28
-1.55
-2.42
-1.83
-4.70
-2.18
- 383»
- • 
-14:30
-• 
-Havrda, Cesta
-Kubat, Vladimir
-1.71
--
-1.98
--
--
--
--
--
--
- • 
-14:30
-• 
-Madle, Ludek
-Cernik, Jaromir
-1.56
--
-2.23
--
--
--
--
--
--
- • 
-14:30
-• 
-Malek, Lukas
-Hasmanda, Rotislav
-1.83
--
-1.83
--
--
--
--
--
--
- • 
-14:30
-• 
-Pospisil, Milos
-Havel, Jiri
-1.78
--
-1.89
--
--
--
--
--
--
- • 
-14:40
-• 
-Sykes, Tom
-Thornton, Robert
--
--
--
--
--
--
--
--
--
- 2»
- • 
-14:45
-• 
-Strowski, Karol
-Spychala, Adrian
-1.67
--
-2.10
--
--
--
--
--
--
- 2»
- • 
-14:50
-• 
-Wiecek, Adrian
-Abbasi, Amirreza
-1.80
--
-1.90
--
--
--
--
--
--
- 2»
- • 
-15:00
-• 
-R. Collignon
-A. Rinderknech
-2.15
--
-1.70
--
--
--
--
--
--
- 61»
- • 
-15:00
-• 
-C. Norrie
-A. Rublev
-2.50
--
-1.53
--
--
--
--
--
--
- 55»
- • 
-15:00
-• 
-G.A. Olivieri
-C. Garin
-3.45
--
-1.27
--
--
--
--
--
--
- 20»
- • 
-15:00
-• 
-M. Navone
-H. Habib
-1.20
--
-4.00
--
--
--
--
--
--
- 20»
- • 
-15:00
-• 
-P. Boscardin Dias
-J.P. Ficovich
-2.20
--
-1.60
--
--
--
--
--
--
- 20»
- • 
-15:00
-• 
-R. Pacheco Mendez
-E. Nava
-3.45
--
-1.27
--
--
--
--
--
--
- 20»
- • 
-15:00
-• 
-R.A. Burruchaga
-J.E. Schiessl
-1.42
--
-2.75
--
--
--
--
--
--
- 18»
- • 
-15:00
-• 
-T. Monteiro
-J.C. Prado Angelo
-1.72
--
-2.05
--
--
--
--
--
--
- 20»
- • 
-15:00
-• 
-Alves M./Boscardin Dias P.
-Kolar Z./Matuszewski P.
-3.00
--
-1.35
--
--
--
--
--
--
- 2»
- • 
-15:00
-• 
-Miguel L./Ribeiro E.
-Habib H./Pacheco Mendez R.
-2.80
--
-1.40
--
--
--
--
--
--
- 2»
- • 
-15:00
-• 
-Olivieri G. A./Taberner C.
-Escobar G./Reyes-Varela M. A.
-7.00
--
-1.07
--
--
--
--
--
--
- 2»
- • 
-15:00
-• 
-Britto L./Zormann Da Silva M.
-Rodriguez C./Zeballos F.
-1.88
--
-1.88
--
--
--
--
--
--
- 2»
- • 
-15:00
-• 
-Demoliner M./Luz O.
-Barrios Vera T./Ficovich J. P.
-1.35
--
-3.00
--
--
--
--
--
--
- 2»
- • 
-15:00
-• 
-Gomez F. A./Martinez L. D.
-Duran G./Kestelboim M.
-1.88
--
-1.88
--
--
--
--
--
--
- 2»
- • 
-15:00
-• 
-Ljutomer
-Rudar Velenje
-17.0
-9.00
-1.09
-4.75
-1.14
-1.42
-1.72
-3.65
-1.85
- 379»
- • 
-15:00
-• 
-I. Burillo
-M. Zamarripa
-1.09
--
-6.25
--
--
--
--
--
--
- 19»
- • 
-15:00
-• 
-N. Fossa Huergo
-C. Monnet
-4.35
--
-1.18
--
--
--
--
--
--
- 18»
- • 
-15:00
-• 
-S. Sierra
-C. Alves
-1.07
--
-7.25
--
--
--
--
--
--
- 17»
- • 
-15:00
-• 
-Zamarripa A./Zamarripa M.
-Tona M./Zeballos N.
-1.65
--
-2.15
--
--
--
--
--
--
- 2»
- • 
-15:00
-• 
-C.M. Stebe
-N. McDonald
-1.40
--
-2.80
--
--
--
--
--
--
- 20»
- • 
-15:00
-• 
-E. Coulibaly
-M. Dodig
-2.20
--
-1.60
--
--
--
--
--
--
- 20»
- • 
-15:00
-• 
-Carter A.
-Moody S.
-1.67
--
-2.10
--
--
--
--
--
--
- 2»
- • 
-15:00
-• 
-Selt M.
-Day R.
-1.93
--
-1.80
--
--
--
--
--
--
- 2»
- • 
-15:10
-• 
-Braun, Josef
-Balcerzak, Marcin
-1.17
--
-4.50
--
--
--
--
--
--
- 2»
- • 
-15:15
-• 
-Miastowski, Maksymilian
-Kosowski, Jakub
-2.25
--
-1.57
--
--
--
--
--
--
- 2»
- • 
-15:30
-• 
-G.M. Perricard
-J. Fonseca
-1.82
--
-1.97
--
--
--
--
--
--
- 57»
- • 
-15:35
-• 
-Malachowski, Michal
-Glazowski, Kacper
-1.80
--
-1.90
--
--
--
--
--
--
- 2»
- • 
-15:40
-• 
-Grela, Artur
-Abbasi, Amirreza
-2.20
--
-1.60
--
--
--
--
--
--
- 2»
- • 
-15:45
-• 
-Ahal
-Sepahan
-13.0
-6.10
-1.18
-2.40
-1.50
-2.23
-2.35
-5.70
-2.65
- 754»
- • 
-16:00
-• 
-Pyramids
-Pharco
-1.28
-4.80
-10.0
-1.85
-1.85
-3.20
-2.47
-6.60
-3.15
- 747»
- • 
-16:00
-• 
-Academico Viseu U23
-Braga U23
-1.85
-3.65
-3.60
-2.15
-1.60
-2.57
-1.55
-4.10
-1.90
- 388»
- • 
-16:00
-• 
-Estrela U23
-Farense U23
-2.45
-3.45
-2.57
-2.10
-1.65
-2.65
-1.52
-4.05
-1.92
- 390»
- • 
-16:00
-• 
-Gil Vicente U23
-Vizela U23
-2.07
-3.55
-3.05
-2.25
-1.55
-2.47
-1.48
-3.85
-1.83
- 389»
- • 
-16:00
-• 
-Leixoes U23
-Rio Ave U23
-2.10
-3.30
+Port MTI FC
+Muang Thong Utd
+2.13
+3.35
 3.25
 1.87
-1.82
-3.15
-1.67
-4.60
-2.18
- 388»
- • 
-16:00
-• 
-T.M. Etcheverry
-N. Budkov Kjaer
-1.67
--
-2.15
--
--
--
--
--
--
- 61»
- • 
-16:00
-• 
-Salavat Ufa
-Tractor Chelyabinsk
-3.60
-4.30
-1.80
--
--
--
-1.10
--
--
- 154»
- • 
-16:00
-• 
-Perm
-SKA-Neva
-1.70
-4.20
-3.90
--
--
--
-1.18
--
--
- 131»
- • 
-16:00
-• 
-Toros
-Dinamo SP
-2.55
-4.00
-2.25
--
--
--
-1.15
--
--
- 131»
- • 
-16:00
-• 
-Tyumen
-Omskie Kryliya
-2.75
-4.00
-2.15
--
--
--
-1.15
--
--
- 131»
- • 
-16:00
-• 
-Kolisnyk, Oleksandr
-Mecl Jr, Jan
-1.89
--
-1.78
--
--
--
--
--
--
- • 
-16:00
-• 
-Lauber, Jakub
-Kolar, Milan
-1.83
--
-1.83
--
--
--
--
--
--
- • 
-16:00
-• 
-Mares, Erik
-Zajicek, Jan
-1.98
--
-1.71
--
--
--
--
--
--
- • 
-16:00
-• 
-Volhejn, Dan
-Barton, Ales
-1.98
--
-1.71
--
--
--
--
--
--
- • 
-16:00
-• 
-J.K. Camargo Silva
-L.R. Gormaz
-12.0
--
-1.02
--
--
--
--
--
--
- 13»
- • 
-16:00
-• 
-A. Markham
-S. Vickery
-2.90
--
-1.35
--
--
--
--
--
--
- 2»
- • 
-16:00
-• 
-A. Tikhonova
-D. Ivanova
-1.20
--
-3.85
--
--
--
--
--
--
- 2»
- • 
-16:00
-• 
-H. Arakawa
-A. Rajecki
-2.35
--
-1.50
--
--
--
--
--
--
- 2»
- • 
-16:00
-• 
-K. Cross
-J. Gimbrere
-1.25
--
-3.35
--
--
--
--
--
--
- 2»
- • 
-16:00
-• 
-V. Allen
-E. Adeshina
-1.25
--
-3.60
--
--
--
--
--
--
- 2»
- • 
-16:00
-• 
-Y. Kitahara
-R. Lacasse
-2.00
--
-1.70
--
--
--
--
--
--
- 2»
- • 
-16:00
-• 
-Strowski, Karol
-Balcerzak, Marcin
-1.17
--
-4.50
--
--
--
--
--
--
- 2»
- • 
-16:05
-• 
-Wiecek, Adrian
-Miastowski, Maksymilian
-1.67
--
-2.10
--
--
--
--
--
--
- • 
-16:25
-• 
-Spychala, Adrian
-Glazowski, Kacper
-2.00
--
-1.72
--
--
--
--
--
--
- 2»
- • 
-16:30
-• 
-Inter U23
-Renate
-1.70
-3.45
-4.33
-1.63
-2.10
-3.90
-2.00
-5.60
-2.65
- 754»
- • 
-16:30
-• 
-M. Giron
-D. Shapovalov
-2.15
--
-1.67
--
--
--
--
--
--
- 59»
- • 
-16:30
-• 
-Kristall Saratov
-Almetjevsk
-5.75
-5.25
-1.40
--
--
--
-1.17
--
--
- 131»
- • 
-16:30
-• 
-Ladya U20
-Sputnik Al. U20
-1.43
-4.90
-5.00
--
--
--
-1.08
--
--
- 74»
- • 
-16:30
-• 
-Tyumenskiy Leg. U20
-Sahalinskie U20
-3.30
-4.30
-1.77
--
--
--
-1.03
--
--
- 74»
- • 
-16:30
-• 
-A. Galarneau
-L. Nardi
-2.80
--
-1.40
--
--
--
--
--
--
- 20»
- • 
-16:30
-• 
-Banska Bystrica
-Puchov
-1.35
-4.25
-8.50
-1.83
 1.85
-3.25
-2.28
-6.10
-2.90
- 383»
- • 
-16:30
-• 
-Koubek, Vojtech
-Turek, Tomas
-1.39
--
-2.70
--
--
--
--
--
--
- • 
-16:30
-• 
-Pavelka, Radim
-Fisera, Milan
-1.59
--
-2.16
--
--
--
--
--
--
- • 
-16:30
-• 
-Petracek, Vratislav
-Zahradka, Michal
-2.15
--
-1.60
--
--
--
--
--
--
- • 
-16:30
-• 
-Prosa, Tomas
-Vavrecka, Michal
-2.55
--
-1.43
--
--
--
--
--
--
- • 
-16:30
-• 
-Neftchi IK
-BC Kalev
-5.00
-20.0
-1.20
--
--
--
--
--
--
- 35»
- • 
-16:30
-• 
-Tappara
-Outrights
-3.75
--
--
--
--
--
--
--
--
- • 
-16:30
-• 
-Lukko
-Outrights
-5.50
--
--
--
--
--
--
--
--
- • 
-16:30
-• 
-Ilves
-Outrights
-5.50
--
--
--
--
--
--
--
--
- • 
-16:30
-• 
-Karpat
-Outrights
-10.0
--
--
--
--
--
--
--
--
- • 
-16:30
-• 
-KalPa
-Outrights
-10.0
--
--
--
--
--
--
--
--
- • 
-16:30
-• 
-JYP
-Outrights
-13.0
--
--
--
--
--
--
--
--
- • 
-16:30
-• 
-IFK Helsinki
-Outrights
-25.0
--
--
--
--
--
--
--
--
- • 
-16:30
-• 
-SaiPa
-Outrights
-20.0
--
--
--
--
--
--
--
--
- • 
-16:30
-• 
-Kiekko-Espoo
-Outrights
-33.0
--
--
--
--
--
--
--
--
- • 
-16:30
-• 
-TPS Turku
-Outrights
-20.0
--
--
--
--
--
--
--
--
- • 
-16:30
-• 
-Assat
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-16:30
-• 
-Hameenlinna
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-16:30
-• 
-KooKoo
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-16:30
-• 
-Vaasan Sport
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-16:30
-• 
-Pelicans
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-16:30
-• 
-Jukurit
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-16:30
-• 
-Assat
-SaiPa
+3.20
+1.67
+4.65
 2.20
-3.90
+ 766»
+ • 
+16:00
+• 
+Napredak
+Vojvodina
+3.65
+3.45
+1.88
+1.93
+1.77
+3.00
+1.65
+4.55
+2.10
+ 788»
+ • 
+16:00
+• 
+Erzurum BB
+Umraniyespor
+1.35
+4.60
+8.75
+1.90
+1.80
+3.10
+2.20
+5.90
 2.75
--
--
--
-1.10
--
--
- 150»
+ 751»
  • 
 16:30
 • 
-Kosowski, Jakub
-Petas, Kacper
-1.50
--
-2.45
--
--
--
--
--
--
- 2»
+Csikszereda M. Ciuc
+Petrolul
+2.70
+3.05
+2.68
+1.60
+2.30
+4.35
+1.97
+5.45
+2.70
+ 786»
+ • 
+16:30
+• 
+Spartak Varna
+Botev Plovdiv
+3.75
+3.35
+1.97
+1.77
+1.93
+3.40
+1.77
+4.90
+2.32
+ 762»
  • 
 16:45
 • 
-Braun, Josef
-Malachowski, Michal
-1.40
--
-2.75
--
--
--
--
--
--
- 2»
- • 
-16:50
-• 
-Grela, Artur
-Miastowski, Maksymilian
-1.60
--
-2.20
--
--
--
--
--
--
- 2»
- • 
-17:00
-• 
-Dynamo Makhachkala
-Spartak Moscow
-4.20
-3.50
-1.83
-1.77
-2.00
-3.55
-1.87
-5.20
-2.45
- 762»
- • 
-17:00
-• 
-Dila Gori
-Gagra
-1.35
-4.20
-7.40
-1.97
-1.70
+Al-Fateh
+Al Ettifaq
+2.15
+3.60
 2.85
-2.03
-5.35
-2.52
- 753»
- • 
-17:00
-• 
-Flora
-Narva
+2.10
+1.65
+2.65
 1.53
-4.20
-5.00
-2.28
-1.55
-2.42
-1.62
-4.20
-1.95
- 764»
- • 
-17:00
-• 
-Parnu JK Vaprus
-Kuressaare
-1.50
-4.35
-5.30
-2.33
-1.52
-2.35
-1.62
-4.20
-1.95
- 763»
- • 
-17:00
-• 
-Al Batin
-Jeddah
-2.07
-3.20
-3.15
-1.80
-1.87
-3.30
-1.70
-4.70
-2.25
- 388»
- • 
-17:00
-• 
-Barton, Ales
-Prosa, Tomas
-1.71
--
-1.98
--
--
--
--
--
--
- • 
-17:00
-• 
-Kolar, Milan
-Pavelka, Radim
-2.55
--
-1.43
--
--
--
--
--
--
- • 
-17:00
-• 
-Mecl Jr, Jan
-Petracek, Vratislav
-1.78
--
-1.89
--
--
--
--
--
--
- • 
-17:00
-• 
-Zajicek, Jan
-Koubek, Vojtech
-1.89
--
-1.78
--
--
--
--
--
--
- • 
-17:00
-• 
-Basket Brno
-Bilbao
-4.40
-19.0
-1.25
--
--
--
--
--
--
- 37»
- • 
-17:00
-• 
-A. Ilagan
-B. Holt
-3.15
--
-1.33
--
--
--
--
--
--
- 18»
- • 
-17:00
-• 
-A. Martin
-J.K. Trotter
-2.05
--
-1.72
--
--
--
--
--
--
- 18»
- • 
-17:00
-• 
-A. Rybakov
-M. Damm
-2.65
--
-1.45
--
--
--
--
--
--
- 20»
- • 
-17:00
-• 
-J. Monday
-M. Zheng
-2.65
--
-1.45
--
--
--
--
--
--
- 18»
- • 
-17:00
-• 
-J. Pinnington Jones
-R. Hijikata
-2.45
--
-1.50
--
--
--
--
--
--
- 18»
- • 
-17:00
-• 
-R. Jodar
-S. Purtseladze
-1.13
--
-5.20
--
--
--
--
--
--
- 18»
- • 
-17:00
-• 
-Boulais J./Krueger M.
-Fuchs Z./Thayne W.
-2.15
--
-1.65
--
--
--
--
--
--
- 2»
- • 
-17:00
-• 
-Cassone M./McHugh A.
-Exsted M./Ganesan A.
-2.15
--
-1.65
--
--
--
--
--
--
- 2»
- • 
-17:00
-• 
-Draxl L./Schachter N.
-Banthia S./Hach Verdugo H.
-1.35
--
-3.00
--
--
--
--
--
--
- 2»
- • 
-17:00
-• 
-Hijikata R./Kiger M.
-Clarke J./Maginley J.
-1.25
--
-3.70
--
--
--
--
--
--
- 2»
- • 
-17:00
-• 
-Perez A./Vance J.
-Bianchi J. J./Fenty A.
-2.45
--
-1.50
--
--
--
--
--
--
- 2»
- • 
-17:00
-• 
-Rosenkranz M./Wiskandt M.
-Harper C./Stevenson D.
-2.45
--
-1.50
--
--
--
--
--
--
- 2»
- • 
-17:05
-• 
-Olbrycht, Michal
-Strowski, Karol
-3.30
--
-1.28
--
--
--
--
--
--
- 2»
- • 
-17:10
-• 
-Abbasi, Amirreza
-Petas, Kacper
-1.72
--
-2.00
--
--
--
--
--
--
- 2»
- • 
-17:30
-• 
-Al Wahda
-Abha
-3.00
-3.25
-2.15
-1.90
-1.77
-3.00
-1.62
-4.45
-2.10
- 389»
- • 
-17:30
-• 
-KTP Kotka
-Honka Espoo
-1.22
-20.0
-4.80
--
--
--
--
--
--
- 37»
- • 
-17:30
-• 
-Kouvot Kouvola
-Bisons Loimaa
-2.30
-14.0
-1.75
--
--
--
--
--
--
- 37»
- • 
-17:30
-• 
-Lahti
-Salon Vilpas
-3.80
-16.0
-1.33
--
--
--
--
--
--
- 37»
- • 
-17:30
-• 
-F. Cerundolo
-A. Michelsen
-1.97
--
-1.82
--
--
--
--
--
--
- 61»
- • 
-17:30
-• 
-S. Tsitsipas
-L. Musetti
-3.00
--
-1.40
--
--
--
--
--
--
- 59»
- • 
-17:30
-• 
-Khimik
-Voronezh
-1.65
-4.50
 4.10
--
--
--
-1.12
--
--
- 131»
- • 
-17:30
-• 
-Budejovice
-Mountfield HK
-2.02
-4.40
-3.05
--
--
--
-1.11
--
--
- 158»
- • 
-17:30
-• 
-Loko Yar. U20
-Tolpar U20
-2.95
-4.30
-1.90
--
--
--
-1.07
--
--
- 74»
- • 
-17:30
-• 
-Kosice
-Dukla Michalovce
-1.60
-4.60
-4.10
--
--
--
-1.13
--
--
- 146»
- • 
-17:30
-• 
-Hk Trnava
-HK Detva
-4.60
-4.60
-1.45
--
--
--
--
--
--
- 7»
- • 
-17:30
-• 
-Slepsk Suwalki
-Rzeszow
-4.10
--
-1.20
--
--
--
--
--
--
- 25»
- • 
-17:30
-• 
-Fisera, Milan
-Lauber, Jakub
-1.83
--
-1.83
--
--
--
--
--
--
- • 
-17:30
-• 
-Turek, Tomas
-Mares, Erik
-1.89
--
-1.79
--
--
--
--
--
--
- • 
-17:30
-• 
-Vavrecka, Michal
-Volhejn, Dan
-1.83
--
-1.83
--
--
--
--
--
--
- • 
-17:30
-• 
-Zahradka, Michal
-Kolisnyk, Oleksandr
-1.48
--
-2.43
--
--
--
--
--
--
- • 
-17:30
-• 
-E. Gorgodze
-M. Tona
-1.13
--
-5.20
--
--
--
--
--
--
- 18»
- • 
-17:30
-• 
-VaLePa
-Tiikerit
-1.13
--
-4.75
--
--
--
--
--
--
- 17»
- • 
-17:30
-• 
-Nitra
-Outrights
-3.50
--
--
--
--
--
--
--
--
- • 
-17:30
-• 
-HK Vlci Zilina
-Outrights
-7.00
--
--
--
--
--
--
--
--
- • 
-17:30
-• 
-Slovan Bratislava
-Outrights
-7.00
--
--
--
--
--
--
--
--
- • 
-17:30
-• 
-Ban. Bystrica
-Outrights
-9.00
--
--
--
--
--
--
--
--
- • 
-17:30
-• 
-Kosice
-Outrights
-9.00
--
--
--
--
--
--
--
--
- • 
-17:30
-• 
-Spisska Nova Ves
-Outrights
-9.00
--
--
--
--
--
--
--
--
- • 
-17:30
-• 
-Zvolen
-Outrights
-9.00
--
--
--
--
--
--
--
--
- • 
-17:30
-• 
-Dukla Trencin
-Outrights
-13.0
--
--
--
--
--
--
--
--
- • 
-17:30
-• 
-Poprad
-Outrights
-13.0
--
--
--
--
--
--
--
--
- • 
-17:30
-• 
-Dukla Michalovce
-Outrights
-33.0
--
--
--
--
--
--
--
--
- • 
-17:30
-• 
-Liptovsky Mikulas
-Outrights
-33.0
--
--
--
--
--
--
--
--
- • 
-17:30
-• 
-Presov
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-17:30
-• 
-Braun, Josef
-Ufnal, Mateusz Edward
-1.22
--
-3.90
--
--
--
--
--
--
- 2»
- • 
-17:35
-• 
-Wiecek, Adrian
-Kosowski, Jakub
-2.00
--
-1.72
--
--
--
--
--
--
- 2»
- • 
-17:55
-• 
-Kolodziej, Krystian
-Filbrandt, Tomasz
-1.67
--
-2.10
--
--
--
--
--
--
- 2»
- • 
-18:00
-• 
-Neptunas
-Hamburg
-1.28
-19.0
-4.50
--
--
--
--
--
--
- 151»
- • 
-18:00
-• 
-Shabab Al Ahli
-Nasaf Qarshi
-1.45
-4.55
-6.20
-2.28
-1.55
-2.45
-1.70
-4.50
-2.07
- 763»
- • 
-18:00
-• 
-Igokea
-Trieste
-1.70
-13.0
-2.40
--
--
--
--
--
--
- 78»
- • 
-18:00
-• 
-Torpedo Kutaisi
-Iberia 1999
-3.05
-3.25
-2.10
 1.92
-1.75
-3.00
-1.62
-4.45
-2.10
- 758»
+ 792»
  • 
-18:00
+17:30
 • 
-Brno
-Opava
-1.47
-4.25
-5.80
-2.10
-1.65
-2.68
-1.77
-4.75
-2.18
- 759»
- • 
-18:00
-• 
-VEF Riga
-Ventspils
-1.17
-21.0
-5.75
--
--
--
--
--
--
- 37»
- • 
-18:00
-• 
-K. Majchrzak
-B. Shelton
-2.55
--
-1.50
--
--
--
--
--
--
- 57»
- • 
-18:00
-• 
-Penza
-HK Chelny
-1.33
-5.75
-7.00
--
--
--
-1.20
--
--
- 131»
- • 
-18:00
-• 
-Ryazan
-Bars
+Novi Pazar
+Javor
 1.85
-4.10
-3.40
--
--
--
-1.20
--
--
- 131»
- • 
-18:00
-• 
-AKM Tula
-CSK VVS
-2.20
-4.00
-2.65
--
--
--
-1.13
--
--
- 131»
- • 
-18:00
-• 
-Olomouc
-Litvinov
-1.82
-4.40
-3.65
--
--
--
-1.17
--
--
- 158»
- • 
-18:00
-• 
-Akm Novomoskovsk U20
-Stalnye Lisy U20
-9.50
-6.25
-1.20
--
--
--
-1.17
--
--
- 74»
- • 
-18:00
-• 
-Atlant U20
-Mikhaylov Ac. U20
-3.80
-4.30
-1.65
--
--
--
-1.12
--
--
- 74»
- • 
-18:00
-• 
-Zvolen
-Dukla Trencin
-2.00
-4.20
-2.90
--
--
--
-1.10
--
--
- 146»
- • 
-18:00
-• 
-Kolisnyk, Oleksandr
-Petracek, Vratislav
-1.83
--
-1.83
--
--
--
--
--
--
- • 
-18:00
-• 
-Lauber, Jakub
-Pavelka, Radim
-1.83
--
-1.83
--
--
--
--
--
--
- • 
-18:00
-• 
-Mares, Erik
-Koubek, Vojtech
-2.43
--
-1.48
--
--
--
--
--
--
- • 
-18:00
-• 
-Volhejn, Dan
-Prosa, Tomas
-1.83
--
-1.83
--
--
--
--
--
--
- • 
-18:00
-• 
-Rostock
-Antwerp
-1.18
-19.0
-5.50
--
--
--
--
--
--
- 37»
- • 
-18:00
-• 
-Fuchse
-JAGS Voslau
-1.75
-8.25
-2.45
--
--
--
--
--
--
- 35»
- • 
-18:00
-• 
-Riga Prizma
-HS Riga
-1.47
-4.80
-4.60
--
--
--
-1.05
--
--
- 66»
- • 
-18:00
-• 
-Sanok
-HC Zaglebie
-23.0
-12.0
-1.02
--
--
--
--
--
--
- 107»
- • 
-18:00
-• 
-TMH Polonia Bytom
-Krakow
-1.70
-4.20
-3.50
--
--
--
-1.07
--
--
- 126»
- • 
-18:00
-• 
-Tychy
-Tkh Torun
-1.50
-4.60
-4.50
--
--
--
-1.07
--
--
- 126»
- • 
-18:00
-• 
-A.S. Sanchez
-K. Jokic
-1.30
--
-3.25
--
--
--
--
--
--
- 18»
- • 
-18:00
-• 
-D. Cherubini
-M. Trevisan
-2.55
--
-1.48
--
--
--
--
--
--
- 18»
- • 
-18:00
-• 
-N. Sousa Salazar
-J. Pieri
-11.0
--
-1.02
--
--
--
--
--
--
- 15»
- • 
-18:30
-• 
-Spartak M.
-HC Kunlun
-1.97
-4.20
-3.05
--
--
--
-1.08
--
--
- 154»
- • 
-18:30
-• 
-Sparta Prague
-Trinec
-2.37
-4.30
-2.55
--
--
--
-1.10
--
--
- 158»
- • 
-18:30
-• 
-C. Hemery
-H. Gaston
-3.00
--
-1.35
--
--
--
--
--
--
- 18»
- • 
-18:30
-• 
-Barton, Ales
-Vavrecka, Michal
-1.59
--
-2.16
--
--
--
--
--
--
- • 
-18:30
-• 
-Kolar, Milan
-Fisera, Milan
-1.83
--
-1.83
--
--
--
--
--
--
- • 
-18:30
-• 
-Mecl Jr, Jan
-Zahradka, Michal
-1.71
--
-1.98
--
--
--
--
--
--
- • 
-18:30
-• 
-Zajicek, Jan
-Turek, Tomas
-1.39
--
-2.70
--
--
--
--
--
--
- • 
-18:30
-• 
-Katowice
-Oswiecim
-1.93
-4.00
-2.95
--
--
--
-1.13
--
--
- 126»
- • 
-18:45
-• 
-Barcelona
-Olympiacos
-1.16
-7.75
-16.0
-3.00
-1.35
-1.95
-2.03
-4.95
-2.27
- 893»
- • 
-18:45
-• 
-K. Almaty
-Pafos
-3.10
-3.15
-2.52
-1.67
-2.25
-4.20
-1.92
-5.50
-2.65
- 885»
- • 
-18:45
-• 
-Baia Mare W
-Granollers
 3.45
-9.90
-1.40
--
--
--
--
--
--
- 35»
+3.80
+1.92
+1.77
+3.05
+1.67
+4.60
+2.12
+ 788»
  • 
-18:45
-• 
-Bern
-Montpellier
-8.70
-13.0
-1.10
--
--
--
--
--
--
- 35»
- • 
-18:45
-• 
-Hannover Burgdorf
-Tatran Presov
--
--
--
--
--
--
--
--
--
- 30»
- • 
-18:45
-• 
-IK Savehof
-Fredericia HK 1990
-2.20
-7.80
-1.93
--
--
--
--
--
--
- 35»
- • 
-18:45
-• 
-Kiel
-Ostrovia
--
--
--
--
--
--
--
--
--
- 22»
- • 
-18:45
+17:30
 • 
 Partizan
-K. Schaffhausen
-4.50
-11.0
-1.27
--
--
--
--
--
--
- 35»
- • 
-18:45
-• 
-Sesvete
-Kristianstad
-3.45
-9.70
-1.42
--
--
--
--
--
--
- 35»
- • 
-18:45
-• 
-Skanderborg
-Slovan
-1.30
-10.75
-4.25
--
--
--
--
--
--
- 35»
- • 
-18:45
-• 
-Toulouse
-Vardar
-1.20
-12.0
-5.50
--
--
--
--
--
--
- 35»
- • 
-18:45
-• 
-England
-Outrights
-2.05
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Spain
-Outrights
-3.50
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-France
-Outrights
-6.00
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Germany
-Outrights
-6.50
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Italy
-Outrights
-8.50
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Mbappe K.
-Outrights
-3.00
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Kane H.
-Outrights
-5.50
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Haaland E.
-Outrights
-6.50
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Salah M.
-Outrights
-17.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Dembele, Ousmane
-Outrights
-20.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Lewandowski R.
-Outrights
-20.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Isak, Alexander
-Outrights
-25.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Martinez L.
-Outrights
-25.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Gyokeres V.
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Raphinha
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Rashford M.
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Saka B.
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Hojlund R.
-Outrights
-33.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Jackson, Nicolas
-Outrights
-33.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Palmer C.
-Outrights
-33.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Thuram-ulien, Marcus Lilian
-Outrights
-33.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Yamal L.
-Outrights
-33.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Alvarez J.
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Ekitike H.
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Gordon A.
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Junqueira de Jesus, Joao Pedro
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Ramos, Goncalo Matias
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Torres F.
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Vlahovic D.
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Guirassy S.
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Kvaratskhelia K.
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Olise, Michael
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Vinicius Jr
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Doue, Desire
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Woltemade, Nick
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Adeyemi K.
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Barcola B.
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-David J.
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Griezmann A.
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Lookman, Ademola
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Osimhen V.
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Sorloth, Alexander
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Bellingham J.
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Diaz L.
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Foden P.
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Gakpo C.
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Garcia, Gonzalo
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Krstovic, Nikola
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Marmoush, Omar
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Olmo D.
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Pavlidis, Vangelis
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Rodrygo
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Schick P.
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Wirtz F.
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Cherki, Rayan
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-De Bruyne K.
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Delap, Liam
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Eze E.
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Gnabry S.
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Greenwood M.
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Icardi M.
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Kolo Muani R.
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Lucca, Lorenzo
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Madueke, Noni
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-McTominay, Scott
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Neto P.
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Richarlison
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Sancet, Oihan
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Solanke, Dominic
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Williams N.
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Williams, Inaki
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Wissa, Yoane
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Aubameyang P.
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Balogun F.
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Beier, Maximilian
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Bobb, Oscar
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-El Kaabi, Ayoub
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Johnson, Brennan
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Kudus, Mohammed
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Moreno G.
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Paixao, Igor
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Pepi, Ricardo
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Sane L.
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Simons X.
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Garnacho, Alejandro
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Barcelona
-Outrights
-6.50
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-PSG
-Outrights
-6.50
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Arsenal
-Outrights
-7.00
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Liverpool
-Outrights
-7.50
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Bayern
-Outrights
-10.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Real Madrid
-Outrights
-10.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Manchester City
-Outrights
-11.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Chelsea
-Outrights
-17.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Inter
-Outrights
-27.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Napoli
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Newcastle
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Atl. Madrid
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Juventus
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Tottenham
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Dortmund
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Atalanta
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Leverkusen
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Frankfurt
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Monaco
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Marseille
-Outrights
-125
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Villarreal
-Outrights
-125
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Athletic Bilbao
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Benfica
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Club Brugge
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Galatasaray
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-PSV
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Sporting
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Ajax
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Olympiacos
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Union SG
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-FC Copenhagen
-Outrights
-350
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Bodo/Glimt
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-K. Almaty
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Pafos Fc
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Qarabag
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-18:45
-• 
-Slavia Prague
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-19:00
-• 
-Aris
-Manresa
-2.35
-14.0
-1.80
--
--
--
--
--
--
- 155»
- • 
-19:00
-• 
-Ulm
-Besiktas
-2.30
-14.0
-1.85
--
--
--
--
--
--
- 151»
- • 
-19:00
-• 
-Galatasaray
-Wurzburg
-1.38
-15.0
-3.40
--
--
--
--
--
--
- 78»
- • 
-19:00
-• 
-Al Zulfi
-Al Bukayriyah
-2.00
-3.00
-3.60
-1.50
-2.35
-4.60
-2.05
-5.90
-2.90
- 381»
- • 
-19:00
-• 
-Skovde
-Guif
-1.10
-13.0
-8.45
--
--
--
--
--
--
- 35»
- • 
-19:00
-• 
-DRHV 06
-Magdeburg
-10.5
-13.0
-1.07
--
--
--
--
--
--
- 35»
- • 
-19:00
-• 
-Herning
-Outrights
-2.75
--
--
--
--
--
--
--
--
- • 
-19:00
-• 
-Aalborg
-Outrights
-6.50
--
--
--
--
--
--
--
--
- • 
-19:00
-• 
-Odense
-Outrights
-6.50
--
--
--
--
--
--
--
--
- • 
-19:00
-• 
-Esbjerg
-Outrights
-8.00
--
--
--
--
--
--
--
--
- • 
-19:00
-• 
-Rungsted
-Outrights
-9.00
--
--
--
--
--
--
--
--
- • 
-19:00
-• 
-Sonderjyske
-Outrights
-9.00
--
--
--
--
--
--
--
--
- • 
-19:00
-• 
-Herlev
-Outrights
-14.0
--
--
--
--
--
--
--
--
- • 
-19:00
-• 
-Frederikshavn
-Outrights
-19.0
--
--
--
--
--
--
--
--
- • 
-19:00
-• 
-Rodovre
-Outrights
-27.0
--
--
--
--
--
--
--
--
- • 
-19:00
-• 
-Habo
-Hylte/Halmstad
--
--
--
--
--
--
--
--
--
- 11»
- • 
-19:00
-• 
-Aby/Tjureda IF
-Edsbyns IF
-6.00
-8.50
+Mladost L.
 1.25
--
--
--
--
--
--
- 2»
- • 
-19:00
-• 
-Frillesaas BK
-Vasteraas SK/BK
-8.50
-10.0
-1.15
--
--
--
--
--
--
- 2»
- • 
-19:00
-• 
-Gripen/Trollhattan
-Hammarby IF/BK
-2.45
-6.00
-1.95
--
--
--
--
--
--
- 2»
- • 
-19:00
-• 
-IK Sirius BK
-BS Boltic/Gota
-1.10
-11.0
-12.0
--
--
--
--
--
--
- 2»
- • 
-19:00
-• 
-Vetlanda BK
-IFK Vanersborg
-1.13
-10.0
-9.50
--
--
--
--
--
--
- 2»
- • 
-19:00
-• 
-Cibona
-Dijon
-5.00
-19.0
-1.20
--
--
--
--
--
--
- 37»
- • 
-19:00
-• 
-G. Ce
-S. Waltert
-7.00
--
-1.07
--
--
--
--
--
--
- 19»
- • 
-19:00
-• 
-Da Cruz Mendonca S./Fullana L.
-Alves C./Riera J.
-10.0
--
-1.03
--
--
--
--
--
--
- 2»
- • 
-19:00
-• 
-Gamiz A./Vedder E.
-Sherif M./Udvardy P.
-3.45
--
-1.27
--
--
--
--
--
--
- 2»
- • 
-19:00
-• 
-Labrana F./Pereira R.
-Fossa Huergo N./Wuerth T.
 5.20
--
-1.13
--
--
--
--
--
--
- 2»
- • 
-19:00
-• 
-Rame A./Smith T. N.
-Candiotto A./Leme Da Silva N. V.
+8.50
+2.23
 1.57
--
-2.30
--
--
--
--
--
--
- 2»
- • 
-19:00
-• 
-L. Tran
-M. Colmegna
-2.40
--
-1.53
--
--
--
--
--
--
- 18»
- • 
-19:00
-• 
-Aalborg
-Rodovre
-1.23
-6.50
-9.00
--
--
--
-1.20
--
--
- 131»
- • 
-19:00
-• 
-Odense
-Herlev
+2.47
 2.00
-4.30
-2.90
--
--
--
-1.08
--
--
- 131»
+5.20
+2.40
+ 777»
  • 
-19:10
+17:30
 • 
-Sandecja Nowy S.
-Slask Wroclaw 2
-1.83
-3.75
-3.60
-2.25
-1.55
-2.45
-1.52
-3.95
-1.85
- 763»
+Neom SC
+Al Khaleej
+2.03
+3.70
+3.05
+2.05
+1.67
+2.78
+1.57
+4.20
+1.97
+ 791»
  • 
-19:30
+17:30
 • 
-CSKA Moscow
-Akron Togliatti
-1.38
-4.90
-7.25
-2.30
+Aluminij
+Bravo
+3.50
+3.55
+1.97
+2.05
+1.72
+2.85
+1.62
+4.35
+2.05
+ 770»
+ • 
+18:00
+• 
+Termalica B-B.
+Zaglebie
+2.52
+3.50
+2.65
+2.10
+1.73
+2.85
 1.60
+4.20
+2.00
+ 791»
+ • 
+18:00
+• 
+A. Klagenfurt
+Sturm Graz II
+1.70
+4.15
+4.10
+2.30
+1.57
+2.47
+1.57
+4.10
+1.90
+ 792»
+ • 
+18:00
+• 
+Bregenz
+Kapfenberg
+2.60
+3.50
 2.50
-1.85
-4.75
-2.20
+2.13
+1.67
+2.72
+1.55
+4.15
+1.95
+ 794»
+ • 
+18:00
+• 
+First Vienna
+Admira
+3.55
+3.50
+2.00
+1.70
+2.07
+3.80
+1.88
+5.20
+2.52
+ 785»
+ • 
+18:00
+• 
+Liefering
+St. Polten
+3.50
+3.95
+1.88
+2.23
+1.63
+2.60
+1.55
+4.15
+1.90
+ 796»
+ • 
+18:00
+• 
+Stripfing
+Hertha Wels
+2.03
+3.55
+3.35
+1.95
+1.80
+3.05
+1.67
+4.60
+2.15
+ 792»
+ • 
+18:00
+• 
+Gorica
+Hajduk Split
+4.50
+3.60
+1.75
+1.75
+1.97
+3.55
+1.90
+5.20
+2.47
+ 783»
+ • 
+18:00
+• 
+Pruszkow
+Puszcza
+2.45
+3.40
+2.68
+2.03
+1.70
+2.80
+1.57
+4.20
+2.00
  761»
  • 
+18:30
+• 
+Greuther Furth
+Karlsruher
+2.75
+3.80
+2.35
+2.55
+1.50
+2.27
+1.45
+3.50
+1.70
+ 801»
+ • 
+18:30
+• 
+Schalke
+Darmstadt
+2.27
+3.55
+3.05
+2.15
+1.70
+2.75
+1.57
+4.10
+1.95
+ 797»
+ • 
+19:00
+• 
+Wehen
+Aachen
+1.97
+3.70
+3.45
+2.07
+1.67
+2.75
+1.57
+4.25
+2.00
+ 793»
+ • 
+19:00
+• 
+Karagumruk
+Kayserispor
+2.27
+3.45
+3.10
+2.10
+1.73
+2.85
+1.57
+4.30
+2.00
+ 794»
+ • 
+19:00
+• 
+Aarhus
+Nordsjaelland
+1.80
+3.85
+4.10
+2.32
+1.63
+2.57
+1.60
+4.05
+1.92
+ 798»
+ • 
+19:00
+• 
+Lok. Sofia
+Lok. Plovdiv
+2.13
+3.10
+3.60
+1.57
+2.23
+4.25
+1.97
+5.60
+2.75
+ 757»
+ • 
+19:00
+• 
+Sivasspor
+Hatayspor
+1.37
+5.10
+7.10
+2.30
+1.55
+2.42
+1.77
+4.60
+2.13
+ 761»
+ • 
+19:00
+• 
+B.93
+Horsens
+4.00
+3.80
+1.80
+2.05
+1.70
+2.80
+1.63
+4.40
+2.03
+ 766»
+ • 
+19:00
+• 
+Kolding IF
+Middelfart
+1.45
+4.40
+6.40
+2.07
+1.67
+2.72
+1.83
+4.85
+2.25
+ 759»
+ • 
+19:00
+• 
+Orgryte
+Vasteras
+2.90
+3.65
+2.25
+2.35
+1.57
+2.42
+1.48
+3.80
+1.82
+ 772»
+ • 
 19:30
 • 
-Aubagne
-Valenciennes
-2.75
-3.00
-2.52
-1.65
-2.10
-3.85
-1.83
-5.10
-2.52
+Stade Nyonnais
+Yverdon
+5.50
+4.30
+1.52
+2.25
+1.57
+2.47
+1.67
+4.35
+2.00
  764»
  • 
 19:30
 • 
-Bourg
-Fleury-Merogis
-3.60
-3.05
-2.07
-1.55
-2.30
-4.45
-2.00
-5.80
-2.85
- 755»
- • 
-19:30
-• 
-Concarneau
-Chateauroux
-1.97
-3.30
-3.65
-1.70
-2.03
-3.65
-1.83
-5.10
-2.47
- 759»
- • 
-19:30
-• 
-Paris 13 Atl.
-Stade Briochin
-2.03
-3.15
-3.65
-1.63
-2.13
-3.95
-1.90
-5.40
-2.63
- 758»
- • 
-19:30
-• 
-Quevilly Rouen
-Sochaux
-3.30
-3.00
-2.20
-1.60
-2.15
-4.05
-1.88
-5.35
-2.62
- 759»
- • 
-19:30
-• 
-Versailles
-Dijon
-2.63
-2.95
-2.70
-1.55
-2.27
-4.35
-1.93
-5.60
-2.72
- 757»
- • 
-19:30
-• 
-Villefranche
-Orleans
-3.25
-3.15
-2.15
-1.65
-2.10
-3.85
-1.85
-5.20
-2.55
- 761»
- • 
-19:30
-• 
-Sekhukhune
-Mamelodi
-6.70
-3.55
-1.57
-1.48
-2.45
-4.95
-2.55
-7.25
-3.55
- 743»
- • 
-19:30
-• 
-M. Kecmanovic
-S. Wawrinka
-1.55
--
-2.45
--
--
--
--
--
--
- 59»
- • 
-19:30
-• 
-Bosna S.
-UCAM Murcia
-5.00
-19.0
-1.20
--
--
--
--
--
--
- 37»
- • 
-19:30
-• 
-Barnbach/Koflach
-Aon Fivers
-3.25
-9.40
-1.46
--
--
--
--
--
--
- 35»
- • 
-19:45
-• 
-Ajoie
-Langnau
-3.40
-4.30
-1.80
--
--
--
-1.15
--
--
- 146»
- • 
-19:45
-• 
-Ambri-Piotta
-Bern
-2.55
-4.00
-2.25
--
--
--
-1.13
--
--
- 146»
- • 
-19:45
-• 
-Davos
-Biel
-1.57
-4.75
-4.30
--
--
--
-1.13
--
--
- 146»
- • 
-19:45
-• 
-EHC Kloten
-Servette
-2.50
-4.10
-2.25
--
--
--
-1.10
--
--
- 146»
- • 
-19:45
-• 
-Fribourg
-Zug
-2.20
-4.10
-2.60
--
--
--
-1.12
--
--
- 146»
- • 
-19:45
-• 
-HC Lugano
-Zurich
-2.65
-4.10
-2.20
--
--
--
-1.13
--
--
- 146»
- • 
-19:45
-• 
-Lausanne
+Xamax
 Rapperswil
-1.93
-4.30
-3.00
--
--
--
-1.07
--
--
- 146»
- • 
-19:45
-• 
-Thurgau
-EHC Olten
-2.20
-4.00
-2.45
--
--
--
-1.12
--
--
- 132»
- • 
-20:00
-• 
-Hapoel Jerusalem
-Slask Wroclaw
-1.15
-25.0
-7.25
--
--
--
--
--
--
- 155»
- • 
-20:00
-• 
-Le Mans
-Benfica
-1.12
-22.0
-7.25
--
--
--
--
--
--
- 78»
- • 
-20:00
-• 
-Spartak
-Gran Canaria
-3.20
-15.0
-1.43
--
--
--
--
--
--
- 78»
- • 
-20:00
-• 
-Barnsley
-Manchester Utd U21
-1.85
-4.20
-3.20
-2.95
-1.33
-1.87
-1.32
-3.15
-1.52
- 775»
- • 
-20:00
-• 
-Stevenage
-Crystal Palace U21
-1.27
-5.50
-8.25
-2.95
-1.33
-1.88
+1.92
+3.70
+3.60
+2.15
 1.63
-4.05
-1.87
- 766»
- • 
-20:00
-• 
-Den Bosch
-Helmond
-2.25
-3.60
-2.90
-2.25
-1.60
-2.55
-1.52
-3.85
-1.83
- 797»
- • 
-20:00
-• 
-Oss
-Jong Ajax
-1.95
-3.90
-3.30
-2.55
-1.47
-2.18
-1.43
-3.45
-1.65
- 800»
- • 
-20:00
-• 
-Venlo
-Jong Utrecht
-1.70
-4.10
-4.20
-2.55
-1.47
-2.18
-1.48
-3.65
-1.72
- 797»
- • 
-20:00
-• 
-Maastricht
-Vitesse
-2.40
-3.65
 2.62
-2.25
-1.60
-2.52
-1.50
-3.80
-1.82
- 796»
- • 
-20:00
-• 
-Caen
-Rouen
-2.50
-3.00
-2.85
-1.60
-2.17
-4.10
-1.88
-5.35
-2.62
- 760»
- • 
-20:00
-• 
-GCK Lions
-EHC Basel
-1.97
-4.10
-2.80
--
--
--
-1.10
--
--
- 132»
- • 
-20:00
-• 
-HC Sierre
-EHC Arosa
-1.10
-7.50
-14.0
--
--
--
-1.25
--
--
- 132»
- • 
-20:00
-• 
-Winterthur
-EHC Chur
-2.70
-4.10
-2.05
--
--
--
-1.12
--
--
- 132»
- • 
-20:00
-• 
-Levallois Paris SC W
-Bordeaux W
-1.23
--
-3.60
--
--
--
--
--
--
- 17»
- • 
-20:00
-• 
-Mulhouse W
-RC Cannes W
-1.35
--
-2.90
--
--
--
--
--
--
- 17»
- • 
-20:00
-• 
-Saint Die Des Vosges W
-Beziers W
-3.25
--
-1.28
--
--
--
--
--
--
- 17»
- • 
-20:00
-• 
-TFOC W
-Le Cannet W
-2.50
--
-1.45
--
--
--
--
--
--
- 17»
- • 
-20:00
-• 
-Holovatiuk, Yurii
-Dedek, Jiri
-3.05
--
-1.31
--
--
--
--
--
--
- • 
-20:00
-• 
-Janata, Tomas
-Postelt, Vladimr
-1.43
--
-2.55
--
--
--
--
--
--
- • 
-20:00
-• 
-Kasnik, Sebastian
-Louda, Yirzhi
-1.65
--
-2.07
--
--
--
--
--
--
- • 
-20:00
-• 
-Vaclavik, Miroslav
-Lubas, Miloslav
-2.07
--
-1.65
--
--
--
--
--
--
- • 
-20:00
-• 
-Aldershot
-Southampton U21
-2.40
-3.80
-2.45
-2.70
-1.40
-2.03
-1.35
-3.30
-1.60
- 393»
- • 
-20:00
-• 
-Braintree Town
-West Brom U21
-2.07
-3.70
-3.00
-2.50
-1.47
-2.20
-1.42
-3.55
-1.70
- 392»
- • 
-20:00
-• 
-Sutton
-West Ham U21
-2.80
-3.75
-2.15
-2.65
-1.40
-2.05
-1.37
-3.35
-1.62
- 392»
- • 
-20:00
-• 
-Truro
-Brighton U21
-2.52
-3.55
-2.42
-2.27
 1.55
-2.42
-1.47
-3.75
-1.80
- 388»
+4.15
+1.92
+ 770»
  • 
-20:00
+19:30
 • 
-Wealdstone
-Nottingham U21
-2.07
-3.70
-3.00
-2.45
-1.47
-2.23
-1.42
-3.55
-1.70
- 390»
- • 
-20:00
-• 
-Woking
-Fulham U21
-2.47
-3.55
-2.47
-2.30
-1.55
-2.40
-1.45
-3.75
-1.80
- 388»
- • 
-20:00
-• 
-P. Kypson
-O. Tarvet
-1.45
--
-2.65
--
--
--
--
--
--
- 18»
- • 
-20:15
-• 
-Al-Hilal Riyadh
-Al Sadd
-1.25
-4.85
-10.0
-3.30
-1.28
-1.75
-1.65
-3.80
-1.87
- 765»
- • 
-20:15
-• 
-J. Fearnley
-A. Zverev
-3.45
--
-1.30
--
--
--
--
--
--
- 51»
- • 
-20:30
-• 
-Projekt Warszawa
-CHKS Chelm
--
--
--
--
--
--
--
--
--
- 17»
- • 
-20:30
-• 
-Cmerda, Ondrej
-Brazda, Adam
-1.56
--
-2.23
--
--
--
--
--
--
- • 
-20:30
-• 
-Dousa, Tomas
-Bresky, Jaroslav
-1.31
--
-3.05
--
--
--
--
--
--
- • 
-20:30
-• 
-Martinek, Jaroslav
-Forman, Lubos
-3.25
--
-1.28
--
--
--
--
--
--
- • 
-20:30
-• 
-Plachy, Jiri
-Paldus, Tomas
-1.51
--
-2.33
--
--
--
--
--
--
- • 
-20:30
-• 
-T. Wuerth
-L. Pigossi
-1.57
--
-2.30
--
--
--
--
--
--
- 18»
- • 
-20:30
-• 
-M. Castillo Meza
-H. Vandewinkel
-12.0
--
-1.02
--
--
--
--
--
--
- 17»
- • 
-20:30
-• 
-Cisterna
-Trentino
-5.30
--
-1.12
--
--
--
--
--
--
- 21»
- • 
-20:30
-• 
-Monza
-Perugia
-5.90
--
-1.10
--
--
--
--
--
--
- 21»
- • 
-20:45
-• 
-Blackburn
-Sheffield Utd
-2.68
-3.20
-2.75
-1.70
-2.15
-3.95
-1.88
-5.10
-2.52
- 793»
- • 
-20:45
-• 
-Derby
-Norwich
-2.57
+Arges
+Din. Bucuresti
 3.15
-2.90
+3.10
+2.33
 1.65
-2.20
+2.18
 4.10
 1.92
 5.25
 2.60
  786»
  • 
-20:45
+19:45
 • 
-Hull
-Leicester
-3.15
-3.35
-2.30
+Torreense
+Oliveirense
+1.65
+3.90
+4.75
 1.90
-1.88
-3.30
+1.83
+3.15
+1.83
+4.95
+2.32
+ 760»
+ • 
+20:00
+• 
+Heerenveen
+Breda
 1.72
-4.60
-2.23
- 793»
+4.05
+4.55
+2.40
+1.57
+2.45
+1.60
+4.00
+1.88
+ 795»
  • 
-20:45
+20:00
 • 
-Ipswich
-Charlton
-1.65
-3.95
-5.35
-1.82
-2.00
-3.55
-2.00
-5.30
-2.52
- 792»
- • 
-20:45
-• 
-Millwall
-Stoke
-2.25
+Bastia
+Laval
+2.03
 3.15
-3.45
-1.63
-2.27
-4.30
-1.97
-5.45
-2.70
- 789»
- • 
-20:45
-• 
-Portsmouth
-Coventry
 3.95
-3.70
-1.90
-2.05
-1.77
-2.95
-1.70
-4.45
+1.60
+2.35
+4.50
 2.07
- 793»
+5.75
+2.85
+ 784»
  • 
-20:45
+20:00
 • 
-Preston
-Birmingham
-2.90
-3.15
-2.60
+Guingamp
+Clermont
+1.73
+3.85
+4.55
+2.00
+1.82
+3.05
+1.77
+4.65
+2.20
+ 791»
+ • 
+20:00
+• 
+Le Mans
+Boulogne
+2.20
+3.10
+3.55
 1.65
-2.25
-4.20
-1.93
+2.23
+4.15
+1.95
 5.35
 2.65
- 790»
+ 783»
  • 
-20:45
+20:00
 • 
-Swindon
-Notts County
-2.12
-3.45
-3.35
+Pau
+Dunkerque
+2.17
+3.30
+3.40
 1.92
+1.88
+3.25
+1.72
+4.60
+2.23
+ 794»
+ • 
+20:00
+• 
+Red Star
+Grenoble
+1.87
+3.35
+4.40
+1.75
+2.10
+3.75
+1.97
+5.25
+2.55
+ 785»
+ • 
+20:00
+• 
+Reims
+Troyes
+2.15
+3.45
+3.30
+1.92
+1.88
+3.25
+1.72
+4.60
+2.20
+ 795»
+ • 
+20:00
+• 
+Almere City
+Jong AZ
+1.67
+4.25
+4.15
+2.80
+1.40
+2.00
+1.43
+3.40
+1.62
+ 798»
+ • 
+20:00
+• 
+De Graafschap
+Jong PSV
+1.57
+4.80
+4.45
+3.40
+1.30
+1.75
+1.35
+2.95
+1.50
+ 804»
+ • 
+20:00
+• 
+Al-Ittihad
+Al-Hilal Riyadh
+3.10
+4.10
+1.92
+3.25
+1.28
+1.75
+1.28
+2.85
+1.45
+ 803»
+ • 
+20:00
+• 
+Francs Borains
+Gent U23
+2.23
+3.25
+3.00
+1.90
 1.80
 3.05
-1.65
-4.55
-2.15
- 767»
- • 
-20:45
-• 
-Boston Utd
-Morecambe
-1.88
-3.85
-3.60
-2.23
-1.57
-2.50
-1.52
-4.00
-1.85
- 771»
- • 
-20:45
-• 
-Eastleigh
-Scunthorpe
-3.35
-3.25
-2.15
-1.82
-1.90
-3.30
-1.72
-4.75
-2.27
- 764»
- • 
-20:45
-• 
-York City
-Boreham Wood
-1.80
-3.80
-4.00
-2.18
-1.60
-2.57
-1.57
-4.20
-1.93
- 767»
- • 
-20:45
-• 
-Banbury
-Kettering Town
-2.68
-3.25
-2.45
-1.85
-1.85
-3.20
-1.65
-4.60
-2.18
- 390»
- • 
-20:45
-• 
-Harborough
-Stratford
 1.63
-3.65
-4.95
-1.80
-1.88
-3.30
-1.88
-5.20
-2.42
- 387»
- • 
-20:45
-• 
-Leiston
-Sudbury
-1.83
-3.55
-3.80
-2.05
-1.67
-2.75
-1.60
-4.33
-2.00
- 388»
- • 
-20:45
-• 
-Quorn
-Halesowen
+4.50
 2.12
-3.35
-3.15
-1.95
-1.75
-2.95
-1.62
-4.40
-2.07
- 389»
+ 768»
  • 
-20:45
+20:00
 • 
-Real Bedford
-Stourbridge
-1.80
-3.55
-3.95
+Seraing
+K. Lierse
+2.60
+3.50
+2.40
 2.00
 1.70
 2.85
-1.65
-4.45
-2.07
- 388»
- • 
-20:45
-• 
-Spalding United
-Royston
-1.65
-3.75
-4.70
-2.27
-1.55
-2.42
-1.60
-4.15
-1.93
- 389»
- • 
-20:45
-• 
-Worcester City
-Bromsgrove
-1.67
-3.70
-4.60
-2.03
-1.70
-2.78
-1.67
-4.55
-2.10
- 387»
- • 
-20:45
-• 
-Chertsey Town
-Sholing
-2.40
-3.35
-2.52
-2.10
-1.63
-2.65
-1.52
-4.05
-1.90
- 389»
- • 
-20:45
-• 
-Dorchester
-Basingstoke
-2.25
-3.40
-2.68
-2.25
-1.55
-2.45
-1.47
-3.80
-1.80
- 390»
- • 
-20:45
-• 
-Farnham Town
-Walton & Hersham
-2.63
-3.65
-2.20
-2.50
-1.45
-2.15
-1.38
-3.45
-1.65
- 392»
- • 
-20:45
-• 
-Gloucester City
-Berkhamsted
-1.45
-4.20
-5.50
-2.30
-1.52
-2.37
-1.65
-4.30
+1.57
+4.25
 2.00
- 387»
- • 
-20:45
-• 
-Tiverton Town
-Wimborne
-3.75
-3.45
-1.82
-1.95
-1.73
-2.90
-1.65
-4.50
-2.10
- 388»
- • 
-20:45
-• 
-Barnet
-Cambridge United
-2.62
-3.40
-2.42
-2.05
-1.67
-2.75
-1.55
-4.15
-1.97
  769»
  • 
-20:45
+20:15
 • 
-Hyde
-Stocksbridge
-2.07
-3.35
-3.05
-2.05
-1.65
-2.72
-1.55
-4.15
-1.95
- 389»
- • 
-20:45
-• 
-United of Manchester
-Rushall
-1.70
-3.45
-4.25
-1.75
-1.95
-3.45
-1.85
-5.10
-2.42
- 386»
- • 
-20:45
-• 
-Airdrieonians
-Dunfermline
-3.35
-3.10
-2.23
-1.65
-2.18
-4.10
-1.92
-5.40
-2.65
- 760»
- • 
-20:45
-• 
-Partick Thistle
-Ayr
-2.13
-3.20
-3.45
-1.70
-2.10
-3.85
-1.87
-5.20
-2.55
- 763»
- • 
-20:45
-• 
-Alfreton Town
-Chester
-3.20
-3.20
-2.17
-1.77
-1.93
-3.45
-1.73
-4.80
-2.32
- 763»
- • 
-20:45
-• 
-Bedford
-Oxford City
-2.25
-3.55
-2.75
-2.30
-1.55
-2.40
-1.45
-3.75
-1.77
- 772»
- • 
-20:45
-• 
-Hereford
-Telford
-2.27
-3.35
-2.90
-1.95
-1.75
-2.95
+Aarau
+Wil
 1.60
-4.35
-2.05
+4.20
+4.80
+2.23
+1.60
+2.50
+1.62
+4.30
+1.97
  768»
  • 
-20:45
+20:30
 • 
-Leamington
-Macclesfield
-3.75
+Werder
+Union Berlin
+2.15
 3.55
-1.85
-1.97
-1.72
-2.90
-1.63
+3.30
+2.05
+1.77
+2.95
+1.62
 4.45
 2.07
+ 882»
+ • 
+20:30
+• 
+Modena
+Empoli
+1.83
+3.30
+5.10
+1.70
+2.23
+4.10
+2.10
+5.70
+2.78
+ 782»
+ • 
+20:30
+• 
+Huesca
+Las Palmas
+2.90
+2.90
+2.70
+1.42
+2.80
+6.00
+2.27
+6.70
+3.40
+ 772»
+ • 
+20:30
+• 
+Motor Lublin
+Widzew Lodz
+2.85
+3.50
+2.35
+2.15
+1.70
+2.78
+1.60
+4.15
+1.97
+ 791»
+ • 
+20:30
+• 
+Odra Opole
+Ruch Chorzow
+2.52
+3.15
+2.78
+1.67
+2.05
+3.75
+1.80
+5.00
+2.47
  765»
  • 
 20:45
 • 
-Merthyr Town
-Kidderminster
-3.75
-3.75
-1.80
-2.10
-1.65
-2.68
-1.57
-4.25
-1.97
- 767»
+Paris FC
+Nantes
+1.70
+3.95
+4.85
+2.00
+1.82
+3.05
+1.77
+4.85
+2.23
+ 879»
  • 
 20:45
 • 
-Peterborough S.
-Buxton
+Milan
+Pisa
+1.33
+4.90
+11.0
+2.12
+1.70
+2.78
+2.20
+5.80
+2.70
+ 880»
+ • 
+20:45
+• 
+Charleroi
+Anderlecht
+3.05
 3.40
-3.65
-1.92
-2.18
-1.60
-2.55
-1.52
-4.05
-1.87
- 771»
- • 
-20:45
-• 
-Radcliffe
-Darlington
-1.60
-4.05
-4.65
-2.35
-1.52
-2.35
-1.57
-4.05
-1.88
- 768»
- • 
-20:45
-• 
-South Shields
-Scarborough
+2.33
 1.93
-3.45
-3.55
-1.95
-1.75
-2.95
-1.63
-4.45
-2.07
- 764»
- • 
-20:45
-• 
-Southport
-Chorley
-2.85
-3.35
-2.27
-1.85
-1.85
-3.20
-1.67
+1.88
+3.25
+1.72
 4.60
 2.20
- 767»
+ 795»
  • 
 20:45
 • 
-Spennymoor
-AFC Fylde
-2.63
-3.60
-2.32
-2.33
-1.52
-2.35
-1.45
-3.70
-1.77
- 773»
- • 
-20:45
-• 
-Worksop
-Kings Lynn
-2.60
-3.55
-2.37
+Galway
+Drogheda
 2.00
-1.72
-2.85
-1.57
-4.25
-2.00
- 769»
- • 
-20:45
-• 
-Bath
-AFC Totton
-2.57
-3.10
-2.65
-1.67
-2.05
-3.75
-1.77
-5.00
-2.45
- 764»
- • 
-20:45
-• 
-Chesham
-Worthing
-2.60
-3.35
-2.47
-1.97
-1.72
-2.90
-1.57
-4.30
-2.03
- 769»
- • 
-20:45
-• 
-Dag & Red
-Horsham
-2.18
-3.35
-3.00
-1.95
-1.75
-2.95
-1.60
-4.40
-2.07
- 767»
- • 
-20:45
-• 
-Dover
-Dorking
-4.20
-3.65
-1.73
-2.10
-1.65
-2.68
-1.62
-4.33
-2.00
- 767»
- • 
-20:45
-• 
-Enfield Town
-Ebbsfleet
-3.95
-3.40
-1.85
-1.77
-1.90
-3.40
-1.77
-4.95
-2.32
- 759»
- • 
-20:45
-• 
-Hampton & Rich.
-Hemel Hempstead
-3.35
-3.50
-1.97
-1.85
-1.82
-3.15
-1.67
-4.65
-2.20
- 763»
- • 
-20:45
-• 
-Maidenhead
-Tonbridge
-1.37
-4.65
-6.90
-2.23
-1.57
-2.50
-1.82
-4.75
-2.20
- 758»
- • 
-20:45
-• 
-Maidstone
-Eastbourne Boro
-2.10
-3.20
-3.35
-1.70
-2.00
-3.60
-1.80
-5.00
-2.42
- 763»
- • 
-20:45
-• 
-Salisbury
-Farnborough
-2.15
-3.35
-3.10
-2.05
-1.67
-2.75
-1.57
-4.20
-1.97
- 768»
- • 
-20:45
-• 
-Torquay
-Chippenham
-1.38
-4.65
-6.60
-2.30
-1.53
-2.37
-1.73
-4.50
-2.07
- 761»
- • 
-20:45
-• 
-Weston-super-Mare
-Slough
-1.55
-4.05
-5.20
-2.20
-1.60
-2.52
-1.67
-4.45
-2.03
- 764»
- • 
-20:45
-• 
-Chatham
-Dulwich Hamlet
-1.73
-3.75
-3.75
-2.25
-1.55
-2.42
-1.52
-3.95
-1.85
- 389»
- • 
-20:45
-• 
-Cray
-St Albans
-2.55
-3.35
-2.37
-2.27
-1.55
-2.40
-1.45
-3.75
-1.80
- 390»
- • 
-20:45
-• 
-Folkestone
-Lewes
-1.65
-3.75
-4.15
-2.20
-1.57
-2.50
-1.57
-4.15
-1.92
- 389»
- • 
-20:45
-• 
-Oxford Utd
-Outrights
-2.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Derby
-Outrights
-3.25
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Charlton Athletic
-Outrights
-9.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Portsmouth
-Outrights
-5.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Blackburn
-Outrights
-6.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Watford
-Outrights
-5.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Norwich
-Outrights
-7.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-QPR
-Outrights
-7.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Hull
-Outrights
-11.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Preston
-Outrights
-8.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Sheffield United
-Outrights
-11.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Wrexham
-Outrights
-8.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Leicester
-Outrights
-15.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Bristol
-Outrights
-33.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Swansea
-Outrights
-22.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Millwall
-Outrights
-35.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Stoke
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-WBA
-Outrights
-90.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Birmingham
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Middlesbrough
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Southampton
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Coventry
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Ipswich
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Haji W.
-Outrights
-4.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Sargent, Josh
-Outrights
-8.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Mcburnie, Oliver
-Outrights
-13.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Armstrong, Adam
-Outrights
-25.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Clarke, Jack
-Outrights
-25.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Philogene-Bidace, Jaden
-Outrights
-25.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Stansfield, Jay
-Outrights
-11.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Thomas-Asante, Brandon
-Outrights
-17.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Conway, Tommy
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Kone, Richard
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Hirst, George
-Outrights
-33.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Jakobsen, Emil
-Outrights
-33.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Campbell, Tyrese
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Strelec, David
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Akpom, Chuba
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Archer, Cameron
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Azon, Ivan
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Barry, Louie
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Carranza, Julian
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Fatawu Issahaku, Abdul
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Idah, Adam
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Ivanovic, Mihailo
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Maja, Josh
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Mehmeti, Anis
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Moore K.
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Mubama, Divin
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Osmajic, Milutin
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Segecic, Adrian
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Simms, Ellis
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Szmodics, Sammy
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Twine, Scott
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Vipotnik, Zan
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Ayew J.
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Benson, Manuel
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Bishop, Colby
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Coburn, Josh
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Dike, Daryl
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Downs, Damion
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Furuhashi, Kyogo
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Heggebo, Aune
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Ings D.
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Irankunda, Nestory
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Kjerrumgaard, Luca
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Kvistgaarden, Mathias
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Lankshear, William
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Mavididi, Stephy
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Morris, Carlton
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Price, Isaac
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Robinson, Jay
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Torp, Victor
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Walle, Sindre
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Agyemang, Patrick
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Cannon, Thomas
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Cullen, Liam
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Daka, Patson
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Ducksch, Marvin
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Makama, Jovon
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Manhoef, Million
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Mason-Clark, Ephron
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Rudoni, Jack
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Thomas, Sorba
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Windass, Josh
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Bozenik, Robert
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Brewster, Rhian
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Crnac, Ante
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Godden, Matthew
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Gudjohnsen, Andri
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Hardie, Ryan
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Karlan Ahearne-Grant
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Kelman, Charlie
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Leaburn, Miles
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Ohashi, Yuki
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Hamer, Gustavo
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Harris, Mark
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Jebbison, Daniel
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Kargbo, Augustus
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Lang, Callum
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Langstaff, Macaulay
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Monga, Jeremy Ngola
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Olaofe, Isaac
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Prelec, Nik
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Semedo, Vivaldo
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Smith, Sam
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Waddingham, Thomas
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Whittaker, Morgan
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Cadamarteri, Bailey-tye
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Destan, Enis
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Doumbia, Mamadou
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Frey M.
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Gueye, Makhtar
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Jackson, Kayden
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Johnston, Michael
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Murphy, Josh
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-One, Ryan
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Poku Adubofour, Kwame
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Tyjon, Igor Julian
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Blackett-Taylor, Corey
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Rodriguez Jay
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Ugbo, Ike
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Coventry
-Outrights
-2.65
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Ipswich
-Outrights
-4.25
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Middlesbrough
-Outrights
-6.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Leicester
-Outrights
-15.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Southampton
-Outrights
-17.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Birmingham
-Outrights
-22.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-WBA
-Outrights
-17.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Stoke
-Outrights
-22.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Millwall
-Outrights
-27.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Bristol
-Outrights
-27.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-QPR
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Swansea
-Outrights
-35.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Hull
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Norwich
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Sheffield United
-Outrights
-55.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Watford
-Outrights
-90.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Wrexham
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Derby
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Preston
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Charlton Athletic
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Blackburn
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Portsmouth
-Outrights
-125
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Oxford Utd
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Sheffield Wed
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Coventry
-Outrights
-1.80
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Ipswich
-Outrights
-2.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Middlesbrough
-Outrights
-3.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Birmingham
-Outrights
-8.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Southampton
-Outrights
-8.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-WBA
-Outrights
-8.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Leicester
-Outrights
-9.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Stoke
-Outrights
-9.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Millwall
-Outrights
-13.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Bristol
-Outrights
-13.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Swansea
-Outrights
-17.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Sheffield United
-Outrights
-27.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Hull
-Outrights
-33.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Norwich
-Outrights
-45.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-QPR
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Wrexham
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Preston
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Watford
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Charlton Athletic
-Outrights
-35.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Portsmouth
-Outrights
-55.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Blackburn
-Outrights
-55.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Derby
-Outrights
-300
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Oxford Utd
-Outrights
-175
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Sheffield Wed
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Ipswich
-Outrights
-1.85
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Coventry
-Outrights
-1.45
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Middlesbrough
-Outrights
-2.35
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Birmingham
-Outrights
-5.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Southampton
-Outrights
-4.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Leicester
-Outrights
-5.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-WBA
-Outrights
-4.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Stoke
-Outrights
-7.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Millwall
-Outrights
-9.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Swansea
-Outrights
-10.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Bristol
-Outrights
-8.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Sheffield United
-Outrights
-15.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Hull
-Outrights
-22.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Norwich
-Outrights
-35.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-QPR
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Wrexham
-Outrights
-27.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Preston
-Outrights
-35.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Watford
-Outrights
-35.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Blackburn
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Charlton Athletic
-Outrights
-27.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Derby
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Portsmouth
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Oxford Utd
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Sheffield Wed
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Ademar Leon
-Nexe
-2.03
-7.80
-2.08
--
--
--
--
--
--
- 35»
- • 
-20:45
-• 
-Bidasoa Irun
-Flensburg-H.
-4.65
-11.0
-1.25
--
--
--
--
--
--
- 35»
- • 
-20:45
-• 
-Fram
-Elverum Handball
-8.00
-13.0
-1.10
--
--
--
--
--
--
- 35»
- • 
-20:45
-• 
-HF Karlskrona
-MT Melsungen
-5.60
-11.0
-1.20
--
--
--
--
--
--
- 35»
- • 
-20:45
-• 
-Porto
-Kriens
-1.20
-12.0
-5.30
--
--
--
--
--
--
- 35»
- • 
-20:45
-• 
-SL Benfica
-Ferencvarosi
-1.20
-12.0
-5.60
--
--
--
--
--
--
- 35»
- • 
-20:45
-• 
-Saint Raphael
-Potaissa Turda
-1.04
-13.0
-12.0
--
--
--
--
--
--
- 35»
- • 
-20:45
-• 
-Newport
-Outrights
-1.45
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Cheltenham Town
-Outrights
-1.90
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Accrington
-Outrights
-6.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Crawley
-Outrights
-4.25
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Harrogate
-Outrights
-4.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Shrewsbury Town
-Outrights
-8.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Barrow
-Outrights
-20.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Tranmere
-Outrights
-20.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Colchester
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Fleetwood Town
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Oldham
-Outrights
-35.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Bristol Rovers
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Bromley
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Notts County
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Cambridge United
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Crewe
-Outrights
-90.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Gillingham
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Barnet FC
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Salford
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Grimsby
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Swindon
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Chesterfield
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-MK Dons
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Walsall
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-MK Dons
-Outrights
-4.25
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Walsall
-Outrights
-7.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Chesterfield
-Outrights
-8.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Swindon
-Outrights
-7.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Grimsby
-Outrights
-8.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Barnet FC
-Outrights
-13.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Gillingham
-Outrights
-20.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Cambridge United
-Outrights
-17.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Crewe
-Outrights
-25.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Salford
-Outrights
-17.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Notts County
-Outrights
-17.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Bromley
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Bristol Rovers
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Fleetwood Town
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Colchester
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Oldham
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Barrow
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Tranmere
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Shrewsbury Town
-Outrights
-350
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Accrington
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Cheltenham Town
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Crawley
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Harrogate
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Newport
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Newport
-Outrights
-2.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Cheltenham Town
-Outrights
-3.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Accrington
-Outrights
-15.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Crawley
-Outrights
-9.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Harrogate
-Outrights
-11.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Shrewsbury Town
-Outrights
-17.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Barrow
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Tranmere
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Colchester
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Bromley
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Fleetwood Town
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Oldham
-Outrights
-125
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Bristol Rovers
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Cambridge United
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Crewe
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Gillingham
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Notts County
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Barnet FC
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Chesterfield
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Grimsby
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-MK Dons
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Salford
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Swindon
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Walsall
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-MK Dons
-Outrights
-1.65
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Chesterfield
-Outrights
-2.35
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Walsall
-Outrights
-2.40
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Swindon
-Outrights
-2.40
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Grimsby
-Outrights
-2.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Barnet FC
-Outrights
-3.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Salford
-Outrights
-4.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Cambridge United
-Outrights
-4.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Crewe
-Outrights
-5.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Gillingham
-Outrights
-4.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Notts County
-Outrights
-4.25
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Bromley
-Outrights
-8.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Bristol Rovers
-Outrights
-11.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Oldham
-Outrights
-15.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Fleetwood Town
-Outrights
-10.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Colchester
-Outrights
-8.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Tranmere
-Outrights
-17.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Barrow
-Outrights
-22.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Shrewsbury Town
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Accrington
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Crawley
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Harrogate
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Cheltenham Town
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Newport
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Rochdale
-Outrights
-3.25
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Forest Green
-Outrights
-5.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-York City
-Outrights
-4.25
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Carlisle United
-Outrights
-5.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Scunthorpe
-Outrights
-11.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Southend
-Outrights
-11.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Boreham Wood
-Outrights
-19.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Halifax
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Tamworth
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Brackley Town FC
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Hartlepool Utd
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Eastleigh
-Outrights
-350
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Aldershot
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Altrincham
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Boston United
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Braintree Town
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Gateshead
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Morecambe FC
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Solihull Moors
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Sutton
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Truro City
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Wealdstone
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Woking
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Yeovil
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Rochdale
-Outrights
-2.20
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-York City
-Outrights
-2.35
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Forest Green
-Outrights
-2.75
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Carlisle United
-Outrights
-2.75
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Scunthorpe
-Outrights
-4.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Southend
-Outrights
-4.50
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Boreham Wood
-Outrights
-9.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Halifax
-Outrights
-35.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Tamworth
-Outrights
-35.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Hartlepool Utd
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Eastleigh
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Altrincham
-Outrights
-350
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Boston United
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Brackley Town FC
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Yeovil
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Aldershot
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Braintree Town
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Gateshead
-Outrights
-350
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Morecambe FC
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Solihull Moors
-Outrights
-350
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Sutton
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Truro City
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Wealdstone
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Woking
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Brackley Town
-Everton U21
-2.18
-3.70
-2.78
-2.50
-1.45
-2.17
-1.40
-3.50
-1.67
- 392»
- • 
-20:45
-• 
-Tamworth
-Burnley U21
-1.62
-4.00
-4.50
-2.37
-1.50
-2.32
-1.55
-3.95
-1.85
- 388»
- • 
-20:45
-• 
-St. Johnstone FC
-Outrights
-1.55
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Partick Thistle
-Outrights
-3.75
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Ayr
-Outrights
-9.00
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Raith
-Outrights
-17.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Ross County
-Outrights
-35.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Arbroath
-Outrights
-22.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Dunfermline
-Outrights
-35.0
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Morton
-Outrights
-120
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Queens Park
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-20:45
-• 
-Airdrieonians
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-21:00
-• 
-Arsenal
-Atl. Madrid
-1.57
-4.25
-6.00
-1.92
-1.92
 3.30
-1.97
-5.40
-2.50
- 904»
+3.70
+1.75
+2.00
+3.60
+1.82
+4.90
+2.40
+ 764»
+ • 
+20:45
+• 
+St. Patricks
+Waterford
+1.38
+4.95
+6.80
+2.35
+1.55
+2.40
+1.77
+4.45
+2.07
+ 765»
  • 
 21:00
 • 
-FC Copenhagen
-Dortmund
-4.45
-4.00
+Leeds
+West Ham
+1.85
+3.60
+4.20
 1.80
-2.15
-1.73
-2.80
-1.67
-4.50
-2.07
+2.00
+3.55
+1.85
+5.10
+2.40
  895»
  • 
 21:00
 • 
-Leverkusen
-PSG
-4.65
-4.35
-1.70
-2.50
-1.55
-2.33
-1.55
-3.95
-1.83
- 911»
- • 
-21:00
-• 
-Newcastle
-Benfica
-1.60
-4.35
-5.50
-2.12
-1.73
-2.85
-1.77
-4.85
-2.20
- 906»
- • 
-21:00
-• 
-PSV
-Napoli
-3.05
-3.75
-2.28
-2.23
-1.67
-2.70
-1.55
-4.15
-1.93
- 901»
- • 
-21:00
-• 
-Union SG
-Inter
-4.50
-4.15
-1.70
-2.03
-1.77
-3.00
-1.73
-4.75
-2.18
- 900»
- • 
-21:00
-• 
-Villarreal
-Manchester City
-4.45
-4.25
-1.75
-2.37
-1.60
-2.50
-1.57
-4.15
-1.90
- 904»
- • 
-21:00
-• 
-Bristol City
-Southampton
-2.62
-3.35
-2.70
-1.90
-1.90
-3.30
-1.72
-4.60
-2.20
- 801»
- • 
-21:00
-• 
-Reading
-Northampton
+Real Sociedad
+Sevilla
 2.00
-3.50
-3.65
-1.80
-1.92
-3.40
-1.75
-4.90
-2.33
- 762»
+3.30
+4.05
+1.77
+2.03
+3.60
+1.82
+5.10
+2.42
+ 876»
  • 
-21:00
+21:15
 • 
-Dedek, Jiri
-Plachy, Jiri
-2.33
--
-1.51
--
--
--
--
--
--
- • 
-21:00
-• 
-Louda, Yirzhi
-Cmerda, Ondrej
-2.16
--
-1.59
--
--
--
--
--
--
- • 
-21:00
-• 
-Lubas, Miloslav
-Martinek, Jaroslav
-1.89
--
-1.78
--
--
--
--
--
--
- • 
-21:00
-• 
-Postelt, Vladimr
-Dousa, Tomas
-1.51
--
-2.33
--
--
--
--
--
--
- • 
-21:30
-• 
-Brazda, Adam
-Kasnik, Sebastian
-1.71
--
-1.98
--
--
--
--
--
--
- • 
-21:30
-• 
-Bresky, Jaroslav
-Janata, Tomas
-1.83
--
-1.83
--
--
--
--
--
--
- • 
-21:30
-• 
-Forman, Lubos
-Vaclavik, Miroslav
-1.89
--
-1.78
--
--
--
--
--
--
- • 
-21:30
-• 
-Paldus, Tomas
-Holovatiuk, Yurii
-1.39
--
-2.70
--
--
--
--
--
--
- • 
-22:00
-• 
-Holovatiuk, Yurii
-Plachy, Jiri
-1.89
--
-1.78
--
--
--
--
--
--
- • 
-22:00
-• 
-Janata, Tomas
-Dousa, Tomas
-1.98
--
-1.71
--
--
--
--
--
--
- • 
-22:00
-• 
-Kasnik, Sebastian
-Cmerda, Ondrej
-1.98
--
-1.71
--
--
--
--
--
--
- • 
-22:00
-• 
-Vaclavik, Miroslav
-Martinek, Jaroslav
-1.31
--
-3.10
--
--
--
--
--
--
- • 
-22:00
-• 
-M. Sherif
-A. Rame
-1.35
--
-3.00
--
--
--
--
--
--
- 20»
- • 
-22:00
-• 
-S. Bejlek
-U.M. Arconada
-1.09
--
-6.25
--
--
--
--
--
--
- 17»
- • 
-22:30
-• 
-Dedek, Jiri
-Paldus, Tomas
-2.43
--
-1.48
--
--
--
--
--
--
- • 
-22:30
-• 
-Louda, Yirzhi
-Brazda, Adam
-1.65
--
-2.07
--
--
--
--
--
--
- • 
-22:30
-• 
-Lubas, Miloslav
-Forman, Lubos
-1.59
--
-2.16
--
--
--
--
--
--
- • 
-22:30
-• 
-Postelt, Vladimr
-Bresky, Jaroslav
-2.55
--
-1.43
--
--
--
--
--
--
- • 
-22:45
-• 
-Huila
-Real Cundinamarca
-1.85
-3.15
-4.40
-1.50
-2.40
-4.80
-2.18
-6.30
+Alverca
+Gil Vicente
+3.20
 3.05
- 746»
+2.45
+1.57
+2.45
+4.75
+2.07
+5.80
+2.90
+ 782»
  • 
-23:30
+21:45
 • 
-Monagas
-Puerto Cabello
-2.20
-3.15
-3.15
+Vizela
+Felgueiras 1932
+2.03
+3.35
+3.55
 1.75
-1.95
-3.50
-1.73
-4.85
-2.35
+1.97
+3.55
+1.80
+5.00
+2.40
  763»
  • 
-00:00
+22:00
 • 
-Klement, Milan
-Regner, Michal
-2.33
--
-1.51
--
--
--
--
--
--
- • 
-00:00
-• 
-Novak, Kamil
-Placek, Marek
-1.43
--
-2.55
--
--
--
--
--
--
- • 
-00:00
-• 
-Tuma, Daniel
-Cermak, Vladimir
-2.33
--
-1.51
--
--
--
--
--
--
- • 
-00:00
-• 
-J. Grabher
-N.V. Leme Da Silva
-1.15
--
-4.85
--
--
--
--
--
--
- 18»
- • 
-00:15
-• 
-Union Santa Fe
-Def. Justicia
+Juan Pablo II
+Comerciantes Unidos
+1.67
+3.45
+4.95
+1.75
 1.95
-3.25
-4.15
-1.57
-2.35
-4.60
-2.10
-6.00
-2.90
- 779»
- • 
-00:30
-• 
-Caxias do Sul
-Pato Basket
-1.83
-13.0
-2.20
--
--
--
--
--
--
- 37»
- • 
-00:30
-• 
-Babicka, Lukas
-Olejarcik, Stanislav
-1.98
--
-1.71
--
--
--
--
--
--
- • 
-00:30
-• 
-Kasnik, Sebastian
-Bayer, Alesh
-1.83
--
-1.83
--
--
--
--
--
--
- • 
-00:30
-• 
-Pycha, Patrik
-Plachy, Jiri
-1.59
--
-2.16
--
--
--
--
--
--
- • 
-01:00
-• 
-NY Islanders
-San Jose
-1.73
-4.80
-3.80
--
--
--
-1.08
--
--
- 158»
- • 
-01:00
-• 
-Ottawa
-Edmonton
-2.75
-4.40
-2.18
--
--
--
-1.07
--
--
- 158»
- • 
-01:00
-• 
-Pittsburgh
-Vancouver
-2.48
-4.30
-2.42
--
--
--
-1.07
--
--
- 158»
- • 
-01:00
-• 
-Toronto
-New Jersey
-2.31
-4.30
-2.60
--
--
--
-1.08
--
--
- 158»
- • 
-01:00
-• 
-Washington
-Seattle
-1.60
-5.00
-4.50
--
--
--
-1.10
--
--
- 158»
- • 
-01:00
-• 
-Millonarios
-Bucaramanga
-2.07
-3.05
-3.70
-1.50
-2.40
-4.80
-2.10
-6.10
-3.00
- 754»
- • 
-01:00
-• 
-Flamengo
-Unifacisa
-1.12
-24.0
-6.75
--
--
--
--
--
--
- 35»
- • 
-01:00
-• 
-Pinheiros
-Franca
-3.70
-16.0
-1.33
--
--
--
--
--
--
- 37»
- • 
-01:00
-• 
-Cermak, Vladimir
-Prokupek, Jaroslav
-1.59
--
-2.16
--
--
--
--
--
--
- • 
-01:00
-• 
-Placek, Marek
-Bresky, Jaroslav
-1.56
--
-2.23
--
--
--
--
--
--
- • 
-01:00
-• 
-Regner, Michal
-Brozhik, Karel
-1.56
--
-2.23
--
--
--
--
--
--
- • 
-01:00
-• 
-Florida International
-Kennesaw State
--
--
--
--
--
--
--
--
--
- 6»
- • 
-01:30
-• 
-Oklahoma
-Houston Rockets
-1.37
-16.0
 3.50
--
--
--
--
--
--
- 97»
- • 
-01:30
-• 
-Boston
-Florida
-2.95
-4.40
-2.08
--
--
--
-1.09
--
--
- 158»
- • 
-01:30
-• 
-Thompson, Amen
-Outrights
-10.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Nembhard, Andrew
-Outrights
-13.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Mathurin, Benedict
-Outrights
-16.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Avdija, Deni
-Outrights
-18.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Sharpe, Shaedon
-Outrights
-19.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Buzelis, Matas
-Outrights
-20.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Thompson, Ausar
-Outrights
-20.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Giddey, Josh
-Outrights
-22.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Pritchard, Payton
-Outrights
-22.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Sheppard, Reed
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Jovic, Nikola
-Outrights
-35.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Wells, Jaylen
-Outrights
-35.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Filipowski, Kyle
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Green, Jalen
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Henderson, Scoot
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Johnson, Jalen (2001)
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Kuminga, Jonathan
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Porter Jr, Michael
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Carrington, Carlton
-Outrights
-45.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Castle, Stephon
-Outrights
-45.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Camara, Toumani
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Christie, Max
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Clingan, Donovan
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Coulibaly, Bilal
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Holmgren, Chet
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Ivey, Jaden
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-McCain, Jared
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Miller, Brandon
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Murphy III, Trey
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Podziemski, Brandin
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Porter Jr, Kevin
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Simons, Anfernee
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Ware, Kelel
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Wembanyama, Victor
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-White, Derrick
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Whitmore, Cameron
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Sarr, Alexandre
-Outrights
-55.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Smith, Jabari
-Outrights
-55.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Duren, Jalen
-Outrights
-60.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Eason, Tari
-Outrights
-60.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Jones, Herbert
-Outrights
-60.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Shannon Jr, Terrence
-Outrights
-60.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Thomas, Cam
-Outrights
-60.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-White, Coby
-Outrights
-60.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Barnes, Scottie
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Braun, Christian
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Grimes, Quentin
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Kessler, Walker
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Lively, Dereck
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Suggs, Jalen
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Alexander-Walker, Nickeil
-Outrights
-75.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Black, Anthony
-Outrights
-75.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Knecht, Dalton
-Outrights
-75.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Dunn, Ryan
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-George, Keyonte Darnell
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Holland, Ronald
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Aldama, Santi
-Outrights
-90.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Edey, Zach
-Outrights
-90.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Green, AJ
-Outrights
-90.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Sochan, Jeremy
-Outrights
-90.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Alvarado, Jose
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Ayton, Deandre
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Jaquez Jr, Jaime
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Jerome, TY
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Mcbride, Miles
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Mcdaniels, Jaden
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Mitchell, Davion
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Murray, Keegan
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Nesmith, Aaron
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Okongwu, Onyeka
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Risacher, Zaccharie
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Strawther, Julian
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Toppin, Obi
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Williams, Ziaire
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Salaun, Tidjane
-Outrights
-120
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Wallace, Cason
-Outrights
-120
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Claxton, Nicolas
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Collier, Isaiah
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Ellis, Keon
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Garza, Luka
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-George, Kyshawn
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Mann, Terance
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Mcconnell, T J
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Missi, Yves
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Okoro, Isaac
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Reid, Naz
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Walker, Jarrace
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Wiggins, Aaron
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Williams, Cody
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Dillingham, Rob
-Outrights
-175
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Quickley, Immanuel
-Outrights
-175
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Bufkin, Kobe
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Hawkins, Jordan
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Williams M.
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-James, Bronny
-Outrights
-400
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Hunter, Deandre
-Outrights
-8.00
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Reid, Naz
-Outrights
-11.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Clarkson, Jordan
-Outrights
-13.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Beal, Bradley
-Outrights
-15.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Jerome, TY
-Outrights
-15.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Collins, John
-Outrights
-16.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Pritchard, Payton
-Outrights
-17.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Dick, Gradey
-Outrights
-19.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-McCain, Jared
-Outrights
-22.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Smith, Jabari
-Outrights
-22.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Johnson, Keldon
-Outrights
-27.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Levert, Caris
-Outrights
-27.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Alexander-Walker, Nickeil
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Divicenzo, Donte
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Portis, Bobby
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Sheppard, Reed
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Toppin, Obi
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Washington, PJ
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Aldama, Santi
-Outrights
-35.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Mcconnell, T J
-Outrights
-35.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Mcbride, Miles
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Oubre Jr, Kelly
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Risacher, Zaccharie
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Robinson, Duncan
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Shead, Jamal
-Outrights
-55.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Jovic, Nikola
-Outrights
-60.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Sexton, Collin
-Outrights
-60.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Bogdanovic, Bogdan
-Outrights
-70.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Vincent, Gabriel
-Outrights
-75.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Wiggins, Aaron
-Outrights
-75.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Caruso, Alex
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Christie, Max
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Hauser, Sam
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Shannon Jr, Terrence
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Ellis, Keon
-Outrights
-90.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Hardaway Jr, Tim
-Outrights
-90.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Lopez, Brook
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Mitchell, Davion
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Dinwiddie, Spencer
-Outrights
-120
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Exum, Dante
-Outrights
-120
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Strawther, Julian
-Outrights
-120
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Ball, Lonzo
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Black, Anthony
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Brown, Bruce
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Kennard, Luke
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Mann, Terance
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Moody, Moses
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Paul, Chris
-Outrights
-150
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Mosley, Jamahl
-Outrights
-6.50
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Udoka, Ime
-Outrights
+1.93
+5.30
+2.52
+ 758»
+ • 
+22:00
+• 
+Palestino
+Everton
+2.10
+3.25
+3.30
+1.77
+1.92
+3.40
+1.73
+4.85
+2.32
+ 763»
+ • 
+23:00
+• 
+Independiente
+Platense
+1.92
+3.20
+4.45
+1.45
+2.65
+5.50
+2.35
 7.00
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Adelman, David
-Outrights
-8.00
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Snyder, Quin
-Outrights
-7.50
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Bickerstaff, John-Blair
-Outrights
-15.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Johnson, Mitch
-Outrights
-15.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Redick, J. J.
-Outrights
-19.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Daigneault, Mark
-Outrights
-20.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Finch, Chris
-Outrights
-22.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Atkinson, Kenny
-Outrights
-25.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Brown, Mike
-Outrights
-11.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Rajakovic, Darko
-Outrights
-22.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Lue, Tyronn
-Outrights
-16.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Nurse, Nick
-Outrights
-16.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Billups, Chauncey
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Iisalo, Tuomas
-Outrights
-35.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Mazzulla, Joe
-Outrights
-16.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Spoelstra, Erik
-Outrights
-22.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Kidd, Jason
-Outrights
-30.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Carlisle, Rick
-Outrights
-25.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Green, Willie
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Kerr, Steve
-Outrights
-25.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Lee, Charles
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Rivers, Doc
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Christie, Douglas
-Outrights
-75.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Fernandez, Jordi
-Outrights
-75.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Donovan, Billy
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Hardy, Will
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Keefe, Brian
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Ott, Jordan
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Flagg, Cooper
-Outrights
-1.55
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Harper, Dylan
-Outrights
-10.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Bailey, Ace
-Outrights
-11.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Edgecombe, Vj
-Outrights
-11.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Johnson, Tre
-Outrights
-11.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Knueppel, Kon
-Outrights
-15.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Demin, Egor
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Fears, Jeremiah
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Yang, Hansen
-Outrights
-40.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Jakucionis, Kasparas
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Queen, Derik
-Outrights
-50.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Maluach, Khaman
-Outrights
-75.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Clayton Jr, Walter
-Outrights
-80.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Beringer, Joan
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Clifford, Nique
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Coward, Cedric
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Essengue, Noa
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-McNeeley, Liam
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Murray-Boyles, Collin
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Raynaud, Maxime
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Richardson, Jase
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Sorber, Thomas
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Topic, Nikola
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Traore, Nolan
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Wolf, Danny
-Outrights
-100
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Holmes Ii, Daron
-Outrights
-200
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Broome, Johni
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Bryant, Carter
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Fleming, Rasheer
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Gonzalez, Hugo
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Kalkbrenner, Ryan
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Lanier, Chaz
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Newell, Asa
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Niederhauser, Yanic Konan
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Penda, Noah
-Outrights
-250
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Brunson, Jalen
-Outrights
-11.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Edwards, Anthony
-Outrights
-11.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Doncic, Luka
-Outrights
-13.0
--
--
--
--
--
--
--
--
- • 
-01:30
-• 
-Jokic, Nikola
-Outrights
-14.0
--
--
--
--
--
--
--
--
+3.35
+ 773»
+ • 
+23:00
+• 
+Alianza
+La Equidad
+1.53
+3.85
+6.20
+1.75
+1.97
+3.55
+2.10
+5.70
+2.72
+ 753»
 TIKET
  
 Odaberi opkladu klikom na željenu kvotu
@@ -21584,5 +3422,5 @@ Način plaćanja
 Sigurnost i poverenje
 Svi mi u MerkurXtip smo posvećeni uspostavljanju trajnih pozitivnih odnosa sa našim igračima kao i online zajednicom. Vaša bezbedna igra i zabava su nama na prvom mestu.
 Kladite se odgovorno
- 02:08:21
+ 12:27:25
 @ MerkurXTip. All rights reserved.

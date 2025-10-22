@@ -396,4 +396,4 @@ def main(headless=True):
 
 if __name__ == "__main__":
     # za “uživo” praćenje, stavi headless=False
-    main(headless=False)
+    main(headless=True)
