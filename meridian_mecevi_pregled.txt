@@ -56,7 +56,7 @@ GG=1.51   IGG=-   GG&3+=1.79
 GG&4+=2.52
 ======================================================================
 21:00    04.11.  [European - Champions League]
-Juventus Turin  vs  Sporting Lisbon   (ID: 1234)
+Juventus Turin  vs  Sporting Lisbon   (ID: 1240)
 1=1.96   X=3.4   2=3.55
 0-2=2.26   2+=-   3+=1.62
 GG=1.56   IGG=-   GG&3+=1.91
@@ -77,7 +77,7 @@ GG=1.79   IGG=-   GG&3+=2.08
 GG&4+=2.86
 ======================================================================
 21:00    05.11.  [European - Champions League]
-Inter Milano  vs  FC Kairat Almaty   (ID: 1210)
+Inter Milano  vs  FC Kairat Almaty   (ID: 1216)
 1=1.09   X=12   2=30
 0-2=3.4   2+=-   3+=1.3
 GG=2.5   IGG=-   GG&3+=2.75
@@ -91,7 +91,7 @@ GG=1.58   IGG=-   GG&3+=1.91
 GG&4+=2.8
 ======================================================================
 21:00    05.11.  [European - Champions League]
-Manchester City  vs  Borussia Dortmund   (ID: 1232)
+Manchester City  vs  Borussia Dortmund   (ID: 1230)
 1=1.39   X=5.2   2=6.6
 0-2=3.15   2+=-   3+=1.34
 GG=1.54   IGG=-   GG&3+=1.72
@@ -119,21 +119,21 @@ GG=1.5   IGG=-   GG&3+=1.79
 GG&4+=2.57
 ======================================================================
 21:00    05.11.  [European - Champions League]
-Club Brugge  vs  FC Barcelona   (ID: 1229)
-1=6.8   X=5   2=1.4
+Club Brugge  vs  FC Barcelona   (ID: 1233)
+1=7.2   X=5.2   2=1.37
 0-2=2.95   2+=-   3+=1.39
-GG=1.6   IGG=-   GG&3+=1.8
-GG&4+=2.38
+GG=1.62   IGG=-   GG&3+=1.83
+GG&4+=2.41
 ======================================================================
 16:30  Čet  23.10.  [European - Europa League]
-Feyenoord Rotterdam  vs  Panathinaikos Athens   (ID: 2928)
+Feyenoord Rotterdam  vs  Panathinaikos Athens   (ID: 2929)
 1=1.58   X=4.4   2=5.6
 0-2=2.21   2+=-   3+=1.67
 GG=1.77   IGG=-   GG&3+=2.14
 GG&4+=3.15
 ======================================================================
 18:45  Čet  23.10.  [European - Europa League]
-Fenerbahce Istanbul  vs  VfB Stuttgart   (ID: 2744)
+Fenerbahce Istanbul  vs  VfB Stuttgart   (ID: 2747)
 1=2.35   X=3.75   2=2.9
 0-2=2.25   2+=-   3+=1.65
 GG=1.57   IGG=-   GG&3+=1.9
@@ -155,10 +155,10 @@ GG&4+=2.82
 ======================================================================
 18:45  Čet  23.10.  [European - Europa League]
 Go Ahead Eagles  vs  Aston Villa   (ID: 2853)
-1=6.2   X=4.8   2=1.48
-0-2=2.48   2+=-   3+=1.55
-GG=1.72   IGG=-   GG&3+=2.01
-GG&4+=2.83
+1=6.6   X=5   2=1.46
+0-2=2.49   2+=-   3+=1.54
+GG=1.74   IGG=-   GG&3+=2.03
+GG&4+=2.85
 ======================================================================
 18:45  Čet  23.10.  [European - Europa League]
 SK Brann  vs  Glasgow Rangers   (ID: 2744)
@@ -168,14 +168,14 @@ GG=1.67   IGG=-   GG&3+=2.08
 GG&4+=3.15
 ======================================================================
 18:45  Čet  23.10.  [European - Europa League]
-Olympique Lyon  vs  FC Basel 1893   (ID: 2891)
+Olympique Lyon  vs  FC Basel 1893   (ID: 2894)
 1=1.6   X=4.5   2=5.2
 0-2=2.46   2+=-   3+=1.55
 GG=1.64   IGG=-   GG&3+=1.93
 GG&4+=2.74
 ======================================================================
 18:45  Čet  23.10.  [European - Europa League]
-SC Braga  vs  FK Crvena Zvezda Belgrade   (ID: 2934)
+SC Braga  vs  FK Crvena Zvezda Belgrade   (ID: 2935)
 1=1.97   X=3.6   2=3.95
 0-2=1.94   2+=-   3+=1.87
 GG=1.76   IGG=-   GG&3+=2.25
@@ -183,48 +183,48 @@ GG&4+=3.5
 ======================================================================
 18:45  Čet  23.10.  [European - Europa League]
 Fotbal Club FCSB  vs  Bologna FC   (ID: 2933)
-1=5.6   X=4.1   2=1.63
+1=5.6   X=3.95   2=1.65
 0-2=1.86   2+=-   3+=1.95
 GG=2.01   IGG=-   GG&3+=2.55
 GG&4+=4.05
 ======================================================================
 21:00  Čet  23.10.  [European - Europa League]
-SC Freiburg  vs  FC Utrecht   (ID: 2798)
+SC Freiburg  vs  FC Utrecht   (ID: 2864)
 1=1.52   X=4.5   2=6.2
 0-2=2.09   2+=-   3+=1.75
 GG=1.9   IGG=-   GG&3+=2.33
 GG&4+=3.45
 ======================================================================
 21:00  Čet  23.10.  [European - Europa League]
-RC Celta de Vigo  vs  OGC Nice   (ID: 2880)
-1=1.81   X=3.85   2=4.4
+RC Celta de Vigo  vs  OGC Nice   (ID: 2941)
+1=1.83   X=3.75   2=4.4
 0-2=2.03   2+=-   3+=1.8
-GG=1.74   IGG=-   GG&3+=2.18
-GG&4+=3.3
+GG=1.76   IGG=-   GG&3+=2.21
+GG&4+=3.35
 ======================================================================
 21:00  Čet  23.10.  [European - Europa League]
-Celtic Glasgow  vs  SK Sturm Graz   (ID: 2841)
+Celtic Glasgow  vs  SK Sturm Graz   (ID: 2844)
 1=1.48   X=4.7   2=6.4
 0-2=2.2   2+=-   3+=1.68
 GG=1.86   IGG=-   GG&3+=2.24
 GG&4+=3.25
 ======================================================================
 21:00  Čet  23.10.  [European - Europa League]
-Young Boys Bern  vs  PFC Ludogorets 1945 Razgrad   (ID: 2753)
-1=1.9   X=3.75   2=4.1
+Young Boys Bern  vs  PFC Ludogorets 1945 Razgrad   (ID: 2816)
+1=1.88   X=3.7   2=4.2
 0-2=2   2+=-   3+=1.82
 GG=1.75   IGG=-   GG&3+=2.19
 GG&4+=3.35
 ======================================================================
 21:00  Čet  23.10.  [European - Europa League]
-Lille OSC  vs  PAOK Thessaloniki   (ID: 2962)
-1=1.62   X=4.2   2=5.4
+Lille OSC  vs  PAOK Thessaloniki   (ID: 2960)
+1=1.65   X=4.1   2=5.2
 0-2=1.96   2+=-   3+=1.85
-GG=1.91   IGG=-   GG&3+=2.4
+GG=1.89   IGG=-   GG&3+=2.38
 GG&4+=3.7
 ======================================================================
 21:00  Čet  23.10.  [European - Europa League]
-Maccabi Tel Aviv FC  vs  FC Midtjylland   (ID: 2750)
+Maccabi Tel Aviv FC  vs  FC Midtjylland   (ID: 2749)
 1=3.3   X=3.65   2=2.18
 0-2=1.96   2+=-   3+=1.85
 GG=1.72   IGG=-   GG&3+=2.18
@@ -238,21 +238,21 @@ GG=1.81   IGG=-   GG&3+=2.35
 GG&4+=3.8
 ======================================================================
 21:00  Čet  23.10.  [European - Europa League]
-Nottingham Forest  vs  FC Porto   (ID: 2677)
-1=2.46   X=3.4   2=2.95
-0-2=1.86   2+=-   3+=1.95
-GG=1.76   IGG=-   GG&3+=2.27
-GG&4+=3.65
+Nottingham Forest  vs  FC Porto   (ID: 2712)
+1=2.5   X=3.35   2=2.9
+0-2=1.76   2+=-   3+=2.08
+GG=1.85   IGG=-   GG&3+=2.44
+GG&4+=4.05
 ======================================================================
 21:00  Čet  23.10.  [European - Europa League]
-AS Roma  vs  FC Viktoria Plzen   (ID: 2846)
+AS Roma  vs  FC Viktoria Plzen   (ID: 2848)
 1=1.37   X=5.4   2=8
 0-2=2.45   2+=-   3+=1.56
 GG=1.86   IGG=-   GG&3+=2.18
 GG&4+=3
 ======================================================================
 18:45  Čet  23.10.  [European - Conference League]
-FC Shakhtar Donetsk  vs  Legia Warszawa   (ID: 2033)
+FC Shakhtar Donetsk  vs  Legia Warszawa   (ID: 2034)
 1=1.77   X=4   2=4.4
 0-2=2.07   2+=-   3+=1.77
 GG=1.76   IGG=-   GG&3+=2.17
@@ -266,10 +266,10 @@ GG=1.7   IGG=-   GG&3+=2.13
 GG&4+=3.3
 ======================================================================
 18:45  Čet  23.10.  [European - Conference League]
-HNK Rijeka  vs  Sparta Prague   (ID: 2134)
-1=3.9   X=3.65   2=1.97
+HNK Rijeka  vs  Sparta Prague   (ID: 2135)
+1=3.75   X=3.65   2=2.01
 0-2=1.88   2+=-   3+=1.93
-GG=1.83   IGG=-   GG&3+=2.34
+GG=1.81   IGG=-   GG&3+=2.33
 GG&4+=3.7
 ======================================================================
 18:45  Čet  23.10.  [European - Conference League]
@@ -294,8 +294,8 @@ GG=1.7   IGG=-   GG&3+=2.12
 GG&4+=3.2
 ======================================================================
 18:45  Čet  23.10.  [European - Conference League]
-Breidablik Kopavogur  vs  Kuopion Palloseura   (ID: 2078)
-1=2.13   X=3.85   2=3.2
+Breidablik Kopavogur  vs  Kuopion Palloseura   (ID: 2070)
+1=2.09   X=3.85   2=3.3
 0-2=2.32   2+=-   3+=1.62
 GG=1.56   IGG=-   GG&3+=1.87
 GG&4+=2.74
@@ -314,7 +314,7 @@ Hacken Gothenburg  vs  Rayo Vallecano   (ID: 2169)
 GG=1.71   IGG=-   GG&3+=2.08
 GG&4+=3.1
 ======================================================================
-21:00  Čet  23.10.  [European - Conference League]
+18:45  Čet  23.10.  [European - Conference League]
 AZ Alkmaar  vs  SK Slovan Bratislava   (ID: 2156)
 1=1.32   X=5.8   2=8.8
 0-2=2.6   2+=-   3+=1.5
@@ -350,17 +350,17 @@ GG=1.83   IGG=-   GG&3+=2.41
 GG&4+=3.95
 ======================================================================
 21:00  Čet  23.10.  [European - Conference League]
-Samsunspor  vs  FC Dynamo Kyiv   (ID: 2109)
-1=1.96   X=3.6   2=3.95
-0-2=1.85   2+=-   3+=1.96
-GG=1.84   IGG=-   GG&3+=2.37
+Samsunspor  vs  FC Dynamo Kyiv   (ID: 2108)
+1=1.94   X=3.55   2=4.1
+0-2=1.86   2+=-   3+=1.96
+GG=1.84   IGG=-   GG&3+=2.38
 GG&4+=3.8
 ======================================================================
 21:00  Čet  23.10.  [European - Conference League]
-CS Universitatea Craiova  vs  FC Noah Yerevan   (ID: 2130)
+CS Universitatea Craiova  vs  FC Noah Yerevan   (ID: 2123)
 1=1.92   X=3.7   2=4
 0-2=1.91   2+=-   3+=1.9
-GG=1.8   IGG=-   GG&3+=2.29
+GG=1.81   IGG=-   GG&3+=2.3
 GG&4+=3.6
 ======================================================================
 21:00  Čet  23.10.  [European - Conference League]
@@ -372,12 +372,12 @@ GG&4+=3.45
 ======================================================================
 21:00  Čet  23.10.  [European - Conference League]
 Hamrun Spartans FC  vs  Lausanne-Sport   (ID: 1425)
-1=6   X=4.4   2=1.55
+1=5.8   X=4.4   2=1.57
 0-2=2.13   2+=-   3+=1.72
 GG=1.85   IGG=-   GG&3+=2.26
 GG&4+=3.35
 ======================================================================
-21:00    24.10.  [English - Premier League]
+21:00  Pet  24.10.  [English - Premier League]
 Leeds United  vs  West Ham United   (ID: 3082)
 1=1.88   X=3.6   2=4.3
 0-2=1.8   2+=-   3+=1.98
@@ -393,7 +393,7 @@ GG&4+=3.85
 ======================================================================
 16:00    25.10.  [English - Premier League]
 Chelsea FC  vs  Sunderland AFC   (ID: 2937)
-1=1.44   X=4.8   2=7.2
+1=1.44   X=4.9   2=7.2
 0-2=2.05   2+=-   3+=1.75
 GG=2.02   IGG=-   GG&3+=2.46
 GG&4+=3.65
@@ -406,14 +406,14 @@ GG=1.56   IGG=-   GG&3+=1.88
 GG&4+=2.74
 ======================================================================
 21:00    25.10.  [English - Premier League]
-Brentford FC  vs  Liverpool FC   (ID: 3148)
+Brentford FC  vs  Liverpool FC   (ID: 3144)
 1=4.4   X=4.3   2=1.73
 0-2=2.41   2+=-   3+=1.55
 GG=1.6   IGG=-   GG&3+=1.88
 GG&4+=2.69
 ======================================================================
 15:00    26.10.  [English - Premier League]
-Aston Villa  vs  Manchester City   (ID: 2164)
+Aston Villa  vs  Manchester City   (ID: 3027)
 1=3.95   X=3.8   2=1.9
 0-2=2.1   2+=-   3+=1.71
 GG=1.68   IGG=-   GG&3+=2.06
@@ -427,14 +427,14 @@ GG=1.87   IGG=-   GG&3+=2.34
 GG&4+=3.6
 ======================================================================
 15:00    26.10.  [English - Premier League]
-Wolverhampton Wanderers  vs  Burnley FC   (ID: 2110)
+Wolverhampton Wanderers  vs  Burnley FC   (ID: 2937)
 1=2   X=3.35   2=4.1
 0-2=1.62   2+=-   3+=2.27
 GG=2.07   IGG=-   GG&3+=2.85
 GG&4+=4.95
 ======================================================================
 15:00    26.10.  [English - Premier League]
-Arsenal FC  vs  Crystal Palace   (ID: 1393)
+Arsenal FC  vs  Crystal Palace   (ID: 2278)
 1=1.43   X=4.8   2=7.6
 0-2=1.95   2+=-   3+=1.82
 GG=2.12   IGG=-   GG&3+=2.65
@@ -517,7 +517,7 @@ Sunderland AFC  vs  Everton FC   (ID: 1161)
 GG=1.96   IGG=-   GG&3+=2.7
 GG&4+=4.7
 ======================================================================
-21:00    24.10.  [English - Championship]
+21:00  Pet  24.10.  [English - Championship]
 Preston North End  vs  Sheffield United   (ID: 1985)
 1=2.8   X=3.05   2=2.49
 0-2=1.58   2+=-   3+=2.34
@@ -527,9 +527,9 @@ GG&4+=5
 13:30    25.10.  [English - Championship]
 Ipswich Town  vs  West Bromwich Albion   (ID: 1779)
 1=1.72   X=3.6   2=4.4
-0-2=1.89   2+=-   3+=1.89
-GG=1.86   IGG=-   GG&3+=2.38
-GG&4+=3.75
+0-2=1.86   2+=-   3+=1.92
+GG=1.89   IGG=-   GG&3+=2.43
+GG&4+=3.85
 ======================================================================
 13:30    25.10.  [English - Championship]
 Coventry City  vs  Watford FC   (ID: 2052)
@@ -562,9 +562,9 @@ GG&4+=3.9
 16:00    25.10.  [English - Championship]
 Middlesbrough FC  vs  Wrexham AFC   (ID: 1921)
 1=1.79   X=3.65   2=4
-0-2=1.94   2+=-   3+=1.84
-GG=1.8   IGG=-   GG&3+=2.27
-GG&4+=3.5
+0-2=1.9   2+=-   3+=1.87
+GG=1.83   IGG=-   GG&3+=2.32
+GG&4+=3.65
 ======================================================================
 16:00    25.10.  [English - Championship]
 Millwall FC  vs  Leicester City   (ID: 2065)
@@ -588,11 +588,11 @@ GG=1.8   IGG=-   GG&3+=2.35
 GG&4+=3.85
 ======================================================================
 16:00    25.10.  [English - Championship]
-Sheffield Wednesday  vs  Oxford United   (ID: 1915)
+Sheffield Wednesday  vs  Oxford United   (ID: 1914)
 1=2.5   X=3.25   2=2.65
-0-2=1.79   2+=-   3+=1.99
-GG=1.8   IGG=-   GG&3+=2.35
-GG&4+=3.8
+0-2=1.76   2+=-   3+=2.03
+GG=1.83   IGG=-   GG&3+=2.4
+GG&4+=3.95
 ======================================================================
 16:00    25.10.  [English - Championship]
 Hull City  vs  Charlton Athletic   (ID: 2075)
@@ -825,7 +825,7 @@ Newcastle United  vs  Tottenham Hotspur   (ID: 1152)
 GG=1.72   IGG=-   GG&3+=2.14
 GG&4+=3.35
 ======================================================================
-21:00    24.10.  [Spanish - La Liga]
+21:00  Pet  24.10.  [Spanish - La Liga]
 Real Sociedad San Sebastian  vs  Sevilla FC   (ID: 1296)
 1=2.05   X=3.45   2=3.85
 0-2=1.76   2+=-   3+=2.03
@@ -868,11 +868,11 @@ GG=1.97   IGG=-   GG&3+=2.65
 GG&4+=4.6
 ======================================================================
 16:15    26.10.  [Spanish - La Liga]
-Real Madrid  vs  FC Barcelona   (ID: 2035)
+Real Madrid  vs  FC Barcelona   (ID: 2037)
 1=2.07   X=4   2=3.25
 0-2=3.1   2+=-   3+=1.36
-GG=1.37   IGG=-   GG&3+=1.55
-GG&4+=2.02
+GG=1.36   IGG=-   GG&3+=1.54
+GG&4+=2.01
 ======================================================================
 18:30    26.10.  [Spanish - La Liga]
 CA Osasuna  vs  RC Celta de Vigo   (ID: 1297)
@@ -889,7 +889,7 @@ GG=2.27   IGG=-   GG&3+=3.25
 GG&4+=6.1
 ======================================================================
 21:00    27.10.  [Spanish - La Liga]
-Real Betis Seville  vs  Atletico Madrid   (ID: 2052)
+Real Betis Seville  vs  Atletico Madrid   (ID: 2057)
 1=3.25   X=3.6   2=2.2
 0-2=1.95   2+=-   3+=1.83
 GG=1.72   IGG=-   GG&3+=2.17
@@ -924,11 +924,11 @@ GG=2.03   IGG=-   GG&3+=2.8
 GG&4+=5.05
 ======================================================================
 21:00    01.11.  [Spanish - La Liga]
-Real Madrid  vs  Valencia CF   (ID: 1226)
-1=1.23   X=6.6   2=11
+Real Madrid  vs  Valencia CF   (ID: 1225)
+1=1.22   X=6.6   2=11
 0-2=2.9   2+=-   3+=1.4
-GG=1.86   IGG=-   GG&3+=2.09
-GG&4+=2.75
+GG=1.88   IGG=-   GG&3+=2.1
+GG&4+=2.77
 ======================================================================
 14:00    02.11.  [Spanish - La Liga]
 Levante UD  vs  RC Celta de Vigo   (ID: 1241)
@@ -965,7 +965,7 @@ Real Oviedo  vs  CA Osasuna   (ID: 1159)
 GG=2.14   IGG=-   GG&3+=3.05
 GG&4+=5.7
 ======================================================================
-20:30    24.10.  [Spanish - La Liga]
+20:30  Pet  24.10.  [Spanish - La Liga]
 SD Huesca  vs  UD Las Palmas   (ID: 1294)
 1=2.75   X=2.8   2=2.5
 0-2=1.4   2+=-   3+=2.75
@@ -973,7 +973,7 @@ GG=2.26   IGG=-   GG&3+=3.4
 GG&4+=6.8
 ======================================================================
 14:00    25.10.  [Spanish - La Liga]
-Cultural Leonesa  vs  AD Ceuta   (ID: 1858)
+Cultural Leonesa  vs  AD Ceuta   (ID: 1857)
 1=2.32   X=3.05   2=2.8
 0-2=1.57   2+=-   3+=2.27
 GG=1.99   IGG=-   GG&3+=2.75
@@ -1001,7 +1001,7 @@ GG=2.2   IGG=-   GG&3+=3.1
 GG&4+=5.6
 ======================================================================
 18:30    25.10.  [Spanish - La Liga]
-Granada CF  vs  Cadiz CF   (ID: 1775)
+Granada CF  vs  Cadiz CF   (ID: 1777)
 1=2.23   X=3   2=3
 0-2=1.55   2+=-   3+=2.31
 GG=2.01   IGG=-   GG&3+=2.85
@@ -1029,7 +1029,7 @@ GG=1.56   IGG=-   GG&3+=1.89
 GG&4+=2.77
 ======================================================================
 18:30    26.10.  [Spanish - La Liga]
-Sporting Gijon  vs  Real Zaragoza   (ID: 1805)
+Sporting Gijon  vs  Real Zaragoza   (ID: 1812)
 1=1.83   X=3.3   2=3.75
 0-2=1.74   2+=-   3+=1.98
 GG=1.87   IGG=-   GG&3+=2.48
@@ -1042,64 +1042,64 @@ RC Deportivo La Coruna  vs  Real Valladolid   (ID: 1849)
 GG=1.81   IGG=-   GG&3+=2.38
 GG&4+=3.9
 ======================================================================
-20:30    24.10.  [German - Bundesliga]
-Werder Bremen  vs  Union Berlin   (ID: 1999)
+20:30  Pet  24.10.  [German - Bundesliga]
+Werder Bremen  vs  Union Berlin   (ID: 2057)
 1=2.16   X=3.6   2=3.35
 0-2=1.98   2+=-   3+=1.8
 GG=1.7   IGG=-   GG&3+=2.13
 GG&4+=3.3
 ======================================================================
 15:30    25.10.  [German - Bundesliga]
-FC Augsburg  vs  RB Leipzig   (ID: 2020)
+FC Augsburg  vs  RB Leipzig   (ID: 2078)
 1=3.45   X=4.2   2=1.95
 0-2=2.55   2+=-   3+=1.5
 GG=1.5   IGG=-   GG&3+=1.75
 GG&4+=2.46
 ======================================================================
 15:30    25.10.  [German - Bundesliga]
-Eintracht Frankfurt  vs  FC St. Pauli   (ID: 2021)
+Eintracht Frankfurt  vs  FC St. Pauli   (ID: 2079)
 1=1.7   X=4.2   2=4.6
 0-2=2.31   2+=-   3+=1.59
 GG=1.65   IGG=-   GG&3+=1.96
 GG&4+=2.84
 ======================================================================
 15:30    25.10.  [German - Bundesliga]
-Hamburger SV  vs  VfL Wolfsburg   (ID: 1999)
+Hamburger SV  vs  VfL Wolfsburg   (ID: 2057)
 1=2.4   X=3.7   2=2.85
 0-2=2.24   2+=-   3+=1.63
 GG=1.56   IGG=-   GG&3+=1.89
 GG&4+=2.78
 ======================================================================
 15:30    25.10.  [German - Bundesliga]
-Borussia Monchengladbach  vs  Bayern Munich   (ID: 1965)
+Borussia Monchengladbach  vs  Bayern Munich   (ID: 2026)
 1=10   X=7.2   2=1.25
 0-2=3.65   2+=-   3+=1.27
-GG=1.62   IGG=-   GG&3+=1.76
-GG&4+=2.14
+GG=1.63   IGG=-   GG&3+=1.76
+GG&4+=2.15
 ======================================================================
 15:30    25.10.  [German - Bundesliga]
-TSG Hoffenheim  vs  1. FC Heidenheim   (ID: 2027)
+TSG Hoffenheim  vs  1. FC Heidenheim   (ID: 2085)
 1=1.6   X=4.5   2=5.2
 0-2=2.46   2+=-   3+=1.53
 GG=1.63   IGG=-   GG&3+=1.91
 GG&4+=2.69
 ======================================================================
 18:30    25.10.  [German - Bundesliga]
-Borussia Dortmund  vs  1. FC Cologne   (ID: 1970)
+Borussia Dortmund  vs  1. FC Cologne   (ID: 2031)
 1=1.42   X=5.4   2=6.8
 0-2=2.8   2+=-   3+=1.43
 GG=1.64   IGG=-   GG&3+=1.87
 GG&4+=2.52
 ======================================================================
 15:30    26.10.  [German - Bundesliga]
-Bayer Leverkusen  vs  SC Freiburg   (ID: 1983)
+Bayer Leverkusen  vs  SC Freiburg   (ID: 2044)
 1=1.78   X=3.95   2=4.4
 0-2=2   2+=-   3+=1.79
 GG=1.78   IGG=-   GG&3+=2.22
 GG&4+=3.4
 ======================================================================
 17:30    26.10.  [German - Bundesliga]
-VfB Stuttgart  vs  FSV Mainz   (ID: 1883)
+VfB Stuttgart  vs  FSV Mainz   (ID: 1941)
 1=1.75   X=4.2   2=4.4
 0-2=2.3   2+=-   3+=1.6
 GG=1.63   IGG=-   GG&3+=1.95
@@ -1149,8 +1149,8 @@ GG&4+=3.5
 ======================================================================
 18:30    01.11.  [German - Bundesliga]
 Bayern Munich  vs  Bayer Leverkusen   (ID: 1770)
-1=1.28   X=6.8   2=9.4
-0-2=3.55   2+=-   3+=1.29
+1=1.27   X=6.8   2=9.4
+0-2=3.55   2+=-   3+=1.28
 GG=1.61   IGG=-   GG&3+=1.75
 GG&4+=2.18
 ======================================================================
@@ -1168,14 +1168,14 @@ VfL Wolfsburg  vs  TSG Hoffenheim   (ID: 1784)
 GG=1.55   IGG=-   GG&3+=1.85
 GG&4+=2.71
 ======================================================================
-18:30    24.10.  [German - Bundesliga]
+18:30  Pet  24.10.  [German - Bundesliga]
 Greuther Furth  vs  Karlsruher SC   (ID: 2036)
 1=2.5   X=3.6   2=2.28
 0-2=2.36   2+=-   3+=1.52
 GG=1.48   IGG=-   GG&3+=1.77
 GG&4+=2.55
 ======================================================================
-18:30    24.10.  [German - Bundesliga]
+18:30  Pet  24.10.  [German - Bundesliga]
 Schalke 04  vs  SV Darmstadt 98   (ID: 2075)
 1=2.15   X=3.4   2=2.8
 0-2=2.07   2+=-   3+=1.67
@@ -1226,10 +1226,10 @@ GG&4+=2.83
 ======================================================================
 13:30    26.10.  [German - Bundesliga]
 1. FC Magdeburg  vs  SC Preussen 06 Munster   (ID: 2090)
-1=1.98   X=3.7   2=2.95
-0-2=2.29   2+=-   3+=1.56
-GG=1.53   IGG=-   GG&3+=1.83
-GG&4+=2.68
+1=1.97   X=3.6   2=3.05
+0-2=2.27   2+=-   3+=1.56
+GG=1.53   IGG=-   GG&3+=1.84
+GG&4+=2.69
 ======================================================================
 18:30    28.10.  [German - DFB Pokal]
 1. FC Heidenheim  vs  Hamburger SV   (ID: 1167)
@@ -1343,7 +1343,7 @@ Fortuna Dusseldorf  vs  SC Freiburg   (ID: 1168)
 GG=1.59   IGG=-   GG&3+=1.94
 GG&4+=3
 ======================================================================
-20:45    24.10.  [Italian - Serie A]
+20:45  Pet  24.10.  [Italian - Serie A]
 AC Milan  vs  Pisa SC   (ID: 2067)
 1=1.3   X=5.8   2=10
 0-2=2.12   2+=-   3+=1.7
@@ -1374,12 +1374,12 @@ GG&4+=4.15
 20:45    25.10.  [Italian - Serie A]
 US Cremonese  vs  Atalanta BC   (ID: 2043)
 1=5.2   X=4.1   2=1.65
-0-2=1.95   2+=-   3+=1.83
-GG=1.89   IGG=-   GG&3+=2.36
-GG&4+=3.65
+0-2=1.93   2+=-   3+=1.85
+GG=1.91   IGG=-   GG&3+=2.4
+GG&4+=3.7
 ======================================================================
 12:30    26.10.  [Italian - Serie A]
-Torino FC  vs  Genoa CFC   (ID: 2044)
+Torino FC  vs  Genoa CFC   (ID: 1995)
 1=2.25   X=3.1   2=3.65
 0-2=1.46   2+=-   3+=2.65
 GG=2.26   IGG=-   GG&3+=3.3
@@ -1423,9 +1423,9 @@ GG&4+=4.8
 20:45    28.10.  [Italian - Serie A]
 Atalanta BC  vs  AC Milan   (ID: 1249)
 1=2.8   X=3.55   2=2.5
-0-2=1.98   2+=-   3+=1.8
-GG=1.68   IGG=-   GG&3+=2.11
-GG&4+=3.25
+0-2=1.97   2+=-   3+=1.81
+GG=1.68   IGG=-   GG&3+=2.12
+GG&4+=3.3
 ======================================================================
 18:30    29.10.  [Italian - Serie A]
 Como 1907  vs  Hellas Verona   (ID: 1234)
@@ -1436,10 +1436,10 @@ GG&4+=4.75
 ======================================================================
 18:30    29.10.  [Italian - Serie A]
 Juventus Turin  vs  Udinese Calcio   (ID: 1233)
-1=1.49   X=4.4   2=7
+1=1.48   X=4.4   2=7.2
 0-2=1.83   2+=-   3+=1.95
-GG=2.18   IGG=-   GG&3+=2.8
-GG&4+=4.4
+GG=2.19   IGG=-   GG&3+=2.8
+GG&4+=4.45
 ======================================================================
 18:30    29.10.  [Italian - Serie A]
 AS Roma  vs  Parma Calcio   (ID: 1233)
@@ -1483,7 +1483,7 @@ Pisa SC  vs  Lazio Rome   (ID: 1236)
 GG=2.01   IGG=-   GG&3+=2.7
 GG&4+=4.6
 ======================================================================
-20:30    24.10.  [Italian - Serie B]
+20:30  Pet  24.10.  [Italian - Serie B]
 Modena FC  vs  Empoli FC   (ID: 2120)
 1=1.74   X=3.3   2=4.2
 0-2=1.64   2+=-   3+=2.13
@@ -1659,7 +1659,7 @@ Lazio Rome  vs  AC Milan   (ID: 6)
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-20:45    24.10.  [Italian - Coppa Italia]
+20:45  Pet  24.10.  [Italian - Coppa Italia]
 Paris FC  vs  FC Nantes   (ID: 1896)
 1=1.7   X=4   2=5
 0-2=1.98   2+=-   3+=1.8
@@ -1691,18 +1691,18 @@ GG&4+=3.1
 Lille OSC  vs  FC Metz   (ID: 1392)
 1=1.36   X=5.4   2=8.4
 0-2=2.28   2+=-   3+=1.61
-GG=1.96   IGG=-   GG&3+=2.33
+GG=1.96   IGG=-   GG&3+=2.32
 GG&4+=3.3
 ======================================================================
 17:15    26.10.  [Italian - Coppa Italia]
-Angers SCO  vs  FC Lorient   (ID: 1330)
+Angers SCO  vs  FC Lorient   (ID: 1388)
 1=2.55   X=3.05   2=2.7
 0-2=1.62   2+=-   3+=2.25
 GG=1.96   IGG=-   GG&3+=2.7
 GG&4+=4.7
 ======================================================================
 17:15    26.10.  [Italian - Coppa Italia]
-Stade Rennes  vs  OGC Nice   (ID: 2121)
+Stade Rennes  vs  OGC Nice   (ID: 2228)
 1=2.26   X=3.6   2=3.15
 0-2=2.05   2+=-   3+=1.75
 GG=1.65   IGG=-   GG&3+=2.05
@@ -1716,14 +1716,14 @@ GG=1.89   IGG=-   GG&3+=2.5
 GG&4+=4.15
 ======================================================================
 20:45    26.10.  [Italian - Coppa Italia]
-Olympique Lyon  vs  Strasbourg Alsace   (ID: 1291)
+Olympique Lyon  vs  Strasbourg Alsace   (ID: 1398)
 1=2.13   X=3.7   2=3.3
-0-2=2.07   2+=-   3+=1.73
-GG=1.66   IGG=-   GG&3+=2.05
+0-2=2.08   2+=-   3+=1.72
+GG=1.65   IGG=-   GG&3+=2.04
 GG&4+=3.1
 ======================================================================
 19:00    29.10.  [Italian - Coppa Italia]
-FC Lorient  vs  Paris Saint-Germain   (ID: 1708)
+FC Lorient  vs  Paris Saint-Germain   (ID: 1698)
 1=7.2   X=5.4   2=1.4
 0-2=2.55   2+=-   3+=1.5
 GG=1.76   IGG=-   GG&3+=2.03
@@ -1744,7 +1744,7 @@ GG=1.87   IGG=-   GG&3+=2.4
 GG&4+=3.8
 ======================================================================
 19:00    29.10.  [Italian - Coppa Italia]
-Le Havre AC  vs  Stade Brest 29   (ID: 1787)
+Le Havre AC  vs  Stade Brest 29   (ID: 1789)
 1=2.65   X=3.45   2=2.7
 0-2=1.83   2+=-   3+=1.95
 GG=1.77   IGG=-   GG&3+=2.3
@@ -1754,7 +1754,7 @@ GG&4+=3.7
 Olympique Marseille  vs  Angers SCO   (ID: 1770)
 1=1.22   X=6.6   2=14
 0-2=2.3   2+=-   3+=1.6
-GG=2.35   IGG=-   GG&3+=2.75
+GG=2.34   IGG=-   GG&3+=2.75
 GG&4+=3.85
 ======================================================================
 21:05    29.10.  [Italian - Coppa Italia]
@@ -1785,42 +1785,42 @@ Paris FC  vs  Olympique Lyon   (ID: 1772)
 GG=1.57   IGG=-   GG&3+=1.92
 GG&4+=2.86
 ======================================================================
-20:00    24.10.  [Italian - Coppa Italia]
+20:00  Pet  24.10.  [Italian - Coppa Italia]
 EA Guingamp  vs  Clermont Foot 63   (ID: 1227)
 1=1.68   X=3.6   2=4.2
 0-2=1.86   2+=-   3+=1.85
 GG=1.83   IGG=-   GG&3+=2.36
 GG&4+=3.75
 ======================================================================
-20:00    24.10.  [Italian - Coppa Italia]
+20:00  Pet  24.10.  [Italian - Coppa Italia]
 Stade Reims  vs  Estac Troyes   (ID: 1229)
 1=2.02   X=3.35   2=3.1
 0-2=1.79   2+=-   3+=1.92
 GG=1.79   IGG=-   GG&3+=2.33
 GG&4+=3.8
 ======================================================================
-20:00    24.10.  [Italian - Coppa Italia]
+20:00  Pet  24.10.  [Italian - Coppa Italia]
 SC Bastia  vs  Stade Lavallois MFC   (ID: 1152)
 1=2.02   X=3   2=3.45
 0-2=1.49   2+=-   3+=2.44
 GG=2.15   IGG=-   GG&3+=3.1
 GG&4+=5.8
 ======================================================================
-20:00    24.10.  [Italian - Coppa Italia]
+20:00  Pet  24.10.  [Italian - Coppa Italia]
 Pau FC  vs  USL Dunkerque   (ID: 1156)
 1=2.07   X=3.35   2=3
 0-2=1.84   2+=-   3+=1.86
 GG=1.74   IGG=-   GG&3+=2.24
 GG&4+=3.6
 ======================================================================
-20:00    24.10.  [Italian - Coppa Italia]
+20:00  Pet  24.10.  [Italian - Coppa Italia]
 Le Mans FC  vs  US Boulogne   (ID: 1155)
 1=1.95   X=3.2   2=3.45
 0-2=1.66   2+=-   3+=2.1
 GG=1.93   IGG=-   GG&3+=2.6
 GG&4+=4.5
 ======================================================================
-20:00    24.10.  [Italian - Coppa Italia]
+20:00  Pet  24.10.  [Italian - Coppa Italia]
 Red Star FC  vs  Grenoble Foot   (ID: 1155)
 1=1.77   X=3.45   2=3.85
 0-2=1.79   2+=-   3+=1.92
@@ -1912,48 +1912,48 @@ GG=1.93   IGG=-   GG&3+=2.33
 GG&4+=3.5
 ======================================================================
 02:30  Čet  23.10.  [South American - Copa Libertadores]
-CR Flamengo RJ  vs  Racing Club Avellaneda   (ID: 2822)
-1=1.4   X=4.6   2=9.4
+CR Flamengo RJ  vs  Racing Club Avellaneda   (ID: 2818)
+1=1.38   X=4.7   2=9.6
 0-2=1.73   2+=-   3+=2.12
-GG=2.55   IGG=-   GG&3+=3.35
-GG&4+=5.5
+GG=2.6   IGG=-   GG&3+=3.45
+GG&4+=5.6
 ======================================================================
-02:30    24.10.  [South American - Copa Libertadores]
-LDU Quito  vs  SE Palmeiras SP   (ID: 2178)
+02:30  Pet  24.10.  [South American - Copa Libertadores]
+LDU Quito  vs  SE Palmeiras SP   (ID: 2182)
 1=3.05   X=3.1   2=2.55
 0-2=1.47   2+=-   3+=2.6
 GG=2.21   IGG=-   GG&3+=3.2
 GG&4+=6.05
 ======================================================================
-00:00    24.10.  [South American - Copa Sudamericana]
-Universidad de Chile  vs  CA Lanus   (ID: 2276)
-1=2.55   X=2.95   2=2.9
-0-2=1.45   2+=-   3+=2.55
-GG=2.14   IGG=-   GG&3+=3.15
-GG&4+=6
+00:00  Pet  24.10.  [South American - Copa Sudamericana]
+Universidad de Chile  vs  CA Lanus   (ID: 2477)
+1=2.55   X=3   2=2.95
+0-2=1.48   2+=-   3+=2.55
+GG=2.12   IGG=-   GG&3+=3.1
+GG&4+=5.9
 ======================================================================
 01:30    29.10.  [South American - Copa Sudamericana]
-Atletico Mineiro MG  vs  CSD Independiente Del Valle   (ID: 1150)
+Atletico Mineiro MG  vs  CSD Independiente Del Valle   (ID: 1148)
 1=1.64   X=3.45   2=4.6
-0-2=1.67   2+=-   3+=2.04
-GG=2.03   IGG=-   GG&3+=2.7
-GG&4+=4.6
+0-2=1.64   2+=-   3+=2.09
+GG=2.07   IGG=-   GG&3+=2.75
+GG&4+=4.8
 ======================================================================
-16:00    24.10.  [Serbian - Superliga]
+16:00  Pet  24.10.  [Serbian - Superliga]
 FK Napredak Krusevac  vs  FK Vojvodina Novi Sad   (ID: 1216)
 1=3.55   X=3.45   2=1.84
 0-2=1.92   2+=-   3+=1.79
 GG=1.73   IGG=-   GG&3+=2.2
 GG&4+=3.4
 ======================================================================
-17:30    24.10.  [Serbian - Superliga]
+17:30  Pet  24.10.  [Serbian - Superliga]
 FK Novi Pazar  vs  FK Javor Ivanjica   (ID: 1213)
 1=1.77   X=3.45   2=3.85
 0-2=1.82   2+=-   3+=1.89
 GG=1.83   IGG=-   GG&3+=2.37
 GG&4+=3.8
 ======================================================================
-17:30    24.10.  [Serbian - Superliga]
+17:30  Pet  24.10.  [Serbian - Superliga]
 FK Partizan Belgrade  vs  FK Mladost Lucani   (ID: 1199)
 1=1.21   X=6   2=12
 0-2=2.28   2+=-   3+=1.56
@@ -1969,9 +1969,9 @@ GG&4+=2.88
 ======================================================================
 15:00    25.10.  [Serbian - Superliga]
 FK Radnicki 1923 Kragujevac  vs  FK Bačka Topola   (ID: 1211)
-1=1.94   X=3.45   2=3.25
+1=1.92   X=3.4   2=3.3
 0-2=1.83   2+=-   3+=1.87
-GG=1.77   IGG=-   GG&3+=2.28
+GG=1.77   IGG=-   GG&3+=2.29
 GG&4+=3.65
 ======================================================================
 17:00    25.10.  [Serbian - Superliga]
@@ -2079,7 +2079,7 @@ SK Rapid  vs  SK Sturm Graz   (ID: 1155)
 GG=1.6   IGG=-   GG&3+=1.98
 GG&4+=3.1
 ======================================================================
-20:45    24.10.  [Belgian - First Division A]
+20:45  Pet  24.10.  [Belgian - First Division A]
 Royal Charleroi SC  vs  RSC Anderlecht   (ID: 1310)
 1=2.95   X=3.35   2=2.32
 0-2=1.81   2+=-   3+=1.9
@@ -2156,13 +2156,6 @@ Club Brugge  vs  FCV Dender EH   (ID: 1137)
 GG=1.97   IGG=-   GG&3+=2.22
 GG&4+=3.1
 ======================================================================
-00:00  Čet  23.10.  [Brazilian - Serie A]
-EC Bahia BA  vs  SC Internacional RS   (ID: 1877)
-1=1.78   X=3.45   2=4.2
-0-2=1.77   2+=-   3+=2.06
-GG=1.96   IGG=-   GG&3+=2.6
-GG&4+=4.2
-======================================================================
 21:00    25.10.  [Brazilian - Serie A]
 Atletico Mineiro MG  vs  Ceara SC CE   (ID: 1312)
 1=1.93   X=3.2   2=3.9
@@ -2179,10 +2172,10 @@ GG&4+=5.6
 ======================================================================
 22:30    25.10.  [Brazilian - Serie A]
 Fluminense FC RJ  vs  SC Internacional RS   (ID: 1158)
-1=1.92   X=3.25   2=3.8
-0-2=1.67   2+=-   3+=2.18
-GG=2   IGG=-   GG&3+=2.7
-GG&4+=4.6
+1=1.9   X=3.25   2=3.9
+0-2=1.64   2+=-   3+=2.22
+GG=2.04   IGG=-   GG&3+=2.8
+GG&4+=4.8
 ======================================================================
 23:30    25.10.  [Brazilian - Serie A]
 SC Recife PE  vs  Mirassol FC SP   (ID: 1317)
@@ -2200,10 +2193,10 @@ GG&4+=4.55
 ======================================================================
 02:30    26.10.  [Brazilian - Serie A]
 Sao Paulo FC SP  vs  EC Bahia BA   (ID: 1158)
-1=2.01   X=3.2   2=3.55
+1=1.93   X=3.25   2=3.8
 0-2=1.58   2+=-   3+=2.33
-GG=2.1   IGG=-   GG&3+=2.9
-GG&4+=5.15
+GG=2.13   IGG=-   GG&3+=2.95
+GG&4+=5.25
 ======================================================================
 20:00    26.10.  [Brazilian - Serie A]
 Botafogo FR RJ  vs  Santos FC SP   (ID: 1321)
@@ -2303,7 +2296,7 @@ CR Vasco da Gama RJ  vs  Sao Paulo FC SP   (ID: 1158)
 GG=2.1   IGG=-   GG&3+=2.9
 GG&4+=5.2
 ======================================================================
-19:00    24.10.  [Danish - Superliga]
+19:00  Pet  24.10.  [Danish - Superliga]
 AGF Aarhus  vs  FC Nordsjaelland   (ID: 1303)
 1=1.75   X=3.75   2=3.65
 0-2=2.24   2+=-   3+=1.58
@@ -2443,7 +2436,7 @@ Asteras Tripolis  vs  OFI Crete   (ID: 1473)
 GG=1.88   IGG=-   GG&3+=2.55
 GG&4+=4.45
 ======================================================================
-20:00    24.10.  [Dutch - Eredivisie]
+20:00  Pet  24.10.  [Dutch - Eredivisie]
 SC Heerenveen  vs  NAC Breda   (ID: 1794)
 1=1.72   X=4   2=4.2
 0-2=2.2   2+=-   3+=1.6
@@ -2569,28 +2562,28 @@ FC Utrecht  vs  NEC Nijmegen   (ID: 1152)
 GG=1.62   IGG=-   GG&3+=1.98
 GG&4+=3
 ======================================================================
-20:45    24.10.  [Irish - Premier Division]
+20:45  Pet  24.10.  [Irish - Premier Division]
 Galway United FC  vs  Drogheda United FC   (ID: 1155)
 1=2   X=3.25   2=3.2
 0-2=1.74   2+=-   3+=1.98
 GG=1.83   IGG=-   GG&3+=2.42
 GG&4+=4
 ======================================================================
-20:45    24.10.  [Irish - Premier Division]
+20:45  Pet  24.10.  [Irish - Premier Division]
 Treaty United  vs  Cobh Ramblers   (ID: 1156)
 1=3.3   X=3.4   2=1.94
 0-2=1.99   2+=-   3+=1.73
 GG=1.65   IGG=-   GG&3+=2.09
 GG&4+=3.2
 ======================================================================
-20:45    24.10.  [Irish - Premier Division]
+20:45  Pet  24.10.  [Irish - Premier Division]
 Saint Patrick´s Athletic FC  vs  Waterford FC   (ID: 1152)
 1=1.36   X=4.8   2=6
 0-2=2.27   2+=-   3+=1.56
 GG=1.83   IGG=-   GG&3+=2.18
 GG&4+=3.1
 ======================================================================
-20:45    24.10.  [Irish - Premier Division]
+20:45  Pet  24.10.  [Irish - Premier Division]
 University College Dublin  vs  Bray Wanderers AFC   (ID: 1156)
 1=1.95   X=3.5   2=3.15
 0-2=2.07   2+=-   3+=1.67
@@ -2688,14 +2681,14 @@ Avispa Fukuoka  vs  Shonan Bellmare   (ID: 1305)
 GG=2.07   IGG=-   GG&3+=2.85
 GG&4+=4.9
 ======================================================================
-18:00    24.10.  [Polish - Ekstraklasa]
+18:00  Pet  24.10.  [Polish - Ekstraklasa]
 Bruk-Bet Termalica Nieciecza  vs  Zaglebie Lubin   (ID: 1159)
 1=2.35   X=3.4   2=2.55
 0-2=2.08   2+=-   3+=1.67
 GG=1.58   IGG=-   GG&3+=1.96
 GG&4+=2.98
 ======================================================================
-20:30    24.10.  [Polish - Ekstraklasa]
+20:30  Pet  24.10.  [Polish - Ekstraklasa]
 LKP Motor Lublin  vs  Widzew Lodz   (ID: 1158)
 1=2.6   X=3.35   2=2.29
 0-2=2.04   2+=-   3+=1.69
@@ -2751,7 +2744,7 @@ RKS Radomiak Radom  vs  Wisla Plock   (ID: 1152)
 GG=1.74   IGG=-   GG&3+=2.26
 GG&4+=3.8
 ======================================================================
-21:15    24.10.  [Portuguese - Primeira Liga]
+21:15  Pet  24.10.  [Portuguese - Primeira Liga]
 FC Alverca SAD  vs  Gil Vicente Barcelos   (ID: 1806)
 1=2.95   X=3.05   2=2.47
 0-2=1.53   2+=-   3+=2.36
@@ -2824,12 +2817,12 @@ GG&4+=2.49
 04:30  Čet  23.10.  [USA - Major League Soccer]
 Portland Timbers  vs  Real Salt Lake   (ID: 1889)
 1=2.1   X=3.45   2=2.9
-0-2=2.2   2+=-   3+=1.63
-GG=1.55   IGG=-   GG&3+=1.9
-GG&4+=2.83
+0-2=2.23   2+=-   3+=1.61
+GG=1.53   IGG=-   GG&3+=1.87
+GG&4+=2.77
 ======================================================================
 02:00    25.10.  [USA - Major League Soccer]
-Inter Miami CF  vs  Nashville SC   (ID: 1302)
+Inter Miami CF  vs  Nashville SC   (ID: 1823)
 1=1.48   X=4.7   2=5
 0-2=3.2   2+=-   3+=1.3
 GG=1.42   IGG=-   GG&3+=1.59
@@ -2870,7 +2863,7 @@ Los Angeles FC  vs  Austin FC   (ID: 1150)
 GG=1.88   IGG=-   GG&3+=2.3
 GG&4+=3.55
 ======================================================================
-19:00    24.10.  [Turkish - Super Lig]
+19:00  Pet  24.10.  [Turkish - Super Lig]
 Fatih Karagumruk Istanbul  vs  Kayserispor   (ID: 1741)
 1=2.15   X=3.4   2=2.8
 0-2=2   2+=-   3+=1.72
@@ -2927,7 +2920,7 @@ GG=1.72   IGG=-   GG&3+=2.08
 GG&4+=3.2
 ======================================================================
 18:00    27.10.  [Turkish - Super Lig]
-Samsunspor  vs  Caykur Rizespor   (ID: 1624)
+Samsunspor  vs  Caykur Rizespor   (ID: 1615)
 1=1.87   X=3.35   2=3.5
 0-2=1.79   2+=-   3+=1.89
 GG=1.79   IGG=-   GG&3+=2.3
@@ -3118,14 +3111,7 @@ Seinajoen JK  vs  Kuopion Palloseura   (ID: 1156)
 GG=1.45   IGG=-   GG&3+=1.69
 GG&4+=2.45
 ======================================================================
-00:30  Čet  23.10.  [Argentine - Argentine Liga Profesional]
-CA Huracan  vs  CA Central Cordoba SE   (ID: 1394)
-1=2.14   X=2.6   2=3.75
-0-2=1.32   2+=-   3+=3.2
-GG=2.55   IGG=-   GG&3+=4.1
-GG&4+=8.5
-======================================================================
-23:00    24.10.  [Argentine - Argentine Liga Profesional]
+23:00  Pet  24.10.  [Argentine - Argentine Liga Profesional]
 CA Independiente Avellaneda  vs  CA Platense   (ID: 1177)
 1=1.88   X=3   2=3.95
 0-2=1.43   2+=-   3+=2.6
@@ -3250,134 +3236,12 @@ Russia  vs  Peru   (ID: 3)
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-23:30  Sre  22.10.  [Venezuelan - Primera Division]
-Carabobo FC  vs  Metropolitanos FC   (ID: 313)
-1=1.48   X=4   2=6.3
-0-2=1.82   2+=-   3+=1.86
-GG=-   IGG=-   GG&3+=-
-======================================================================
-01:30  Čet  23.10.  [Venezuelan - Primera Division]
-Deportivo Tachira FC  vs  Caracas FC   (ID: 307)
-1=1.68   X=3.52   2=4.9
-0-2=1.65   2+=-   3+=2.08
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:00  Čet  23.10.  [Nicaraguan - Primera Division]
-Rancho Santana FC  vs  CD Walter Ferretti   (ID: 642)
-1=3.9   X=3.65   2=1.72
-0-2=2.23   2+=-   3+=1.56
-GG=1.55   IGG=-   GG&3+=1.8
-GG&4+=2.78
-======================================================================
-02:00  Čet  23.10.  [Nicaraguan - Primera Division]
-Diriangen FC Diriamba  vs  Indigenas de Matagalpa FC   (ID: 638)
-1=1.21   X=5.8   2=9.2
-0-2=2.75   2+=-   3+=1.38
-GG=1.8   IGG=-   GG&3+=1.96
-GG&4+=2.78
-======================================================================
-04:00  Čet  23.10.  [Nicaraguan - Primera Division]
-Managua FC  vs  Real Esteli FC   (ID: 644)
-1=3.45   X=3.2   2=1.98
-0-2=1.65   2+=-   3+=2.07
-GG=1.88   IGG=-   GG&3+=2.4
-GG&4+=4.4
-======================================================================
-00:00  Čet  23.10.  [North American - CONCACAF Caribbean Cup]
-Defence Force FC  vs  Mount Pleasant FC   (ID: 644)
-1=3.05   X=3.35   2=2.06
-0-2=1.94   2+=-   3+=1.74
-GG=1.63   IGG=-   GG&3+=1.96
-GG&4+=3.25
-======================================================================
-00:00    24.10.  [North American - CONCACAF Caribbean Cup]
-Univ. Organizacion y Metodo FC  vs  Cibao CF   (ID: 644)
-1=3   X=3.3   2=2.1
-0-2=1.68   2+=-   3+=2.02
-GG=1.84   IGG=-   GG&3+=2.3
-GG&4+=4.2
-======================================================================
-00:00  Čet  23.10.  [Bolivian - Bolivian League Cup]
-FC Universitario de Vinto  vs  CA Nacional Potosi   (ID: 1024)
-1=2.01   X=3.35   2=3.1
-0-2=1.99   2+=-   3+=1.65
-GG=1.59   IGG=-   GG&3+=1.89
-GG&4+=3.05
-======================================================================
-21:00  Čet  23.10.  [Bolivian - Bolivian League Cup]
-Oriente Petrolero  vs  Jorge Wilstermann   (ID: 1014)
-1=1.43   X=4.2   2=5.8
-0-2=1.88   2+=-   3+=1.73
-GG=1.94   IGG=-   GG&3+=2.3
-GG&4+=3.8
-======================================================================
-01:00    24.10.  [Bolivian - Bolivian League Cup]
-GV Club Deportivo San Jose de Oruro  vs  The Strongest   (ID: 1023)
-1=3.15   X=3.7   2=1.89
-0-2=2.1   2+=-   3+=1.58
-GG=1.57   IGG=-   GG&3+=1.81
-GG&4+=2.88
-======================================================================
-00:30  Čet  23.10.  [Canadian - Premier Liga]
-HFX Wanderers FC  vs  York United FC   (ID: 1026)
-1=2.19   X=3.15   2=2.9
-0-2=1.85   2+=-   3+=1.76
-GG=1.65   IGG=-   GG&3+=2.01
-GG&4+=3.35
-======================================================================
-00:30  Čet  23.10.  [Paraguayan - Cup]
-Club Guarani Asuncion  vs  Club River Plate Asuncion   (ID: 1033)
-1=1.49   X=3.8   2=5.4
-0-2=1.71   2+=-   3+=2.01
-GG=2.16   IGG=-   GG&3+=2.8
-GG&4+=4.7
-======================================================================
-23:30  Čet  23.10.  [Paraguayan - Cup]
-Cerro Porteno  vs  Club General Caballero Jlm   (ID: 1032)
-1=1.63   X=3.45   2=4.6
-0-2=1.53   2+=-   3+=2.35
-GG=2.32   IGG=-   GG&3+=3.15
-GG&4+=5.9
-======================================================================
-00:30  Čet  23.10.  [Salvadoran - Primera Division]
-CD Hercules  vs  CD Fuerte San Francisco Morazan   (ID: 1020)
-1=2.4   X=3   2=2.75
-0-2=1.66   2+=-   3+=1.98
-GG=1.79   IGG=-   GG&3+=2.28
-GG&4+=4.1
-======================================================================
-03:30  Čet  23.10.  [Salvadoran - Primera Division]
-CD Aguila San Miguel  vs  CD FAS Santa Ana   (ID: 1020)
-1=2.29   X=3.05   2=2.85
-0-2=1.74   2+=-   3+=1.86
-GG=1.71   IGG=-   GG&3+=2.14
-GG&4+=3.7
-======================================================================
-02:00    26.10.  [Salvadoran - Primera Division]
-CD FAS Santa Ana  vs  Alianza FC San Salvador   (ID: 8)
-1=2.28   X=3.1   2=2.85
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-02:30    26.10.  [Salvadoran - Primera Division]
-AD Isidro Metapan  vs  CD. Cacahuatique   (ID: 8)
-1=1.67   X=3.55   2=4.4
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:30  Čet  23.10.  [Brazilian - Copa Meridianbet Santa Catarina]
-Chapecoense SC Reserve  vs  Figueirense FC SC   (ID: 644)
-1=3.8   X=3.2   2=1.87
-0-2=1.74   2+=-   3+=1.95
-GG=1.81   IGG=-   GG&3+=2.28
-GG&4+=4
-======================================================================
 01:00  Čet  23.10.  [Colombian - Copa Colombia]
-Atletico Nacional Medellin  vs  CD Once Caldas   (ID: 1034)
-1=1.47   X=3.95   2=6.2
-0-2=1.83   2+=-   3+=1.88
-GG=2.04   IGG=-   GG&3+=2.55
-GG&4+=4.15
+Atletico Nacional Medellin  vs  CD Once Caldas   (ID: 1036)
+1=1.5   X=3.9   2=5
+0-2=1.89   2+=-   3+=1.82
+GG=1.94   IGG=-   GG&3+=2.41
+GG&4+=3.8
 ======================================================================
 01:00  Čet  23.10.  [Ecuadorian - Ecuadorian Cup]
 Guayaquil City FC  vs  CS Emelec   (ID: 1036)
@@ -3386,6 +3250,26 @@ Guayaquil City FC  vs  CS Emelec   (ID: 1036)
 GG=1.95   IGG=-   GG&3+=2.6
 GG&4+=4.65
 ======================================================================
+01:30  Čet  23.10.  [Venezuelan - Primera Division]
+Deportivo Tachira FC  vs  Caracas FC   (ID: 311)
+1=1.71   X=3.55   2=4.6
+0-2=1.7   2+=-   3+=2
+GG=-   IGG=-   GG&3+=-
+======================================================================
+02:00  Čet  23.10.  [Nicaraguan - Primera Division]
+Diriangen FC Diriamba  vs  Indigenas de Matagalpa FC   (ID: 637)
+1=1.19   X=6   2=9.6
+0-2=2.75   2+=-   3+=1.38
+GG=1.84   IGG=-   GG&3+=2
+GG&4+=2.83
+======================================================================
+04:00  Čet  23.10.  [Nicaraguan - Primera Division]
+Managua FC  vs  Real Esteli FC   (ID: 644)
+1=3.45   X=3.2   2=1.98
+0-2=1.65   2+=-   3+=2.07
+GG=1.88   IGG=-   GG&3+=2.4
+GG&4+=4.4
+======================================================================
 02:00  Čet  23.10.  [Costa Rican - Segunda Division]
 Aserri FC  vs  Pitbulls Santa Barbara FC   (ID: 644)
 1=2.43   X=2.95   2=2.75
@@ -3393,7 +3277,7 @@ Aserri FC  vs  Pitbulls Santa Barbara FC   (ID: 644)
 GG=1.89   IGG=-   GG&3+=2.48
 GG&4+=4.7
 ======================================================================
-23:00    24.10.  [Costa Rican - Segunda Division]
+23:00  Pet  24.10.  [Costa Rican - Segunda Division]
 AD Carmelita  vs  CS Uruguay de Coronado   (ID: 6)
 1=2.04   X=3.3   2=3.2
 0-2=-   2+=-   3+=-
@@ -3402,23 +3286,23 @@ GG=-   IGG=-   GG&3+=-
 03:00  Čet  23.10.  [Mexican - Liga MX]
 Queretaro FC  vs  CD Guadalajara   (ID: 1908)
 1=4.3   X=3.45   2=1.7
-0-2=1.76   2+=-   3+=2
-GG=1.93   IGG=-   GG&3+=2.55
-GG&4+=4.2
+0-2=1.78   2+=-   3+=1.97
+GG=1.9   IGG=-   GG&3+=2.5
+GG&4+=4.1
 ======================================================================
 03:00  Čet  23.10.  [Mexican - Liga MX]
-CF Pachuca  vs  Tigres UANL   (ID: 1899)
-1=2.6   X=3.3   2=2.38
+CF Pachuca  vs  Tigres UANL   (ID: 1900)
+1=2.65   X=3.3   2=2.32
 0-2=1.92   2+=-   3+=1.82
-GG=1.67   IGG=-   GG&3+=2.14
+GG=1.68   IGG=-   GG&3+=2.14
 GG&4+=3.4
 ======================================================================
 05:00  Čet  23.10.  [Mexican - Liga MX]
-Club Tijuana de Caliente  vs  Deportivo Toluca FC   (ID: 1900)
-1=2.85   X=3.65   2=2.07
+Club Tijuana de Caliente  vs  Deportivo Toluca FC   (ID: 1901)
+1=2.75   X=3.65   2=2.11
 0-2=2.65   2+=-   3+=1.45
 GG=1.42   IGG=-   GG&3+=1.66
-GG&4+=2.31
+GG&4+=2.3
 ======================================================================
 05:00  Čet  23.10.  [Mexican - Liga MX]
 Atlas FC  vs  Club Leon   (ID: 1851)
@@ -3435,14 +3319,14 @@ GG=1.79   IGG=-   GG&3+=2.29
 GG&4+=3.6
 ======================================================================
 03:00    25.10.  [Mexican - Liga MX]
-FC Juarez  vs  Club Puebla   (ID: 1222)
+FC Juarez  vs  Club Puebla   (ID: 1704)
 1=1.65   X=3.65   2=4.3
 0-2=1.87   2+=-   3+=1.83
 GG=1.84   IGG=-   GG&3+=2.36
 GG&4+=3.7
 ======================================================================
 04:00    25.10.  [Mexican - Liga MX]
-Mazatlan FC  vs  CF America   (ID: 1236)
+Mazatlan FC  vs  CF America   (ID: 1727)
 1=5.6   X=4.2   2=1.48
 0-2=2.22   2+=-   3+=1.59
 GG=1.73   IGG=-   GG&3+=2.09
@@ -3476,6 +3360,67 @@ CF Cruz Azul  vs  CF Monterrey   (ID: 1248)
 GG=1.56   IGG=-   GG&3+=1.92
 GG&4+=2.83
 ======================================================================
+00:00    27.10.  [Mexican - Liga MX]
+Club Santos Laguna  vs  Queretaro FC   (ID: 1154)
+1=1.97   X=3.5   2=3.1
+0-2=1.98   2+=-   3+=1.71
+GG=1.64   IGG=-   GG&3+=2.02
+GG&4+=3.15
+======================================================================
+02:00    27.10.  [Mexican - Liga MX]
+Atletico San Luis  vs  Club Necaxa   (ID: 1157)
+1=2.28   X=3.55   2=2.5
+0-2=2.35   2+=-   3+=1.5
+GG=1.46   IGG=-   GG&3+=1.72
+GG&4+=2.52
+======================================================================
+02:00    27.10.  [Mexican - Liga MX]
+Deportivo Toluca FC  vs  CF Pachuca   (ID: 1150)
+1=1.55   X=4.2   2=4.4
+0-2=2.42   2+=-   3+=1.48
+GG=1.57   IGG=-   GG&3+=1.83
+GG&4+=2.63
+======================================================================
+02:00    01.11.  [Mexican - Liga MX]
+Club Necaxa  vs  Club Santos Laguna   (ID: 1149)
+1=1.38   X=4.8   2=5.6
+0-2=2.6   2+=-   3+=1.42
+GG=1.63   IGG=-   GG&3+=1.85
+GG&4+=2.59
+======================================================================
+04:00    01.11.  [Mexican - Liga MX]
+Atletico San Luis  vs  FC Juarez   (ID: 1156)
+1=2.16   X=3.5   2=2.7
+0-2=2.1   2+=-   3+=1.63
+GG=1.56   IGG=-   GG&3+=1.89
+GG&4+=2.92
+======================================================================
+04:05    01.11.  [Mexican - Liga MX]
+Club Puebla  vs  CF Cruz Azul   (ID: 1153)
+1=3.35   X=3.5   2=1.87
+0-2=1.97   2+=-   3+=1.72
+GG=1.67   IGG=-   GG&3+=2.06
+GG&4+=3.25
+======================================================================
+03:30  Čet  23.10.  [Salvadoran - Primera Division]
+CD Aguila San Miguel  vs  CD FAS Santa Ana   (ID: 1020)
+1=2.29   X=3.05   2=2.85
+0-2=1.74   2+=-   3+=1.86
+GG=1.71   IGG=-   GG&3+=2.14
+GG&4+=3.7
+======================================================================
+02:00    26.10.  [Salvadoran - Primera Division]
+CD FAS Santa Ana  vs  Alianza FC San Salvador   (ID: 8)
+1=2.28   X=3.1   2=2.85
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+02:30    26.10.  [Salvadoran - Primera Division]
+AD Isidro Metapan  vs  CD. Cacahuatique   (ID: 8)
+1=1.67   X=3.55   2=4.4
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
 04:00  Čet  23.10.  [USA - United Soccer League]
 Sacramento Republic FC  vs  Charleston Battery   (ID: 1023)
 1=2.6   X=3.15   2=2.39
@@ -3483,7 +3428,7 @@ Sacramento Republic FC  vs  Charleston Battery   (ID: 1023)
 GG=1.69   IGG=-   GG&3+=2.07
 GG&4+=3.55
 ======================================================================
-02:00    25.10.  [USA - United Soccer League]
+03:00    25.10.  [USA - United Soccer League]
 New Mexico United  vs  Rhode Island FC   (ID: 1007)
 1=2.19   X=3.15   2=2.9
 0-2=1.74   2+=-   3+=1.87
@@ -3554,18 +3499,18 @@ GG=1.73   IGG=-   GG&3+=2.16
 GG&4+=3.8
 ======================================================================
 04:00  Čet  23.10.  [USA - United Soccer League]
-Real CD Espana San Pedro Sula  vs  CSD Xelaju MC   (ID: 1020)
-1=2   X=3   2=3.5
-0-2=1.6   2+=-   3+=2.05
-GG=1.88   IGG=-   GG&3+=2.43
-GG&4+=4.5
+Real CD Espana San Pedro Sula  vs  CSD Xelaju MC   (ID: 1019)
+1=1.96   X=3   2=3.65
+0-2=1.58   2+=-   3+=2.09
+GG=1.92   IGG=-   GG&3+=2.49
+GG&4+=4.65
 ======================================================================
-04:00    24.10.  [USA - United Soccer League]
-Liga Deportiva Alajuelense  vs  CD Olimpia Tegucigalpa   (ID: 1020)
-1=1.85   X=2.8   2=4.5
-0-2=1.8   2+=-   3+=1.81
-GG=1.69   IGG=-   GG&3+=2.17
-GG&4+=3.6
+04:00  Pet  24.10.  [USA - United Soccer League]
+Liga Deportiva Alajuelense  vs  CD Olimpia Tegucigalpa   (ID: 1021)
+1=1.86   X=2.95   2=4.1
+0-2=1.82   2+=-   3+=1.78
+GG=1.68   IGG=-   GG&3+=2.11
+GG&4+=3.5
 ======================================================================
 12:00  Čet  23.10.  [Azerbaijani - First Division]
 Cabrayil  vs  Shahdagh-Samur Gusar   (ID: 9)
@@ -3596,10 +3541,10 @@ GG&4+=3.85
 ======================================================================
 12:00  Čet  23.10.  [Azerbaijani - First Division]
 Kaya FC–Iloilo  vs  BG Pathum United   (ID: 1072)
-1=6   X=4.1   2=1.45
+1=5.6   X=4.2   2=1.44
 0-2=1.92   2+=-   3+=1.79
-GG=1.96   IGG=-   GG&3+=2.41
-GG&4+=3.8
+GG=1.98   IGG=-   GG&3+=2.44
+GG&4+=3.85
 ======================================================================
 14:15  Čet  23.10.  [Azerbaijani - First Division]
 Cong An Ha Noi FC  vs  Macarthur FC   (ID: 1076)
@@ -3655,7 +3600,7 @@ FC Omid Tehran  vs  Shahin Sazeh Tehran   (ID: 145)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:30  Čet  23.10.  [Ethiopian - Premier League]
-Shahrdari Mahshahr FC  vs  Foolad Novin FC   (ID: 7)
+Shahrdari Mahshahr FC  vs  Foolad Novin FC   (ID: 101)
 1=1.83   X=2.97   2=4.9
 0-2=1.4   2+=-   3+=2.68
 GG=-   IGG=-   GG&3+=-
@@ -3683,10 +3628,10 @@ GG&4+=6.85
 ======================================================================
 14:30  Čet  23.10.  [Egyptian - Second Division]
 Abo Qair Semads  vs  Maleyat Kafr El Zayat   (ID: 756)
-1=1.23   X=4.8   2=11
+1=1.24   X=4.7   2=11
 0-2=1.77   2+=-   3+=1.84
-GG=2.6   IGG=-   GG&3+=3.2
-GG&4+=5.4
+GG=2.55   IGG=-   GG&3+=3.15
+GG&4+=5.3
 ======================================================================
 14:30  Čet  23.10.  [Egyptian - Second Division]
 El Sekka El Hadid  vs  El Qanah FC   (ID: 778)
@@ -3702,13 +3647,13 @@ Baladiyyat Al Mehalla  vs  FC Masar   (ID: 778)
 GG=2.07   IGG=-   GG&3+=2.85
 GG&4+=5.8
 ======================================================================
-14:30    24.10.  [Egyptian - Second Division]
+14:30  Pet  24.10.  [Egyptian - Second Division]
 Raya Ghazl SC  vs  We SC   (ID: 8)
 1=2.28   X=2.9   2=3.1
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:30    24.10.  [Egyptian - Second Division]
+14:30  Pet  24.10.  [Egyptian - Second Division]
 El Terasanah  vs  La Viena FC   (ID: 8)
 1=2.48   X=2.75   2=2.9
 0-2=-   2+=-   3+=-
@@ -3778,6 +3723,12 @@ FCI Levadia Tallinn U21  vs  FC Elva   (ID: 8)
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
+18:00    27.10.  [Estonian - Esiliiga]
+Tartu JK Welco  vs  FC Elva   (ID: 8)
+1=2.07   X=3.7   2=2.8
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
 16:55  Čet  23.10.  [Saudi Arabian - Professional League]
 Al-Riyadh SC  vs  Al-Kholood   (ID: 2041)
 1=2.45   X=3.3   2=2.5
@@ -3786,7 +3737,7 @@ GG=1.74   IGG=-   GG&3+=2.25
 GG&4+=3.65
 ======================================================================
 17:00  Čet  23.10.  [Saudi Arabian - Professional League]
-Al-Fayha FC  vs  Al-Taawoun FC   (ID: 2033)
+Al-Fayha FC  vs  Al-Taawoun FC   (ID: 2044)
 1=2.55   X=3.05   2=2.55
 0-2=1.62   2+=-   3+=2.22
 GG=1.92   IGG=-   GG&3+=2.65
@@ -3799,21 +3750,21 @@ Al-Najma  vs  AL Ahli Saudi FC   (ID: 1266)
 GG=2.05   IGG=-   GG&3+=2.35
 GG&4+=3.25
 ======================================================================
-16:45    24.10.  [Saudi Arabian - Professional League]
+16:45  Pet  24.10.  [Saudi Arabian - Professional League]
 Al-Fateh SC  vs  Al-Ittifaq FC   (ID: 2037)
 1=2.1   X=3.6   2=2.8
 0-2=2.41   2+=-   3+=1.5
 GG=1.47   IGG=-   GG&3+=1.75
 GG&4+=2.49
 ======================================================================
-17:30    24.10.  [Saudi Arabian - Professional League]
+17:30  Pet  24.10.  [Saudi Arabian - Professional League]
 Neom SC  vs  Al-Khaleej Club   (ID: 1984)
 1=2.06   X=3.7   2=3.2
 0-2=2.17   2+=-   3+=1.61
 GG=1.56   IGG=-   GG&3+=1.91
 GG&4+=2.85
 ======================================================================
-20:00    24.10.  [Saudi Arabian - Professional League]
+20:00  Pet  24.10.  [Saudi Arabian - Professional League]
 Al-Ittihad FC  vs  Al Hilal SFC   (ID: 2067)
 1=3.35   X=4   2=1.77
 0-2=2.85   2+=-   3+=1.38
@@ -3873,6 +3824,20 @@ FC Baltika Kaliningrad  vs  Lokomotiv Moscow   (ID: 1041)
 GG=1.79   IGG=-   GG&3+=2.31
 GG&4+=3.9
 ======================================================================
+15:30    28.10.  [Russian - Cup]
+FC Chelyabinsk  vs  FC Kamaz Naberezhnye Chelny   (ID: 1004)
+1=1.85   X=3.15   2=3.85
+0-2=1.56   2+=-   3+=2.12
+GG=2   IGG=-   GG&3+=2.6
+GG&4+=4.9
+======================================================================
+17:30    29.10.  [Russian - Cup]
+Torpedo Moscow  vs  FC Kuban Holding Pavlovskaya   (ID: 1002)
+1=1.62   X=3.45   2=4.8
+0-2=1.7   2+=-   3+=1.92
+GG=1.95   IGG=-   GG&3+=2.43
+GG&4+=4.3
+======================================================================
 17:30  Čet  23.10.  [Lithuanian - A Lyga]
 FC Hegelmann Kaunas  vs  Dziugas   (ID: 1040)
 1=1.66   X=3.45   2=4.4
@@ -3887,6 +3852,40 @@ FK Suduva Marijampole  vs  Dfk Dainava Alytus   (ID: 1037)
 GG=1.95   IGG=-   GG&3+=2.34
 GG&4+=3.9
 ======================================================================
+13:00    26.10.  [Lithuanian - A Lyga]
+FK Riteriai  vs  FK Banga Gargzdai   (ID: 1023)
+1=2.19   X=3.25   2=2.85
+0-2=1.89   2+=-   3+=1.72
+GG=1.63   IGG=-   GG&3+=1.96
+GG&4+=3.25
+======================================================================
+15:00    26.10.  [Lithuanian - A Lyga]
+Dziugas  vs  FK Panevezys   (ID: 11)
+1=2.7   X=3.25   2=2.32
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+17:25    26.10.  [Lithuanian - A Lyga]
+Vilnius FK Zalgiris  vs  FA Siauliai   (ID: 1020)
+1=1.37   X=4.7   2=5.8
+0-2=2.3   2+=-   3+=1.48
+GG=1.71   IGG=-   GG&3+=1.91
+GG&4+=2.89
+======================================================================
+18:00    27.10.  [Lithuanian - A Lyga]
+Dfk Dainava Alytus  vs  FC Hegelmann Kaunas   (ID: 1020)
+1=5.6   X=4.8   2=1.37
+0-2=2.08   2+=-   3+=1.59
+GG=1.85   IGG=-   GG&3+=2.09
+GG&4+=3.3
+======================================================================
+18:00    27.10.  [Lithuanian - A Lyga]
+FK Suduva Marijampole  vs  FK Kauno Zalgiris   (ID: 1023)
+1=2.44   X=3.35   2=2.44
+0-2=1.85   2+=-   3+=1.75
+GG=1.67   IGG=-   GG&3+=2
+GG&4+=3.4
+======================================================================
 17:30  Čet  23.10.  [European - UEFA Youth League]
 HJK Helsinki U19  vs  Trabzonspor U19   (ID: 1043)
 1=2.65   X=3.95   2=2.06
@@ -3896,20 +3895,38 @@ GG&4+=2.02
 ======================================================================
 18:00  Čet  23.10.  [European - UEFA Youth League]
 Fana Fotball U19  vs  Odds BK U19   (ID: 48)
-1=6   X=4.75   2=1.41
+1=6   X=4.9   2=1.41
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:00  Čet  23.10.  [African - African CAF Cup of Nations Women]
 Egypt (Wom)  vs  Ghana (Wom)   (ID: 157)
-1=3.34   X=3.84   2=1.9
+1=3.34   X=3.89   2=1.89
 0-2=1.9   2+=-   3+=1.78
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:00  Čet  23.10.  [African - African CAF Cup of Nations Women]
 Algeria (Wom)  vs  Cameroon (Wom)   (ID: 157)
-1=2.54   X=3.59   2=2.43
+1=2.52   X=3.56   2=2.46
 0-2=1.92   2+=-   3+=1.77
+GG=-   IGG=-   GG&3+=-
+======================================================================
+17:00  Pet  24.10.  [African - African CAF Cup of Nations Women]
+Kenya (Wom)  vs  Gambia (Wom)   (ID: 109)
+1=3.35   X=3.35   2=2.05
+0-2=1.67   2+=-   3+=2.05
+GG=-   IGG=-   GG&3+=-
+======================================================================
+17:00  Pet  24.10.  [African - African CAF Cup of Nations Women]
+Benin (Wom)  vs  Nigeria (Wom)   (ID: 103)
+1=17   X=9.3   2=1.09
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+19:00  Pet  24.10.  [African - African CAF Cup of Nations Women]
+Senegal (Wom)  vs  Cote d'Ivoire (Wom)   (ID: 103)
+1=2.25   X=3.18   2=3.08
+0-2=1.65   2+=-   3+=2.08
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:30  Čet  23.10.  [African - African CAF Cup of Nations Women]
@@ -3919,14 +3936,14 @@ Hvidovre IF  vs  HB Koege   (ID: 1079)
 GG=1.72   IGG=-   GG&3+=2.11
 GG&4+=3.3
 ======================================================================
-19:00    24.10.  [African - African CAF Cup of Nations Women]
+19:00  Pet  24.10.  [African - African CAF Cup of Nations Women]
 Kolding IF  vs  Middelfart BK   (ID: 1076)
 1=1.44   X=4.2   2=6.2
 0-2=1.97   2+=-   3+=1.74
 GG=1.93   IGG=-   GG&3+=2.36
 GG&4+=3.65
 ======================================================================
-19:00    24.10.  [African - African CAF Cup of Nations Women]
+19:00  Pet  24.10.  [African - African CAF Cup of Nations Women]
 B93 Copenhagen  vs  AC Horsens   (ID: 1079)
 1=3.55   X=3.65   2=1.77
 0-2=2.05   2+=-   3+=1.69
@@ -3962,7 +3979,7 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:00  Čet  23.10.  [African - African CAF Cup of Nations Women]
 Fortaleza EC CE U20  vs  Piaui EC PI U20   (ID: 3)
-1=1.19   X=5.8   2=11
+1=1.17   X=5.6   2=13
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -3974,7 +3991,7 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:00  Čet  23.10.  [African - African CAF Cup of Nations Women]
 Nacional Fast Clube AM U20  vs  Monte Roraima RR U20   (ID: 3)
-1=1.79   X=3.7   2=3.55
+1=1.54   X=4.1   2=4.6
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -4022,49 +4039,77 @@ CSDC Espanol  vs  CA Ituzaingo   (ID: 1016)
 GG=2.44   IGG=-   GG&3+=3.5
 GG&4+=8
 ======================================================================
-01:00    24.10.  [World - International Friendly Women]
+21:00  Čet  23.10.  [Bolivian - Bolivian League Cup]
+Oriente Petrolero  vs  Jorge Wilstermann   (ID: 1017)
+1=1.45   X=4   2=5.8
+0-2=1.91   2+=-   3+=1.7
+GG=1.89   IGG=-   GG&3+=2.24
+GG&4+=3.65
+======================================================================
+01:00  Pet  24.10.  [Bolivian - Bolivian League Cup]
+GV Club Deportivo San Jose de Oruro  vs  The Strongest   (ID: 1023)
+1=3.15   X=3.7   2=1.89
+0-2=2.1   2+=-   3+=1.58
+GG=1.57   IGG=-   GG&3+=1.81
+GG&4+=2.88
+======================================================================
+23:30  Čet  23.10.  [Paraguayan - Cup]
+Cerro Porteno  vs  Club General Caballero Jlm   (ID: 1032)
+1=1.63   X=3.45   2=4.6
+0-2=1.53   2+=-   3+=2.35
+GG=2.32   IGG=-   GG&3+=3.15
+GG&4+=5.9
+======================================================================
+00:00  Pet  24.10.  [North American - CONCACAF Caribbean Cup]
+Univ. Organizacion y Metodo FC  vs  Cibao CF   (ID: 644)
+1=3   X=3.3   2=2.1
+0-2=1.68   2+=-   3+=2.02
+GG=1.84   IGG=-   GG&3+=2.3
+GG&4+=4.2
+======================================================================
+01:00  Pet  24.10.  [World - International Friendly Women]
 USA (W)  vs  Portugal (W)   (ID: 3)
 1=1.09   X=7.8   2=16
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-17:00    24.10.  [World - International Friendly Women]
+17:00  Pet  24.10.  [World - International Friendly Women]
 Georgia (W)  vs  Moldova (W)   (ID: 3)
 1=1.83   X=3.2   2=3.95
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-18:00    24.10.  [World - International Friendly Women]
+18:00  Pet  24.10.  [World - International Friendly Women]
 Poland (W)  vs  Netherlands (W)   (ID: 3)
 1=4.4   X=3.6   2=1.65
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-18:00    24.10.  [World - International Friendly Women]
+18:00  Pet  24.10.  [World - International Friendly Women]
 Hungary (W)  vs  Luxembourg (W)   (ID: 3)
 1=1.09   X=8.6   2=14
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-18:15    24.10.  [World - International Friendly Women]
+18:15  Pet  24.10.  [World - International Friendly Women]
 Italy (W)  vs  Japan (W)   (ID: 3)
 1=2.42   X=3.1   2=2.65
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-19:30    24.10.  [World - International Friendly Women]
+19:30  Pet  24.10.  [World - International Friendly Women]
 Switzerland (W)  vs  Canada (W)   (ID: 3)
 1=3.05   X=3.6   2=1.98
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-20:30    24.10.  [World - International Friendly Women]
+20:30  Pet  24.10.  [World - International Friendly Women]
 Morocco (W)  vs  Scotland (W)   (ID: 3)
 1=4   X=4.4   2=1.58
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-02:10    24.10.  [Argentine - Copa Argentina]
+02:10  Pet  24.10.  [Argentine - Copa Argentina]
 CA Belgrano de Cordoba  vs  Argentinos Juniors   (ID: 506)
 1=3.2   X=2.95   2=2.12
 0-2=1.49   2+=-   3+=2.44
@@ -4077,7 +4122,7 @@ Independiente Rivadavia  vs  CA River Plate (Arg)   (ID: 1077)
 GG=2.01   IGG=-   GG&3+=2.75
 GG&4+=5.05
 ======================================================================
-03:00    24.10.  [Mexican - Mexican Liga de Expansion MX]
+03:00  Pet  24.10.  [Mexican - Mexican Liga de Expansion MX]
 Venados FC  vs  Jaiba Brava   (ID: 1042)
 1=2.22   X=3.15   2=2.85
 0-2=1.84   2+=-   3+=1.77
@@ -4119,14 +4164,21 @@ CSD Dorados Sinaloa  vs  Tlaxcala FC   (ID: 1020)
 GG=1.55   IGG=-   GG&3+=1.82
 GG&4+=2.92
 ======================================================================
-03:00    24.10.  [Peruvian - Primera Division]
+00:00    27.10.  [Mexican - Mexican Liga de Expansion MX]
+Atletico Morelia  vs  Leones Negros UDEG   (ID: 1020)
+1=1.84   X=3.45   2=3.5
+0-2=1.9   2+=-   3+=1.72
+GG=1.68   IGG=-   GG&3+=2.02
+GG&4+=3.35
+======================================================================
+03:00  Pet  24.10.  [Peruvian - Primera Division]
 Sporting Cristal  vs  Universitario De Deportes   (ID: 1078)
-1=2.9   X=2.9   2=2.33
+1=2.95   X=2.9   2=2.28
 0-2=1.61   2+=-   3+=2.17
-GG=1.88   IGG=-   GG&3+=2.55
+GG=1.89   IGG=-   GG&3+=2.55
 GG&4+=4.6
 ======================================================================
-22:00    24.10.  [Peruvian - Primera Division]
+22:00  Pet  24.10.  [Peruvian - Primera Division]
 Juan Pablo II College  vs  Comerciantes Unidos   (ID: 1077)
 1=1.65   X=3.5   2=4.4
 0-2=1.73   2+=-   3+=2
@@ -4154,7 +4206,35 @@ Cusco FC  vs  Atletico Grau   (ID: 1078)
 GG=1.91   IGG=-   GG&3+=2.43
 GG&4+=3.9
 ======================================================================
-10:00    24.10.  [Australian - Australian Championship]
+17:00    26.10.  [Peruvian - Primera Division]
+Sporting Cristal  vs  Los Chankas CYC   (ID: 1061)
+1=1.13   X=8   2=17
+0-2=2.42   2+=-   3+=1.5
+GG=2.55   IGG=-   GG&3+=2.9
+GG&4+=4.3
+======================================================================
+19:15    26.10.  [Peruvian - Primera Division]
+UTC de Cajamarca  vs  CSDC Alianza Universidad   (ID: 1079)
+1=2.01   X=3.25   2=3.2
+0-2=1.8   2+=-   3+=1.9
+GG=1.77   IGG=-   GG&3+=2.25
+GG&4+=3.7
+======================================================================
+21:30    26.10.  [Peruvian - Primera Division]
+Asociacion Deportiva Tarma  vs  Universitario De Deportes   (ID: 1076)
+1=2.29   X=3.05   2=2.85
+0-2=1.54   2+=-   3+=2.31
+GG=2.02   IGG=-   GG&3+=2.75
+GG&4+=5.1
+======================================================================
+00:00    27.10.  [Peruvian - Primera Division]
+FBC Melgar  vs  Sport Huancayo   (ID: 1075)
+1=1.45   X=4.1   2=6.2
+0-2=2.11   2+=-   3+=1.62
+GG=1.78   IGG=-   GG&3+=2.08
+GG&4+=3.2
+======================================================================
+10:00  Pet  24.10.  [Australian - Australian Championship]
 Preston Lions FC  vs  Avondale Heights FC   (ID: 54)
 1=4.4   X=4   2=1.64
 0-2=2.38   2+=-   3+=1.5
@@ -4192,7 +4272,7 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 06:30    26.10.  [Australian - Australian Championship]
 NWS Spirit FC  vs  Canberra Croatia FC   (ID: 52)
-1=1.32   X=5.4   2=6.2
+1=1.32   X=5.5   2=6
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -4202,14 +4282,14 @@ Bayswater City SC  vs  APIA Leichhardt FC   (ID: 54)
 0-2=2.13   2+=-   3+=1.62
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-10:30    24.10.  [Indonesian - Championship A]
+10:30  Pet  24.10.  [Indonesian - Championship A]
 PSBS Biak  vs  Persebaya Surabaya   (ID: 1040)
 1=4.7   X=3.9   2=1.55
 0-2=2.03   2+=-   3+=1.62
 GG=1.71   IGG=-   GG&3+=2
 GG&4+=3.2
 ======================================================================
-14:00    24.10.  [Indonesian - Championship A]
+14:00  Pet  24.10.  [Indonesian - Championship A]
 Madura United  vs  Persija Jakarta   (ID: 1024)
 1=3.3   X=3.3   2=1.95
 0-2=1.89   2+=-   3+=1.72
@@ -4237,7 +4317,28 @@ Arema FC  vs  Borneo Samarinda   (ID: 1004)
 GG=1.63   IGG=-   GG&3+=1.96
 GG&4+=3.25
 ======================================================================
-10:35    24.10.  [Australian - A-League]
+13:00    26.10.  [Indonesian - Championship A]
+Malut United  vs  Semen Padang FC   (ID: 1002)
+1=1.56   X=3.75   2=4.8
+0-2=1.94   2+=-   3+=1.68
+GG=1.77   IGG=-   GG&3+=2.1
+GG&4+=3.4
+======================================================================
+09:30    27.10.  [Indonesian - Championship A]
+Bhayangkara Presisi Indonesia FC  vs  Persijap Jepara   (ID: 1004)
+1=2.09   X=2.9   2=3.4
+0-2=1.44   2+=-   3+=2.39
+GG=2.12   IGG=-   GG&3+=2.85
+GG&4+=5.95
+======================================================================
+13:00    27.10.  [Indonesian - Championship A]
+Persib Bandung  vs  Persis Solo   (ID: 1000)
+1=1.36   X=4.2   2=7
+0-2=1.95   2+=-   3+=1.67
+GG=1.97   IGG=-   GG&3+=2.33
+GG&4+=3.7
+======================================================================
+10:35  Pet  24.10.  [Australian - A-League]
 Newcastle United Jets  vs  Melbourne Victory   (ID: 1132)
 1=2.75   X=3.75   2=2.06
 0-2=2.44   2+=-   3+=1.49
@@ -4261,9 +4362,9 @@ GG&4+=2.76
 10:35    25.10.  [Australian - A-League]
 Sydney FC  vs  Central Coast Mariners   (ID: 1128)
 1=1.41   X=4.6   2=6
-0-2=2.47   2+=-   3+=1.48
-GG=1.66   IGG=-   GG&3+=1.91
-GG&4+=2.73
+0-2=2.5   2+=-   3+=1.47
+GG=1.65   IGG=-   GG&3+=1.89
+GG&4+=2.68
 ======================================================================
 03:00    26.10.  [Australian - A-League]
 Wellington Phoenix FC  vs  Brisbane Roar FC   (ID: 1133)
@@ -4272,7 +4373,14 @@ Wellington Phoenix FC  vs  Brisbane Roar FC   (ID: 1133)
 GG=1.59   IGG=-   GG&3+=1.92
 GG&4+=3
 ======================================================================
-12:00    24.10.  [Australian - A-League]
+09:00    27.10.  [Australian - A-League]
+Macarthur FC  vs  Adelaide United FC   (ID: 1131)
+1=2.21   X=3.65   2=2.5
+0-2=2.55   2+=-   3+=1.44
+GG=1.42   IGG=-   GG&3+=1.59
+GG&4+=2.34
+======================================================================
+12:00  Pet  24.10.  [Australian - A-League]
 FC Osaka  vs  Tochigi SC   (ID: 644)
 1=2   X=3.2   2=3.35
 0-2=1.68   2+=-   3+=2.03
@@ -4342,38 +4450,38 @@ Fukushima United FC  vs  Zweigen Kanazawa   (ID: 644)
 GG=1.69   IGG=-   GG&3+=2.07
 GG&4+=3.5
 ======================================================================
-13:00    24.10.  [Polish - III Liga]
+13:00  Pet  24.10.  [Polish - III Liga]
 LKS Goczalkowice-Zdroj  vs  MKS Kluczbork   (ID: 8)
 1=2.4   X=3.45   2=2.47
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-15:00    24.10.  [Polish - III Liga]
+15:00  Pet  24.10.  [Polish - III Liga]
 KS Sleza Wroclaw  vs  Skra Czestochowa   (ID: 8)
 1=3.2   X=3.5   2=1.95
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-15:00    24.10.  [Polish - III Liga]
+15:00  Pet  24.10.  [Polish - III Liga]
 Miedz Legnica II  vs  Gornik Zabrze II   (ID: 8)
 1=2.85   X=3.6   2=2.08
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-19:00    24.10.  [Polish - III Liga]
+19:00  Pet  24.10.  [Polish - III Liga]
 Polonia Sroda Wielkopolska  vs  MKS Notec Czarnkow   (ID: 1019)
 1=1.62   X=3.95   2=4.1
 0-2=2.46   2+=-   3+=1.42
 GG=1.49   IGG=-   GG&3+=1.67
 GG&4+=2.45
 ======================================================================
-19:08    24.10.  [Polish - III Liga]
+19:08  Pet  24.10.  [Polish - III Liga]
 KS Wisloka Debica  vs  Korona II Kielce SA   (ID: 8)
 1=2.16   X=3.6   2=2.7
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-19:23    24.10.  [Polish - III Liga]
+19:23  Pet  24.10.  [Polish - III Liga]
 Lechia Tomaszow Mazowiecki  vs  KS CK Troszyn   (ID: 8)
 1=2.16   X=3.65   2=2.65
 0-2=-   2+=-   3+=-
@@ -4465,31 +4573,37 @@ Karkonosze Jelenia Gora  vs  Slowianin Woliborz   (ID: 1008)
 GG=1.48   IGG=-   GG&3+=1.69
 GG&4+=2.59
 ======================================================================
-13:30    24.10.  [Armenian - Premier League]
+13:00    26.10.  [Polish - III Liga]
+KS Gornik Polkowice  vs  GKS Pniowek Pawlowice   (ID: 8)
+1=1.28   X=5.2   2=7.4
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+13:30  Pet  24.10.  [Armenian - Premier League]
 FC Alashkert Yerevan  vs  FC Van Charentsavan   (ID: 9)
 1=1.68   X=3.7   2=4.1
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-17:00    24.10.  [Armenian - Premier League]
+17:00  Pet  24.10.  [Armenian - Premier League]
 FC Urartu Yerevan  vs  FC Shirak Gyumri   (ID: 9)
 1=1.3   X=4.9   2=7.2
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:35    24.10.  [Chinese - Super League]
+13:35  Pet  24.10.  [Chinese - Super League]
 Wuhan Three Towns FC  vs  Shenzhen Peng City   (ID: 1158)
 1=2.06   X=3.4   2=2.95
 0-2=2   2+=-   3+=1.72
 GG=1.64   IGG=-   GG&3+=2.05
 GG&4+=3.15
 ======================================================================
-13:35    24.10.  [Chinese - Super League]
+13:35  Pet  24.10.  [Chinese - Super League]
 Meizhou Hakka  vs  Yunnan Yukun   (ID: 1153)
-1=1.56   X=4.3   2=4.2
-0-2=2.7   2+=-   3+=1.41
-GG=1.5   IGG=-   GG&3+=1.73
-GG&4+=2.36
+1=1.59   X=4.2   2=4.1
+0-2=2.65   2+=-   3+=1.43
+GG=1.5   IGG=-   GG&3+=1.74
+GG&4+=2.4
 ======================================================================
 09:30    25.10.  [Chinese - Super League]
 Tianjin Jinmen Tiger  vs  Changchun Yatai   (ID: 1154)
@@ -4519,21 +4633,35 @@ Qingdao West Coast FC  vs  Chengdu Rongcheng   (ID: 1152)
 GG=1.68   IGG=-   GG&3+=1.98
 GG&4+=2.78
 ======================================================================
-14:00    24.10.  [Bulgarian - First League]
+12:35    26.10.  [Chinese - Super League]
+Beijing Guoan  vs  Qingdao Hainiu FC   (ID: 1151)
+1=1.44   X=4.8   2=5.4
+0-2=2.9   2+=-   3+=1.35
+GG=1.51   IGG=-   GG&3+=1.7
+GG&4+=2.25
+======================================================================
+12:35    26.10.  [Chinese - Super League]
+Shanghai Shenhua FC  vs  Dalian Yingbo FC   (ID: 1140)
+1=1.19   X=7   2=11
+0-2=3.05   2+=-   3+=1.33
+GG=1.82   IGG=-   GG&3+=2.03
+GG&4+=2.67
+======================================================================
+14:00  Pet  24.10.  [Bulgarian - First League]
 PFC Montana 1921  vs  FC Arda Kardzhali   (ID: 1076)
 1=3.65   X=3.1   2=1.9
 0-2=1.55   2+=-   3+=2.29
 GG=2.08   IGG=-   GG&3+=2.85
 GG&4+=5.25
 ======================================================================
-16:30    24.10.  [Bulgarian - First League]
+16:30  Pet  24.10.  [Bulgarian - First League]
 FK Spartak 1918 Varna  vs  Botev Plovdiv   (ID: 1079)
 1=3.5   X=3.35   2=1.86
 0-2=1.78   2+=-   3+=1.93
 GG=1.82   IGG=-   GG&3+=2.33
 GG&4+=3.85
 ======================================================================
-19:00    24.10.  [Bulgarian - First League]
+19:00  Pet  24.10.  [Bulgarian - First League]
 FC Lokomotiv 1929 Sofia  vs  PFC Lokomotiv Plovdiv   (ID: 1077)
 1=2.02   X=3   2=3.4
 0-2=1.56   2+=-   3+=2.27
@@ -4561,7 +4689,77 @@ PFC Levski Sofia  vs  PFC Dobrudzha Dobrich   (ID: 1013)
 GG=2.35   IGG=-   GG&3+=2.65
 GG&4+=4.2
 ======================================================================
-14:00    24.10.  [Bulgarian - First League]
+16:15    26.10.  [Bulgarian - First League]
+PFC CSKA Sofia  vs  PFK Beroe Stara Zagora   (ID: 1119)
+1=1.24   X=5   2=9.8
+0-2=1.96   2+=-   3+=1.67
+GG=2.26   IGG=-   GG&3+=2.65
+GG&4+=4.2
+======================================================================
+16:30    27.10.  [Bulgarian - First League]
+FC CSKA 1948  vs  PFC Ludogorets 1945 Razgrad   (ID: 1076)
+1=3.4   X=3.15   2=1.94
+0-2=1.72   2+=-   3+=1.97
+GG=1.82   IGG=-   GG&3+=2.3
+GG&4+=4.05
+======================================================================
+11:00    01.11.  [Bulgarian - First League]
+PFC Dobrudzha Dobrich  vs  FK Spartak 1918 Varna   (ID: 1076)
+1=2.09   X=3   2=3.15
+0-2=1.55   2+=-   3+=2.25
+GG=2   IGG=-   GG&3+=2.65
+GG&4+=5.1
+======================================================================
+13:45    01.11.  [Bulgarian - First League]
+PFC Lokomotiv Plovdiv  vs  Botev Plovdiv   (ID: 1076)
+1=2.04   X=3.1   2=3.2
+0-2=1.57   2+=-   3+=2.21
+GG=1.99   IGG=-   GG&3+=2.6
+GG&4+=4.9
+======================================================================
+16:30    01.11.  [Bulgarian - First League]
+FK Septemvri Sofia  vs  PFC Slavia Sofia   (ID: 1076)
+1=3.05   X=2.9   2=2.18
+0-2=1.7   2+=-   3+=1.99
+GG=1.77   IGG=-   GG&3+=2.27
+GG&4+=4
+======================================================================
+11:45    02.11.  [Bulgarian - First League]
+PFC CSKA Sofia  vs  PFC Montana 1921   (ID: 1055)
+1=1.15   X=6.2   2=19
+0-2=2.04   2+=-   3+=1.66
+GG=2.9   IGG=-   GG&3+=3.35
+GG&4+=5.55
+======================================================================
+14:15    02.11.  [Bulgarian - First League]
+FC Arda Kardzhali  vs  PFC Levski Sofia   (ID: 1074)
+1=4.5   X=3.45   2=1.63
+0-2=1.61   2+=-   3+=2.13
+GG=2.12   IGG=-   GG&3+=2.7
+GG&4+=5
+======================================================================
+16:45    02.11.  [Bulgarian - First League]
+PFC Cherno More Varna  vs  PFC Ludogorets 1945 Razgrad   (ID: 1075)
+1=3.4   X=2.95   2=2.04
+0-2=1.51   2+=-   3+=2.35
+GG=2.07   IGG=-   GG&3+=2.75
+GG&4+=5.5
+======================================================================
+15:00    03.11.  [Bulgarian - First League]
+PFK Beroe Stara Zagora  vs  FC Lokomotiv 1929 Sofia   (ID: 1076)
+1=2.17   X=2.9   2=3.1
+0-2=1.61   2+=-   3+=2.13
+GG=1.88   IGG=-   GG&3+=2.45
+GG&4+=4.55
+======================================================================
+17:15    03.11.  [Bulgarian - First League]
+POFC Botev Vratsa  vs  FC CSKA 1948   (ID: 1075)
+1=3.85   X=3.05   2=1.86
+0-2=1.63   2+=-   3+=2.09
+GG=1.93   IGG=-   GG&3+=2.5
+GG&4+=4.6
+======================================================================
+14:00  Pet  24.10.  [Bulgarian - First League]
 Port FC  vs  Muang Thong United   (ID: 1021)
 1=1.98   X=3.35   2=3.2
 0-2=1.87   2+=-   3+=1.73
@@ -4589,13 +4787,40 @@ Prachuap FC  vs  Nakhon Ratchasima FC   (ID: 1005)
 GG=1.81   IGG=-   GG&3+=2.19
 GG&4+=3.7
 ======================================================================
-14:00    24.10.  [Serbian - Prva Liga]
+12:00    26.10.  [Bulgarian - First League]
+Buriram United  vs  Rayong FC   (ID: 32)
+1=1.21   X=5.8   2=10
+0-2=2.26   2+=-   3+=1.52
+GG=-   IGG=-   GG&3+=-
+======================================================================
+12:30    26.10.  [Bulgarian - First League]
+Bangkok United FC  vs  Lamphun Warriors FC   (ID: 998)
+1=1.43   X=4.3   2=5.4
+0-2=2.26   2+=-   3+=1.5
+GG=1.67   IGG=-   GG&3+=1.9
+GG&4+=2.88
+======================================================================
+12:30    26.10.  [Bulgarian - First League]
+Sukhothai FC  vs  BG Pathum United   (ID: 1001)
+1=3.15   X=3.45   2=1.97
+0-2=2.04   2+=-   3+=1.61
+GG=1.57   IGG=-   GG&3+=1.85
+GG&4+=2.97
+======================================================================
+13:00    26.10.  [Bulgarian - First League]
+Uthai Thani FC  vs  Ratchaburi FC   (ID: 1001)
+1=2.8   X=3.35   2=2.15
+0-2=1.91   2+=-   3+=1.7
+GG=1.63   IGG=-   GG&3+=1.95
+GG&4+=3.2
+======================================================================
+14:00  Pet  24.10.  [Serbian - Prva Liga]
 RFK Graficar Beograd  vs  FK Tekstilac Odzaci   (ID: 8)
 1=1.83   X=3.35   2=3.75
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:00    24.10.  [Serbian - Prva Liga]
+14:00  Pet  24.10.  [Serbian - Prva Liga]
 Chainat Hornbill FC  vs  Bangkok FC   (ID: 779)
 1=1.65   X=3.7   2=4.2
 0-2=2   2+=-   3+=1.64
@@ -4609,14 +4834,20 @@ Police Tero FC  vs  Khon Kaen United FC   (ID: 782)
 GG=1.57   IGG=-   GG&3+=1.85
 GG&4+=3
 ======================================================================
-14:30    24.10.  [Ukrainian - Premier League]
+12:00    26.10.  [Serbian - Prva Liga]
+Pattaya Dolphins United  vs  Rasisalai United   (ID: 8)
+1=2.24   X=3.4   2=2.7
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+14:30  Pet  24.10.  [Ukrainian - Premier League]
 FC Oleksandriya  vs  FC Epitsentr Kamianets-Podilskyi   (ID: 1079)
 1=1.97   X=3.35   2=3.2
 0-2=1.8   2+=-   3+=1.9
 GG=1.79   IGG=-   GG&3+=2.26
 GG&4+=3.75
 ======================================================================
-17:00    24.10.  [Ukrainian - Premier League]
+17:00  Pet  24.10.  [Ukrainian - Premier League]
 Veres Rivne  vs  FC Zorya Luhansk   (ID: 1079)
 1=2.55   X=3.1   2=2.45
 0-2=1.65   2+=-   3+=2.11
@@ -4642,14 +4873,27 @@ FC Obolon Kyiv  vs  FC Polissya Zhytomyr   (ID: 11)
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-15:00    24.10.  [Turkish - First League]
+12:00    26.10.  [Ukrainian - Premier League]
+SC Poltava  vs  Kolos Kovalivka   (ID: 11)
+1=7.4   X=4.3   2=1.41
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+14:30    26.10.  [Ukrainian - Premier League]
+FC Shakhtar Donetsk  vs  FK Kudrivka   (ID: 1059)
+1=1.09   X=9.4   2=20
+0-2=3.05   2+=-   3+=1.33
+GG=2.31   IGG=-   GG&3+=2.5
+GG&4+=3.4
+======================================================================
+15:00  Pet  24.10.  [Turkish - First League]
 Erzurumspor FK  vs  Umraniyespor   (ID: 1073)
 1=1.35   X=4.4   2=6.6
 0-2=1.88   2+=-   3+=1.82
 GG=2.18   IGG=-   GG&3+=2.7
 GG&4+=4.25
 ======================================================================
-19:00    24.10.  [Turkish - First League]
+19:00  Pet  24.10.  [Turkish - First League]
 Sivasspor  vs  Hatayspor Antakya   (ID: 1077)
 1=1.36   X=4.7   2=6
 0-2=2.28   2+=-   3+=1.56
@@ -4683,26 +4927,54 @@ Sakaryaspor  vs  Ankara Keciorengucu   (ID: 1081)
 GG=1.68   IGG=-   GG&3+=2.09
 GG&4+=3.4
 ======================================================================
-15:00    24.10.  [Bulgarian - Second League]
+11:30    26.10.  [Turkish - First League]
+Bandırmaspor  vs  Esenler Erokspor   (ID: 1082)
+1=2.12   X=3.45   2=2.8
+0-2=1.99   2+=-   3+=1.73
+GG=1.64   IGG=-   GG&3+=2.01
+GG&4+=3.15
+======================================================================
+14:00    26.10.  [Turkish - First League]
+Corum FK  vs  Boluspor   (ID: 1079)
+1=1.57   X=3.85   2=4.5
+0-2=2.03   2+=-   3+=1.7
+GG=1.77   IGG=-   GG&3+=2.15
+GG&4+=3.3
+======================================================================
+14:00    26.10.  [Turkish - First League]
+Amed Sportif Faaliyetler  vs  Istanbulspor AS   (ID: 1078)
+1=1.52   X=4.1   2=4.7
+0-2=2.16   2+=-   3+=1.62
+GG=1.73   IGG=-   GG&3+=2.06
+GG&4+=3.1
+======================================================================
+17:00    26.10.  [Turkish - First League]
+Bodrum FK  vs  Igdir FK   (ID: 1079)
+1=1.81   X=3.4   2=3.65
+0-2=1.85   2+=-   3+=1.86
+GG=1.79   IGG=-   GG&3+=2.25
+GG&4+=3.65
+======================================================================
+15:00  Pet  24.10.  [Bulgarian - Second League]
 PFC Spartak Pleven  vs  FC Yantra Gabrovo   (ID: 643)
 1=5.6   X=3.25   2=1.6
 0-2=1.46   2+=-   3+=2.47
 GG=2.42   IGG=-   GG&3+=3.25
 GG&4+=6.75
 ======================================================================
-15:00    24.10.  [Bulgarian - Second League]
+15:00  Pet  24.10.  [Bulgarian - Second League]
 PFC CSKA SOFIA II  vs  FC Fratria Varna   (ID: 644)
 1=2.49   X=3.3   2=2.47
 0-2=1.86   2+=-   3+=1.74
 GG=1.64   IGG=-   GG&3+=1.99
 GG&4+=3.35
 ======================================================================
-18:00    24.10.  [Bulgarian - Second League]
+18:00  Pet  24.10.  [Bulgarian - Second League]
 FC Dunav Ruse  vs  PFK Sportist Svoge   (ID: 639)
 1=1.23   X=4.9   2=11
-0-2=1.97   2+=-   3+=1.72
-GG=2.37   IGG=-   GG&3+=2.8
-GG&4+=4.5
+0-2=1.99   2+=-   3+=1.7
+GG=2.35   IGG=-   GG&3+=2.8
+GG&4+=4.4
 ======================================================================
 15:00    25.10.  [Bulgarian - Second League]
 Gorna Oryahovitsa  vs  PFC Minyor Pernik   (ID: 644)
@@ -4732,70 +5004,77 @@ PFC Chernomorets Burgas  vs  FK Hebar   (ID: 643)
 GG=2.08   IGG=-   GG&3+=2.7
 GG&4+=5.1
 ======================================================================
-15:00    24.10.  [Israeli - Liga Leumit]
-Hapoel Rishon Lezion FC  vs  Hapoel Ramat Gan Givatayim FC   (ID: 1021)
-1=2.48   X=3.1   2=2.55
+13:30    26.10.  [Bulgarian - Second League]
+FC Pirin Blagoevgrad  vs  SFC Etar Veliko Tarnovo   (ID: 644)
+1=1.94   X=3.2   2=3.55
+0-2=1.63   2+=-   3+=2.09
+GG=1.91   IGG=-   GG&3+=2.44
+GG&4+=4.5
+======================================================================
+15:00  Pet  24.10.  [Israeli - Liga Leumit]
+Hapoel Rishon Lezion FC  vs  Hapoel Ramat Gan Givatayim FC   (ID: 1023)
+1=2.28   X=3.1   2=2.8
 0-2=1.61   2+=-   3+=2.04
 GG=1.85   IGG=-   GG&3+=2.36
 GG&4+=4.4
 ======================================================================
-15:00    24.10.  [Israeli - Liga Leumit]
+15:00  Pet  24.10.  [Israeli - Liga Leumit]
 Hapoel Nof Hagalil FC  vs  Hapoel Acre FC   (ID: 1023)
 1=2.65   X=3.1   2=2.4
 0-2=1.63   2+=-   3+=2.01
 GG=1.83   IGG=-   GG&3+=2.32
 GG&4+=4.3
 ======================================================================
-15:00    24.10.  [Israeli - Liga Leumit]
+15:00  Pet  24.10.  [Israeli - Liga Leumit]
 Hapoel Ra`anana FC  vs  Maccabi Kabilio Jaffa   (ID: 1024)
 1=2.38   X=3.15   2=2.65
 0-2=1.73   2+=-   3+=1.88
 GG=1.74   IGG=-   GG&3+=2.16
 GG&4+=3.8
 ======================================================================
-15:00    24.10.  [Israeli - Liga Leumit]
+15:00  Pet  24.10.  [Israeli - Liga Leumit]
 MS Football Hapoel Kiryat Yam  vs  Hapoel Hadera FC   (ID: 1024)
 1=2.01   X=3.2   2=3.25
 0-2=1.82   2+=-   3+=1.79
 GG=1.69   IGG=-   GG&3+=2.07
 GG&4+=3.5
 ======================================================================
-15:00    24.10.  [Israeli - Liga Leumit]
+15:00  Pet  24.10.  [Israeli - Liga Leumit]
 Ironi Modiin  vs  Bnei Yehuda Tel Aviv FC   (ID: 1023)
 1=3.2   X=3.1   2=2.08
 0-2=1.81   2+=-   3+=1.79
 GG=1.68   IGG=-   GG&3+=2.07
 GG&4+=3.5
 ======================================================================
-15:00    24.10.  [Israeli - Liga Leumit]
-Hapoel Afula FC  vs  Maccabi Petah Tikva FC   (ID: 1017)
-1=6   X=4.1   2=1.44
+15:00  Pet  24.10.  [Israeli - Liga Leumit]
+Hapoel Afula FC  vs  Maccabi Petah Tikva FC   (ID: 1016)
+1=8.2   X=4.6   2=1.3
 0-2=1.96   2+=-   3+=1.67
-GG=1.94   IGG=-   GG&3+=2.29
-GG&4+=3.65
+GG=2.09   IGG=-   GG&3+=2.46
+GG&4+=3.9
 ======================================================================
-15:00    24.10.  [Israeli - Liga Leumit]
+15:00  Pet  24.10.  [Israeli - Liga Leumit]
 Hapoel Kfar Shalem FC  vs  Hapoel Kfar Saba FC   (ID: 1024)
 1=1.86   X=3.3   2=3.65
 0-2=1.74   2+=-   3+=1.86
 GG=1.79   IGG=-   GG&3+=2.21
 GG&4+=3.85
 ======================================================================
-15:00    24.10.  [Israeli - Liga Leumit]
+15:00  Pet  24.10.  [Israeli - Liga Leumit]
 Maccabi Herzliya  vs  FC Kafr Qasim   (ID: 1023)
 1=2.12   X=3.15   2=3.05
 0-2=1.67   2+=-   3+=1.96
 GG=1.82   IGG=-   GG&3+=2.28
 GG&4+=4.1
 ======================================================================
-15:00    24.10.  [Polish - II Liga]
+15:00  Pet  24.10.  [Polish - II Liga]
 OKS Swit Szczecin  vs  LKS Lodz II   (ID: 1023)
 1=1.87   X=3.6   2=3.35
 0-2=2.22   2+=-   3+=1.52
 GG=1.51   IGG=-   GG&3+=1.74
 GG&4+=2.69
 ======================================================================
-18:00    24.10.  [Polish - II Liga]
+18:00  Pet  24.10.  [Polish - II Liga]
 KKS 1925 Kalisz  vs  Slask II Wroclaw   (ID: 1025)
 1=2.36   X=3.45   2=2.48
 0-2=2.24   2+=-   3+=1.51
@@ -4830,42 +5109,99 @@ MKS Chojniczanka Chojnice  vs  Podhale Nowy Targ   (ID: 1007)
 GG=1.7   IGG=-   GG&3+=2.07
 GG&4+=3.5
 ======================================================================
-15:00    24.10.  [English - Professional Development League]
+13:00    26.10.  [Polish - II Liga]
+Sokol Kleczew  vs  ZKS Stal Stalowa Wola   (ID: 1001)
+1=2.6   X=3.35   2=2.32
+0-2=1.96   2+=-   3+=1.67
+GG=1.59   IGG=-   GG&3+=1.89
+GG&4+=3.1
+======================================================================
+15:00    26.10.  [Polish - II Liga]
+Sandecja Nowy Sacz  vs  Warta Poznan   (ID: 1001)
+1=2.1   X=3.25   2=3
+0-2=1.86   2+=-   3+=1.75
+GG=1.66   IGG=-   GG&3+=2.01
+GG&4+=3.4
+======================================================================
+19:30    26.10.  [Polish - II Liga]
+CWKS Resovia  vs  Unia Skierniewice   (ID: 1001)
+1=2.3   X=3.15   2=2.75
+0-2=1.76   2+=-   3+=1.84
+GG=1.7   IGG=-   GG&3+=2.11
+GG&4+=3.65
+======================================================================
+15:00  Pet  24.10.  [English - Professional Development League]
 Sheffield United U21  vs  Fleetwood Town U21   (ID: 713)
 1=1.36   X=4.7   2=6.2
 0-2=2.7   2+=-   3+=1.39
 GG=1.58   IGG=-   GG&3+=1.74
 GG&4+=2.48
 ======================================================================
-15:00    24.10.  [English - Professional Development League]
+15:00  Pet  24.10.  [English - Professional Development League]
 Sheffield Wednesday Reserve U21  vs  Coventry City U21   (ID: 713)
 1=2.23   X=3.85   2=2.5
 0-2=3.05   2+=-   3+=1.31
 GG=1.31   IGG=-   GG&3+=1.42
 GG&4+=1.94
 ======================================================================
-15:30    24.10.  [Iranian - Gulf Pro League]
+15:00  Pet  24.10.  [African - CAF Champions League]
+Power Dynamos  vs  Vipers SC   (ID: 6)
+1=1.91   X=3.1   2=3.75
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+18:00  Pet  24.10.  [African - CAF Champions League]
+AL Hilal (SDN)  vs  Kenya Police FC   (ID: 6)
+1=1.62   X=3.4   2=5
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+15:30  Pet  24.10.  [Iranian - Gulf Pro League]
 Aluminium Arak  vs  Mes Rafsanjan FC   (ID: 1030)
 1=2.48   X=2.5   2=3.15
 0-2=1.24   2+=-   3+=3.3
 GG=2.65   IGG=-   GG&3+=4
 GG&4+=9.5
 ======================================================================
-17:30    24.10.  [Iranian - Gulf Pro League]
+17:30  Pet  24.10.  [Iranian - Gulf Pro League]
 Foolad KHouzestan FC  vs  Shams Azar Qazvin   (ID: 1033)
 1=1.76   X=3   2=4.6
 0-2=1.41   2+=-   3+=2.5
 GG=2.34   IGG=-   GG&3+=3.2
 GG&4+=6.85
 ======================================================================
-16:15    24.10.  [Russian - FNL]
+16:00  Pet  24.10.  [African - CAF Confederation Cup]
+Azam FC  vs  KMKM   (ID: 3)
+1=1.12   X=6.6   2=16
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+19:00  Pet  24.10.  [African - CAF Confederation Cup]
+CR Belouizdad  vs  Hafia FC   (ID: 3)
+1=1.37   X=3.6   2=10
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+21:00  Pet  24.10.  [African - CAF Confederation Cup]
+Wydad AC  vs  Asante Kotoko   (ID: 3)
+1=1.46   X=3.45   2=7.6
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+15:30    25.10.  [African - CAF Confederation Cup]
+USM Alger  vs  AFAD Djekanou   (ID: 3)
+1=1.31   X=3.95   2=11
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+16:15  Pet  24.10.  [Russian - FNL]
 FC Kamaz Naberezhnye Chelny  vs  FC Yenisey Krasnoyarsk   (ID: 1074)
 1=2.01   X=3.1   2=3.3
 0-2=1.57   2+=-   3+=2.26
 GG=2.03   IGG=-   GG&3+=2.75
 GG&4+=5.05
 ======================================================================
-18:30    24.10.  [Russian - FNL]
+18:30  Pet  24.10.  [Russian - FNL]
 PFK Arsenal Tula  vs  FK Ural Yekaterinburg   (ID: 1073)
 1=2.95   X=3.05   2=2.2
 0-2=1.53   2+=-   3+=2.34
@@ -4914,14 +5250,21 @@ FC Ska-Khabarovsk  vs  FC Fakel Voronezh   (ID: 1072)
 GG=2.18   IGG=-   GG&3+=3.1
 GG&4+=6.15
 ======================================================================
-16:30    24.10.  [Russian - FNL]
+14:00    26.10.  [Russian - FNL]
+Rodina Moscow  vs  SK Rotor Volgograd   (ID: 1069)
+1=2.02   X=2.85   2=3.55
+0-2=1.38   2+=-   3+=2.8
+GG=2.39   IGG=-   GG&3+=3.5
+GG&4+=7.3
+======================================================================
+16:30  Pet  24.10.  [Russian - FNL]
 AFK Csikszereda Miercurea Ciuc  vs  FC Petrolul Ploiesti   (ID: 1152)
 1=2.6   X=3   2=2.5
 0-2=1.58   2+=-   3+=2.23
 GG=1.95   IGG=-   GG&3+=2.7
 GG&4+=4.8
 ======================================================================
-19:30    24.10.  [Russian - FNL]
+19:30  Pet  24.10.  [Russian - FNL]
 ACS Champions FC Arges  vs  FC Dinamo Bucuresti 1948   (ID: 1154)
 1=2.85   X=3   2=2.3
 0-2=1.62   2+=-   3+=2.15
@@ -4942,19 +5285,96 @@ FC CFR 1907 Cluj  vs  FC Farul Constanta   (ID: 1155)
 GG=1.8   IGG=-   GG&3+=2.32
 GG&4+=3.7
 ======================================================================
-17:00    24.10.  [Lithuanian - I Lyga]
+12:00    26.10.  [Russian - FNL]
+Metaloglobus Bucuresti  vs  CS Universitatea Craiova   (ID: 1152)
+1=6   X=4.2   2=1.46
+0-2=2.01   2+=-   3+=1.72
+GG=1.88   IGG=-   GG&3+=2.34
+GG&4+=3.5
+======================================================================
+18:30    26.10.  [Russian - FNL]
+Fotbal Club FCSB  vs  FC Uta Arad   (ID: 1149)
+1=1.44   X=4.2   2=5.6
+0-2=1.89   2+=-   3+=1.82
+GG=2.02   IGG=-   GG&3+=2.55
+GG&4+=3.95
+======================================================================
+15:30    27.10.  [Russian - FNL]
+FC Botosani  vs  AFC Hermannstadt   (ID: 1152)
+1=2.05   X=3.1   2=3.2
+0-2=1.64   2+=-   3+=2.08
+GG=1.89   IGG=-   GG&3+=2.5
+GG&4+=4.4
+======================================================================
+18:30    27.10.  [Russian - FNL]
+Rapid Bucuresti 1923  vs  FC Unirea 2004 Slobozia   (ID: 1148)
+1=1.45   X=4   2=6.4
+0-2=1.85   2+=-   3+=1.82
+GG=2   IGG=-   GG&3+=2.5
+GG&4+=4
+======================================================================
+19:30    31.10.  [Russian - FNL]
+FC Dinamo Bucuresti 1948  vs  FC CFR 1907 Cluj   (ID: 11)
+1=2.65   X=3.15   2=2.7
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+16:30    01.11.  [Russian - FNL]
+FC Unirea 2004 Slobozia  vs  ACS Champions FC Arges   (ID: 11)
+1=2.65   X=3.15   2=2.65
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+19:30    01.11.  [Russian - FNL]
+FC Universitatea Cluj  vs  Fotbal Club FCSB   (ID: 11)
+1=3.7   X=3.1   2=2.09
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+14:30    02.11.  [Russian - FNL]
+FC Uta Arad  vs  Metaloglobus Bucuresti   (ID: 1146)
+1=1.33   X=4.5   2=8.4
+0-2=1.88   2+=-   3+=1.79
+GG=2.19   IGG=-   GG&3+=2.75
+GG&4+=4.3
+======================================================================
+16:45    02.11.  [Russian - FNL]
+AFC Hermannstadt  vs  ASC Otelul Galati   (ID: 11)
+1=2.04   X=3.1   2=3.9
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+19:30    02.11.  [Russian - FNL]
+CS Universitatea Craiova  vs  Rapid Bucuresti 1923   (ID: 11)
+1=2.2   X=3.1   2=3.4
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+16:30    03.11.  [Russian - FNL]
+FC Farul Constanta  vs  AFK Csikszereda Miercurea Ciuc   (ID: 11)
+1=1.63   X=3.7   2=5.4
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+19:30    03.11.  [Russian - FNL]
+FC Petrolul Ploiesti  vs  FC Botosani   (ID: 11)
+1=2.55   X=3.15   2=2.75
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+17:00  Pet  24.10.  [Lithuanian - I Lyga]
 Be1 Nfa  vs  FK Panevezys B   (ID: 6)
 1=1.54   X=4   2=4.7
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-17:00    24.10.  [Lithuanian - I Lyga]
+17:00  Pet  24.10.  [Lithuanian - I Lyga]
 Kedainiai Nevezis  vs  FK Ekranas   (ID: 6)
 1=1.83   X=3.65   2=3.45
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-18:00    24.10.  [Lithuanian - I Lyga]
+18:00  Pet  24.10.  [Lithuanian - I Lyga]
 Vilnius FK Zalgiris B  vs  FK Minija 2017   (ID: 6)
 1=2.95   X=3.55   2=2.04
 0-2=-   2+=-   3+=-
@@ -4972,7 +5392,7 @@ FK Jonava  vs  FK Atmosfera   (ID: 6)
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-17:00    24.10.  [Belarusian - Premier League]
+17:00  Pet  24.10.  [Belarusian - Premier League]
 FC Minsk  vs  FC Smorgon   (ID: 1075)
 1=1.75   X=3.55   2=3.8
 0-2=1.9   2+=-   3+=1.8
@@ -5014,7 +5434,21 @@ FC Isloch  vs  FC Brest   (ID: 1077)
 GG=1.78   IGG=-   GG&3+=2.3
 GG&4+=3.9
 ======================================================================
-17:00    24.10.  [Latvian - Virsliga]
+13:00    26.10.  [Belarusian - Premier League]
+FC Molodechno  vs  FK Arsenal Dzerzhinsk   (ID: 577)
+1=5.4   X=3.55   2=1.63
+0-2=1.74   2+=-   3+=1.98
+GG=-   IGG=-   GG&3+=-
+GG&4+=4.35
+======================================================================
+18:15    26.10.  [Belarusian - Premier League]
+FC Vitebsk  vs  Maxline Vitebsk   (ID: 1072)
+1=5.8   X=3.6   2=1.49
+0-2=1.75   2+=-   3+=1.97
+GG=2.1   IGG=-   GG&3+=2.75
+GG&4+=4.55
+======================================================================
+17:00  Pet  24.10.  [Latvian - Virsliga]
 Riga FC  vs  FK Tukums 2000/TSS   (ID: 31)
 1=1.06   X=9.2   2=22
 0-2=2.75   2+=-   3+=1.36
@@ -5034,7 +5468,21 @@ FK Liepaja  vs  FS Jelgava   (ID: 1025)
 GG=1.69   IGG=-   GG&3+=1.98
 GG&4+=3.2
 ======================================================================
-17:00    24.10.  [Latvian - Virsliga]
+12:00    26.10.  [Latvian - Virsliga]
+FK Metta / Lu  vs  FK Auda Riga   (ID: 1020)
+1=3.05   X=3.55   2=1.98
+0-2=2.06   2+=-   3+=1.6
+GG=1.57   IGG=-   GG&3+=1.83
+GG&4+=2.94
+======================================================================
+15:00    26.10.  [Latvian - Virsliga]
+FC RFS  vs  Grobinas SC/LFS   (ID: 1015)
+1=1.29   X=5   2=7.2
+0-2=2.55   2+=-   3+=1.39
+GG=1.69   IGG=-   GG&3+=1.86
+GG&4+=2.67
+======================================================================
+17:00  Pet  24.10.  [Latvian - Virsliga]
 FK Pohronie Ziar Nad Hronom Dolna Zdana  vs  MSK Povazska Bystrica   (ID: 1024)
 1=2.08   X=3.75   2=2.7
 0-2=2.24   2+=-   3+=1.51
@@ -5056,11 +5504,11 @@ GG=1.52   IGG=-   GG&3+=1.73
 GG&4+=2.66
 ======================================================================
 13:30    25.10.  [Latvian - Virsliga]
-FK Inter Bratislava  vs  Slavia TU Kosice   (ID: 1005)
-1=1.6   X=3.75   2=4.5
+FK Inter Bratislava  vs  Slavia TU Kosice   (ID: 1004)
+1=1.57   X=3.8   2=4.6
 0-2=2.04   2+=-   3+=1.61
-GG=1.68   IGG=-   GG&3+=1.97
-GG&4+=3.1
+GG=1.69   IGG=-   GG&3+=1.98
+GG&4+=3.15
 ======================================================================
 13:30    25.10.  [Latvian - Virsliga]
 MFK Stara Lubovna  vs  Slovan Bratislava B U21   (ID: 1006)
@@ -5090,12 +5538,12 @@ FC Petrzalka  vs  FC Vion Zlate Moravce - Vrable   (ID: 1001)
 GG=1.73   IGG=-   GG&3+=2.1
 GG&4+=3.55
 ======================================================================
-17:30    24.10.  [Latvian - Virsliga]
+17:30  Pet  24.10.  [Latvian - Virsliga]
 Aluminij Kidricevo  vs  Bravo Ljubljana   (ID: 1081)
 1=3.25   X=3.4   2=1.92
-0-2=1.99   2+=-   3+=1.73
-GG=1.66   IGG=-   GG&3+=2.04
-GG&4+=3.2
+0-2=2.03   2+=-   3+=1.7
+GG=1.64   IGG=-   GG&3+=2
+GG&4+=3.1
 ======================================================================
 15:00    25.10.  [Latvian - Virsliga]
 NK Radomlje  vs  NK Koper   (ID: 1079)
@@ -5111,35 +5559,49 @@ NK Maribor  vs  Primorje Ajdovscina   (ID: 1075)
 GG=1.75   IGG=-   GG&3+=1.99
 GG&4+=2.82
 ======================================================================
-17:45    24.10.  [European - UEFA Nations League Women]
+17:30    26.10.  [Latvian - Virsliga]
+Olimpija Ljubljana  vs  NK Domzale   (ID: 1074)
+1=1.29   X=5.2   2=8.2
+0-2=2.33   2+=-   3+=1.54
+GG=1.91   IGG=-   GG&3+=2.2
+GG&4+=3.15
+======================================================================
+20:15    26.10.  [Latvian - Virsliga]
+Mura Murska Sobota  vs  NK Celje   (ID: 1077)
+1=5.8   X=4.5   2=1.43
+0-2=2.5   2+=-   3+=1.46
+GG=1.63   IGG=-   GG&3+=1.87
+GG&4+=2.64
+======================================================================
+17:45  Pet  24.10.  [European - UEFA Nations League Women]
 Germany (W)  vs  France (W)   (ID: 1079)
 1=2.47   X=3.2   2=2.6
 0-2=1.88   2+=-   3+=1.82
 GG=1.66   IGG=-   GG&3+=2.16
 GG&4+=3.4
 ======================================================================
-20:00    24.10.  [European - UEFA Nations League Women]
+20:00  Pet  24.10.  [European - UEFA Nations League Women]
 Spain (W)  vs  Sweden (W)   (ID: 1071)
 1=1.25   X=5.4   2=9
 0-2=2.29   2+=-   3+=1.56
 GG=2   IGG=-   GG&3+=2.41
 GG&4+=3.4
 ======================================================================
-20:00    24.10.  [European - UEFA Nations League Women]
+20:00  Pet  24.10.  [European - UEFA Nations League Women]
 Ireland (W)  vs  Belgium (W)   (ID: 1080)
-1=2.23   X=3.55   2=2.7
+1=2.15   X=3.55   2=2.85
 0-2=2.16   2+=-   3+=1.62
-GG=1.54   IGG=-   GG&3+=1.9
+GG=1.55   IGG=-   GG&3+=1.91
 GG&4+=2.85
 ======================================================================
-20:00    24.10.  [European - UEFA Nations League Women]
+20:00  Pet  24.10.  [European - UEFA Nations League Women]
 Northern Ireland (W)  vs  Iceland (W)   (ID: 1066)
 1=11   X=5   2=1.25
 0-2=2.07   2+=-   3+=1.68
 GG=2.25   IGG=-   GG&3+=2.85
 GG&4+=4.1
 ======================================================================
-18:00    24.10.  [Croatian - HNL]
+18:00  Pet  24.10.  [Croatian - HNL]
 HNK Gorica  vs  HNK Hajduk Split   (ID: 1078)
 1=3.95   X=3.4   2=1.74
 0-2=1.7   2+=-   3+=2.03
@@ -5160,35 +5622,49 @@ NK Varazdin  vs  NK Slaven Belupo   (ID: 1079)
 GG=1.82   IGG=-   GG&3+=2.34
 GG&4+=3.9
 ======================================================================
-18:00    24.10.  [Austrian - First League]
+16:00    26.10.  [Croatian - HNL]
+HNK Rijeka  vs  NK Osijek   (ID: 1079)
+1=1.81   X=3.4   2=3.65
+0-2=1.8   2+=-   3+=1.9
+GG=1.83   IGG=-   GG&3+=2.32
+GG&4+=3.85
+======================================================================
+18:00    27.10.  [Croatian - HNL]
+HNK Vukovar 1991  vs  Gnk Dinamo Zagreb   (ID: 1064)
+1=11   X=6   2=1.2
+0-2=2.46   2+=-   3+=1.46
+GG=2.03   IGG=-   GG&3+=2.25
+GG&4+=3.25
+======================================================================
+18:00  Pet  24.10.  [Austrian - First League]
 FC Liefering  vs  SKN St Polten   (ID: 1081)
 1=3.3   X=3.7   2=1.84
 0-2=2.12   2+=-   3+=1.64
 GG=1.62   IGG=-   GG&3+=1.94
 GG&4+=2.97
 ======================================================================
-18:00    24.10.  [Austrian - First League]
+18:00  Pet  24.10.  [Austrian - First League]
 Schwarz-Weiss Bregenz  vs  Kapfenberger SV   (ID: 1082)
 1=2.43   X=3.45   2=2.38
 0-2=2.12   2+=-   3+=1.64
 GG=1.57   IGG=-   GG&3+=1.88
 GG&4+=2.9
 ======================================================================
-18:00    24.10.  [Austrian - First League]
+18:00  Pet  24.10.  [Austrian - First League]
 SK Austria Klagenfurt  vs  SK Sturm Graz II   (ID: 1078)
 1=1.64   X=3.95   2=3.95
 0-2=2.27   2+=-   3+=1.56
 GG=1.61   IGG=-   GG&3+=1.89
 GG&4+=2.8
 ======================================================================
-18:00    24.10.  [Austrian - First League]
+18:00  Pet  24.10.  [Austrian - First League]
 First Vienna FC 1894  vs  FC Admira Wacker Modling   (ID: 1078)
 1=3.3   X=3.3   2=1.95
 0-2=1.66   2+=-   3+=2.1
 GG=1.94   IGG=-   GG&3+=2.55
 GG&4+=4.45
 ======================================================================
-18:00    24.10.  [Austrian - First League]
+18:00  Pet  24.10.  [Austrian - First League]
 SV Stripfing  vs  FC Hertha Wels   (ID: 1080)
 1=1.97   X=3.35   2=3.2
 0-2=1.92   2+=-   3+=1.79
@@ -5216,20 +5692,20 @@ SKU Amstetten  vs  FAC Wien   (ID: 1080)
 GG=1.74   IGG=-   GG&3+=2.22
 GG&4+=3.7
 ======================================================================
-18:00    24.10.  [Czech - Czech MSFL]
+18:00  Pet  24.10.  [Czech - Czech MSFL]
 FC Hlucin  vs  FC Zbrojovka Brno B   (ID: 8)
 1=3.5   X=3.9   2=1.76
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-18:00    24.10.  [Polish - I Liga]
+18:00  Pet  24.10.  [Polish - I Liga]
 MKS Znicz Pruszkow  vs  Puszcza Niepolomice   (ID: 1042)
 1=2.33   X=3.2   2=2.7
 0-2=1.89   2+=-   3+=1.72
 GG=1.62   IGG=-   GG&3+=1.96
 GG&4+=3.25
 ======================================================================
-20:30    24.10.  [Polish - I Liga]
+20:30  Pet  24.10.  [Polish - I Liga]
 Odra Opole  vs  Ruch Chorzow   (ID: 1039)
 1=2.44   X=2.95   2=2.7
 0-2=1.62   2+=-   3+=2.04
@@ -5257,7 +5733,35 @@ WKS Slask Wroclaw  vs  Gornik Leczna   (ID: 1023)
 GG=1.75   IGG=-   GG&3+=2.02
 GG&4+=3.1
 ======================================================================
-18:00    24.10.  [Bosnian - Premier League]
+12:00    26.10.  [Polish - I Liga]
+GKS Tychy  vs  Chrobry Glogow   (ID: 1020)
+1=2.65   X=3.35   2=2.27
+0-2=1.98   2+=-   3+=1.65
+GG=1.58   IGG=-   GG&3+=1.87
+GG&4+=3.05
+======================================================================
+14:30    26.10.  [Polish - I Liga]
+Wisla Krakow  vs  ZKS Stal Rzeszow   (ID: 1014)
+1=1.22   X=6   2=8.4
+0-2=3   2+=-   3+=1.28
+GG=1.64   IGG=-   GG&3+=1.75
+GG&4+=2.37
+======================================================================
+17:00    26.10.  [Polish - I Liga]
+FKS Stal Mielec  vs  Miedz Legnica   (ID: 1020)
+1=2.8   X=3.3   2=2.17
+0-2=2.11   2+=-   3+=1.57
+GG=1.51   IGG=-   GG&3+=1.77
+GG&4+=2.8
+======================================================================
+19:00    27.10.  [Polish - I Liga]
+Wieczysta Krakow  vs  Pogon Grodzisk Mazowiecki   (ID: 1017)
+1=1.53   X=4.1   2=4.6
+0-2=2.26   2+=-   3+=1.5
+GG=1.6   IGG=-   GG&3+=1.82
+GG&4+=2.76
+======================================================================
+18:00  Pet  24.10.  [Bosnian - Premier League]
 FK Sarajevo  vs  FK Sloga Meridian   (ID: 1053)
 1=1.29   X=5   2=8.4
 0-2=2.05   2+=-   3+=1.69
@@ -5278,14 +5782,21 @@ FK Velez Mostar  vs  NK Siroki Brijeg   (ID: 1057)
 GG=1.96   IGG=-   GG&3+=2.5
 GG&4+=4.2
 ======================================================================
-18:00    24.10.  [Czech - National League]
+18:00    27.10.  [Bosnian - Premier League]
+Hsk Zrinjski Mostar  vs  FK Borac Banja Luka   (ID: 1053)
+1=2.28   X=2.9   2=2.9
+0-2=1.48   2+=-   3+=2.41
+GG=2.08   IGG=-   GG&3+=2.8
+GG&4+=5.65
+======================================================================
+18:00  Pet  24.10.  [Czech - National League]
 SK Dynamo Ceske Budejovice  vs  1.SK Prostejov   (ID: 1039)
 1=1.94   X=3.35   2=3.3
 0-2=1.77   2+=-   3+=1.83
 GG=1.76   IGG=-   GG&3+=2.15
 GG&4+=3.7
 ======================================================================
-18:00    24.10.  [Czech - National League]
+18:00  Pet  24.10.  [Czech - National League]
 FK Usti Nad Labem  vs  FC Banik Ostrava B   (ID: 1039)
 1=1.79   X=3.45   2=3.75
 0-2=2.06   2+=-   3+=1.6
@@ -5322,19 +5833,26 @@ GG&4+=3.6
 ======================================================================
 10:30    26.10.  [Czech - National League]
 Sparta Prague B  vs  FK Viktoria Zizkov   (ID: 1020)
-1=2.49   X=3.15   2=2.5
+1=2.6   X=3.35   2=2.33
 0-2=2.14   2+=-   3+=1.55
-GG=1.48   IGG=-   GG&3+=1.74
-GG&4+=2.72
+GG=1.5   IGG=-   GG&3+=1.75
+GG&4+=2.74
 ======================================================================
-18:00    24.10.  [Czech - National League]
+16:30    26.10.  [Czech - National League]
+FC Vlasim  vs  FC Zbrojovka Brno   (ID: 1019)
+1=3.65   X=3.45   2=1.81
+0-2=1.99   2+=-   3+=1.65
+GG=1.63   IGG=-   GG&3+=1.93
+GG&4+=3.1
+======================================================================
+18:00  Pet  24.10.  [Czech - National League]
 ND Gorica  vs  Krka Novo Mesto   (ID: 643)
 1=1.68   X=3.65   2=4.1
 0-2=2.07   2+=-   3+=1.65
 GG=1.65   IGG=-   GG&3+=1.94
 GG&4+=3.1
 ======================================================================
-20:00    24.10.  [Czech - National League]
+20:00  Pet  24.10.  [Czech - National League]
 Tabor Sezana  vs  NK Brinje Grosuplje   (ID: 644)
 1=2.8   X=3.3   2=2.22
 0-2=1.84   2+=-   3+=1.83
@@ -5369,13 +5887,27 @@ NK Dekani  vs  Triglav Kranj   (ID: 642)
 GG=1.68   IGG=-   GG&3+=1.89
 GG&4+=2.83
 ======================================================================
-18:00    24.10.  [Polish - IV Liga]
+14:00    26.10.  [Czech - National League]
+NK Krsko Posavje  vs  NK Rudar Velenje   (ID: 644)
+1=2.8   X=3.65   2=2.08
+0-2=2.14   2+=-   3+=1.6
+GG=1.55   IGG=-   GG&3+=1.79
+GG&4+=2.86
+======================================================================
+17:00    26.10.  [Czech - National League]
+Nafta 1903 Lendava  vs  Nk Bilje   (ID: 641)
+1=1.29   X=4.6   2=8.4
+0-2=1.9   2+=-   3+=1.77
+GG=2.22   IGG=-   GG&3+=2.65
+GG&4+=4.3
+======================================================================
+18:00  Pet  24.10.  [Polish - IV Liga]
 MKS Oskar Przysucha  vs  KTS Weszlo   (ID: 3)
 1=4.33   X=4.9   2=1.54
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-19:00    24.10.  [Polish - IV Liga]
+19:00  Pet  24.10.  [Polish - IV Liga]
 Hutnik Warszawa  vs  Talent Warszawa   (ID: 3)
 1=1.21   X=7.5   2=8
 0-2=-   2+=-   3+=-
@@ -5447,13 +5979,43 @@ Victoria Sulejowek  vs  KS Ursus Warszawa   (ID: 3)
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-18:30    24.10.  [Czech - CFL]
+14:00    26.10.  [Polish - IV Liga]
+MKS Janowianka Janow Lubelski  vs  LKS Orleta Radzyn Podlaski   (ID: 3)
+1=2.04   X=3.98   2=2.74
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+14:00    26.10.  [Polish - IV Liga]
+MKS Ruch Ryki  vs  KS Hetman Zamosc   (ID: 3)
+1=12   X=11   2=1.08
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+14:00    26.10.  [Polish - IV Liga]
+Tanew Majdan Stary  vs  Lada 1945 Bilgoraj   (ID: 3)
+1=8.6   X=7.9   2=1.16
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+17:00    26.10.  [Polish - IV Liga]
+Tur Milejow  vs  KS Lublinianka   (ID: 3)
+1=4.5   X=4.75   2=1.49
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+18:30  Pet  24.10.  [Czech - CFL]
 FC Pisek  vs  SK Petrin Plzen   (ID: 8)
 1=1.53   X=4.1   2=4.7
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-19:00    24.10.  [Swedish - Superettan]
+15:00    26.10.  [Czech - CFL]
+FK Mlada Boleslav B  vs  FK Varnsdorf   (ID: 8)
+1=1.58   X=4.1   2=4.3
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+19:00  Pet  24.10.  [Swedish - Superettan]
 Orgryte IS  vs  Vasteraas SK   (ID: 1083)
 1=2.65   X=3.5   2=2.2
 0-2=2.35   2+=-   3+=1.53
@@ -5495,7 +6057,21 @@ Sandvikens IF  vs  Utsiktens BK   (ID: 1081)
 GG=1.62   IGG=-   GG&3+=1.97
 GG&4+=3.05
 ======================================================================
-19:00    24.10.  [Swedish - Superettan]
+13:00    26.10.  [Swedish - Superettan]
+Trelleborgs FF  vs  Falkenbergs FF   (ID: 1081)
+1=2.31   X=3.4   2=2.55
+0-2=2.02   2+=-   3+=1.71
+GG=1.61   IGG=-   GG&3+=1.97
+GG&4+=3.1
+======================================================================
+15:00    26.10.  [Swedish - Superettan]
+Orebro SK  vs  Landskrona BoIS   (ID: 1081)
+1=1.99   X=3.45   2=3.05
+0-2=2.04   2+=-   3+=1.7
+GG=1.62   IGG=-   GG&3+=1.98
+GG&4+=3.1
+======================================================================
+19:00  Pet  24.10.  [Swedish - Superettan]
 SV Wehen Wiesbaden  vs  Alemannia Aachen   (ID: 1078)
 1=1.96   X=3.45   2=3.1
 0-2=2.04   2+=-   3+=1.69
@@ -5544,21 +6120,42 @@ GG&4+=2.87
 GG=1.71   IGG=-   GG&3+=2.11
 GG&4+=3.3
 ======================================================================
-19:00    24.10.  [German - Regionalliga Nord]
-SV Meppen 1912  vs  SV Drochtersen/Assel   (ID: 1040)
-1=1.95   X=3.8   2=2.95
-0-2=2.6   2+=-   3+=1.37
-GG=1.39   IGG=-   GG&3+=1.54
-GG&4+=2.2
+13:30    26.10.  [Swedish - Superettan]
+TSG Hoffenheim II U23  vs  Erzgebirge Aue   (ID: 1078)
+1=1.8   X=3.65   2=3.45
+0-2=2.24   2+=-   3+=1.58
+GG=1.57   IGG=-   GG&3+=1.86
+GG&4+=2.78
 ======================================================================
-19:00    24.10.  [German - Regionalliga Nord]
+16:30    26.10.  [Swedish - Superettan]
+FC Viktoria Cologne  vs  Hansa Rostock   (ID: 1078)
+1=2.65   X=3.35   2=2.26
+0-2=1.96   2+=-   3+=1.75
+GG=1.64   IGG=-   GG&3+=2.02
+GG&4+=3.2
+======================================================================
+19:30    26.10.  [Swedish - Superettan]
+MSV Duisburg  vs  Rot-Weiss Essen   (ID: 1079)
+1=2.14   X=3.45   2=2.75
+0-2=2.21   2+=-   3+=1.59
+GG=1.53   IGG=-   GG&3+=1.82
+GG&4+=2.75
+======================================================================
+19:00  Pet  24.10.  [German - Regionalliga Nord]
+SV Meppen 1912  vs  SV Drochtersen/Assel   (ID: 1041)
+1=1.95   X=3.8   2=2.95
+0-2=2.7   2+=-   3+=1.36
+GG=1.37   IGG=-   GG&3+=1.51
+GG&4+=2.15
+======================================================================
+19:00  Pet  24.10.  [German - Regionalliga Nord]
 Altona 93  vs  1. FC Phonix Lubeck   (ID: 1041)
 1=2.85   X=4   2=1.95
 0-2=2.7   2+=-   3+=1.35
 GG=1.38   IGG=-   GG&3+=1.51
 GG&4+=2.15
 ======================================================================
-19:30    24.10.  [German - Regionalliga Nord]
+19:30  Pet  24.10.  [German - Regionalliga Nord]
 VfB Lubeck  vs  Kickers Emden   (ID: 1043)
 1=2.33   X=3.7   2=2.4
 0-2=2.5   2+=-   3+=1.4
@@ -5580,11 +6177,11 @@ GG=1.3   IGG=-   GG&3+=1.39
 GG&4+=1.87
 ======================================================================
 14:00    25.10.  [German - Regionalliga Nord]
-Eintracht Norderstedt  vs  SC Weiche Flensburg 08   (ID: 1024)
+Eintracht Norderstedt  vs  SC Weiche Flensburg 08   (ID: 1025)
 1=2.16   X=3.9   2=2.5
-0-2=3   2+=-   3+=1.29
-GG=1.31   IGG=-   GG&3+=1.42
-GG&4+=1.93
+0-2=2.8   2+=-   3+=1.32
+GG=1.34   IGG=-   GG&3+=1.46
+GG&4+=2.04
 ======================================================================
 16:00    25.10.  [German - Regionalliga Nord]
 SSV Jeddeloh II  vs  SV Werder Bremen II U23   (ID: 1025)
@@ -5593,21 +6190,28 @@ SSV Jeddeloh II  vs  SV Werder Bremen II U23   (ID: 1025)
 GG=1.36   IGG=-   GG&3+=1.46
 GG&4+=1.99
 ======================================================================
-19:00    24.10.  [German - Regionalliga Bayern]
+15:00    26.10.  [German - Regionalliga Nord]
+VfB Oldenburg  vs  Bremer SV 1906   (ID: 1014)
+1=1.3   X=5.2   2=6.8
+0-2=3.1   2+=-   3+=1.27
+GG=1.51   IGG=-   GG&3+=1.62
+GG&4+=2.17
+======================================================================
+19:00  Pet  24.10.  [German - Regionalliga Bayern]
 Wacker Burghausen  vs  FC Wurzburger Kickers   (ID: 1042)
 1=2.37   X=3.45   2=2.48
 0-2=2.08   2+=-   3+=1.59
 GG=1.54   IGG=-   GG&3+=1.79
 GG&4+=2.85
 ======================================================================
-19:00    24.10.  [German - Regionalliga Bayern]
+19:00  Pet  24.10.  [German - Regionalliga Bayern]
 SpVgg Bayreuth  vs  FC Augsburg II   (ID: 1042)
 1=1.97   X=3.7   2=2.95
 0-2=2.23   2+=-   3+=1.51
 GG=1.5   IGG=-   GG&3+=1.71
 GG&4+=2.65
 ======================================================================
-19:00    24.10.  [German - Regionalliga Bayern]
+19:00  Pet  24.10.  [German - Regionalliga Bayern]
 TSV Buchbach  vs  1 FC Nuremberg II   (ID: 1043)
 1=2.41   X=3.7   2=2.32
 0-2=2.5   2+=-   3+=1.4
@@ -5656,14 +6260,14 @@ SpVgg Hankofen-Hailing  vs  TSV Aubstadt   (ID: 1025)
 GG=1.6   IGG=-   GG&3+=1.86
 GG&4+=2.93
 ======================================================================
-19:00    24.10.  [German - Regionalliga Nordost]
+19:00  Pet  24.10.  [German - Regionalliga Nordost]
 FSV Luckenwalde  vs  SV Babelsberg   (ID: 1040)
 1=1.89   X=3.4   2=3.4
 0-2=1.84   2+=-   3+=1.77
 GG=1.71   IGG=-   GG&3+=2.07
 GG&4+=3.5
 ======================================================================
-19:00    24.10.  [German - Regionalliga Nordost]
+19:00  Pet  24.10.  [German - Regionalliga Nordost]
 Hallescher FC  vs  1. FC Lokomotive Leipzig   (ID: 1042)
 1=2.6   X=3.3   2=2.34
 0-2=1.84   2+=-   3+=1.77
@@ -5691,14 +6295,35 @@ Greifswalder FC  vs  FC Carl Zeiss Jena   (ID: 1025)
 GG=1.62   IGG=-   GG&3+=1.89
 GG&4+=2.99
 ======================================================================
-19:00    24.10.  [Spanish - Spanish Primera RFEF]
+14:00    26.10.  [German - Regionalliga Nordost]
+BFC Dynamo  vs  FC Eilenburg   (ID: 1018)
+1=1.69   X=3.65   2=4
+0-2=2.17   2+=-   3+=1.54
+GG=1.57   IGG=-   GG&3+=1.82
+GG&4+=2.82
+======================================================================
+14:00    26.10.  [German - Regionalliga Nordost]
+FC Rot-Weiss Erfurt  vs  ZFC Meuselwitz   (ID: 1017)
+1=1.68   X=4   2=3.75
+0-2=2.44   2+=-   3+=1.43
+GG=1.48   IGG=-   GG&3+=1.66
+GG&4+=2.45
+======================================================================
+14:00    26.10.  [German - Regionalliga Nordost]
+BFC Preussen Berlin  vs  FSV Zwickau   (ID: 1020)
+1=2.48   X=3.35   2=2.41
+0-2=1.85   2+=-   3+=1.75
+GG=1.66   IGG=-   GG&3+=2
+GG&4+=3.4
+======================================================================
+19:00  Pet  24.10.  [Spanish - Spanish Primera RFEF]
 Merida AD  vs  SD Ponferradina   (ID: 1020)
 1=2.48   X=2.95   2=2.65
 0-2=1.65   2+=-   3+=1.99
 GG=1.79   IGG=-   GG&3+=2.29
 GG&4+=4.15
 ======================================================================
-21:15    24.10.  [Spanish - Spanish Primera RFEF]
+21:15  Pet  24.10.  [Spanish - Spanish Primera RFEF]
 Barakaldo CF  vs  Tenerife CD   (ID: 1019)
 1=3.6   X=2.9   2=2.02
 0-2=1.51   2+=-   3+=2.24
@@ -5768,21 +6393,76 @@ Real Madrid Castilla YOUTH  vs  Real Aviles CF   (ID: 1007)
 GG=1.81   IGG=-   GG&3+=2.26
 GG&4+=3.95
 ======================================================================
-19:00    24.10.  [Spanish - Spanish Primera RFEF]
+12:00    26.10.  [Spanish - Spanish Primera RFEF]
+CD Arenteiro  vs  Pontevedra CF   (ID: 1001)
+1=2.2   X=3   2=3
+0-2=1.55   2+=-   3+=2.15
+GG=1.94   IGG=-   GG&3+=2.5
+GG&4+=4.8
+======================================================================
+12:00    26.10.  [Spanish - Spanish Primera RFEF]
+UD Ibiza  vs  CD Teruel   (ID: 1000)
+1=1.81   X=3   2=4.3
+0-2=1.52   2+=-   3+=2.2
+GG=2.06   IGG=-   GG&3+=2.75
+GG&4+=5.25
+======================================================================
+12:00    26.10.  [Spanish - Spanish Primera RFEF]
+Club Deportivo Eldense  vs  Real Murcia CF   (ID: 1001)
+1=2.04   X=3   2=3.35
+0-2=1.56   2+=-   3+=2.12
+GG=1.93   IGG=-   GG&3+=2.5
+GG&4+=4.8
+======================================================================
+12:00    26.10.  [Spanish - Spanish Primera RFEF]
+Marbella FC  vs  FC Cartagena   (ID: 1001)
+1=2.18   X=3   2=3.05
+0-2=1.63   2+=-   3+=2.01
+GG=1.83   IGG=-   GG&3+=2.34
+GG&4+=4.25
+======================================================================
+12:00    26.10.  [Spanish - Spanish Primera RFEF]
+Villarreal CF B U23  vs  Antequera CF   (ID: 1001)
+1=2.3   X=2.9   2=2.95
+0-2=1.59   2+=-   3+=2.08
+GG=1.85   IGG=-   GG&3+=2.42
+GG&4+=4.55
+======================================================================
+16:00    26.10.  [Spanish - Spanish Primera RFEF]
+Unionistas de Salamanca CF  vs  CD Lugo   (ID: 1001)
+1=2.42   X=2.75   2=2.9
+0-2=1.5   2+=-   3+=2.26
+GG=1.95   IGG=-   GG&3+=2.65
+GG&4+=5.2
+======================================================================
+18:15    26.10.  [Spanish - Spanish Primera RFEF]
+Zamora CF  vs  Athletic Bilbao B   (ID: 1001)
+1=2.1   X=3   2=3.2
+0-2=1.57   2+=-   3+=2.11
+GG=1.91   IGG=-   GG&3+=2.48
+GG&4+=4.7
+======================================================================
+19:00  Pet  24.10.  [Spanish - Spanish Primera RFEF]
 Orebro Syrianska IF  vs  IF Karlstad Fotbol   (ID: 1019)
 1=4.2   X=3.85   2=1.62
 0-2=2.17   2+=-   3+=1.54
 GG=1.6   IGG=-   GG&3+=1.85
 GG&4+=2.87
 ======================================================================
-19:00    24.10.  [Spanish - Spanish Primera RFEF]
+13:00    26.10.  [Spanish - Spanish Primera RFEF]
+Gefle IF  vs  Hammarby Talang FF   (ID: 8)
+1=4.1   X=3.65   2=1.69
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+19:00  Pet  24.10.  [Spanish - Spanish Primera RFEF]
 Vendsyssel FF  vs  BK Fremad Amager   (ID: 1040)
 1=1.83   X=3.45   2=3.55
 0-2=1.82   2+=-   3+=1.79
 GG=1.75   IGG=-   GG&3+=2.11
 GG&4+=3.6
 ======================================================================
-19:00    24.10.  [Spanish - Spanish Primera RFEF]
+19:00  Pet  24.10.  [Spanish - Spanish Primera RFEF]
 FC Helsingoer  vs  Thisted FC   (ID: 1040)
 1=3.05   X=3.5   2=1.99
 0-2=1.89   2+=-   3+=1.72
@@ -5810,21 +6490,21 @@ AB Gladsaxe  vs  Brabrand IF   (ID: 1020)
 GG=1.69   IGG=-   GG&3+=1.81
 GG&4+=2.51
 ======================================================================
-19:30    24.10.  [Swiss - Challenge League]
+19:30  Pet  24.10.  [Swiss - Challenge League]
 Neuchatel Xamax  vs  FC Rapperswil-Jona   (ID: 1081)
 1=1.88   X=3.55   2=3.25
 0-2=2.15   2+=-   3+=1.63
 GG=1.59   IGG=-   GG&3+=1.9
 GG&4+=2.9
 ======================================================================
-19:30    24.10.  [Swiss - Challenge League]
+19:30  Pet  24.10.  [Swiss - Challenge League]
 FC Stade Nyonnais  vs  Yverdon-Sport   (ID: 1078)
 1=5.2   X=4.2   2=1.5
 0-2=2.22   2+=-   3+=1.59
 GG=1.71   IGG=-   GG&3+=2.02
 GG&4+=3
 ======================================================================
-20:15    24.10.  [Swiss - Challenge League]
+20:15  Pet  24.10.  [Swiss - Challenge League]
 FC Aarau  vs  FC Wil 1900   (ID: 1078)
 1=1.57   X=4   2=4.3
 0-2=2.15   2+=-   3+=1.63
@@ -5838,38 +6518,45 @@ AC Bellinzona  vs  Stade Lausanne Ouchy   (ID: 1079)
 GG=1.68   IGG=-   GG&3+=2.04
 GG&4+=3.15
 ======================================================================
-19:30    24.10.  [Belgian - Belgium Reserve League]
+14:00    26.10.  [Swiss - Challenge League]
+FC Vaduz  vs  Etoile Carouge FC   (ID: 1078)
+1=1.6   X=3.75   2=4.4
+0-2=2.23   2+=-   3+=1.58
+GG=1.63   IGG=-   GG&3+=1.95
+GG&4+=2.9
+======================================================================
+19:30  Pet  24.10.  [Belgian - Belgium Reserve League]
 KV RS Waasland Beveren U21  vs  KVC Westerlo U21   (ID: 6)
 1=2.28   X=3.5   2=2.6
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-20:00    24.10.  [Belgian - Belgium Reserve League]
+20:00  Pet  24.10.  [Belgian - Belgium Reserve League]
 Jeugd Patro Eisden Maasmechelen U21  vs  Jeugd Lierse Kempenzonen U21   (ID: 6)
 1=2.5   X=3.7   2=2.28
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-20:00    24.10.  [Belgian - Belgium Reserve League]
+20:00  Pet  24.10.  [Belgian - Belgium Reserve League]
 Jeugd Royal Francs Borains U21  vs  Jeugd RWDM Brussels U21   (ID: 6)
 1=3.9   X=4   2=1.65
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-20:00    24.10.  [Belgian - Belgium Reserve League]
+20:00  Pet  24.10.  [Belgian - Belgium Reserve League]
 RFC Liege U21  vs  K Beerschot VA U21   (ID: 6)
 1=1.97   X=3.8   2=2.95
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-19:45    24.10.  [Portuguese - LigaPro]
+19:45  Pet  24.10.  [Portuguese - LigaPro]
 SCU Torreense  vs  UD Oliveirense   (ID: 1078)
 1=1.59   X=3.8   2=4.5
 0-2=1.91   2+=-   3+=1.8
 GG=1.85   IGG=-   GG&3+=2.29
 GG&4+=3.65
 ======================================================================
-21:45    24.10.  [Portuguese - LigaPro]
+21:45  Pet  24.10.  [Portuguese - LigaPro]
 FC Vizela  vs  FC Felgueiras 1932   (ID: 1079)
 1=1.93   X=3.3   2=3.35
 0-2=1.77   2+=-   3+=1.94
@@ -5911,14 +6598,21 @@ CD Feirense  vs  Sl Benfica B   (ID: 1081)
 GG=1.71   IGG=-   GG&3+=2.16
 GG&4+=3.55
 ======================================================================
-20:00    24.10.  [Belgian - First Division B]
+12:00    26.10.  [Portuguese - LigaPro]
+SC Farense  vs  FC Penafiel   (ID: 1078)
+1=1.56   X=3.75   2=4.7
+0-2=1.78   2+=-   3+=1.92
+GG=1.99   IGG=-   GG&3+=2.5
+GG&4+=4.15
+======================================================================
+20:00  Pet  24.10.  [Belgian - First Division B]
 RFC Seraing  vs  Koninklijke Lierse Sportkring   (ID: 1039)
 1=2.6   X=3.35   2=2.28
 0-2=1.94   2+=-   3+=1.77
 GG=1.65   IGG=-   GG&3+=2.05
 GG&4+=3.25
 ======================================================================
-20:00    24.10.  [Belgian - First Division B]
+20:00  Pet  24.10.  [Belgian - First Division B]
 Royal Francs Borains  vs  Jeugd KAA Gent B YOUTH   (ID: 1040)
 1=2.23   X=3.25   2=2.75
 0-2=1.93   2+=-   3+=1.78
@@ -5953,56 +6647,70 @@ SK Beveren  vs  Patro Eisden Maasmechelen   (ID: 1036)
 GG=1.9   IGG=-   GG&3+=2.46
 GG&4+=4.2
 ======================================================================
-20:00    24.10.  [Dutch - Eerste Divisie]
+16:00    26.10.  [Belgian - First Division B]
+RSC Anderlecht Futures U23  vs  KSC Lokeren-Temse   (ID: 1041)
+1=2.38   X=3.45   2=2.46
+0-2=2.18   2+=-   3+=1.61
+GG=1.53   IGG=-   GG&3+=1.84
+GG&4+=2.79
+======================================================================
+16:00    26.10.  [Belgian - First Division B]
+Lommel SK  vs  K Beerschot VA   (ID: 1040)
+1=2.6   X=3.45   2=2.24
+0-2=2.05   2+=-   3+=1.69
+GG=1.6   IGG=-   GG&3+=1.95
+GG&4+=3
+======================================================================
+20:00  Pet  24.10.  [Dutch - Eerste Divisie]
 RKC Waalwijk  vs  SC Cambuur   (ID: 1154)
 1=2.7   X=3.7   2=2.11
 0-2=2.45   2+=-   3+=1.49
 GG=1.46   IGG=-   GG&3+=1.73
 GG&4+=2.46
 ======================================================================
-20:00    24.10.  [Dutch - Eerste Divisie]
+20:00  Pet  24.10.  [Dutch - Eerste Divisie]
 Vitesse Arnhem  vs  Roda JC Kerkrade   (ID: 1155)
 1=2.75   X=3.45   2=2.18
 0-2=2   2+=-   3+=1.72
 GG=1.63   IGG=-   GG&3+=2.04
 GG&4+=3.15
 ======================================================================
-20:00    24.10.  [Dutch - Eerste Divisie]
+20:00  Pet  24.10.  [Dutch - Eerste Divisie]
 Helmond Sport  vs  FC Dordrecht   (ID: 1153)
 1=2.04   X=3.8   2=2.8
 0-2=2.6   2+=-   3+=1.44
 GG=1.43   IGG=-   GG&3+=1.66
 GG&4+=2.3
 ======================================================================
-20:00    24.10.  [Dutch - Eerste Divisie]
+20:00  Pet  24.10.  [Dutch - Eerste Divisie]
 Jong Ajax Amsterdam YOUTH  vs  FC Emmen   (ID: 1153)
 1=2.8   X=3.9   2=2.01
 0-2=2.75   2+=-   3+=1.39
 GG=1.4   IGG=-   GG&3+=1.6
 GG&4+=2.18
 ======================================================================
-20:00    24.10.  [Dutch - Eerste Divisie]
+20:00  Pet  24.10.  [Dutch - Eerste Divisie]
 FC Eindhoven  vs  VVV Venlo   (ID: 1155)
 1=2.85   X=3.6   2=2.05
 0-2=2.21   2+=-   3+=1.6
 GG=1.55   IGG=-   GG&3+=1.88
 GG&4+=2.8
 ======================================================================
-20:00    24.10.  [Dutch - Eerste Divisie]
+20:00  Pet  24.10.  [Dutch - Eerste Divisie]
 De Graafschap  vs  Jong PSV Eindhoven YOUTH   (ID: 1151)
 1=1.52   X=4.6   2=4.7
 0-2=3.2   2+=-   3+=1.31
 GG=1.41   IGG=-   GG&3+=1.57
 GG&4+=2.02
 ======================================================================
-20:00    24.10.  [Dutch - Eerste Divisie]
+20:00  Pet  24.10.  [Dutch - Eerste Divisie]
 Almere City FC  vs  Jong AZ Alkmaar YOUTH   (ID: 1152)
 1=1.66   X=4.1   2=3.8
 0-2=2.6   2+=-   3+=1.44
 GG=1.49   IGG=-   GG&3+=1.73
 GG&4+=2.4
 ======================================================================
-20:00    24.10.  [Dutch - Eerste Divisie]
+20:00  Pet  24.10.  [Dutch - Eerste Divisie]
 Jong FC Utrecht YOUTH  vs  TOP Oss   (ID: 1156)
 1=2.33   X=3.55   2=2.48
 0-2=2.18   2+=-   3+=1.61
@@ -6016,13 +6724,20 @@ ADO Den Haag  vs  FC Den Bosch   (ID: 1140)
 GG=1.82   IGG=-   GG&3+=2.04
 GG&4+=2.71
 ======================================================================
-20:00    24.10.  [Dutch - Eerste Divisie]
+14:30    26.10.  [Dutch - Eerste Divisie]
+Willem II Tilburg  vs  MVV Maastricht   (ID: 1150)
+1=1.55   X=4.3   2=4.3
+0-2=2.4   2+=-   3+=1.51
+GG=1.6   IGG=-   GG&3+=1.89
+GG&4+=2.68
+======================================================================
+20:00  Pet  24.10.  [Dutch - Eerste Divisie]
 B36 Torshavn II  vs  EB/Streymur II   (ID: 6)
 1=1.32   X=5.2   2=6.2
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-20:00    24.10.  [Uruguayan - Segunda Division]
+20:00  Pet  24.10.  [Uruguayan - Segunda Division]
 Club Oriental de Football  vs  Club Atletico Rentistas   (ID: 791)
 1=2.39   X=2.95   2=2.75
 0-2=1.55   2+=-   3+=2.3
@@ -6036,7 +6751,35 @@ Uruguay Montevideo FC  vs  Tacuarembo FC   (ID: 793)
 GG=2.01   IGG=-   GG&3+=2.7
 GG&4+=5
 ======================================================================
-20:30    24.10.  [Italian - Serie C Group A]
+14:00    26.10.  [Uruguayan - Segunda Division]
+CA Fenix Montevideo  vs  CA Atenas de San Carlos   (ID: 790)
+1=2.44   X=2.95   2=2.7
+0-2=1.52   2+=-   3+=2.36
+GG=2.03   IGG=-   GG&3+=2.8
+GG&4+=5.3
+======================================================================
+14:00    26.10.  [Uruguayan - Segunda Division]
+Albion FC  vs  Central Espanol FC   (ID: 792)
+1=2.13   X=3   2=3.1
+0-2=1.53   2+=-   3+=2.35
+GG=2.06   IGG=-   GG&3+=2.85
+GG&4+=5.3
+======================================================================
+15:00    26.10.  [Uruguayan - Segunda Division]
+Deportivo Maldonado  vs  La Luz FC   (ID: 793)
+1=1.91   X=3.2   2=3.5
+0-2=1.62   2+=-   3+=2.17
+GG=1.99   IGG=-   GG&3+=2.65
+GG&4+=4.75
+======================================================================
+19:00    26.10.  [Uruguayan - Segunda Division]
+Colon FC  vs  CS Cerrito   (ID: 791)
+1=1.45   X=4   2=5.6
+0-2=1.84   2+=-   3+=1.86
+GG=2.05   IGG=-   GG&3+=2.55
+GG&4+=4.1
+======================================================================
+20:30  Pet  24.10.  [Italian - Serie C Group A]
 Novara FC  vs  Virtus Verona   (ID: 1036)
 1=1.91   X=3.3   2=3.55
 0-2=1.61   2+=-   3+=2.04
@@ -6064,12 +6807,54 @@ AC Renate  vs  Calcio Lecco 1912   (ID: 1024)
 GG=1.95   IGG=-   GG&3+=2.55
 GG&4+=5
 ======================================================================
-20:30    24.10.  [Italian - Serie C Group C]
+14:30    26.10.  [Italian - Serie C Group A]
+Pro Vercelli 1892  vs  US Pergolettese Crema   (ID: 1020)
+1=2.16   X=2.95   2=3.15
+0-2=1.46   2+=-   3+=2.36
+GG=2.1   IGG=-   GG&3+=2.8
+GG&4+=5.8
+======================================================================
+14:30    26.10.  [Italian - Serie C Group A]
+AC Trento  vs  L.R. Vicenza   (ID: 1018)
+1=4.6   X=3.5   2=1.63
+0-2=1.67   2+=-   3+=1.95
+GG=1.97   IGG=-   GG&3+=2.46
+GG&4+=4.4
+======================================================================
+17:30    26.10.  [Italian - Serie C Group A]
+AS Giana Erminio  vs  Alcione Milano   (ID: 1020)
+1=2.18   X=2.95   2=3.1
+0-2=1.53   2+=-   3+=2.2
+GG=1.96   IGG=-   GG&3+=2.6
+GG&4+=5.05
+======================================================================
+17:30    26.10.  [Italian - Serie C Group A]
+Pro Patria Busto Arsizio  vs  Acd Ospitaletto   (ID: 1020)
+1=2.17   X=2.95   2=3.1
+0-2=1.55   2+=-   3+=2.14
+GG=1.93   IGG=-   GG&3+=2.5
+GG&4+=4.8
+======================================================================
+20:30    27.10.  [Italian - Serie C Group A]
+Dolomiti Bellunesi  vs  Triestina Calcio 1918   (ID: 1020)
+1=2.6   X=2.9   2=2.55
+0-2=1.61   2+=-   3+=2.05
+GG=1.82   IGG=-   GG&3+=2.36
+GG&4+=4.4
+======================================================================
+20:30    27.10.  [Italian - Serie C Group A]
+Inter Milano U23  vs  AS Cittadella   (ID: 1020)
+1=2.39   X=2.95   2=2.75
+0-2=1.51   2+=-   3+=2.23
+GG=1.97   IGG=-   GG&3+=2.6
+GG&4+=5.1
+======================================================================
+20:30  Pet  24.10.  [Italian - Serie C Group C]
 Calcio Foggia  vs  Team Altamura   (ID: 1039)
 1=2.31   X=3.05   2=2.8
-0-2=1.63   2+=-   3+=2.01
-GG=1.82   IGG=-   GG&3+=2.32
-GG&4+=4.25
+0-2=1.66   2+=-   3+=1.98
+GG=1.8   IGG=-   GG&3+=2.28
+GG&4+=4.1
 ======================================================================
 14:30    25.10.  [Italian - Serie C Group C]
 Cavese 1919  vs  FC Crotone   (ID: 1026)
@@ -6092,7 +6877,49 @@ Siracusa Calcio  vs  S.S.D. Casarano Calcio   (ID: 1026)
 GG=1.81   IGG=-   GG&3+=2.29
 GG&4+=4.15
 ======================================================================
-20:45    24.10.  [Scottish - League One]
+12:30    26.10.  [Italian - Serie C Group C]
+Trapani Calcio  vs  Audace Cerignola   (ID: 1020)
+1=2.24   X=3.1   2=2.9
+0-2=1.66   2+=-   3+=1.97
+GG=1.81   IGG=-   GG&3+=2.29
+GG&4+=4.15
+======================================================================
+14:30    26.10.  [Italian - Serie C Group C]
+Cosenza Calcio  vs  Potenza Calcio   (ID: 1019)
+1=1.66   X=3.55   2=4.3
+0-2=1.88   2+=-   3+=1.73
+GG=1.76   IGG=-   GG&3+=2.11
+GG&4+=3.5
+======================================================================
+14:30    26.10.  [Italian - Serie C Group C]
+Calcio Catania  vs  Benevento Calcio   (ID: 1020)
+1=2.08   X=3.1   2=3.2
+0-2=1.62   2+=-   3+=2.03
+GG=1.87   IGG=-   GG&3+=2.38
+GG&4+=4.4
+======================================================================
+17:30    26.10.  [Italian - Serie C Group C]
+SS Monopoli  vs  Giugliano Calcio 1928   (ID: 1020)
+1=1.77   X=3.25   2=4.1
+0-2=1.68   2+=-   3+=1.94
+GG=1.88   IGG=-   GG&3+=2.36
+GG&4+=4.2
+======================================================================
+17:30    26.10.  [Italian - Serie C Group C]
+ASD Sorrento 1945  vs  Latina Calcio   (ID: 1020)
+1=2.1   X=3.05   2=3.2
+0-2=1.59   2+=-   3+=2.07
+GG=1.89   IGG=-   GG&3+=2.43
+GG&4+=4.55
+======================================================================
+20:30    26.10.  [Italian - Serie C Group C]
+US Salernitana  vs  Casertana FC   (ID: 1018)
+1=1.55   X=3.65   2=5.2
+0-2=1.79   2+=-   3+=1.81
+GG=1.9   IGG=-   GG&3+=2.33
+GG&4+=3.95
+======================================================================
+20:45  Pet  24.10.  [Scottish - League One]
 Hamilton Academical FC  vs  Queen of The South FC   (ID: 1075)
 1=1.63   X=3.7   2=4.3
 0-2=1.94   2+=-   3+=1.77
@@ -6127,12 +6954,12 @@ Kelty Hearts FC  vs  East Fife FC   (ID: 1076)
 GG=1.65   IGG=-   GG&3+=2.01
 GG&4+=3.1
 ======================================================================
-20:45    24.10.  [Welsh - Premier League]
-Llanelli Town  vs  The New Saints FC   (ID: 584)
-1=35   X=11   2=1.02
+20:45  Pet  24.10.  [Welsh - Premier League]
+Llanelli Town  vs  The New Saints FC   (ID: 492)
+1=29   X=12   2=1.02
 0-2=5.2   2+=-   3+=1.1
 GG=-   IGG=-   GG&3+=-
-GG&4+=2.79
+GG&4+=2.9
 ======================================================================
 15:00    25.10.  [Welsh - Premier League]
 Connah's Quay Nomads FC  vs  Haverfordwest County AFC   (ID: 1078)
@@ -6156,10 +6983,10 @@ GG=1.48   IGG=-   GG&3+=1.71
 GG&4+=2.47
 ======================================================================
 15:30    25.10.  [Welsh - Premier League]
-Briton Ferry  vs  Colwyn Bay   (ID: 1082)
-1=2.8   X=3.45   2=2.13
+Briton Ferry  vs  Colwyn Bay   (ID: 1081)
+1=3.05   X=3.5   2=1.98
 0-2=2.06   2+=-   3+=1.68
-GG=1.6   IGG=-   GG&3+=1.94
+GG=1.62   IGG=-   GG&3+=1.96
 GG&4+=3
 ======================================================================
 18:15    25.10.  [Welsh - Premier League]
@@ -6169,13 +6996,13 @@ Cardiff Metropolitan University FC  vs  Flint Town United   (ID: 1082)
 GG=1.59   IGG=-   GG&3+=1.92
 GG&4+=3
 ======================================================================
-21:00    24.10.  [Welsh - Premier League]
+21:00  Pet  24.10.  [Welsh - Premier League]
 SE Palmeiras SP U20  vs  Santos FC SP U20   (ID: 3)
 1=1.48   X=4.1   2=5.2
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-22:00    24.10.  [Chilean - Primera Division]
+22:00  Pet  24.10.  [Chilean - Primera Division]
 CD Palestino  vs  CD Everton Vina Del Mar   (ID: 1079)
 1=2   X=3.2   2=3.25
 0-2=1.76   2+=-   3+=1.95
@@ -6196,7 +7023,35 @@ Huachipato  vs  Deportes Iquique   (ID: 1080)
 GG=1.63   IGG=-   GG&3+=1.98
 GG&4+=3.05
 ======================================================================
-23:00    24.10.  [Colombian - Primera A]
+20:00    26.10.  [Chilean - Primera Division]
+Cobresal  vs  Union Espanola   (ID: 1079)
+1=1.95   X=3.35   2=3.2
+0-2=1.88   2+=-   3+=1.82
+GG=1.73   IGG=-   GG&3+=2.16
+GG&4+=3.5
+======================================================================
+22:30    26.10.  [Chilean - Primera Division]
+CD O´Higgins  vs  Coquimbo Unido   (ID: 1078)
+1=3   X=3   2=2.19
+0-2=1.58   2+=-   3+=2.24
+GG=1.97   IGG=-   GG&3+=2.65
+GG&4+=4.85
+======================================================================
+22:30    26.10.  [Chilean - Primera Division]
+Deportes Union La Calera  vs  Nublense   (ID: 1079)
+1=2.5   X=3.1   2=2.5
+0-2=1.65   2+=-   3+=2.11
+GG=1.88   IGG=-   GG&3+=2.48
+GG&4+=4.4
+======================================================================
+00:00    28.10.  [Chilean - Primera Division]
+Colo-Colo  vs  Deportes Limache   (ID: 1076)
+1=1.56   X=3.85   2=4.5
+0-2=1.89   2+=-   3+=1.78
+GG=1.85   IGG=-   GG&3+=2.21
+GG&4+=3.7
+======================================================================
+23:00  Pet  24.10.  [Colombian - Primera A]
 Alianza FC Valledupar  vs  CD La Equidad   (ID: 1075)
 1=1.45   X=3.95   2=5.8
 0-2=1.77   2+=-   3+=1.94
@@ -6245,6 +7100,20 @@ Independiente Santa Fe  vs  Millonarios FC   (ID: 1078)
 GG=1.94   IGG=-   GG&3+=2.6
 GG&4+=4.7
 ======================================================================
+00:30    27.10.  [Colombian - Primera A]
+Atletico Nacional Medellin  vs  Independiente Medellin   (ID: 1077)
+1=2   X=3.05   2=3.35
+0-2=1.78   2+=-   3+=1.89
+GG=1.74   IGG=-   GG&3+=2.19
+GG&4+=3.75
+======================================================================
+01:30    27.10.  [Colombian - Primera A]
+CD Once Caldas  vs  Union Magdalena   (ID: 1072)
+1=1.41   X=4.1   2=6
+0-2=1.85   2+=-   3+=1.82
+GG=2.06   IGG=-   GG&3+=2.49
+GG&4+=4.15
+======================================================================
 00:00    25.10.  [Brazilian - Serie B]
 Gremio Novorizontino SP  vs  Botafogo FC SP   (ID: 1132)
 1=1.46   X=3.8   2=5.8
@@ -6287,6 +7156,34 @@ Criciuma EC SC  vs  Goias EC GO   (ID: 1127)
 GG=2.15   IGG=-   GG&3+=3
 GG&4+=5.75
 ======================================================================
+20:00    26.10.  [Brazilian - Serie B]
+CR Brasil AL  vs  AC Goianiense GO   (ID: 1128)
+1=2   X=3.05   2=3.4
+0-2=1.59   2+=-   3+=2.21
+GG=1.99   IGG=-   GG&3+=2.7
+GG&4+=4.9
+======================================================================
+22:30    26.10.  [Brazilian - Serie B]
+Vila Nova FC GO  vs  Ferroviaria Araraquara SP   (ID: 1127)
+1=1.73   X=3.25   2=4.3
+0-2=1.57   2+=-   3+=2.25
+GG=2.14   IGG=-   GG&3+=2.9
+GG&4+=5.25
+======================================================================
+23:00    27.10.  [Brazilian - Serie B]
+Chapecoense SC  vs  Operario Ferroviario EC PR   (ID: 1126)
+1=1.95   X=2.95   2=3.6
+0-2=1.51   2+=-   3+=2.35
+GG=2.09   IGG=-   GG&3+=2.8
+GG&4+=5.55
+======================================================================
+01:30    28.10.  [Brazilian - Serie B]
+CA Paranaense PR  vs  Amazonas FC AM   (ID: 1122)
+1=1.36   X=4.2   2=6.8
+0-2=1.67   2+=-   3+=2.03
+GG=2.43   IGG=-   GG&3+=3.05
+GG&4+=5.4
+======================================================================
 00:30    25.10.  [Uruguayan - Primera Division]
 Defensor Sporting  vs  Montevideo City Torque   (ID: 1079)
 1=2.48   X=3   2=2.6
@@ -6315,19 +7212,47 @@ Cerro Largo FC  vs  Racing Club Montevideo   (ID: 1074)
 GG=2.04   IGG=-   GG&3+=2.8
 GG&4+=5.25
 ======================================================================
-00:30    25.10.  [Chilean - Primera B]
-San Luis de Quillota  vs  Deportes Copiapo   (ID: 1007)
-1=3.15   X=3.05   2=2.11
-0-2=1.52   2+=-   3+=2.22
-GG=2.01   IGG=-   GG&3+=2.6
-GG&4+=5.15
+17:30    26.10.  [Uruguayan - Primera Division]
+Danubio FC  vs  CA River Plate (URU)   (ID: 1078)
+1=1.73   X=3.5   2=3.9
+0-2=1.63   2+=-   3+=2.14
+GG=2.07   IGG=-   GG&3+=2.7
+GG&4+=4.8
+======================================================================
+20:00    26.10.  [Uruguayan - Primera Division]
+Liverpool Montevideo  vs  CA Progreso   (ID: 1078)
+1=1.66   X=3.6   2=4.2
+0-2=1.83   2+=-   3+=1.87
+GG=1.87   IGG=-   GG&3+=2.35
+GG&4+=3.85
+======================================================================
+22:30    26.10.  [Uruguayan - Primera Division]
+Montevideo Wanderers  vs  Club Nacional de Football   (ID: 1075)
+1=5.4   X=3.9   2=1.49
+0-2=1.73   2+=-   3+=1.99
+GG=2.14   IGG=-   GG&3+=2.75
+GG&4+=4.6
+======================================================================
+01:00    27.10.  [Uruguayan - Primera Division]
+Miramar Misiones  vs  CA Boston River   (ID: 1076)
+1=3.05   X=3.1   2=2.11
+0-2=1.67   2+=-   3+=2.04
+GG=1.85   IGG=-   GG&3+=2.35
+GG&4+=4.25
 ======================================================================
 00:30    25.10.  [Chilean - Primera B]
-Universidad de Concepcion  vs  Deportes Temuco   (ID: 1006)
-1=1.84   X=2.95   2=4.2
-0-2=1.51   2+=-   3+=2.23
-GG=2.06   IGG=-   GG&3+=2.75
-GG&4+=5.35
+San Luis de Quillota  vs  Deportes Copiapo   (ID: 1020)
+1=3.1   X=3   2=2.16
+0-2=1.55   2+=-   3+=2.15
+GG=1.94   IGG=-   GG&3+=2.5
+GG&4+=4.8
+======================================================================
+00:30    25.10.  [Chilean - Primera B]
+Universidad de Concepcion  vs  Deportes Temuco   (ID: 1019)
+1=1.82   X=3.1   2=4.1
+0-2=1.57   2+=-   3+=2.12
+GG=2   IGG=-   GG&3+=2.6
+GG&4+=4.9
 ======================================================================
 17:30    25.10.  [Chilean - Primera B]
 Union San Felipe  vs  Santiago Morning   (ID: 1005)
@@ -6349,6 +7274,20 @@ CD Santa Cruz  vs  San Marcos De Arica   (ID: 1007)
 0-2=1.68   2+=-   3+=1.94
 GG=1.78   IGG=-   GG&3+=2.25
 GG&4+=4
+======================================================================
+16:30    26.10.  [Chilean - Primera B]
+Deportes Magallanes  vs  CD Antofagasta   (ID: 1001)
+1=2.21   X=3.05   2=2.95
+0-2=1.75   2+=-   3+=1.85
+GG=1.71   IGG=-   GG&3+=2.13
+GG&4+=3.7
+======================================================================
+00:00    27.10.  [Chilean - Primera B]
+CSD Rangers  vs  Deportes Concepcion   (ID: 1001)
+1=2.23   X=2.7   2=3.3
+0-2=1.57   2+=-   3+=2.12
+GG=1.85   IGG=-   GG&3+=2.47
+GG&4+=4.65
 ======================================================================
 02:00    25.10.  [Ecuadorian - Primera Serie A]
 Orense SC  vs  CD Universidad Catolica Del Ecuador   (ID: 1076)
@@ -6378,6 +7317,27 @@ CD Cuenca  vs  SD Aucas   (ID: 1075)
 GG=1.83   IGG=-   GG&3+=2.38
 GG&4+=4.1
 ======================================================================
+19:00    26.10.  [Ecuadorian - Primera Serie A]
+Vinotinto FC Ecuador  vs  CD Tecnico Universitario   (ID: 1074)
+1=2.27   X=3.2   2=2.75
+0-2=1.6   2+=-   3+=2.19
+GG=1.96   IGG=-   GG&3+=2.6
+GG&4+=4.7
+======================================================================
+21:30    26.10.  [Ecuadorian - Primera Serie A]
+CD El Nacional  vs  CSD Macara   (ID: 1075)
+1=2.85   X=3.2   2=2.2
+0-2=1.7   2+=-   3+=2.04
+GG=1.84   IGG=-   GG&3+=2.4
+GG&4+=4.15
+======================================================================
+00:00    27.10.  [Ecuadorian - Primera Serie A]
+CS Emelec  vs  Delfin SC   (ID: 1073)
+1=1.65   X=3.45   2=4.4
+0-2=1.64   2+=-   3+=2.07
+GG=2.05   IGG=-   GG&3+=2.6
+GG&4+=4.7
+======================================================================
 03:00    25.10.  [Costa Rican - Primera Division]
 AD San Carlos  vs  Guadalupe FC   (ID: 1029)
 1=1.92   X=3.35   2=3.35
@@ -6398,6 +7358,20 @@ CS Herediano  vs  CS Cartagines   (ID: 1023)
 0-2=1.67   2+=-   3+=1.96
 GG=1.83   IGG=-   GG&3+=2.31
 GG&4+=4.15
+======================================================================
+18:00    26.10.  [Costa Rican - Primera Division]
+Deportivo Saprissa San Jose  vs  Puntarenas FC   (ID: 1019)
+1=1.4   X=4.2   2=6.2
+0-2=1.91   2+=-   3+=1.7
+GG=1.94   IGG=-   GG&3+=2.3
+GG&4+=3.75
+======================================================================
+00:00    27.10.  [Costa Rican - Primera Division]
+Liga Deportiva Alajuelense  vs  Perez Zeledon   (ID: 1019)
+1=1.39   X=4.1   2=6.8
+0-2=1.84   2+=-   3+=1.76
+GG=2.04   IGG=-   GG&3+=2.45
+GG&4+=4.1
 ======================================================================
 07:00    25.10.  [Costa Rican - Primera Division]
 Fujieda MYFC  vs  Ventforet Kofu   (ID: 1080)
@@ -6611,10 +7585,10 @@ GG&4+=3.35
 ======================================================================
 10:00    25.10.  [Chinese - League Two]
 FC Corvinul Hunedoara 1921  vs  ACS FC Bacau   (ID: 997)
-1=1.21   X=5.4   2=10
+1=1.2   X=5.6   2=10
 0-2=2.17   2+=-   3+=1.54
-GG=2.12   IGG=-   GG&3+=2.41
-GG&4+=3.65
+GG=2.16   IGG=-   GG&3+=2.45
+GG&4+=3.7
 ======================================================================
 10:00    25.10.  [Chinese - League Two]
 ACSM Resita  vs  Csm Politehnica Iasi   (ID: 1006)
@@ -6633,23 +7607,23 @@ GG&4+=3.6
 10:00    25.10.  [Chinese - League Two]
 Csm Olimpia Satu Mare  vs  CSA Steaua Bucuresti   (ID: 1004)
 1=5.6   X=4   2=1.46
-0-2=1.91   2+=-   3+=1.71
-GG=1.88   IGG=-   GG&3+=2.23
-GG&4+=3.65
+0-2=1.94   2+=-   3+=1.68
+GG=1.85   IGG=-   GG&3+=2.19
+GG&4+=3.55
 ======================================================================
 10:00    25.10.  [Chinese - League Two]
 CS Concordia Chiajna  vs  AFC Metalul Buzau   (ID: 1007)
 1=1.84   X=3.15   2=3.9
-0-2=1.75   2+=-   3+=1.85
-GG=1.77   IGG=-   GG&3+=2.21
-GG&4+=3.8
+0-2=1.79   2+=-   3+=1.81
+GG=1.73   IGG=-   GG&3+=2.15
+GG&4+=3.65
 ======================================================================
 12:30    25.10.  [Chinese - League Two]
 AFC Chindia Targoviste  vs  SC FC Voluntari   (ID: 1007)
 1=2.02   X=3.1   2=3.3
-0-2=1.64   2+=-   3+=2
-GG=1.85   IGG=-   GG&3+=2.35
-GG&4+=4.3
+0-2=1.67   2+=-   3+=1.96
+GG=1.82   IGG=-   GG&3+=2.3
+GG&4+=4.1
 ======================================================================
 10:30    26.10.  [Chinese - League Two]
 FC Bihor Oradea  vs  CS Afumati   (ID: 998)
@@ -6701,7 +7675,7 @@ GG=1.7   IGG=-   GG&3+=1.92
 GG&4+=2.69
 ======================================================================
 15:30    25.10.  [Russian - Premier League]
-FK Rostov  vs  FC Dynamo-Makhachkala   (ID: 1074)
+FK Rostov  vs  FC Dynamo-Makhachkala   (ID: 1075)
 1=1.86   X=3.1   2=3.85
 0-2=1.49   2+=-   3+=2.45
 GG=2.22   IGG=-   GG&3+=3.1
@@ -6720,6 +7694,41 @@ FK Akron Tolyatti  vs  Lokomotiv Moscow   (ID: 1081)
 0-2=2.36   2+=-   3+=1.52
 GG=1.54   IGG=-   GG&3+=1.79
 GG&4+=2.63
+======================================================================
+13:15    26.10.  [Russian - Premier League]
+FC Pari Nizhny Novgorod  vs  FC Baltika Kaliningrad   (ID: 1076)
+1=3.5   X=3.1   2=1.94
+0-2=1.54   2+=-   3+=2.31
+GG=2.08   IGG=-   GG&3+=2.85
+GG&4+=5.3
+======================================================================
+15:30    26.10.  [Russian - Premier League]
+FK Zenit Saint Petersburg  vs  FK Dinamo Moscow   (ID: 1078)
+1=1.55   X=3.95   2=4.5
+0-2=2.09   2+=-   3+=1.66
+GG=1.74   IGG=-   GG&3+=2.09
+GG&4+=3.2
+======================================================================
+17:45    26.10.  [Russian - Premier League]
+FK Krasnodar  vs  FK Rubin Kazan   (ID: 1077)
+1=1.5   X=3.95   2=5
+0-2=1.85   2+=-   3+=1.85
+GG=1.98   IGG=-   GG&3+=2.47
+GG&4+=4
+======================================================================
+17:30    27.10.  [Russian - Premier League]
+RFK Akhmat Grozny  vs  FK Sochi   (ID: 1076)
+1=1.58   X=3.65   2=4.6
+0-2=1.77   2+=-   3+=1.9
+GG=1.95   IGG=-   GG&3+=2.39
+GG&4+=4.1
+======================================================================
+18:15    01.11.  [Russian - Premier League]
+FK Zenit Saint Petersburg  vs  Lokomotiv Moscow   (ID: 1076)
+1=1.62   X=3.7   2=4.2
+0-2=2.1   2+=-   3+=1.63
+GG=1.67   IGG=-   GG&3+=1.96
+GG&4+=3.05
 ======================================================================
 13:00    25.10.  [Russian - Premier League]
 Hoersholm-Usseroed IK  vs  Odder IGF   (ID: 1007)
@@ -6766,9 +7775,9 @@ GG&4+=3
 13:30    25.10.  [English - National League]
 FC Halifax Town  vs  York City FC   (ID: 1154)
 1=3.7   X=3.6   2=1.77
-0-2=2.11   2+=-   3+=1.65
-GG=1.63   IGG=-   GG&3+=2.02
-GG&4+=3
+0-2=2.07   2+=-   3+=1.67
+GG=1.65   IGG=-   GG&3+=2.05
+GG&4+=3.1
 ======================================================================
 16:00    25.10.  [English - National League]
 Braintree Town FC  vs  Altrincham FC   (ID: 1154)
@@ -6779,10 +7788,10 @@ GG&4+=3
 ======================================================================
 16:00    25.10.  [English - National League]
 Forest Green Rovers  vs  Boreham Wood FC   (ID: 1155)
-1=1.97   X=3.3   2=3.25
+1=1.96   X=3.45   2=3.2
 0-2=1.8   2+=-   3+=1.91
-GG=1.78   IGG=-   GG&3+=2.33
-GG&4+=3.75
+GG=1.8   IGG=-   GG&3+=2.33
+GG&4+=3.8
 ======================================================================
 16:00    25.10.  [English - National League]
 Eastleigh FC  vs  Morecambe FC   (ID: 1155)
@@ -6794,9 +7803,9 @@ GG&4+=2.83
 16:00    25.10.  [English - National League]
 Southend United  vs  Brackley Town FC   (ID: 1077)
 1=1.65   X=3.55   2=4.3
-0-2=1.8   2+=-   3+=1.91
-GG=1.91   IGG=-   GG&3+=2.42
-GG&4+=4
+0-2=1.77   2+=-   3+=1.94
+GG=1.93   IGG=-   GG&3+=2.47
+GG&4+=4.1
 ======================================================================
 16:00    25.10.  [English - National League]
 Gateshead FC  vs  Truro City   (ID: 1156)
@@ -6869,10 +7878,22 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:00    25.10.  [Turkish - Second League]
 MKE Ankaragucu  vs  Sanliurfaspor   (ID: 1007)
-1=2.85   X=3.35   2=2.15
-0-2=1.7   2+=-   3+=1.92
-GG=1.8   IGG=-   GG&3+=2.22
-GG&4+=4
+1=3.1   X=3.4   2=1.99
+0-2=1.88   2+=-   3+=1.73
+GG=1.67   IGG=-   GG&3+=2
+GG&4+=3.3
+======================================================================
+12:00    26.10.  [Turkish - Second League]
+Kahramanmaras Istiklalspor  vs  68 Aksaray Belediyespor   (ID: 8)
+1=1.47   X=3.95   2=5.6
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+13:00    26.10.  [Turkish - Second League]
+Guzide Gebzespor  vs  Menemenspor AS   (ID: 8)
+1=2.14   X=3.25   2=2.95
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:00    25.10.  [German - Regionalliga Sudwest]
 FSV Mainz II U23  vs  SGV Freiberg   (ID: 1026)
@@ -6916,6 +7937,27 @@ TSG Balingen 1848  vs  KSV Hessen Kassel   (ID: 1025)
 GG=1.48   IGG=-   GG&3+=1.66
 GG&4+=2.48
 ======================================================================
+14:00    26.10.  [German - Regionalliga Sudwest]
+SV Sandhausen  vs  FC Bayern Alzenau   (ID: 1017)
+1=1.57   X=4.2   2=4.2
+0-2=2.7   2+=-   3+=1.35
+GG=1.44   IGG=-   GG&3+=1.57
+GG&4+=2.22
+======================================================================
+14:00    26.10.  [German - Regionalliga Sudwest]
+Offenbacher FC Kickers 1901  vs  Eintracht Trier   (ID: 1017)
+1=1.9   X=3.85   2=3.05
+0-2=2.6   2+=-   3+=1.38
+GG=1.41   IGG=-   GG&3+=1.56
+GG&4+=2.25
+======================================================================
+14:00    26.10.  [German - Regionalliga Sudwest]
+SG Barockstadt Fulda-Lehnerz  vs  FC 08 Homburg-Saar   (ID: 1019)
+1=2.55   X=3.7   2=2.19
+0-2=2.35   2+=-   3+=1.46
+GG=1.45   IGG=-   GG&3+=1.64
+GG&4+=2.47
+======================================================================
 14:00    25.10.  [German - Regionalliga West]
 Bonner SC  vs  SC Wiedenbruck   (ID: 1028)
 1=2.18   X=3.55   2=2.65
@@ -6953,10 +7995,10 @@ GG&4+=2.66
 ======================================================================
 14:00    25.10.  [German - Regionalliga West]
 RW Oberhausen  vs  VfL Sportfreunde Lotte 1929   (ID: 1025)
-1=1.76   X=3.65   2=3.65
+1=1.68   X=3.75   2=3.9
 0-2=2.13   2+=-   3+=1.56
-GG=1.58   IGG=-   GG&3+=1.83
-GG&4+=2.87
+GG=1.6   IGG=-   GG&3+=1.85
+GG&4+=2.9
 ======================================================================
 14:00    25.10.  [German - Regionalliga West]
 SSVG Velbert  vs  FC Schalke 04 II U23   (ID: 1023)
@@ -6972,6 +8014,13 @@ SV Rodinghausen  vs  Borussia Dortmund II U23   (ID: 1028)
 GG=1.46   IGG=-   GG&3+=1.66
 GG&4+=2.53
 ======================================================================
+14:00    26.10.  [German - Regionalliga West]
+FC Gutersloh 2000  vs  Sportfreunde Siegen 1899   (ID: 1019)
+1=1.93   X=3.6   2=3.15
+0-2=2.3   2+=-   3+=1.48
+GG=1.48   IGG=-   GG&3+=1.68
+GG&4+=2.55
+======================================================================
 14:00    25.10.  [Norwegian - First Division]
 Skeid Fotball  vs  Raufoss IL   (ID: 1081)
 1=3.35   X=3.6   2=1.85
@@ -6981,9 +8030,9 @@ GG&4+=2.8
 ======================================================================
 16:00    25.10.  [Norwegian - First Division]
 Hoedd IL  vs  Stabaek IF   (ID: 1081)
-1=3.35   X=3.5   2=1.87
+1=3.45   X=3.55   2=1.83
 0-2=2.1   2+=-   3+=1.66
-GG=1.61   IGG=-   GG&3+=1.95
+GG=1.62   IGG=-   GG&3+=1.96
 GG&4+=3
 ======================================================================
 16:00    25.10.  [Norwegian - First Division]
@@ -7028,6 +8077,13 @@ Mjoendalen IF  vs  Odds BK   (ID: 1082)
 GG=1.54   IGG=-   GG&3+=1.84
 GG&4+=2.79
 ======================================================================
+19:00    29.10.  [Norwegian - First Division]
+Mjoendalen IF  vs  Stabaek IF   (ID: 1075)
+1=5   X=4.4   2=1.49
+0-2=2.6   2+=-   3+=1.42
+GG=1.54   IGG=-   GG&3+=1.71
+GG&4+=2.46
+======================================================================
 14:00    25.10.  [Azerbaijani - Premier League]
 Araz Nakhchivan PFK  vs  Sabah Masazir   (ID: 8)
 1=2.55   X=3.2   2=2.47
@@ -7061,6 +8117,27 @@ Nyiregyhaza Spartacus FC  vs  Kazincbarcikai SC   (ID: 1079)
 GG=1.7   IGG=-   GG&3+=2.09
 GG&4+=3.3
 ======================================================================
+12:45    26.10.  [Hungarian - NB I]
+Kisvarda FC  vs  WKW ETO FC Gyor   (ID: 1082)
+1=2.9   X=3.4   2=2.07
+0-2=2.04   2+=-   3+=1.7
+GG=1.61   IGG=-   GG&3+=1.97
+GG&4+=3.05
+======================================================================
+15:00    26.10.  [Hungarian - NB I]
+Debreceni VSC  vs  Ujpest FC Budapest   (ID: 1082)
+1=2.44   X=3.45   2=2.38
+0-2=2.12   2+=-   3+=1.64
+GG=1.56   IGG=-   GG&3+=1.88
+GG&4+=2.9
+======================================================================
+17:30    26.10.  [Hungarian - NB I]
+Ferencvarosi Budapest  vs  Zalaegerszeg TE   (ID: 1073)
+1=1.27   X=5.4   2=8.6
+0-2=2.49   2+=-   3+=1.47
+GG=1.86   IGG=-   GG&3+=2.11
+GG&4+=2.98
+======================================================================
 14:30    25.10.  [Italian - Serie C Group B]
 Ternana Calcio  vs  SS Arezzo   (ID: 1024)
 1=2.9   X=2.95   2=2.31
@@ -7090,10 +8167,10 @@ GG=1.92   IGG=-   GG&3+=2.5
 GG&4+=4.8
 ======================================================================
 17:30    25.10.  [Italian - Serie C Group B]
-Campobasso FC  vs  Rimini FC 1912   (ID: 1024)
-1=2.05   X=3   2=3.4
+Campobasso FC  vs  Rimini FC 1912   (ID: 1026)
+1=2   X=3   2=3.5
 0-2=1.44   2+=-   3+=2.4
-GG=2.15   IGG=-   GG&3+=2.9
+GG=2.16   IGG=-   GG&3+=2.9
 GG&4+=6
 ======================================================================
 20:30    25.10.  [Italian - Serie C Group B]
@@ -7102,6 +8179,34 @@ Forli FC  vs  Asd Pineto Calcio   (ID: 1024)
 0-2=1.55   2+=-   3+=2.15
 GG=1.91   IGG=-   GG&3+=2.49
 GG&4+=4.75
+======================================================================
+14:30    26.10.  [Italian - Serie C Group B]
+Ascoli Calcio 1898  vs  US Sambenedettese   (ID: 1017)
+1=1.53   X=3.55   2=5.6
+0-2=1.61   2+=-   3+=2.05
+GG=2.16   IGG=-   GG&3+=2.75
+GG&4+=5.1
+======================================================================
+14:30    26.10.  [Italian - Serie C Group B]
+AC Bra  vs  Vis Pesaro 1898   (ID: 1020)
+1=3   X=3.05   2=2.19
+0-2=1.56   2+=-   3+=2.13
+GG=1.93   IGG=-   GG&3+=2.49
+GG&4+=4.75
+======================================================================
+17:30    26.10.  [Italian - Serie C Group B]
+US Pianese  vs  Ravenna FC 1913   (ID: 1020)
+1=2.75   X=3.05   2=2.35
+0-2=1.63   2+=-   3+=2.01
+GG=1.82   IGG=-   GG&3+=2.32
+GG&4+=4.25
+======================================================================
+20:30    27.10.  [Italian - Serie C Group B]
+Perugia Calcio Spa  vs  US Livorno 1915   (ID: 1020)
+1=2.03   X=3.1   2=3.3
+0-2=1.56   2+=-   3+=2.13
+GG=1.96   IGG=-   GG&3+=2.5
+GG&4+=4.8
 ======================================================================
 14:30    25.10.  [Dutch - Tweede Divisie]
 GVVV Veenendaal  vs  ACV Assen   (ID: 642)
@@ -7146,11 +8251,11 @@ GG=1.49   IGG=-   GG&3+=1.69
 GG&4+=2.56
 ======================================================================
 15:00    25.10.  [Dutch - Tweede Divisie]
-Jong Sparta Rotterdam  vs  Kozakken Boys Werkendam   (ID: 643)
+Jong Sparta Rotterdam  vs  Kozakken Boys Werkendam   (ID: 642)
 1=2.3   X=4   2=2.35
-0-2=2.55   2+=-   3+=1.44
-GG=1.42   IGG=-   GG&3+=1.58
-GG&4+=2.34
+0-2=2.75   2+=-   3+=1.38
+GG=1.38   IGG=-   GG&3+=1.51
+GG&4+=2.18
 ======================================================================
 15:30    25.10.  [Dutch - Tweede Divisie]
 VV Katwijk  vs  BVV Barendrecht   (ID: 641)
@@ -7181,6 +8286,18 @@ GG=-   IGG=-   GG&3+=-
 18:00    25.10.  [UAE - Presidents Cup]
 Al-Nasr Dubai CSC  vs  Baniyas Club   (ID: 3)
 1=1.59   X=3.7   2=4.8
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+13:55    26.10.  [UAE - Presidents Cup]
+Dibba Al Fujairah  vs  Al Wasl FC   (ID: 3)
+1=4.6   X=4.6   2=1.47
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+17:00    26.10.  [UAE - Presidents Cup]
+Al Jazira Al Hamra  vs  Ajman Club   (ID: 3)
+1=1.76   X=3.55   2=3.85
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -7219,6 +8336,27 @@ FC Slovan Liberec  vs  FK Jablonec   (ID: 1078)
 GG=1.81   IGG=-   GG&3+=2.36
 GG&4+=4.05
 ======================================================================
+13:00    26.10.  [Czech - First League]
+SK Sigma Olomouc  vs  Slavia Prague   (ID: 1077)
+1=4.2   X=3.5   2=1.68
+0-2=1.83   2+=-   3+=1.87
+GG=1.85   IGG=-   GG&3+=2.34
+GG&4+=3.8
+======================================================================
+15:30    26.10.  [Czech - First League]
+Sparta Prague  vs  Bohemians Prague 1905   (ID: 1074)
+1=1.26   X=5.4   2=8.6
+0-2=2.37   2+=-   3+=1.52
+GG=1.93   IGG=-   GG&3+=2.22
+GG&4+=3.15
+======================================================================
+18:30    26.10.  [Czech - First League]
+FC Viktoria Plzen  vs  FC Banik Ostrava   (ID: 1075)
+1=1.37   X=4.8   2=5.8
+0-2=2.5   2+=-   3+=1.47
+GG=1.7   IGG=-   GG&3+=1.94
+GG&4+=2.76
+======================================================================
 15:30    25.10.  [Slovakian - Super Liga]
 AS Trencin  vs  KFC Komarno   (ID: 1081)
 1=2.1   X=3.35   2=2.9
@@ -7246,6 +8384,20 @@ FK Kosice  vs  FK Zeleziarne Podbrezova   (ID: 1082)
 0-2=2.26   2+=-   3+=1.57
 GG=1.54   IGG=-   GG&3+=1.82
 GG&4+=2.71
+======================================================================
+15:30    26.10.  [Slovakian - Super Liga]
+MFK Ruzomberok  vs  FC Spartak Trnava   (ID: 1079)
+1=3.4   X=3.45   2=1.88
+0-2=1.93   2+=-   3+=1.78
+GG=1.71   IGG=-   GG&3+=2.12
+GG&4+=3.35
+======================================================================
+18:00    26.10.  [Slovakian - Super Liga]
+SK Slovan Bratislava  vs  1. FC Tatran Presov   (ID: 1074)
+1=1.24   X=5.8   2=9
+0-2=2.7   2+=-   3+=1.4
+GG=1.8   IGG=-   GG&3+=2.01
+GG&4+=2.77
 ======================================================================
 15:30    25.10.  [Faroe Islands - Premier League]
 Vikingur Gota  vs  HB Torshavn   (ID: 1012)
@@ -7284,6 +8436,18 @@ GG=-   IGG=-   GG&3+=-
 19:00    25.10.  [Maltese - Premier League]
 Floriana FC  vs  Birkirkara FC   (ID: 8)
 1=2.03   X=3.2   2=3.25
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+16:00    26.10.  [Maltese - Premier League]
+Sliema Wanderers  vs  Marsaxlokk FC   (ID: 8)
+1=2.65   X=3.3   2=2.33
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+19:00    26.10.  [Maltese - Premier League]
+Naxxar Lions FC  vs  Hamrun Spartans FC   (ID: 8)
+1=8   X=4.7   2=1.3
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -7378,6 +8542,41 @@ Olympiakos Nicosia  vs  Apollon Limassol   (ID: 1222)
 GG=2.11   IGG=-   GG&3+=2.9
 GG&4+=5
 ======================================================================
+16:00    26.10.  [Cypriot - First Division]
+Akritas Chlorakas  vs  Omonia Aradippou   (ID: 1224)
+1=2.55   X=3.15   2=2.8
+0-2=1.65   2+=-   3+=2.12
+GG=1.87   IGG=-   GG&3+=2.55
+GG&4+=4.4
+======================================================================
+18:00    26.10.  [Cypriot - First Division]
+Anorthosis Famagusta  vs  Aris Limassol FC   (ID: 1222)
+1=6   X=4.3   2=1.5
+0-2=2.01   2+=-   3+=1.72
+GG=1.88   IGG=-   GG&3+=2.33
+GG&4+=3.5
+======================================================================
+18:00    26.10.  [Cypriot - First Division]
+AEL Limassol  vs  Freedom24 Krasava ENY   (ID: 1223)
+1=2.07   X=3.45   2=3.4
+0-2=1.84   2+=-   3+=1.86
+GG=1.74   IGG=-   GG&3+=2.25
+GG&4+=3.6
+======================================================================
+18:00    27.10.  [Cypriot - First Division]
+AEK Larnaca  vs  APOEL Nikosia   (ID: 1220)
+1=2.3   X=3.25   2=3.05
+0-2=1.55   2+=-   3+=2.25
+GG=2   IGG=-   GG&3+=2.7
+GG&4+=5
+======================================================================
+18:00    27.10.  [Cypriot - First Division]
+AC Omonia Nicosia  vs  Pafos FC   (ID: 1223)
+1=2.47   X=3.4   2=2.7
+0-2=1.79   2+=-   3+=1.88
+GG=1.73   IGG=-   GG&3+=2.21
+GG&4+=3.7
+======================================================================
 16:00    25.10.  [Egyptian - Premier League]
 Haras El Hodood  vs  Ghazl El Mahallah   (ID: 1031)
 1=3.35   X=2.6   2=2.24
@@ -7392,6 +8591,55 @@ Modern Sport FC  vs  Al Mokawloon Al Arab   (ID: 1035)
 GG=2.21   IGG=-   GG&3+=3.25
 GG&4+=6.5
 ======================================================================
+15:00    26.10.  [Egyptian - Premier League]
+Kahrabaa Ismailia  vs  Ceramica Cleopatra   (ID: 1039)
+1=4.5   X=3.3   2=1.67
+0-2=1.67   2+=-   3+=2.08
+GG=2.02   IGG=-   GG&3+=2.7
+GG&4+=4.6
+======================================================================
+18:00    26.10.  [Egyptian - Premier League]
+Talaea El Gaish  vs  ZED FC   (ID: 1031)
+1=3.45   X=2.48   2=2.3
+0-2=1.31   2+=-   3+=3.2
+GG=2.48   IGG=-   GG&3+=3.95
+GG&4+=8.5
+======================================================================
+18:00    26.10.  [Egyptian - Premier League]
+Pharco FC  vs  Ismaily SC   (ID: 1033)
+1=2.3   X=2.6   2=3.25
+0-2=1.37   2+=-   3+=2.85
+GG=2.3   IGG=-   GG&3+=3.5
+GG&4+=7.35
+======================================================================
+15:00    27.10.  [Egyptian - Premier League]
+Smouha SC  vs  El Gouna FC   (ID: 1031)
+1=2.11   X=2.6   2=3.65
+0-2=1.32   2+=-   3+=3
+GG=2.46   IGG=-   GG&3+=3.6
+GG&4+=8
+======================================================================
+18:00    27.10.  [Egyptian - Premier League]
+Al Ittihad Al Sakandary  vs  Wadi Degla SC   (ID: 1028)
+1=3.3   X=2.43   2=2.39
+0-2=1.25   2+=-   3+=3.45
+GG=2.65   IGG=-   GG&3+=4.1
+GG&4+=10
+======================================================================
+15:00    29.10.  [Egyptian - Premier League]
+Enppi Club  vs  Pyramids FC   (ID: 1031)
+1=6.6   X=3.55   2=1.44
+0-2=1.52   2+=-   3+=2.32
+GG=2.6   IGG=-   GG&3+=3.4
+GG&4+=6.65
+======================================================================
+18:00    29.10.  [Egyptian - Premier League]
+Petrojet FC  vs  AL Ahly SC (Egy)   (ID: 1032)
+1=8   X=4.5   2=1.33
+0-2=1.89   2+=-   3+=1.79
+GG=2.17   IGG=-   GG&3+=2.6
+GG&4+=4.25
+======================================================================
 16:00    25.10.  [Norwegian - Eliteserien]
 Viking FK  vs  Bryne FK   (ID: 1292)
 1=1.33   X=5   2=7.4
@@ -7405,6 +8653,55 @@ Sarpsborg 08  vs  KFUM Oslo   (ID: 1296)
 0-2=1.87   2+=-   3+=1.84
 GG=1.69   IGG=-   GG&3+=2.18
 GG&4+=3.5
+======================================================================
+14:30    26.10.  [Norwegian - Eliteserien]
+Rosenborg BK  vs  SK Brann   (ID: 1303)
+1=2.47   X=3.6   2=2.32
+0-2=2.28   2+=-   3+=1.56
+GG=1.51   IGG=-   GG&3+=1.82
+GG&4+=2.65
+======================================================================
+17:00    26.10.  [Norwegian - Eliteserien]
+FK Haugesund  vs  Tromsoe IL   (ID: 1292)
+1=8.4   X=5   2=1.3
+0-2=2.3   2+=-   3+=1.55
+GG=1.91   IGG=-   GG&3+=2.28
+GG&4+=3.2
+======================================================================
+17:00    26.10.  [Norwegian - Eliteserien]
+Kristiansund BK  vs  HamKam   (ID: 1306)
+1=2.11   X=3.5   2=2.85
+0-2=2.05   2+=-   3+=1.69
+GG=1.61   IGG=-   GG&3+=2
+GG&4+=3.05
+======================================================================
+17:00    26.10.  [Norwegian - Eliteserien]
+Bodoe/Glimt  vs  Molde FK   (ID: 1297)
+1=1.31   X=5.6   2=7.2
+0-2=3.2   2+=-   3+=1.3
+GG=1.55   IGG=-   GG&3+=1.72
+GG&4+=2.2
+======================================================================
+17:00    26.10.  [Norwegian - Eliteserien]
+Sandefjord Fotball  vs  Fredrikstad FK   (ID: 1302)
+1=1.91   X=3.55   2=3.25
+0-2=2.09   2+=-   3+=1.66
+GG=1.62   IGG=-   GG&3+=2
+GG&4+=3
+======================================================================
+19:15    26.10.  [Norwegian - Eliteserien]
+Vaalerenga IF  vs  Stroemsgodset IF   (ID: 1284)
+1=1.71   X=3.85   2=3.75
+0-2=2.55   2+=-   3+=1.45
+GG=1.48   IGG=-   GG&3+=1.74
+GG&4+=2.42
+======================================================================
+19:00    29.10.  [Norwegian - Eliteserien]
+SK Brann  vs  Bodoe/Glimt   (ID: 1155)
+1=2.7   X=3.7   2=2.09
+0-2=2.5   2+=-   3+=1.44
+GG=1.43   IGG=-   GG&3+=1.65
+GG&4+=2.36
 ======================================================================
 16:00    25.10.  [Icelandic - Urvalsdeild]
 IF Vestri  vs  KR Reykjavik   (ID: 1077)
@@ -7433,6 +8730,20 @@ FH Hafnarfjordur  vs  Fram Reykjavik   (ID: 1077)
 0-2=2.55   2+=-   3+=1.45
 GG=1.46   IGG=-   GG&3+=1.67
 GG&4+=2.37
+======================================================================
+15:00    26.10.  [Icelandic - Urvalsdeild]
+Vikingur Reykjavik  vs  Valur Reykjavik   (ID: 1077)
+1=1.64   X=4.2   2=3.75
+0-2=2.95   2+=-   3+=1.35
+GG=1.41   IGG=-   GG&3+=1.57
+GG&4+=2.11
+======================================================================
+15:00    26.10.  [Icelandic - Urvalsdeild]
+Stjarnan Gardabae  vs  Breidablik Kopavogur   (ID: 1079)
+1=2.48   X=3.85   2=2.19
+0-2=2.95   2+=-   3+=1.35
+GG=1.35   IGG=-   GG&3+=1.51
+GG&4+=2.03
 ======================================================================
 16:00    25.10.  [Spanish - Spanish Segunda RFEF]
 CD Castellon B  vs  Terrassa FC   (ID: 1009)
@@ -7588,6 +8899,139 @@ Valencia CF Mestalla  vs  UE Porreres   (ID: 1001)
 GG=1.91   IGG=-   GG&3+=2.44
 GG&4+=4.6
 ======================================================================
+11:30    26.10.  [Spanish - Spanish Segunda RFEF]
+CDA Navalcarnero  vs  UD Las Palmas Atletico   (ID: 1001)
+1=1.84   X=3.2   2=3.8
+0-2=1.62   2+=-   3+=2.04
+GG=1.94   IGG=-   GG&3+=2.46
+GG&4+=4.55
+======================================================================
+11:30    26.10.  [Spanish - Spanish Segunda RFEF]
+CA Antoniano  vs  UD Melilla   (ID: 1001)
+1=2.04   X=2.85   2=3.6
+0-2=1.42   2+=-   3+=2.46
+GG=2.17   IGG=-   GG&3+=2.95
+GG&4+=6.2
+======================================================================
+11:30    26.10.  [Spanish - Spanish Segunda RFEF]
+FC La Union Atletico  vs  RC Recreativo de Huelva   (ID: 1001)
+1=2.02   X=2.9   2=3.6
+0-2=1.41   2+=-   3+=2.49
+GG=2.21   IGG=-   GG&3+=3
+GG&4+=6.4
+======================================================================
+11:30    26.10.  [Spanish - Spanish Segunda RFEF]
+CD Basconia  vs  Naxara CD   (ID: 1001)
+1=2.75   X=2.75   2=2.55
+0-2=1.57   2+=-   3+=2.12
+GG=1.84   IGG=-   GG&3+=2.45
+GG&4+=4.6
+======================================================================
+12:00    26.10.  [Spanish - Spanish Segunda RFEF]
+Colonia Moscardo  vs  Getafe CF B   (ID: 1001)
+1=2.75   X=3.2   2=2.25
+0-2=1.72   2+=-   3+=1.9
+GG=1.76   IGG=-   GG&3+=2.18
+GG&4+=3.85
+======================================================================
+12:00    26.10.  [Spanish - Spanish Segunda RFEF]
+CF Fuenlabrada  vs  UD Socuellamos CF   (ID: 1000)
+1=1.7   X=3.35   2=4.3
+0-2=1.64   2+=-   3+=2
+GG=1.97   IGG=-   GG&3+=2.49
+GG&4+=4.55
+======================================================================
+12:00    26.10.  [Spanish - Spanish Segunda RFEF]
+FC Barcelona Atletic  vs  UD Poblense   (ID: 999)
+1=1.63   X=3.45   2=4.7
+0-2=1.69   2+=-   3+=1.93
+GG=1.95   IGG=-   GG&3+=2.44
+GG&4+=4.3
+======================================================================
+12:00    26.10.  [Spanish - Spanish Segunda RFEF]
+CD Alcoyano  vs  Reus FC Reddis   (ID: 1001)
+1=2.07   X=3.05   2=3.3
+0-2=1.55   2+=-   3+=2.15
+GG=1.96   IGG=-   GG&3+=2.55
+GG&4+=4.9
+======================================================================
+12:00    26.10.  [Spanish - Spanish Segunda RFEF]
+CD Atletico Baleares  vs  Espanyol Barcelona B   (ID: 1001)
+1=1.78   X=3.15   2=4.2
+0-2=1.64   2+=-   3+=2
+GG=1.92   IGG=-   GG&3+=2.45
+GG&4+=4.45
+======================================================================
+12:00    26.10.  [Spanish - Spanish Segunda RFEF]
+CE Andratx  vs  CD Ibiza Islas Pitiusas   (ID: 1001)
+1=2.24   X=2.95   2=3
+0-2=1.52   2+=-   3+=2.21
+GG=1.96   IGG=-   GG&3+=2.6
+GG&4+=5.05
+======================================================================
+12:00    26.10.  [Spanish - Spanish Segunda RFEF]
+UE Olot  vs  Girona FC B   (ID: 1001)
+1=2.31   X=3   2=2.85
+0-2=1.54   2+=-   3+=2.17
+GG=1.94   IGG=-   GG&3+=2.55
+GG&4+=4.9
+======================================================================
+12:00    26.10.  [Spanish - Spanish Segunda RFEF]
+UD Barbastro  vs  Atletic Lleida CE   (ID: 1001)
+1=1.89   X=3.2   2=3.65
+0-2=1.64   2+=-   3+=2
+GG=1.89   IGG=-   GG&3+=2.39
+GG&4+=4.4
+======================================================================
+16:00    26.10.  [Spanish - Spanish Segunda RFEF]
+Rayo Vallecano B  vs  UB Conquense   (ID: 1001)
+1=2.95   X=3.15   2=2.18
+0-2=1.65   2+=-   3+=1.99
+GG=1.83   IGG=-   GG&3+=2.31
+GG&4+=4.2
+======================================================================
+17:00    26.10.  [Spanish - Spanish Segunda RFEF]
+CF Lorca Deportiva  vs  Puente Genil FC   (ID: 1001)
+1=2.35   X=2.8   2=2.95
+0-2=1.43   2+=-   3+=2.44
+GG=2.11   IGG=-   GG&3+=2.85
+GG&4+=6
+======================================================================
+17:00    26.10.  [Spanish - Spanish Segunda RFEF]
+CD Alfaro  vs  Deportivo Alaves B   (ID: 1001)
+1=3.05   X=2.9   2=2.24
+0-2=1.51   2+=-   3+=2.24
+GG=1.98   IGG=-   GG&3+=2.65
+GG&4+=5.2
+======================================================================
+17:30    26.10.  [Spanish - Spanish Segunda RFEF]
+Sestao River Club  vs  CD Ebro   (ID: 998)
+1=1.46   X=3.65   2=6.4
+0-2=1.62   2+=-   3+=2.03
+GG=2.24   IGG=-   GG&3+=2.85
+GG&4+=5.2
+======================================================================
+19:00    26.10.  [Spanish - Spanish Segunda RFEF]
+Orihuela CF  vs  CD Quintanar del Rey   (ID: 1001)
+1=2.2   X=2.8   2=3.25
+0-2=1.41   2+=-   3+=2.49
+GG=2.16   IGG=-   GG&3+=2.95
+GG&4+=6.3
+======================================================================
+19:00    26.10.  [Spanish - Spanish Segunda RFEF]
+CD Xerez  vs  Club Deportiva Minera   (ID: 1001)
+1=1.96   X=3.15   2=3.45
+0-2=1.64   2+=-   3+=2
+GG=1.87   IGG=-   GG&3+=2.37
+GG&4+=4.3
+======================================================================
+20:00    26.10.  [Spanish - Spanish Segunda RFEF]
+Atletico Malagueno  vs  Aguilas FC   (ID: 1001)
+1=4   X=3.2   2=1.8
+0-2=1.59   2+=-   3+=2.08
+GG=1.98   IGG=-   GG&3+=2.55
+GG&4+=4.8
+======================================================================
 16:00    25.10.  [Northern Irish - NIFL Championship]
 Loughgall FC  vs  Newington FC   (ID: 644)
 1=2   X=3.75   2=2.9
@@ -7625,10 +9069,10 @@ GG&4+=3.05
 ======================================================================
 16:00    25.10.  [English - Southern Central]
 Kettering Town  vs  Needham Market   (ID: 715)
-1=1.86   X=3.5   2=3.5
+1=1.94   X=3.45   2=3.3
 0-2=1.94   2+=-   3+=1.74
-GG=1.67   IGG=-   GG&3+=2
-GG&4+=3.3
+GG=1.65   IGG=-   GG&3+=1.99
+GG&4+=3.25
 ======================================================================
 16:00    25.10.  [English - Southern Central]
 Stamford AFC  vs  Barwell FC   (ID: 715)
@@ -7895,6 +9339,13 @@ CS Constantine  vs  Olympique Akbou   (ID: 1022)
 GG=2.15   IGG=-   GG&3+=2.8
 GG&4+=5.3
 ======================================================================
+15:00    26.10.  [English - Southern South]
+Paradou AC  vs  ES Mostaganem   (ID: 1020)
+1=2.2   X=2.95   2=3.1
+0-2=1.48   2+=-   3+=2.31
+GG=2.05   IGG=-   GG&3+=2.75
+GG&4+=5.5
+======================================================================
 16:30    25.10.  [English - Southern South]
 SC Sao Joao de Ver  vs  SC Braga B   (ID: 644)
 1=2.55   X=3.05   2=2.6
@@ -7916,6 +9367,55 @@ AD Fafe  vs  Vitoria Guimaraes B   (ID: 644)
 GG=2   IGG=-   GG&3+=2.55
 GG&4+=4.8
 ======================================================================
+16:00    26.10.  [English - Southern South]
+1 Dezembro  vs  CF Os Belenenses   (ID: 644)
+1=3.55   X=3.15   2=1.97
+0-2=1.67   2+=-   3+=2.03
+GG=1.85   IGG=-   GG&3+=2.36
+GG&4+=4.3
+======================================================================
+16:00    26.10.  [English - Southern South]
+AD Sanjoanense  vs  Varzim SC   (ID: 644)
+1=2.75   X=3.05   2=2.4
+0-2=1.65   2+=-   3+=2.06
+GG=1.81   IGG=-   GG&3+=2.33
+GG&4+=4.3
+======================================================================
+16:00    26.10.  [English - Southern South]
+Amarante FC  vs  Uniao SC Paredes   (ID: 644)
+1=3   X=2.95   2=2.28
+0-2=1.49   2+=-   3+=2.38
+GG=2.03   IGG=-   GG&3+=2.75
+GG&4+=5.55
+======================================================================
+16:00    26.10.  [English - Southern South]
+UD Santarem  vs  CD Mafra   (ID: 644)
+1=2.8   X=3   2=2.39
+0-2=1.56   2+=-   3+=2.22
+GG=1.93   IGG=-   GG&3+=2.55
+GG&4+=4.85
+======================================================================
+16:00    26.10.  [English - Southern South]
+Atletico Clube de Portugal  vs  SC Covilha   (ID: 642)
+1=1.57   X=3.6   2=5.2
+0-2=1.65   2+=-   3+=2.06
+GG=2.09   IGG=-   GG&3+=2.65
+GG&4+=4.8
+======================================================================
+16:00    26.10.  [English - Southern South]
+Caldas SC  vs  Lusitano GC   (ID: 644)
+1=2.15   X=3.1   2=3.1
+0-2=1.72   2+=-   3+=1.97
+GG=1.77   IGG=-   GG&3+=2.24
+GG&4+=4
+======================================================================
+16:00    26.10.  [English - Southern South]
+Amora FC  vs  Academica de Coimbra   (ID: 644)
+1=3.45   X=3.15   2=2
+0-2=1.63   2+=-   3+=2.1
+GG=1.89   IGG=-   GG&3+=2.43
+GG&4+=4.55
+======================================================================
 16:30    25.10.  [Bosnian - First League]
 NK Gosk Gabela  vs  NK TOSK Tesanj   (ID: 6)
 1=1.78   X=3.6   2=3.65
@@ -7928,6 +9428,48 @@ Fehervar FC Szekesfehervar  vs  Szeged-Csanad Grosics Akademia   (ID: 1009)
 0-2=1.75   2+=-   3+=1.85
 GG=1.73   IGG=-   GG&3+=2.12
 GG&4+=3.7
+======================================================================
+13:00    26.10.  [Hungarian - NB II]
+Bvsc-Zuglo  vs  Vasas FC   (ID: 999)
+1=4.4   X=3.65   2=1.63
+0-2=1.85   2+=-   3+=1.76
+GG=1.8   IGG=-   GG&3+=2.16
+GG&4+=3.65
+======================================================================
+13:00    26.10.  [Hungarian - NB II]
+Szentlorinc SE  vs  Bekescsaba 1912 Elore   (ID: 1001)
+1=1.87   X=3.35   2=3.5
+0-2=1.81   2+=-   3+=1.79
+GG=1.73   IGG=-   GG&3+=2.11
+GG&4+=3.55
+======================================================================
+17:00    26.10.  [Hungarian - NB II]
+Budapest Honved FC  vs  Mezokovesd Zsory SE   (ID: 1001)
+1=2.07   X=3.35   2=3
+0-2=1.83   2+=-   3+=1.77
+GG=1.69   IGG=-   GG&3+=2.05
+GG&4+=3.45
+======================================================================
+17:00    26.10.  [Hungarian - NB II]
+Kecskemeti TE  vs  Karcag SE   (ID: 1000)
+1=1.69   X=3.55   2=4.1
+0-2=1.83   2+=-   3+=1.77
+GG=1.78   IGG=-   GG&3+=2.15
+GG&4+=3.6
+======================================================================
+17:00    26.10.  [Hungarian - NB II]
+Aqvital FC Csakvar  vs  Tiszakecskei LC   (ID: 1001)
+1=2.14   X=3.3   2=2.9
+0-2=1.84   2+=-   3+=1.76
+GG=1.67   IGG=-   GG&3+=2.02
+GG&4+=3.4
+======================================================================
+17:00    26.10.  [Hungarian - NB II]
+FC Ajka  vs  Kozarmisleny SE   (ID: 1001)
+1=1.99   X=3.25   2=3.25
+0-2=1.72   2+=-   3+=1.89
+GG=1.79   IGG=-   GG&3+=2.21
+GG&4+=3.9
 ======================================================================
 18:00    25.10.  [Swiss - Super League]
 FC Sion  vs  FC Thun   (ID: 1158)
@@ -7949,6 +9491,55 @@ FC Winterthur  vs  FC Luzern   (ID: 1158)
 0-2=2.19   2+=-   3+=1.6
 GG=1.56   IGG=-   GG&3+=1.89
 GG&4+=2.82
+======================================================================
+14:00    26.10.  [Swiss - Super League]
+FC Zurich  vs  Young Boys Bern   (ID: 1159)
+1=2.6   X=3.5   2=2.25
+0-2=2.33   2+=-   3+=1.54
+GG=1.49   IGG=-   GG&3+=1.79
+GG&4+=2.59
+======================================================================
+16:30    26.10.  [Swiss - Super League]
+Servette Geneva  vs  FC Lugano   (ID: 1159)
+1=2.31   X=3.45   2=2.55
+0-2=2.15   2+=-   3+=1.63
+GG=1.55   IGG=-   GG&3+=1.9
+GG&4+=2.85
+======================================================================
+16:30    26.10.  [Swiss - Super League]
+Lausanne-Sport  vs  FC Basel 1893   (ID: 1156)
+1=3.1   X=3.75   2=1.91
+0-2=2.55   2+=-   3+=1.45
+GG=1.45   IGG=-   GG&3+=1.69
+GG&4+=2.36
+======================================================================
+20:30    28.10.  [Swiss - Super League]
+FC Thun  vs  FC Winterthur   (ID: 1150)
+1=1.42   X=4.5   2=6
+0-2=2.5   2+=-   3+=1.44
+GG=1.62   IGG=-   GG&3+=1.86
+GG&4+=2.63
+======================================================================
+20:30    28.10.  [Swiss - Super League]
+FC Sion  vs  FC St. Gallen 1879   (ID: 1155)
+1=2.38   X=3.4   2=2.48
+0-2=2.05   2+=-   3+=1.66
+GG=1.58   IGG=-   GG&3+=1.93
+GG&4+=3
+======================================================================
+20:30    29.10.  [Swiss - Super League]
+FC Basel 1893  vs  FC Zurich   (ID: 1153)
+1=1.6   X=4.2   2=3.95
+0-2=2.75   2+=-   3+=1.37
+GG=1.45   IGG=-   GG&3+=1.64
+GG&4+=2.25
+======================================================================
+20:30    29.10.  [Swiss - Super League]
+Lausanne-Sport  vs  Servette Geneva   (ID: 1155)
+1=2.02   X=3.65   2=2.9
+0-2=2.34   2+=-   3+=1.51
+GG=1.48   IGG=-   GG&3+=1.74
+GG&4+=2.55
 ======================================================================
 18:15    25.10.  [Israeli - Ligat HaAl]
 Hapoel Haifa FC  vs  Beitar Jerusalem FC   (ID: 1155)
@@ -7985,12 +9576,40 @@ Maccabi Netanya FC  vs  Hapoel Tel Aviv FC   (ID: 1158)
 GG=1.56   IGG=-   GG&3+=1.9
 GG&4+=2.83
 ======================================================================
+19:15    26.10.  [Israeli - Ligat HaAl]
+Hapoel Be`er Sheva FC  vs  Maccabi Bney Reine   (ID: 1136)
+1=1.16   X=7.6   2=14
+0-2=2.85   2+=-   3+=1.37
+GG=2.04   IGG=-   GG&3+=2.29
+GG&4+=3.05
+======================================================================
+19:00    27.10.  [Israeli - Ligat HaAl]
+Maccabi Tel Aviv FC  vs  Hapoel Ironi Kiryat Shmona FC   (ID: 1140)
+1=1.21   X=5.8   2=12
+0-2=2.17   2+=-   3+=1.59
+GG=2.23   IGG=-   GG&3+=2.65
+GG&4+=3.85
+======================================================================
 18:30    25.10.  [Qatari - Stars League]
 Al Sadd SC  vs  Al Arabi Doha SC   (ID: 1024)
 1=1.44   X=4.7   2=4.9
 0-2=3.1   2+=-   3+=1.27
 GG=1.4   IGG=-   GG&3+=1.5
 GG&4+=2.01
+======================================================================
+15:30    26.10.  [Qatari - Stars League]
+Al Shahaniya  vs  Al-Sailiya SC   (ID: 1020)
+1=2.19   X=3.25   2=2.85
+0-2=1.92   2+=-   3+=1.7
+GG=1.61   IGG=-   GG&3+=1.94
+GG&4+=3.2
+======================================================================
+15:30    26.10.  [Qatari - Stars League]
+Qatar SC  vs  Umm-Salal SC   (ID: 1017)
+1=1.84   X=3.7   2=3.3
+0-2=2.47   2+=-   3+=1.42
+GG=1.43   IGG=-   GG&3+=1.61
+GG&4+=2.37
 ======================================================================
 22:00    25.10.  [Brazilian - Serie C]
 AA Ponte Preta SP  vs  Londrina EC PR   (ID: 1034)
@@ -8022,10 +9641,10 @@ GG&4+=3.7
 ======================================================================
 22:00    25.10.  [Argentine - Primera B]
 CSCD Laferrere  vs  CA Ferrocarril Midland   (ID: 1005)
-1=2.25   X=2.75   2=3.2
-0-2=1.35   2+=-   3+=2.7
+1=2.5   X=2.75   2=2.8
+0-2=1.34   2+=-   3+=2.75
 GG=2.31   IGG=-   GG&3+=3.25
-GG&4+=7.35
+GG&4+=7.4
 ======================================================================
 22:00    25.10.  [Argentine - Primera B]
 CSD Liniers  vs  CS Italiano   (ID: 1005)
@@ -8035,11 +9654,11 @@ GG=1.97   IGG=-   GG&3+=2.6
 GG&4+=5.1
 ======================================================================
 22:00    25.10.  [Argentine - Primera B]
-CA Fenix Pilar  vs  CA Excursionistas   (ID: 1005)
-1=2.8   X=3   2=2.32
+CA Fenix Pilar  vs  CA Excursionistas   (ID: 1007)
+1=2.95   X=3.05   2=2.21
 0-2=1.56   2+=-   3+=2.14
-GG=1.92   IGG=-   GG&3+=2.49
-GG&4+=4.75
+GG=1.93   IGG=-   GG&3+=2.5
+GG&4+=4.8
 ======================================================================
 22:00    25.10.  [Argentine - Primera B]
 Villa Dalmine  vs  CA Brown de Adrogue   (ID: 1005)
@@ -8069,6 +9688,27 @@ Sportivo Trinidense  vs  CS 2 de Mayo   (ID: 1078)
 GG=1.93   IGG=-   GG&3+=2.55
 GG&4+=4.6
 ======================================================================
+00:00    27.10.  [Paraguayan - Primera Division]
+CD Recoleta  vs  Libertad Asuncion   (ID: 1076)
+1=3.75   X=3.55   2=1.74
+0-2=1.89   2+=-   3+=1.78
+GG=1.75   IGG=-   GG&3+=2.11
+GG&4+=3.5
+======================================================================
+21:30    27.10.  [Paraguayan - Primera Division]
+Sportivo Ameliano  vs  Club General Caballero Jlm   (ID: 1076)
+1=2.23   X=3   2=2.9
+0-2=1.61   2+=-   3+=2.14
+GG=1.9   IGG=-   GG&3+=2.46
+GG&4+=4.6
+======================================================================
+00:00    28.10.  [Paraguayan - Primera Division]
+Nacional Asuncion  vs  Cerro Porteno   (ID: 1076)
+1=2.9   X=3   2=2.23
+0-2=1.56   2+=-   3+=2.23
+GG=1.96   IGG=-   GG&3+=2.55
+GG&4+=4.9
+======================================================================
 02:00    26.10.  [Guatemalan - Liga Nacional]
 Antigua GFC  vs  Aurora FC   (ID: 8)
 1=1.41   X=4.2   2=6.2
@@ -8083,7 +9723,229 @@ GG=1.79   IGG=-   GG&3+=2.27
 GG&4+=4.1
 ======================================================================
 11:00    26.10.  [Kazakhstani - Premier League]
-FC Zhenis  vs  Kaisar Kyzylorda
-1=1.84   X=3.2   2=-
+FC Zhenis  vs  Kaisar Kyzylorda   (ID: 1004)
+1=1.84   X=3.2   2=3.8
+0-2=1.63   2+=-   3+=2.01
+GG=1.91   IGG=-   GG&3+=2.42
+GG&4+=4.45
+======================================================================
+11:00    26.10.  [Kazakhstani - Premier League]
+Ulytau FC  vs  Tobol Kostanay   (ID: 1003)
+1=4.3   X=3.35   2=1.71
+0-2=1.75   2+=-   3+=1.86
+GG=1.84   IGG=-   GG&3+=2.28
+GG&4+=3.95
+======================================================================
+11:00    26.10.  [Kazakhstani - Premier League]
+FC Okzhetpes  vs  FK Turan   (ID: 1002)
+1=1.78   X=3.6   2=3.6
+0-2=2.26   2+=-   3+=1.5
+GG=1.51   IGG=-   GG&3+=1.73
+GG&4+=2.64
+======================================================================
+11:00    26.10.  [Kazakhstani - Premier League]
+FC Aktobe  vs  FC Ordabasy   (ID: 1001)
+1=1.49   X=3.45   2=6.6
+0-2=1.8   2+=-   3+=1.81
+GG=1.95   IGG=-   GG&3+=2.44
+GG&4+=4.05
+======================================================================
+13:00    26.10.  [Kazakhstani - Premier League]
+FC Yelimai  vs  FK Atyrau   (ID: 1001)
+1=1.53   X=3.55   2=5.6
+0-2=1.96   2+=-   3+=1.66
+GG=1.76   IGG=-   GG&3+=2.11
+GG&4+=3.4
+======================================================================
+13:00    26.10.  [Kazakhstani - Premier League]
+FC Kairat Almaty  vs  FC Astana   (ID: 1004)
+1=2.33   X=3.1   2=2.75
+0-2=1.72   2+=-   3+=1.89
+GG=1.74   IGG=-   GG&3+=2.17
+GG&4+=3.8
+======================================================================
+19:00    26.10.  [Canadian - Premier Liga]
+Forge FC Hamilton  vs  Atletico Ottawa   (ID: 1006)
+1=2.05   X=3.15   2=3.2
+0-2=1.73   2+=-   3+=1.88
+GG=1.76   IGG=-   GG&3+=2.2
+GG&4+=3.85
+======================================================================
+14:00    28.10.  [Greek - Cup]
+OFI Crete  vs  Iraklis Thessaloniki   (ID: 1033)
+1=1.4   X=3.9   2=6.6
+0-2=1.74   2+=-   3+=1.95
+GG=2.23   IGG=-   GG&3+=2.8
+GG&4+=4.8
+======================================================================
+16:00    28.10.  [Greek - Cup]
+Panaitolikos Agrinio  vs  Hellas Syrou   (ID: 1024)
+1=1.23   X=5.2   2=12
+0-2=1.98   2+=-   3+=1.71
+GG=2.41   IGG=-   GG&3+=2.85
+GG&4+=4.5
+======================================================================
+18:00    28.10.  [Greek - Cup]
+AE Kifisia FC  vs  Athens Kallithea FC   (ID: 1037)
+1=1.71   X=3.25   2=4.3
+0-2=1.83   2+=-   3+=1.84
+GG=1.79   IGG=-   GG&3+=2.23
+GG&4+=3.75
+======================================================================
+13:00    29.10.  [Greek - Cup]
+AO Egaleo 1931 PAE  vs  Aris Thessaloniki   (ID: 1019)
+1=14   X=5.4   2=1.2
+0-2=1.99   2+=-   3+=1.7
+GG=2.55   IGG=-   GG&3+=3
+GG&4+=4.75
+======================================================================
+13:30    29.10.  [Greek - Cup]
+GS Ilioupoli  vs  AEK Athens   (ID: 460)
+1=23   X=8.8   2=1.09
+0-2=2.6   2+=-   3+=1.41
+GG=3   IGG=-   GG&3+=2.95
+======================================================================
+15:30    29.10.  [Greek - Cup]
+Olympiacos Piraeus  vs  Volos Nps   (ID: 1025)
+1=1.2   X=5.8   2=12
+0-2=2.2   2+=-   3+=1.57
+GG=2.26   IGG=-   GG&3+=2.6
+GG&4+=3.9
+======================================================================
+16:30    29.10.  [Greek - Cup]
+APO Levadiakos FC  vs  Asteras Tripolis   (ID: 1038)
+1=1.86   X=3.15   2=3.7
+0-2=1.8   2+=-   3+=1.87
+GG=1.76   IGG=-   GG&3+=2.2
+GG&4+=3.75
+======================================================================
+17:30    29.10.  [Greek - Cup]
+Atromitos Athinon  vs  Panathinaikos Athens   (ID: 1033)
+1=5.2   X=3.25   2=1.6
+0-2=1.62   2+=-   3+=2.11
+GG=2.1   IGG=-   GG&3+=2.75
+GG&4+=5
+======================================================================
+19:30    29.10.  [Greek - Cup]
+PAOK Thessaloniki  vs  AE Larissa FC   (ID: 1021)
+1=1.21   X=5.4   2=13
+0-2=2.21   2+=-   3+=1.57
+GG=2.24   IGG=-   GG&3+=2.6
+GG&4+=3.85
+======================================================================
+14:00    28.10.  [Romanian - Cup]
+CS Sporting Liesti  vs  ASC Otelul Galati   (ID: 8)
+1=6.8   X=5.2   2=1.3
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+15:00    28.10.  [Romanian - Cup]
+AFK Csikszereda Miercurea Ciuc  vs  Acs Sepsi Osk Sfantu Gheorghe   (ID: 8)
+1=2.55   X=3.1   2=2.55
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+17:30    28.10.  [Romanian - Cup]
+CSM Slatina  vs  FC CFR 1907 Cluj   (ID: 8)
+1=8.2   X=5.6   2=1.24
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+14:00    29.10.  [Romanian - Cup]
+Metaloglobus Bucuresti  vs  ACS Champions FC Arges   (ID: 8)
+1=3.05   X=3.05   2=2.23
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+15:00    29.10.  [Romanian - Cup]
+AFC Metalul Buzau  vs  FC Universitatea Cluj   (ID: 998)
+1=5.6   X=3.9   2=1.46
+0-2=1.85   2+=-   3+=1.76
+GG=1.93   IGG=-   GG&3+=2.32
+GG&4+=3.85
+======================================================================
+17:30    29.10.  [Romanian - Cup]
+Sanatatea Cluj  vs  CS Universitatea Craiova   (ID: 3)
+1=15   X=7   2=1.12
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:00    29.10.  [Romanian - Cup]
+CS Gloria 2018 Bistrita-Nasaud  vs  Fotbal Club FCSB   (ID: 986)
+1=11   X=6.4   2=1.16
+0-2=2.9   2+=-   3+=1.31
+GG=1.84   IGG=-   GG&3+=1.98
+GG&4+=2.78
+======================================================================
+14:00    30.10.  [Romanian - Cup]
+CS Concordia Chiajna  vs  AFC Hermannstadt   (ID: 8)
+1=3.7   X=3.1   2=1.94
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+16:00    30.10.  [Romanian - Cup]
+FC Uta Arad  vs  FC Petrolul Ploiesti   (ID: 8)
+1=2.13   X=3.05   2=3.2
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+18:00    30.10.  [Romanian - Cup]
+FC Botosani  vs  FC Farul Constanta   (ID: 8)
+1=2.27   X=3   2=3
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:00    30.10.  [Romanian - Cup]
+CSC Dumbravita  vs  Rapid Bucuresti 1923   (ID: 3)
+1=13   X=7.4   2=1.13
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:30    28.10.  [Austrian - OFB Cup]
+Blau-Weiss Linz  vs  TSV Hartberg   (ID: 3)
+1=2.28   X=3.2   2=2.8
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+18:00    29.10.  [Danish - Danish Cup]
+FC Fredericia  vs  Viborg FF   (ID: 3)
+1=3.3   X=3.5   2=1.91
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:45    29.10.  [Danish - Danish Cup]
+AGF Aarhus  vs  Soenderjyske   (ID: 3)
+1=1.45   X=4.1   2=5.6
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+01:30    01.11.  [Argentine - Argentine Primera Nacional]
+Estudiantes Rio Cuarto  vs  Gimnasia Y Tiro de Salta   (ID: 6)
+1=1.85   X=2.8   2=4.7
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+23:00    01.11.  [Argentine - Argentine Primera Nacional]
+CA Atlanta  vs  Deportivo Moron   (ID: 6)
+1=1.9   X=3   2=3.95
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:00    02.11.  [Argentine - Argentine Primera Nacional]
+Deportivo Madryn  vs  Gimnasia Y Esgrima De Jujuy   (ID: 6)
+1=1.97   X=3.2   2=3.4
+0-2=-   2+=-   3+=-
+GG=-   IGG=-   GG&3+=-
+======================================================================
+16:00    01.11.  [Scottish - League Two]
+Stirling Albion FC  vs  Edinburgh City FC   (ID: 1077)
+1=2.6   X=3.65   2=2.15
+0-2=2.26   2+=-   3+=1.55
+GG=1.51   IGG=-   GG&3+=1.73
+GG&4+=2.67
+======================================================================
+16:00    01.11.  [Scottish - League Two]
+Stranraer FC  vs  Forfar Athletic FC
+1=2.55   X=3.3   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-

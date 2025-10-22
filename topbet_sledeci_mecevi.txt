@@ -29,9 +29,9 @@ Fenerbahce - Stuttgart
 +53
 18:45
 FCSB - Bologna
-5.70
+5.55
 3.90
-1.62
+1.65
 +53
 18:45
 Go Ahead Eagles - Aston Villa
@@ -101,9 +101,9 @@ Nottingham Forest - Porto
 +53
 21:00
 Celta - Nice
-1.78
-3.75
-4.65
+1.80
+3.80
+4.25
 +53
 21:00
 Freiburg - Utrecht
@@ -835,16 +835,6 @@ Argentina 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-ČET. 23.10.
-1
-X
-2
-00:30
-Huracan - Central Cordoba
-2.20
-2.70
-3.50
-+37
 PET. 24.10.
 1
 X
@@ -1201,9 +1191,9 @@ Vitoria BA - Corinthians SP
 +41
 22:30
 Fluminense RJ - Internacional RS
-1.95
-3.25
-3.90
+1.90
+3.20
+3.70
 +41
 23:30
 Sport Recife PE - Mirassol SP
@@ -1223,9 +1213,9 @@ Fortaleza CE - Flamengo RJ
 +41
 02:30
 Sao Paulo SP - Bahia BA
-2.00
+1.95
 3.25
-3.40
+3.60
 +41
 20:00
 Botafogo RJ - Santos
@@ -1839,12 +1829,6 @@ OBA TIMA DAJU GOL
 1
 X
 2
-00:30
-CD Hercules - CD Fuerte San Francisco Morazan
-2.45
-3.10
-2.70
-+39
 03:30
 Aguila - FAS
 2.30
@@ -1925,9 +1909,9 @@ Millwall - Leicester
 +53
 16:00
 Sheffield W. - Oxford
-2.60
-3.35
-2.75
+2.65
+3.30
+2.70
 +53
 16:00
 Swansea - Norwich
@@ -2811,15 +2795,15 @@ Mac. Herzliya - Kafr Qasim
 +39
 15:00
 Hap. Rishon Lezion - Hap. Ramat Gan
-2.50
-3.25
-2.60
+2.30
+3.20
+2.85
 +39
 15:00
 Hap. Afula - Mac. Petah Tikva
-5.70
-4.20
-1.45
+8.80
+4.95
+1.30
 +36
 15:00
 Ironi Modiin - Bnei Yehuda
@@ -3059,20 +3043,6 @@ Matsumoto Yamaga - Kamatamare Sanuki
 3.10
 2.90
 +41
-Kanada 1
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-ČET. 23.10.
-1
-X
-2
-00:30
-Wanderers - York
-2.10
-3.25
-3.10
-+39
 Katar 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -3309,9 +3279,9 @@ X
 2
 01:00
 Atl.Nacional - Once Caldas
-1.48
-4.05
-6.10
+1.52
+3.95
+5.60
 +40
 Kostarika 1
 KONAČAN ISHOD
@@ -3452,7 +3422,7 @@ X
 03:00
 Queretaro - Chivas
 4.32
-3.50
+3.55
 1.75
 +37
 03:00
@@ -3697,8 +3667,8 @@ X
 2
 02:00
 Diriangen - Indigenas de Matagalpa FC
-1.18
-6.80
+1.20
+6.40
 10.40
 +36
 04:00
@@ -3775,12 +3745,6 @@ OBA TIMA DAJU GOL
 1
 X
 2
-00:30
-Guarani - River Plate Asuncion
-1.58
-3.85
-5.10
-+36
 23:30
 Cerro Porteno - Club General Caballero Jlm
 1.65
@@ -4399,7 +4363,7 @@ Spartak M. - Orenburg
 Rostov - FC Dynamo-Makhachkala
 1.90
 3.10
-3.70
+3.90
 +53
 18:00
 CSKA M. - Krylia Sovetov
@@ -4579,9 +4543,9 @@ Neom SC - Al Khaleej
 +39
 20:00
 Al Ittihad - Al Hilal
-3.30
-3.95
-1.80
+3.50
+4.00
+1.75
 +39
 SUB. 25.10.
 1
@@ -4723,7 +4687,7 @@ SUB. 25.10.
 1
 X
 2
-02:00
+03:00
 New Mexico - Rhode Island FC
 2.25
 3.20
@@ -5562,7 +5526,7 @@ X
 01:30
 Dep.Tachira - Caracas
 1.68
-3.55
+3.60
 4.30
 +37
 Copa Ecuador
@@ -5633,9 +5597,9 @@ X
 2
 04:00
 Real CD Espana - Xelaju
-2.05
-3.15
-3.40
+2.00
+3.10
+3.60
 +36
 Kup Sudamerikana
 KONAČAN ISHOD

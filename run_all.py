@@ -41,10 +41,74 @@ MAIN_OUTPUTS = [
     Path("kvote_arbitraza_ONLY_arbs.txt"),
 ]
 
+# Cilj za push (po zahtevu)
+TARGET_PUSH = Path("kvote_arbitraza_FULL.txt")
 
 # Folder za istorijske izveštaje (jedan fajl po satu)
 REPORT_DIR = Path("izvestaji")
 
+
+# =================== GIT pomoćne funkcije ===================
+
+def _run(cmd: list, check: bool = True) -> subprocess.CompletedProcess:
+    """Tanki wrapper oko subprocess.run sa lepšim porukama."""
+    return subprocess.run(cmd, text=True, capture_output=True, check=check)
+
+def git_in_repo() -> bool:
+    try:
+        cp = _run(["git", "rev-parse", "--is-inside-work-tree"], check=False)
+        return cp.returncode == 0 and cp.stdout.strip() == "true"
+    except Exception:
+        return False
+
+def git_has_remote() -> bool:
+    try:
+        cp = _run(["git", "remote"], check=False)
+        return bool(cp.stdout.strip())
+    except Exception:
+        return False
+
+def git_push_file(path: Path) -> None:
+    """Dodaj/commit/push samo zadati fajl. Preskače ako nema promena."""
+    if not path.exists():
+        print(f"[git] Preskačem push — ne postoji {path}")
+        return
+    if not git_in_repo():
+        print("[git] Nisi u Git repou (ili .git ne postoji). Preskačem push.")
+        return
+    if not git_has_remote():
+        print("[git] Nema podešenog remote-a. Uradi 'git remote add origin ...' pa probaj opet.")
+        return
+
+    ts = datetime.now().strftime("%Y-%m-%d %H:%M")
+    try:
+        # add
+        cp_add = _run(["git", "add", str(path)], check=False)
+        if cp_add.returncode != 0:
+            print(f"[git] add FAIL:\n{cp_add.stderr}")
+            return
+
+        # commit (možda nema promena — to je OK)
+        msg = f"auto: update {path.name} @ {ts}"
+        cp_commit = _run(["git", "commit", "-m", msg], check=False)
+        if cp_commit.returncode != 0:
+            # Npr. "nothing to commit, working tree clean"
+            print(f"[git] Nema promena za commit ({path.name}). Preskačem push.")
+            return
+        else:
+            print(f"[git] Commit ok: {msg}")
+
+        # push
+        cp_push = _run(["git", "push"], check=False)
+        if cp_push.returncode != 0:
+            print(f"[git] PUSH FAIL:\n{cp_push.stderr.strip()}")
+        else:
+            print("[git] Push uspešan.")
+    except Exception as e:
+        print(f"[git] Greška tokom push-a: {e}")
+
+
+# =================== Originalna logika ===================
 
 def wait_for_file_stable(path: Path, min_bytes: int = MIN_BYTES,
                          checks: int = STABILITY_CHECKS, sleep_s: float = STABILITY_SLEEP) -> bool:
@@ -207,7 +271,7 @@ def write_timestamped_report(report_text: str) -> Path:
 
 def one_cycle():
     """
-    Jedan kompletan ciklus: scrapers -> main -> izveštaj.
+    Jedan kompletan ciklus: scrapers -> main -> (git push FULL) -> izveštaj.
     """
     # (Opcija) lako isključivanje/uključivanje buki skripti:
     scrapers_to_run = []
@@ -221,9 +285,18 @@ def one_cycle():
     run_scrapers_parallel(scrapers_to_run)
 
     # 2) pokreni glavni sklopnik/izveštaj (ako postoji)
-    run_main()
+    ret = run_main()
 
-    # 3) pokupi pregled fajlove (+ MAIN_OUTPUTS ako postoje) i snimi timestampovani izveštaj
+    # 3) ako je proba.py prošao, pokušaj git push za kvote_arbitraza_FULL.txt
+    if ret == 0:
+        if TARGET_PUSH.exists():
+            # opciono: sačekaj da se fajl stabilizuje pre push-a
+            wait_for_file_stable(TARGET_PUSH, min_bytes=MIN_BYTES, checks=STABILITY_CHECKS, sleep_s=STABILITY_SLEEP)
+            git_push_file(TARGET_PUSH)
+        else:
+            print(f"[git] {TARGET_PUSH} ne postoji — nema šta da se pushuje.")
+
+    # 4) pokupi pregled fajlove (+ MAIN_OUTPUTS ako postoje) i snimi timestampovani izveštaj (lokalno)
     report_text = gather_report(scrapers_to_run)
     write_timestamped_report(report_text)
 
