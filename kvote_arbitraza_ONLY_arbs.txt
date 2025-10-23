@@ -132,24 +132,6 @@ Najveća 3+ : 1.72  [Soccer]
 Arbitraža (1-X-2): DA   inv_sum=0.9823   profit≈1.77%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0740   profit≈-7.40%
 
-15:00   24.10.   [Izrael 2]
-H.Kfar Shelem  vs  H. Kfar Saba
-
-- BalkanBet  1=1.9  |  X=3.5  |  2=3.5  |  0-2=1.79  |  2+=1.32  |  3+=1.92  |  GG=1.75  |  IGG=4.85  |  GG&3+=2.25  |  GG&4+=3.75  |  4+=3.35
-- BetOle     1=1.83  |  X=3.3  |  2=3.85  |  0-2=1.75  |  3+=1.93
-- Meridian   1=2.65  |  X=3.1  |  2=2.4  |  0-2=1.63  |  3+=2.01  |  GG=1.83  |  GG&3+=2.32  |  GG&4+=4.3
-- Soccer     1=1.92  |  X=3.4  |  2=3.7  |  0-2=1.8  |  2+=1.3  |  3+=1.9  |  GG=1.8  |  IGG=4.6  |  GG&3+=2.18
-- Topbet     1=1.9  |  X=3.55  |  2=3.5
-
-Najveća 1  : 2.65  [Meridian]
-Najveća X  : 3.55  [Topbet]
-Najveća 2  : 3.85  [BetOle]
-Najveća 0-2: 1.80  [Soccer]
-Najveća 3+ : 2.01  [Meridian]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9188   profit≈8.12%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0531   profit≈-5.31%
-
 15:00   25.10.   [Srbija 1]
 IMT  vs  OFK Beograd
 
@@ -203,26 +185,26 @@ Arbitraža (0-2 / 3+): DA   inv_sum=0.9946   profit≈0.54%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1746
+Ukupno mečeva (grupa): 1748
 Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1109
 Grupa sa veličinom ≥3: 841
-Grupa sa veličinom ≥4: 614
-Grupa sa veličinom ≥5: 415
-Grupa sa veličinom ≥6: 207
-Grupa sa veličinom ≥7: 55
+Grupa sa veličinom ≥4: 613
+Grupa sa veličinom ≥5: 416
+Grupa sa veličinom ≥6: 206
+Grupa sa veličinom ≥7: 54
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  889   spojeno (u grupama >1):  848
+  - BalkanBet  ukupno zapisa:  889   spojeno (u grupama >1):  847
   - BetOle     ukupno zapisa:  311   spojeno (u grupama >1):  300
   - Brazil_d   ukupno zapisa:   78   spojeno (u grupama >1):   73
   - Brazil_p   ukupno zapisa:  396   spojeno (u grupama >1):  371
-  - Meridian   ukupno zapisa: 1445   spojeno (u grupama >1): 1010
+  - Meridian   ukupno zapisa: 1445   spojeno (u grupama >1): 1009
   - Merkur     ukupno zapisa:   98   spojeno (u grupama >1):   39
   - Mozzart    ukupno zapisa:  417   spojeno (u grupama >1):  387
   - Soccer     ukupno zapisa:  650   spojeno (u grupama >1):  632
   - Topbet     ukupno zapisa:  707   spojeno (u grupama >1):  694
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 9
+  - 1-X-2: 8
   - 0-2 / 3+: 2
-  - Barem jedna arbitraža: 11
+  - Barem jedna arbitraža: 10

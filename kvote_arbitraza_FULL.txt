@@ -2021,18 +2021,18 @@ H.Kfar Shelem  vs  H. Kfar Saba
 
 - BalkanBet  1=1.9  |  X=3.5  |  2=3.5  |  0-2=1.79  |  2+=1.32  |  3+=1.92  |  GG=1.75  |  IGG=4.85  |  GG&3+=2.25  |  GG&4+=3.75  |  4+=3.35
 - BetOle     1=1.83  |  X=3.3  |  2=3.85  |  0-2=1.75  |  3+=1.93
-- Meridian   1=2.65  |  X=3.1  |  2=2.4  |  0-2=1.63  |  3+=2.01  |  GG=1.83  |  GG&3+=2.32  |  GG&4+=4.3
+- Meridian   1=1.86  |  X=3.3  |  2=3.65  |  0-2=1.74  |  3+=1.86  |  GG=1.79  |  GG&3+=2.21  |  GG&4+=3.85
 - Soccer     1=1.92  |  X=3.4  |  2=3.7  |  0-2=1.8  |  2+=1.3  |  3+=1.9  |  GG=1.8  |  IGG=4.6  |  GG&3+=2.18
 - Topbet     1=1.9  |  X=3.55  |  2=3.5
 
-Najveća 1  : 2.65  [Meridian]
+Najveća 1  : 1.92  [Soccer]
 Najveća X  : 3.55  [Topbet]
 Najveća 2  : 3.85  [BetOle]
 Najveća 0-2: 1.80  [Soccer]
-Najveća 3+ : 2.01  [Meridian]
+Najveća 3+ : 1.93  [BetOle]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9188   profit≈8.12%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0531   profit≈-5.31%
+Arbitraža (1-X-2): NE   inv_sum=1.0623   profit≈-6.23%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0737   profit≈-7.37%
 
 --------------------------------------------------------------------------------------
 15:00   24.10.   [Izrael 2]
@@ -2094,6 +2094,7 @@ Kiryat Yam  vs  H. Hadera
 
 - BalkanBet  1=2.05  |  X=3.4  |  2=3.2  |  0-2=1.87  |  2+=1.28  |  3+=1.83  |  GG=1.65  |  IGG=4.5  |  GG&3+=2.1  |  GG&4+=3.5  |  4+=3.1
 - BetOle     1=1.97  |  X=3.3  |  2=3.35  |  0-2=1.85  |  3+=1.83
+- Meridian   1=2.01  |  X=3.2  |  2=3.25  |  0-2=1.82  |  3+=1.79  |  GG=1.69  |  GG&3+=2.07  |  GG&4+=3.5
 - Soccer     1=2.07  |  X=3.35  |  2=3.3  |  0-2=1.85  |  2+=1.27  |  3+=1.85  |  GG=1.7  |  IGG=4.3  |  GG&3+=2.05
 - Topbet     1=2.05  |  X=3.35  |  2=3.1
 
@@ -8398,22 +8399,21 @@ Arbitraža (1-X-2): NE   inv_sum=1.0481   profit≈-4.81%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0814   profit≈-8.14%
 
 --------------------------------------------------------------------------------------
-19:00   25.10.   [Izrael 1]
-M. Netanya  vs  Hapoel TA
+19:00   25.10.   [Israeli - Ligat HaAl]
+Maccabi Netanya FC  vs  Hapoel Tel Aviv FC
 
-- BalkanBet  1=3.15  |  X=3.5  |  2=2.1  |  0-2=2.2  |  2+=1.2  |  3+=1.6  |  GG=1.55  |  IGG=3.8  |  GG&3+=1.85  |  GG&4+=2.85  |  4+=2.5
 - Meridian   1=2.9  |  X=3.55  |  2=2.04  |  0-2=2.18  |  3+=1.61  |  GG=1.56  |  GG&3+=1.9  |  GG&4+=2.83
 - Soccer     1=2.95  |  X=3.65  |  2=2.1  |  0-2=2.13  |  2+=1.19  |  3+=1.63  |  GG=1.57  |  IGG=3.75  |  GG&3+=1.85
 - Topbet     1=2.9  |  X=3.55  |  2=2.1
 
-Najveća 1  : 3.15  [BalkanBet]
+Najveća 1  : 2.95  [Soccer]
 Najveća X  : 3.65  [Soccer]
-Najveća 2  : 2.10  [BalkanBet, Soccer, Topbet]
-Najveća 0-2: 2.20  [BalkanBet]
+Najveća 2  : 2.10  [Soccer, Topbet]
+Najveća 0-2: 2.18  [Meridian]
 Najveća 3+ : 1.63  [Soccer]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0676   profit≈-6.76%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0680   profit≈-6.80%
+Arbitraža (1-X-2): NE   inv_sum=1.0891   profit≈-8.91%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0722   profit≈-7.22%
 
 --------------------------------------------------------------------------------------
 19:30   25.10.   [Italija 2]
@@ -17733,6 +17733,21 @@ Arbitraža (1-X-2): NE   inv_sum=1.0841   profit≈-8.41%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0795   profit≈-7.95%
 
 --------------------------------------------------------------------------------------
+19:00   25.10.   [Izrael 1]
+M. Netanya  vs  Hapoel TA
+
+- BalkanBet  1=3.15  |  X=3.5  |  2=2.1  |  0-2=2.2  |  2+=1.2  |  3+=1.6  |  GG=1.55  |  IGG=3.8  |  GG&3+=1.85  |  GG&4+=2.85  |  4+=2.5
+
+Najveća 1  : 3.15  [BalkanBet]
+Najveća X  : 3.50  [BalkanBet]
+Najveća 2  : 2.10  [BalkanBet]
+Najveća 0-2: 2.20  [BalkanBet]
+Najveća 3+ : 1.60  [BalkanBet]
+
+Arbitraža (1-X-2): NE   inv_sum=1.0794   profit≈-7.94%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0795   profit≈-7.95%
+
+--------------------------------------------------------------------------------------
 19:15   26.10.   [Izrael 1]
 H. Beer Sheva  vs  M. Bney Reine
 
@@ -24301,6 +24316,21 @@ Najveća 3+ : 2.09  [Meridian]
 
 Arbitraža (1-X-2): NE   inv_sum=1.1097   profit≈-10.97%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0920   profit≈-9.20%
+
+--------------------------------------------------------------------------------------
+15:00   24.10.   [Israeli - Liga Leumit]
+Hapoel Nof Hagalil FC  vs  Hapoel Acre FC
+
+- Meridian   1=2.65  |  X=3.1  |  2=2.4  |  0-2=1.63  |  3+=2.01  |  GG=1.83  |  GG&3+=2.32  |  GG&4+=4.3
+
+Najveća 1  : 2.65  [Meridian]
+Najveća X  : 3.10  [Meridian]
+Najveća 2  : 2.40  [Meridian]
+Najveća 0-2: 1.63  [Meridian]
+Najveća 3+ : 2.01  [Meridian]
+
+Arbitraža (1-X-2): NE   inv_sum=1.1166   profit≈-11.66%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.1110   profit≈-11.10%
 
 --------------------------------------------------------------------------------------
 17:00   [ICELAND, Besta-deild karla - Relegation Group]
