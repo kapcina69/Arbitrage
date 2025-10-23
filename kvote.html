@@ -36,13 +36,21 @@
   .league-item.active{background:linear-gradient(135deg,rgba(107,138,255,.25),rgba(95,234,215,.15)); border-color:var(--accent); font-weight:700; box-shadow:0 2px 8px var(--hover-glow);}
   .league-item.active .league-name{color:var(--accent); font-weight:700;}
   .league-count{opacity:.8; font-size:11px; font-weight:700; background:rgba(107,138,255,0.25); padding:3px 10px; border-radius:999px; margin-left:8px;}
+  .widget{background:linear-gradient(135deg, rgba(107,138,255,0.15), rgba(95,234,215,0.1)); border:1px solid rgba(107,138,255,0.2); border-radius:16px; padding:16px; display:flex; gap:14px; align-items:center; transition:.3s all; backdrop-filter:blur(8px);}
+  .widget:hover{transform:translateY(-4px); box-shadow:0 8px 24px rgba(107,138,255,0.2); border-color:rgba(107,138,255,0.4);}
+  .widget-icon{width:56px; height:56px; border-radius:14px; display:flex; align-items:center; justify-content:center; font-size:24px; flex-shrink:0; box-shadow:0 4px 12px rgba(0,0,0,0.3);}
+  .widget-content{flex:1;}
+  .widget-label{font-size:11px; text-transform:uppercase; letter-spacing:0.8px; color:var(--muted); font-weight:700; margin-bottom:4px;}
+  .widget-value{font-size:28px; font-weight:800; color:var(--text); line-height:1;}
+  .widget-sub{font-size:11px; color:var(--muted); margin-top:4px; font-weight:500;}
+
   .grid{display:grid; grid-template-columns:1fr; gap:20px; flex:1}
   @media(max-width:1000px){.sidebar{display:none}}
   .match{border:1px solid rgba(107,138,255,0.2); border-radius:20px; background:var(--card); overflow:hidden; box-shadow:0 8px 32px rgba(0,0,0,.4); transition:.3s all; backdrop-filter:blur(8px);}
   .match:hover{transform:translateY(-4px); box-shadow:0 12px 48px rgba(107,138,255,.3); border-color:rgba(107,138,255,0.4);}
   .head{display:flex; gap:12px; align-items:center; padding:18px; background:linear-gradient(135deg, rgba(107,138,255,.15), rgba(95,234,215,.1)); border-bottom:1px solid rgba(107,138,255,0.2);}
   .teams{font-weight:800; letter-spacing:.3px; font-size:16px;}
-  .meta{margin-left:auto; display:flex; gap:10px; align-items:center; flex-wrap:wrap}
+  .meta{margin-left:auto; display:flex; flex-direction:column; gap:8px; align-items:flex-end;}
   .sub{color:var(--muted); font-size:12px; margin-top:3px; font-weight:500;}
   .body{padding:16px 18px}
   .stats{display:grid; grid-template-columns:repeat(3, minmax(0,1fr)); gap:12px}
@@ -74,15 +82,86 @@
   .bar{height:100%; width:0; transition:width .3s ease;}
 </style>
 <body>
-  <header>
-    <div class="wrap bar">
-      <h1>Vizuelni prikaz kvota</h1>
-      <span class="pill" id="pillStatus">status: spremno</span>
-      <button id="btnPrint">Štampa / PDF</button>
+  <header style="background:linear-gradient(135deg, rgba(107,138,255,0.2), rgba(95,234,215,0.1)); border-bottom:2px solid rgba(107,138,255,0.3); backdrop-filter:blur(10px); position:sticky; top:0; z-index:100; box-shadow:0 4px 20px rgba(0,0,0,0.3);">
+    <div class="wrap" style="padding:12px 24px;">
+      
+      <!-- Glavni red: Logo, Naslov, Status, Akcije -->
+      <div style="display:flex; align-items:center; justify-content:space-between; gap:20px;">
+        
+        <!-- Logo i Naslov -->
+        <div style="display:flex; align-items:center; gap:12px;">
+          <div style="width:48px; height:48px; background:linear-gradient(135deg, var(--accent), var(--accent-2)); border-radius:12px; display:flex; align-items:center; justify-content:center; font-size:24px; box-shadow:0 4px 16px rgba(107,138,255,0.4); flex-shrink:0;">
+            📊
+          </div>
+          <div>
+            <h1 style="margin:0; font-size:24px; font-weight:900; background:linear-gradient(135deg, var(--accent), var(--accent-2)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; letter-spacing:-0.5px; line-height:1;">
+              ANALIZATOR KVOTA
+            </h1>
+            <p style="margin:2px 0 0 0; color:var(--muted); font-size:11px; font-weight:500;">
+              Real-time • Auto-refresh svakih 5 min
+            </p>
+          </div>
+        </div>
+        
+        <!-- Quick Stats -->
+        <div style="display:flex; gap:20px; align-items:center; flex:1; justify-content:center;">
+          <div style="text-align:center;">
+            <div style="font-size:10px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">Ukupno</div>
+            <div id="quickTotal" style="font-size:20px; font-weight:800; color:var(--text);">-</div>
+          </div>
+          
+          <div style="width:1px; height:32px; background:rgba(107,138,255,0.3);"></div>
+          
+          <div style="text-align:center;">
+            <div style="font-size:10px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">Arbitraže</div>
+            <div id="quickArb" style="font-size:20px; font-weight:800; color:var(--good);">-</div>
+          </div>
+          
+          <div style="width:1px; height:32px; background:rgba(107,138,255,0.3);"></div>
+          
+          <div style="text-align:center;">
+            <div style="font-size:10px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">Profit</div>
+            <div id="quickProfit" style="font-size:20px; font-weight:800; color:var(--good);">-</div>
+          </div>
+          
+          <div style="width:1px; height:32px; background:rgba(107,138,255,0.3);"></div>
+          
+          <div style="text-align:center;">
+            <div style="font-size:10px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">Danas</div>
+            <div id="quickToday" style="font-size:20px; font-weight:800; color:var(--text);">-</div>
+          </div>
+        </div>
+        
+        <!-- Status i Akcije -->
+        <div style="display:flex; align-items:center; gap:8px; flex-shrink:0;">
+          <div style="display:flex; flex-direction:column; align-items:flex-end; gap:4px;">
+            <span class="pill" id="pillStatus" style="font-size:11px; padding:4px 10px;">
+              <span id="statusIcon">🟢</span> <span id="statusText">Spremno</span>
+            </span>
+            <span id="lastUpdate" style="font-size:9px; color:var(--muted); font-weight:600;">
+              Ažurirano: -
+            </span>
+          </div>
+          
+          <button id="btnRefresh" style="padding:8px 14px; background:linear-gradient(135deg, var(--accent), var(--accent-2)); color:white; border:none; border-radius:8px; cursor:pointer; font-size:13px; font-weight:700; transition:.2s all; box-shadow:0 4px 12px rgba(107,138,255,0.3); display:flex; align-items:center; gap:6px;">
+            <span id="refreshIcon" style="font-size:14px;">🔄</span>
+          </button>
+          
+          <button id="btnPrint" style="padding:8px 14px; background:rgba(107,138,255,0.15); color:var(--text); border:1px solid rgba(107,138,255,0.3); border-radius:8px; cursor:pointer; font-size:13px; font-weight:700; transition:.2s all; display:flex; align-items:center; gap:6px;">
+            <span style="font-size:14px;">🖨️</span>
+          </button>
+        </div>
+      </div>
+      
     </div>
   </header>
 
   <div class="wrap">
+    <!-- Dashboard sa statistikama -->
+    <div id="dashboard" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(220px, 1fr)); gap:16px; margin-bottom:24px;">
+      <!-- Widgeti će biti dodati dinamički -->
+    </div>
+    
     <div class="controls">
       <textarea id="src" class="in" placeholder="Učitani tekst (read-only)"></textarea>
       <input id="q" class="in" placeholder="🔍 Filtriraj po timu/ligi…"/>
@@ -94,6 +173,28 @@
         <option value="time">Sortiraj po vremenu</option>
         <option value="none">Sortiranje: bez</option>
       </select>
+      
+      <!-- Novi filteri -->
+      <div style="display:flex; gap:16px; margin-top:12px; flex-wrap:wrap; align-items:center;">
+        <label style="display:flex; align-items:center; gap:8px; cursor:pointer; font-size:13px; color:var(--text); padding:8px 12px; background:rgba(107,138,255,0.1); border-radius:8px; transition:.2s;">
+          <input type="checkbox" id="filterArbOnly" style="width:18px; height:18px; cursor:pointer; accent-color:var(--accent);">
+          <span>🎯 Samo arbitraže</span>
+        </label>
+        <label style="display:flex; align-items:center; gap:8px; cursor:pointer; font-size:13px; color:var(--text); padding:8px 12px; background:rgba(107,138,255,0.1); border-radius:8px; transition:.2s;">
+          <input type="checkbox" id="filterHighOdds" style="width:18px; height:18px; cursor:pointer; accent-color:var(--accent);">
+          <span>🔥 Visoke kvote (1, X, 2 > 2.0)</span>
+        </label>
+        <select id="filterTime" class="in" style="width:auto; padding:10px 14px; font-size:13px;">
+          <option value="all">📅 Sva vremena</option>
+          <option value="today">Danas</option>
+          <option value="tomorrow">Sutra</option>
+          <option value="next3">Naredna 3 dana</option>
+        </select>
+        <button id="btnClearFilters" style="padding:10px 16px; background:rgba(248,113,113,0.2); color:#f87171; border:1px solid rgba(248,113,113,0.3); border-radius:8px; cursor:pointer; font-size:13px; font-weight:600; transition:.2s;">
+          ✕ Obriši filtere
+        </button>
+      </div>
+      
       <div class="small">Automatsko učitavanje svakih <b>5 minuta</b>.</div>
     </div>
 
@@ -105,6 +206,98 @@
       <div id="out" class="grid"></div>
     </div>
   </div>
+  
+  <!-- Footer -->
+  <footer style="background:linear-gradient(135deg, rgba(107,138,255,0.1), rgba(95,234,215,0.05)); border-top:1px solid rgba(107,138,255,0.2); margin-top:48px; padding:32px 0;">
+    <div class="wrap" style="max-width:1400px; margin:0 auto;">
+      <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)); gap:32px; margin-bottom:32px;">
+        
+        <!-- O nama -->
+        <div>
+          <h3 style="color:var(--accent); font-size:16px; font-weight:700; margin-bottom:16px; text-transform:uppercase; letter-spacing:0.8px;">📊 O Platformi</h3>
+          <p style="color:var(--muted); font-size:13px; line-height:1.6; margin-bottom:12px;">
+            Napredna platforma za analizu sportskih kvota i pronalaženje arbitražnih prilika u realnom vremenu. 
+            Praćenje preko 12 kladionica sa automatskim osvežavanjem svakih 5 minuta.
+          </p>
+          <div style="display:flex; gap:8px; margin-top:16px;">
+            <span style="background:rgba(107,138,255,0.2); padding:4px 10px; border-radius:6px; font-size:11px; font-weight:600;">⚡ Real-time</span>
+            <span style="background:rgba(45,212,191,0.2); padding:4px 10px; border-radius:6px; font-size:11px; font-weight:600;">🎯 Arbitraže</span>
+            <span style="background:rgba(245,158,11,0.2); padding:4px 10px; border-radius:6px; font-size:11px; font-weight:600;">📈 Statistika</span>
+          </div>
+        </div>
+        
+        <!-- Brzi linkovi -->
+        <div>
+          <h3 style="color:var(--accent); font-size:16px; font-weight:700; margin-bottom:16px; text-transform:uppercase; letter-spacing:0.8px;">🔗 Brzi Linkovi</h3>
+          <ul style="list-style:none; padding:0; margin:0;">
+            <li style="margin-bottom:10px;"><a href="#" id="linkScrollTop" style="color:var(--muted); text-decoration:none; font-size:13px; transition:.2s; display:flex; align-items:center; gap:8px;"><span>↑</span> Nazad na vrh</a></li>
+            <li style="margin-bottom:10px;"><a href="#" id="linkBestArb" style="color:var(--muted); text-decoration:none; font-size:13px; transition:.2s; display:flex; align-items:center; gap:8px;"><span>💰</span> Najbolje arbitraže</a></li>
+            <li style="margin-bottom:10px;"><a href="#" id="linkTodayMatches" style="color:var(--muted); text-decoration:none; font-size:13px; transition:.2s; display:flex; align-items:center; gap:8px;"><span>📅</span> Današnji mečevi</a></li>
+            <li style="margin-bottom:10px;"><a href="#" id="linkHighOdds" style="color:var(--muted); text-decoration:none; font-size:13px; transition:.2s; display:flex; align-items:center; gap:8px;"><span>🔥</span> Visoke kvote</a></li>
+          </ul>
+        </div>
+        
+        <!-- Podržane kladionice -->
+        <div>
+          <h3 style="color:var(--accent); font-size:16px; font-weight:700; margin-bottom:16px; text-transform:uppercase; letter-spacing:0.8px;">🎰 Kladionice</h3>
+          <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:8px; font-size:12px; color:var(--muted);">
+            <div>• BalkanBet</div>
+            <div>• BetOle</div>
+            <div>• Brazil</div>
+            <div>• Meridian</div>
+            <div>• Merkur</div>
+            <div>• Mozzart</div>
+            <div>• OktagonBet</div>
+            <div>• Soccer</div>
+            <div>• TopBet</div>
+          </div>
+        </div>
+        
+        <!-- Statistika -->
+        <div>
+          <h3 style="color:var(--accent); font-size:16px; font-weight:700; margin-bottom:16px; text-transform:uppercase; letter-spacing:0.8px;">📊 Statistika</h3>
+          <div id="footerStats" style="font-size:13px; color:var(--muted); line-height:1.8;">
+            <div style="display:flex; justify-content:space-between; margin-bottom:8px;">
+              <span>Mečeva danas:</span>
+              <span style="color:var(--text); font-weight:700;" id="statsFooterToday">-</span>
+            </div>
+            <div style="display:flex; justify-content:space-between; margin-bottom:8px;">
+              <span>Ukupno arbitraža:</span>
+              <span style="color:var(--good); font-weight:700;" id="statsFooterArb">-</span>
+            </div>
+            <div style="display:flex; justify-content:space-between; margin-bottom:8px;">
+              <span>Najbolji profit:</span>
+              <span style="color:var(--good); font-weight:700;" id="statsFooterProfit">-</span>
+            </div>
+            <div style="display:flex; justify-content:space-between;">
+              <span>Poslednje ažuriranje:</span>
+              <span style="color:var(--text); font-weight:700; font-size:11px;" id="statsFooterTime">-</span>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+      
+      <!-- Copyright i pravni tekst -->
+      <div style="border-top:1px solid rgba(107,138,255,0.2); padding-top:24px; text-align:center;">
+        <p style="color:var(--muted); font-size:12px; margin-bottom:12px;">
+          <strong style="color:var(--text);">⚠️ Odricanje od odgovornosti:</strong> Ova platforma služi isključivo u informativne svrhe. 
+          Kockanje može biti zavisnost. Igrajte odgovorno. 18+
+        </p>
+        <p style="color:var(--muted); font-size:11px; margin-bottom:8px;">
+          Kvote se automatski ažuriraju svakih 5 minuta. Za najnovije informacije posetite zvanične sajtove kladionica.
+        </p>
+        <p style="color:var(--muted); font-size:11px;">
+          © 2025 Kvote Analizator. Sva prava zadržana. | Verzija 2.0
+        </p>
+      </div>
+    </div>
+  </footer>
+  
+  <!-- Scroll to Top dugme -->
+  <button id="scrollToTop" style="position:fixed; bottom:24px; right:24px; width:56px; height:56px; border-radius:50%; background:linear-gradient(135deg, var(--accent), var(--accent-2)); border:none; color:white; font-size:24px; cursor:pointer; box-shadow:0 8px 24px rgba(107,138,255,0.4); transition:.3s all; opacity:0; pointer-events:none; z-index:1000;">
+    ↑
+  </button>
 
 <script>
 // === Podešavanja ===
@@ -251,6 +444,11 @@ const COUNTRY_LEAGUES = {
 
 // Funkcija koja pronalazi zemlju za ligu
 function getCountryForLeague(leagueName) {
+  // Specijalni slučaj za prazne lige
+  if (!leagueName || leagueName === '(bez lige)') {
+    return 'Ostalo';
+  }
+  
   for (const [country, leagues] of Object.entries(COUNTRY_LEAGUES)) {
     if (leagues.includes(leagueName)) {
       return country;
@@ -391,6 +589,10 @@ function normalizeLeagueName(leagueName) {
   
   // Mapa sinonima - sve varijacije koje treba tretirati kao istu ligu
   const synonyms = {
+    // Specijalni slučajevi
+    '(bez lige)': 'Bez lige',
+    '': 'Bez lige',
+    
     // Poljska
     'Polish - II Liga': 'Poljska 2',
     'Polish - III Liga': 'Poljska 3',
@@ -732,6 +934,114 @@ function arbitraza(rows){ const b1=bestByMarket(rows,'1').val, bX=bestByMarket(r
 function arbitraza02(rows, a='0-2', b='3+'){ const ba=bestByMarket(rows,a).val, bb=bestByMarket(rows,b).val; if(!ba||!bb) return {inv:null,profit:null,ok:false}; const inv=1/ba+1/bb; return {inv,profit:(1-inv)*100,ok:inv<1}; }
 function scaleByMarket(rows, m){ const vals=rows.map(r=>r.markets[m]).filter(v=>typeof v==="number"); if(!vals.length) return ()=>0; const min=Math.min(...vals), max=Math.max(...vals); return v=> typeof v==="number" ? ((v-min)/Math.max(1e-9,(max-min))) : 0; }
 
+// === Dashboard funkcije ===
+function updateDashboard(data) {
+  const dashboard = document.getElementById('dashboard');
+  if (!dashboard) return;
+  
+  // Statistike
+  const totalMatches = data.length;
+  const arbMatches = data.filter(m => m.arb?.ok || m.arb02?.ok).length;
+  const bestArb = data.reduce((best, m) => {
+    const profit = Math.max(m.arb?.profit || 0, m.arb02?.profit || 0);
+    return profit > best ? profit : best;
+  }, 0);
+  
+  // Današnji mečevi - provera datuma
+  const today = new Date();
+  const todayStr = `${today.getDate().toString().padStart(2, '0')}.${(today.getMonth() + 1).toString().padStart(2, '0')}.`;
+  
+  const todayMatches = data.filter(m => {
+    if (!m.date) return false;
+    // Proveri da li datum počinje sa današnjim datumom
+    return m.date.trim().startsWith(todayStr);
+  }).length;
+  
+  dashboard.innerHTML = `
+    <div class="widget">
+      <div class="widget-icon" style="background:linear-gradient(135deg, #6b8aff, #5febd7);">⚽</div>
+      <div class="widget-content">
+        <div class="widget-label">Ukupno mečeva</div>
+        <div class="widget-value">${totalMatches}</div>
+      </div>
+    </div>
+    
+    <div class="widget">
+      <div class="widget-icon" style="background:linear-gradient(135deg, #2dd4bf, #14b8a6);">🎯</div>
+      <div class="widget-content">
+        <div class="widget-label">Arbitraže pronađene</div>
+        <div class="widget-value">${arbMatches}</div>
+        <div class="widget-sub">${totalMatches > 0 ? ((arbMatches/totalMatches)*100).toFixed(1) : '0.0'}% mečeva</div>
+      </div>
+    </div>
+    
+    <div class="widget">
+      <div class="widget-icon" style="background:linear-gradient(135deg, #f59e0b, #f97316);">💰</div>
+      <div class="widget-content">
+        <div class="widget-label">Najbolja arbitraža</div>
+        <div class="widget-value">+${bestArb.toFixed(2)}%</div>
+      </div>
+    </div>
+    
+    <div class="widget">
+      <div class="widget-icon" style="background:linear-gradient(135deg, #ec4899, #db2777);">📅</div>
+      <div class="widget-content">
+        <div class="widget-label">Danas</div>
+        <div class="widget-value">${todayMatches}</div>
+      </div>
+    </div>
+  `;
+  
+  // Ažuriraj footer statistiku
+  const statsFooterToday = document.getElementById('statsFooterToday');
+  const statsFooterArb = document.getElementById('statsFooterArb');
+  const statsFooterProfit = document.getElementById('statsFooterProfit');
+  const statsFooterTime = document.getElementById('statsFooterTime');
+  
+  if(statsFooterToday) statsFooterToday.textContent = todayMatches;
+  if(statsFooterArb) statsFooterArb.textContent = arbMatches;
+  if(statsFooterProfit) statsFooterProfit.textContent = `+${bestArb.toFixed(2)}%`;
+  if(statsFooterTime) {
+    const now = new Date();
+    statsFooterTime.textContent = now.toLocaleTimeString('sr-RS', {hour:'2-digit', minute:'2-digit'});
+  }
+  
+  // Ažuriraj header quick stats
+  const quickTotal = document.getElementById('quickTotal');
+  const quickArb = document.getElementById('quickArb');
+  const quickProfit = document.getElementById('quickProfit');
+  const quickToday = document.getElementById('quickToday');
+  
+  if(quickTotal) quickTotal.textContent = totalMatches;
+  if(quickArb) quickArb.textContent = arbMatches;
+  if(quickProfit) quickProfit.textContent = `+${bestArb.toFixed(2)}%`;
+  if(quickToday) quickToday.textContent = todayMatches;
+}
+
+// Funkcija za parsiranje datuma
+function parseMatchDate(dateStr) {
+  if (!dateStr) return null;
+  try {
+    // Format: DD.MM. ili DD.MM.YYYY
+    const parts = dateStr.trim().split('.');
+    if (parts.length >= 2) {
+      const day = parseInt(parts[0]);
+      const month = parseInt(parts[1]) - 1; // JavaScript meseci su 0-11
+      const year = parts.length > 2 && parts[2] ? parseInt(parts[2]) : new Date().getFullYear();
+      
+      // Kreiraj datum u ponoć
+      const matchDate = new Date(year, month, day);
+      matchDate.setHours(0, 0, 0, 0);
+      
+      return matchDate;
+    }
+  } catch(e) {
+    console.error('Greška pri parsiranju datuma:', dateStr, e);
+    return null;
+  }
+  return null;
+}
+
 // === Render ===
 function render(data){
   const out = document.getElementById('out'); out.innerHTML = '';
@@ -743,14 +1053,67 @@ function render(data){
   if(sortVal==='arb02asc')   withArb.sort((a,b)=> (a.arb02?.profit??1e9) - (b.arb02?.profit??1e9));
 
   const q = document.getElementById('q').value.toLowerCase().trim();
+  
+  // Novi filteri
+  const filterArbOnly = document.getElementById('filterArbOnly')?.checked || false;
+  const filterHighOdds = document.getElementById('filterHighOdds')?.checked || false;
+  const filterTime = document.getElementById('filterTime')?.value || 'all';
+  
   const filtered = withArb.filter(m=> {
     const txt = (m.teams+' '+m.league).toLowerCase();
     if(q && !txt.includes(q)) return false;
+    
     // Normalizuj naziv lige za poređenje
     const normalizedMatchLeague = normalizeLeagueName(m.league);
     if(window.selectedLeague && normalizedMatchLeague !== window.selectedLeague) return false;
+    
+    // Filter: samo arbitraže
+    if(filterArbOnly && !m.arb.ok && !m.arb02.ok) return false;
+    
+    // Filter: visoke kvote
+    if(filterHighOdds) {
+      const best1 = bestByMarket(m.rows, '1').val;
+      const bestX = bestByMarket(m.rows, 'X').val;
+      const best2 = bestByMarket(m.rows, '2').val;
+      // Sve tri kvote moraju biti veće od 2.0
+      if(!best1 || !bestX || !best2 || best1 <= 2.0 || bestX <= 2.0 || best2 <= 2.0) return false;
+    }
+    
+    // Filter: vreme
+    if(filterTime !== 'all' && m.date) {
+      const today = new Date();
+      today.setHours(0, 0, 0, 0); // Postavi na ponoć
+      
+      const matchDate = parseMatchDate(m.date);
+      if(!matchDate) {
+        console.log('Ne mogu da parsiram datum:', m.date);
+        return true; // Ako ne može da parsira, prikaži
+      }
+      
+      // Računaj razliku u danima
+      const daysDiff = Math.round((matchDate - today) / (1000 * 60 * 60 * 24));
+      
+      // Debug log (samo za prvih 5 mečeva)
+      if(Math.random() < 0.01) {
+        console.log('Filter debug:', {
+          matchDate: m.date,
+          parsed: matchDate.toLocaleDateString('sr-RS'),
+          today: today.toLocaleDateString('sr-RS'),
+          daysDiff,
+          filterTime
+        });
+      }
+      
+      if(filterTime === 'today' && daysDiff !== 0) return false;
+      if(filterTime === 'tomorrow' && daysDiff !== 1) return false;
+      if(filterTime === 'next3' && (daysDiff < 0 || daysDiff > 3)) return false;
+    }
+    
     return true;
   });
+  
+  // Ažuriraj dashboard sa filterovanim podacima
+  updateDashboard(filtered);
 
   for(const m of filtered){
     if(!m.rows || !m.rows.length) continue;
@@ -961,8 +1324,27 @@ const qEl=document.getElementById('q');
 const sortEl=document.getElementById('sort');
 
 function setStatus(txt, ok=true){
-  pillStatus.textContent = txt;
-  pillStatus.className = 'pill ' + (ok ? 'good' : 'bad');
+  const pillStatus = document.getElementById('pillStatus');
+  const statusIcon = document.getElementById('statusIcon');
+  const statusText = document.getElementById('statusText');
+  const lastUpdate = document.getElementById('lastUpdate');
+  
+  if(pillStatus) {
+    pillStatus.className = 'pill ' + (ok ? 'good' : 'bad');
+  }
+  
+  if(statusIcon) {
+    statusIcon.textContent = ok ? '🟢' : '🔴';
+  }
+  
+  if(statusText) {
+    statusText.textContent = txt;
+  }
+  
+  if(lastUpdate) {
+    const now = new Date();
+    lastUpdate.textContent = `Ažurirano: ${now.toLocaleTimeString('sr-RS', {hour:'2-digit', minute:'2-digit'})}`;
+  }
 }
 
 async function fetchAndRender(){
@@ -1001,12 +1383,136 @@ async function fetchAndRender(){
   el.addEventListener('change', ()=>{ render(currentData); });
 });
 
+// Event listeneri za nove filtere
+const filterArbOnlyEl = document.getElementById('filterArbOnly');
+const filterHighOddsEl = document.getElementById('filterHighOdds');
+const filterTimeEl = document.getElementById('filterTime');
+const btnClearFilters = document.getElementById('btnClearFilters');
+
+if(filterArbOnlyEl) filterArbOnlyEl.addEventListener('change', ()=>{ render(currentData); });
+if(filterHighOddsEl) filterHighOddsEl.addEventListener('change', ()=>{ render(currentData); });
+if(filterTimeEl) filterTimeEl.addEventListener('change', ()=>{ render(currentData); });
+
+if(btnClearFilters) {
+  btnClearFilters.addEventListener('click', ()=>{
+    if(filterArbOnlyEl) filterArbOnlyEl.checked = false;
+    if(filterHighOddsEl) filterHighOddsEl.checked = false;
+    if(filterTimeEl) filterTimeEl.value = 'all';
+    qEl.value = '';
+    window.selectedLeague = null;
+    render(currentData);
+  });
+}
+
+// Refresh dugme
+const btnRefresh = document.getElementById('btnRefresh');
+if(btnRefresh) {
+  btnRefresh.addEventListener('click', async () => {
+    const refreshIcon = document.getElementById('refreshIcon');
+    if(refreshIcon) {
+      refreshIcon.textContent = '⏳';
+      btnRefresh.disabled = true;
+      btnRefresh.style.opacity = '0.6';
+    }
+    
+    await fetchAndRender();
+    
+    if(refreshIcon) {
+      refreshIcon.textContent = '✓';
+      setTimeout(() => {
+        refreshIcon.textContent = '🔄';
+        btnRefresh.disabled = false;
+        btnRefresh.style.opacity = '1';
+      }, 1500);
+    }
+  });
+}
+
+// Print dugme
 document.getElementById('btnPrint').onclick = ()=> window.print();
 
 // Start: odmah učitaj, pa svakih 5 minuta ponovi
 window.addEventListener('DOMContentLoaded', ()=>{
   fetchAndRender();
   setInterval(fetchAndRender, AUTO_INTERVAL_MS);
+  
+  // === Footer linkovi ===
+  const linkScrollTop = document.getElementById('linkScrollTop');
+  const linkBestArb = document.getElementById('linkBestArb');
+  const linkTodayMatches = document.getElementById('linkTodayMatches');
+  const linkHighOdds = document.getElementById('linkHighOdds');
+  
+  if(linkScrollTop) {
+    linkScrollTop.addEventListener('click', (e) => {
+      e.preventDefault();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+  
+  if(linkBestArb) {
+    linkBestArb.addEventListener('click', (e) => {
+      e.preventDefault();
+      document.getElementById('sort').value = 'arbdesc';
+      if(filterArbOnlyEl) filterArbOnlyEl.checked = true;
+      render(currentData);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+  
+  if(linkTodayMatches) {
+    linkTodayMatches.addEventListener('click', (e) => {
+      e.preventDefault();
+      if(filterTimeEl) filterTimeEl.value = 'today';
+      render(currentData);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+  
+  if(linkHighOdds) {
+    linkHighOdds.addEventListener('click', (e) => {
+      e.preventDefault();
+      if(filterHighOddsEl) filterHighOddsEl.checked = true;
+      render(currentData);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+  
+  // === Scroll to Top dugme ===
+  const scrollToTopBtn = document.getElementById('scrollToTop');
+  
+  window.addEventListener('scroll', () => {
+    if (window.pageYOffset > 300) {
+      scrollToTopBtn.style.opacity = '1';
+      scrollToTopBtn.style.pointerEvents = 'auto';
+    } else {
+      scrollToTopBtn.style.opacity = '0';
+      scrollToTopBtn.style.pointerEvents = 'none';
+    }
+  });
+  
+  scrollToTopBtn.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+  
+  // Hover efekat za footer linkove
+  document.querySelectorAll('footer a').forEach(link => {
+    link.addEventListener('mouseenter', (e) => {
+      e.target.style.color = 'var(--accent)';
+      e.target.style.paddingLeft = '4px';
+    });
+    link.addEventListener('mouseleave', (e) => {
+      e.target.style.color = 'var(--muted)';
+      e.target.style.paddingLeft = '0';
+    });
+  });
+  
+  // Hover efekat za scroll dugme
+  scrollToTopBtn.addEventListener('mouseenter', () => {
+    scrollToTopBtn.style.transform = 'translateY(-4px) scale(1.05)';
+  });
+  scrollToTopBtn.addEventListener('mouseleave', () => {
+    scrollToTopBtn.style.transform = 'translateY(0) scale(1)';
+  });
 });
 </script>
 </body>
