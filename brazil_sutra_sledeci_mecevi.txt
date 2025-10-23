@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 25.10.
-2:00
+3:00
 23:59
-2:00 - 23:59
+3:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -27,7 +27,6 @@ HOKEJ
 RUKOMET
 ODBOJKA
 STONI TENIS
-AMERIČKI FUDBAL
 FUTSAL
 FORMULA
 PIKADO
@@ -39,42 +38,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-ARGENTINA, Copa Argentina
-89
-02:10
-Belgrano
-Argentinos Jrs
-822
-1
-3.30
-X
-3.00
-2
-2.22
-0-2
-1.52
-2+
-1.43
-3+
-2.38
-WORLD, Copa Libertadores - Play Offs
-102
-02:30
-LDU Quito
-Palmeiras
-969
-1
-2.90
-X
-2.90
-2
-2.62
-0-2
-1.48
-2+
-1.51
-3+
-2.55
 MEXICO, Liga de Expansion MX - Apertura
 148
 03:00
@@ -2092,13 +2055,13 @@ X
 20:00
 Helmond
 Dordrecht
-841
+842
 1
-2.10
+2.04
 X
 3.85
 2
-2.85
+2.95
 0-2
 2.70
 2+
@@ -2232,7 +2195,7 @@ GERMANY, Bundesliga
 20:30
 Werder Bremen
 Union Berlin
-949
+1001
 1
 2.22
 X
@@ -2358,7 +2321,7 @@ ITALY, Serie A
 20:45
 AC Milan
 Pisa
-928
+951
 1
 1.32
 X
@@ -2518,7 +2481,7 @@ ENGLAND, Premier League
 21:00
 Leeds
 West Ham
-952
+965
 1
 1.88
 X
@@ -2536,7 +2499,7 @@ SPAIN, LaLiga
 21:00
 Real Sociedad
 Sevilla
-1000
+1013
 1
 2.02
 X
@@ -2694,20 +2657,20 @@ X
 3+
 1.95
 Odigrani tiketi
-148
-Venados - Tampico Madero
-24.10. 03:00
+862
+PSBS Biak Numfor - Persebaya
+24.10. 10:30
 KONAČAN ISHOD 
 1
-  2.22  
+  4.60  
 Običan
 Sistem
 Kvota:
-2.22
+4.60
 Uplata:
 20.00 RSD
 Dobitak:
-44.40 RSD
+92.00 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express

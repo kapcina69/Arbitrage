@@ -187,9 +187,9 @@ AZ Alkmaar - Slovan B.
 +53
 21:00
 Crystal Palace - AEK Larnaca
-1.16
-7.00
-13.20
+1.18
+6.60
+11.60
 +53
 21:00
 Uni.Craiova - Noah
@@ -318,8 +318,8 @@ X
 16:00
 Chelsea - Sunderland
 1.42
-4.80
-7.50
+4.85
+7.70
 +53
 16:00
 Newcastle - Fulham
@@ -345,9 +345,9 @@ X
 2
 15:00
 Bournemouth - Nottingham Forest
-1.70
-4.00
-4.80
+1.68
+3.95
+5.10
 +53
 15:00
 Arsenal - Crystal Palace
@@ -463,9 +463,9 @@ X
 2
 15:30
 B. M'gladbach - Bayern M.
-11.50
+10.50
 7.00
-1.23
+1.25
 +53
 15:30
 E. Frankfurt - St. Pauli
@@ -498,14 +498,14 @@ X
 15:30
 B. Leverkusen - Freiburg
 1.75
-3.75
-4.75
+3.90
+4.60
 +53
 17:30
 Stuttgart - Mainz
-1.75
-3.95
-4.40
+1.72
+4.10
+4.45
 +53
 Italija 1
 KONAČAN ISHOD
@@ -605,7 +605,7 @@ X
 Girona - Oviedo
 1.80
 3.60
-4.60
+4.65
 +53
 16:15
 Espanyol - Elche
@@ -621,7 +621,7 @@ Athletic B. - Getafe
 +53
 21:00
 Valencia - Villarreal
-3.10
+3.15
 3.50
 2.25
 +53
@@ -637,9 +637,9 @@ Mallorca - Levante
 +53
 16:15
 Real M. - Barcelona
-2.05
-4.05
-3.15
+2.00
+4.20
+3.20
 +53
 18:30
 Osasuna - Celta
@@ -659,8 +659,8 @@ X
 2
 21:00
 Betis - Atletico M.
-3.15
-3.50
+3.10
+3.65
 2.20
 +53
 Holandija 1
@@ -811,16 +811,6 @@ Kup Libertadores
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-ČET. 23.10.
-1
-X
-2
-02:30
-Flamengo RJ - Racing Club
-1.38
-4.55
-10.00
-+41
 PET. 24.10.
 1
 X
@@ -1831,9 +1821,9 @@ X
 2
 03:30
 Aguila - FAS
-2.30
+2.40
 3.35
-2.80
+2.60
 +39
 Engleska 2
 KONAČAN ISHOD
@@ -1969,7 +1959,7 @@ Leyton Orient - Lincoln
 +52
 16:00
 Northampton - Luton
-3.85
+3.78
 3.30
 1.95
 +52
@@ -2269,8 +2259,8 @@ Chorley - Merthyr
 +40
 16:00
 Macclesfield FC - South Shields
-3.10
-3.35
+3.00
+3.40
 2.05
 +40
 16:00
@@ -2759,9 +2749,9 @@ X
 2
 19:15
 Hap. Beer Sheva - Mac. Bney Reine
-1.15
-7.00
-13.20
+1.16
+7.20
+12.80
 +41
 PON. 27.10.
 1
@@ -2795,15 +2785,15 @@ Mac. Herzliya - Kafr Qasim
 +39
 15:00
 Hap. Rishon Lezion - Hap. Ramat Gan
-2.50
+2.30
 3.25
-2.60
+2.85
 +39
 15:00
 Hap. Afula - Mac. Petah Tikva
-7.80
-4.90
-1.32
+8.80
+4.95
+1.30
 +36
 15:00
 Ironi Modiin - Bnei Yehuda
@@ -3391,18 +3381,6 @@ OBA TIMA DAJU GOL
 1
 X
 2
-03:00
-Queretaro - Chivas
-4.64
-3.55
-1.70
-+37
-03:00
-Pachuca - Tigres
-2.70
-3.35
-2.40
-+37
 05:00
 Tijuana - Dep.Toluca
 3.02
@@ -3463,9 +3441,9 @@ Cancun - Correcaminos
 +39
 02:00
 Zacatecas Mineros - Atlante
-2.70
+2.60
 3.15
-2.55
+2.60
 +39
 04:00
 Dorados Sinaloa - Tlaxcala
@@ -4185,9 +4163,9 @@ Ulsan - Daegu
 +41
 08:30
 Daejeon - Pohang
-2.45
-3.50
-2.80
+2.50
+3.60
+2.65
 +41
 R. Koreja 2
 KONAČAN ISHOD
@@ -4510,7 +4488,7 @@ Neom SC - Al Khaleej
 20:00
 Al Ittihad - Al Hilal
 3.50
-4.00
+4.05
 1.75
 +39
 SUB. 25.10.
@@ -4587,12 +4565,6 @@ OBA TIMA DAJU GOL
 1
 X
 2
-02:30
-Chicago - Orlando
-2.15
-3.75
-3.02
-+53
 04:30
 Portland - Salt Lake
 2.15
@@ -4633,7 +4605,7 @@ X
 Minnesota - Seattle
 2.30
 3.60
-2.81
+2.92
 +53
 SAD 2 USL
 KONAČAN ISHOD
@@ -4645,9 +4617,9 @@ X
 2
 04:00
 Sacramento - Charleston
-2.65
+2.60
 3.35
-2.45
+2.50
 +39
 SUB. 25.10.
 1
@@ -4690,7 +4662,7 @@ Tulsa - Colorado
 02:30
 San Antonio - El Paso Locomotive
 2.15
-3.40
+3.60
 2.80
 +39
 03:00
@@ -5459,9 +5431,9 @@ Connahs Q. - Haverfordwest
 +41
 15:30
 Briton Ferry - Colwyn Bay
-3.00
-3.45
-2.05
+2.90
+3.40
+2.15
 +41
 15:30
 Bala - Barry
@@ -5515,7 +5487,7 @@ Bangkok U. - Lion City
 +23
 14:15
 Persib Bandung - Selangor
-1.80
+1.85
 3.75
 3.50
 +23

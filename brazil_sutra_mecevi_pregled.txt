@@ -1,16 +1,4 @@
 ======================================================================
-02:10
-Belgrano  vs  Argentinos Jrs   (ID: 822)
-1=3.3   X=3   2=2.22
-0-2=1.52   2+=1.43   3+=2.38
-GG=-   IGG=-   GG&3+=-
-======================================================================
-02:30  [WORLD, Copa Libertadores - Play Offs]
-LDU Quito  vs  Palmeiras   (ID: 969)
-1=2.9   X=2.9   2=2.62
-0-2=1.48   2+=1.51   3+=2.55
-GG=-   IGG=-   GG&3+=-
-======================================================================
 03:00  [MEXICO, Liga de Expansion MX - Apertura]
 Venados  vs  Tampico Madero   (ID: 833)
 1=2.22   X=3.25   2=3
@@ -696,8 +684,8 @@ Graafschap  vs  Jong PSV   (ID: 846)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:00  [POLAND, III Liga - Group I]
-Helmond  vs  Dordrecht   (ID: 841)
-1=2.1   X=3.85   2=2.85
+Helmond  vs  Dordrecht   (ID: 842)
+1=2.04   X=3.85   2=2.95
 0-2=2.7   2+=1.1   3+=1.4
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -744,7 +732,7 @@ Aarau  vs  Wil   (ID: 832)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:30  [POLAND, III Liga - Group I]
-Werder Bremen  vs  Union Berlin   (ID: 949)
+Werder Bremen  vs  Union Berlin   (ID: 1001)
 1=2.22   X=3.25   2=3.4
 0-2=2.05   2+=1.25   3+=1.77
 GG=-   IGG=-   GG&3+=-
@@ -786,7 +774,7 @@ Huesca  vs  Las Palmas   (ID: 945)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:45  [ITALY, Serie C - Group C]
-AC Milan  vs  Pisa   (ID: 928)
+AC Milan  vs  Pisa   (ID: 951)
 1=1.32   X=4.95   2=11
 0-2=2.15   2+=1.23   3+=1.72
 GG=-   IGG=-   GG&3+=-
@@ -840,13 +828,13 @@ Llanelli  vs  TNS   (ID: 92)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:00  [ITALY, Serie C - Group C]
-Leeds  vs  West Ham   (ID: 952)
+Leeds  vs  West Ham   (ID: 965)
 1=1.88   X=3.45   2=4.4
 0-2=1.85   2+=1.32   3+=1.97
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:00  [ITALY, Serie C - Group C]
-Real Sociedad  vs  Sevilla   (ID: 1000)
+Real Sociedad  vs  Sevilla   (ID: 1013)
 1=2.02   X=3.35   2=3.85
 0-2=1.83   2+=1.33   3+=1.99
 GG=-   IGG=-   GG&3+=-

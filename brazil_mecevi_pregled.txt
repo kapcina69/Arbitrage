@@ -1,37 +1,13 @@
 ======================================================================
-2:00
-2:00 - 23:59  vs  KOŠARKA IGRAČI
+3:00
+3:00 - 23:59  vs  KOŠARKA IGRAČI
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-02:30  [USA, MLS - Play Offs]
-Chicago Fire  vs  Orlando City   (ID: 841)
-1=2.12   X=3.7   2=3.05
-0-2=2.6   2+=1.12   3+=1.45
-GG=-   IGG=-   GG&3+=-
-======================================================================
-02:30  [WORLD, Copa Libertadores - Play Offs]
-Flamengo RJ  vs  Racing Club   (ID: 962)
-1=1.36   X=4.25   2=9.75
-0-2=1.68   2+=1.37   3+=2.15
-GG=-   IGG=-   GG&3+=-
-======================================================================
-03:00  [MEXICO, Liga MX - Apertura]
-Pachuca  vs  U.A.N.L.- Tigres   (ID: 835)
-1=2.7   X=3.3   2=2.5
-0-2=1.92   2+=1.25   3+=1.82
-GG=-   IGG=-   GG&3+=-
-======================================================================
-03:00  [MEXICO, Liga MX - Apertura]
-Queretaro  vs  Guadalajara Chivas   (ID: 826)
-1=4.85   X=3.55   2=1.72
-0-2=1.8   2+=1.29   3+=1.94
-GG=-   IGG=-   GG&3+=-
-======================================================================
-03:30  [MEXICO, Liga MX - Apertura]
-Aguila  vs  FAS   (ID: 822)
-1=2.3   X=3   2=2.88
+03:30
+Aguila  vs  FAS   (ID: 824)
+1=2.45   X=3   2=2.7
 0-2=1.65   2+=1.3   3+=2.02
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -49,8 +25,8 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 04:00  [WORLD, CONCACAF Central American Cup - Play Offs]
 Real Espana  vs  Xelaju   (ID: 825)
-1=1.92   X=3.15   2=3.65
-0-2=1.65   2+=1.33   3+=2.07
+1=1.87   X=3.2   2=3.85
+0-2=1.67   2+=1.32   3+=2.05
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 04:30  [USA, MLS - Play Offs]
@@ -67,12 +43,12 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 05:00  [MEXICO, Liga MX - Apertura]
 Club Tijuana  vs  Toluca   (ID: 842)
-1=2.9   X=3.75   2=2.18
+1=2.95   X=3.75   2=2.18
 0-2=2.9   2+=1.09   3+=1.37
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 05:05  [MEXICO, Liga MX - Apertura]
-U.N.A.M.- Pumas  vs  Atl. San Luis   (ID: 829)
+U.N.A.M.- Pumas  vs  Atl. San Luis   (ID: 830)
 1=1.86   X=3.45   2=4.1
 0-2=1.87   2+=1.26   3+=1.87
 GG=-   IGG=-   GG&3+=-
@@ -84,8 +60,8 @@ Slovenia U19 Wom.  vs  Croatia U19 Wom.   (ID: 657)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 12:00  [MEXICO, Liga MX - Apertura]
-Cebrayil  vs  Sahdag Qusar   (ID: 658)
-1=2.7   X=2.88   2=2.55
+Cebrayil  vs  Sahdag Qusar   (ID: 657)
+1=2.5   X=2.88   2=2.75
 0-2=1.63   2+=1.32   3+=2.07
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -156,15 +132,15 @@ Cong An Nhan Dan  vs  Macarthur FC   (ID: 837)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:15  [MEXICO, Liga MX - Apertura]
-Persib Bandung  vs  Selangor   (ID: 837)
-1=1.68   X=3.8   2=3.95
-0-2=2.45   2+=1.13   3+=1.48
+Persib Bandung  vs  Selangor   (ID: 839)
+1=1.95   X=3.65   2=3.1
+0-2=2.4   2+=1.13   3+=1.49
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:30  [MEXICO, Liga MX - Apertura]
-Abu Qir Semad  vs  Maleyet Kafr El Zayiat   (ID: 57)
-1=1.23   X=4.5   2=10.5
-0-2=1.8   2+=1.24   3+=1.82
+Abu Qir Semad  vs  Maleyet Kafr El Zayiat   (ID: 58)
+1=1.25   X=4.4   2=9.75
+0-2=1.85   2+=1.22   3+=1.77
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:30  [MEXICO, Liga MX - Apertura]
@@ -306,9 +282,9 @@ Portugal U23 Wom.  vs  France U23 Wom.   (ID: 652)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 17:30  [FINLAND, Veikkausliiga - Relegation]
-TPS  vs  KTP   (ID: 826)
-1=3.25   X=3.05   2=2.2
-0-2=1.65   2+=1.35   3+=2.12
+TPS  vs  KTP   (ID: 827)
+1=3.15   X=3.05   2=2.28
+0-2=1.65   2+=1.34   3+=2.1
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 17:30  [FINLAND, Veikkausliiga - Relegation]
@@ -336,25 +312,25 @@ Hvidovre IF  vs  Koge   (ID: 831)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:45  [RUSSIA, Russian Cup - Group Stage]
-Braga  vs  Crvena zvezda   (ID: 1046)
+Braga  vs  Crvena zvezda   (ID: 1086)
 1=1.99   X=3.55   2=3.8
 0-2=2.03   2+=1.26   3+=1.8
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:45  [RUSSIA, Russian Cup - Group Stage]
-Brann  vs  Rangers   (ID: 987)
+Brann  vs  Rangers   (ID: 1024)
 1=2.1   X=3.45   2=3.5
 0-2=2.12   2+=1.24   3+=1.72
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:45  [RUSSIA, Russian Cup - Group Stage]
-FCSB  vs  Bologna   (ID: 937)
+FCSB  vs  Bologna   (ID: 1018)
 1=5.4   X=3.5   2=1.73
 0-2=1.85   2+=1.32   3+=1.97
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:45  [RUSSIA, Russian Cup - Group Stage]
-Fenerbahce  vs  Stuttgart   (ID: 946)
+Fenerbahce  vs  Stuttgart   (ID: 1027)
 1=2.45   X=3.35   2=2.95
 0-2=2.25   2+=1.21   3+=1.66
 GG=-   IGG=-   GG&3+=-
@@ -366,31 +342,31 @@ Feyenoord  vs  Panathinaikos   (ID: 942)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:45  [RUSSIA, Russian Cup - Group Stage]
-G.A. Eagles  vs  Aston Villa   (ID: 966)
-1=6.5   X=4.75   2=1.47
+G.A. Eagles  vs  Aston Villa   (ID: 1038)
+1=6.6   X=4.8   2=1.46
 0-2=2.6   2+=1.16   3+=1.51
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:45  [RUSSIA, Russian Cup - Group Stage]
-Genk  vs  Betis   (ID: 946)
-1=3.05   X=3.65   2=2.22
+Genk  vs  Betis   (ID: 1027)
+1=3.1   X=3.65   2=2.22
 0-2=2.35   2+=1.2   3+=1.61
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:45  [RUSSIA, Russian Cup - Group Stage]
 Lyon  vs  Basel   (ID: 945)
-1=1.61   X=4.33   2=5
-0-2=2.65   2+=1.15   3+=1.49
+1=1.62   X=4.3   2=5
+0-2=2.6   2+=1.16   3+=1.5
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:45  [RUSSIA, Russian Cup - Group Stage]
-Salzburg  vs  Ferencvaros   (ID: 950)
+Salzburg  vs  Ferencvaros   (ID: 1031)
 1=2.15   X=3.55   2=3.3
 0-2=2.2   2+=1.22   3+=1.68
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:45  [UEFA, Conference League - League phase]
-AEK Athens FC  vs  Aberdeen   (ID: 932)
+AEK Athens FC  vs  Aberdeen   (ID: 988)
 1=1.28   X=5.6   2=11
 0-2=2.5   2+=1.17   3+=1.54
 GG=-   IGG=-   GG&3+=-
@@ -422,5 +398,41 @@ GG=-   IGG=-   GG&3+=-
 18:45  [UEFA, Conference League - League phase]
 Rijeka  vs  Sparta Prague   (ID: 955)
 1=3.5   X=3.35   2=2.15
-0-2=1.9   2+=1.3   3+=-
+0-2=1.9   2+=1.3   3+=1.92
+GG=-   IGG=-   GG&3+=-
+======================================================================
+18:45  [UEFA, Conference League - League phase]
+Shakhtar Donetsk  vs  Legia   (ID: 947)
+1=1.8   X=3.6   2=4.6
+0-2=2.05   2+=1.26   3+=1.79
+GG=-   IGG=-   GG&3+=-
+======================================================================
+18:45  [UEFA, Conference League - League phase]
+Shkendija  vs  Shelbourne FC   (ID: 938)
+1=2.18   X=3.15   2=3.65
+0-2=1.7   2+=1.39   3+=2.18
+GG=-   IGG=-   GG&3+=-
+======================================================================
+18:45  [UEFA, Conference League - League phase]
+Strasbourg  vs  Jagiellonia   (ID: 946)
+1=1.51   X=4.45   2=6.2
+0-2=2.4   2+=1.18   3+=1.58
+GG=-   IGG=-   GG&3+=-
+======================================================================
+19:00  [UEFA, Conference League - League phase]
+Express FC  vs  Kampala City   (ID: 102)
+1=2.75   X=2.75   2=2.5
+0-2=1.4   2+=1.48   3+=2.55
+GG=-   IGG=-   GG&3+=-
+======================================================================
+19:00  [UEFA, Conference League - League phase]
+Netherlands U23 Wom.  vs  Italy U23 Wom.   (ID: 653)
+1=1.66   X=3.65   2=4.3
+0-2=2.1   2+=1.19   3+=1.64
+GG=-   IGG=-   GG&3+=-
+======================================================================
+20:00  [RUSSIA, Russian Cup - Group Stage]
+Baltika  vs  Lokomotiv Moscow   (ID: 831)
+1=2.5   X=3.15   2=2.8
+0-2=1.75   2+=1.31   3+=2.02
 GG=-   IGG=-   GG&3+=-

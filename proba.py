@@ -81,6 +81,8 @@ TEAM_SYNONYMS: Dict[str, List[str]] = {
     "AIK": ["AIK Stockholm"],
     "Rangers": ["Glasgow Rangers"],
     "Celtic": ["Celtic Glasgow"],
+    "LASK Linz": ["LASK", "LASK Linz"],
+    
 }
 
 def strip_accents(s: str) -> str:

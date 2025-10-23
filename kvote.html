@@ -121,6 +121,191 @@ const BOOKMAKER_URLS = {
   'topbet': 'https://www.topbet.rs/sportsko-kladjenje/1-offer/3-fudbal'
 };
 
+// === Mapa grupisanja liga po zemljama ===
+const COUNTRY_LEAGUES = {
+  'Poljska': ['POLAND, III Liga - Group I', 'POLAND, III Liga - Group II', 'POLAND, III Liga - Group III', 'POLAND, III Liga - Group IV', 'Polish - II Liga', 'Polish - III Liga', 'Polish - IV Liga', 'Poljska 1', 'Poland, III Liga - Group I', 'Poland, III Liga - Group II', 'Poland, III Liga - Group III', 'Poland, III Liga - Group IV', 'Poljska 2', 'Poljska 3'],
+  'Engleska': ['Engleska 1', 'Engleska 2', 'Engleska 3', 'Engleska 4', 'Engleska 5', 'English - Isthmian League', 'English - National League South', 'English - Professional Development League', 'Engleska 7 Central', 'Engleska 7 Istok', 'Engleska 7 Jug', 'Engleska 7 Sever', 'Engleska 6 Jug', 'Engleska 6 Sever', 'England, Championship', 'English - Championship', 'English - EFL Cup', 'English - Premier League', 'English - Southern South'],
+  'Nemačka': ['German - Regionalliga Bayern', 'German - Regionalliga Nord', 'German - Regionalliga Nordost', 'German - Regionalliga Sudwest', 'German - Regionalliga West', 'Nemačka 1', 'Nemačka 2', 'Nemačka 3', 'Nemačka 4 Bavarija', 'Nemačka 4 Jugozapad', 'Nemačka 4 Sever', 'Nemačka 4 Severoistok', 'Nemačka 4 Zapad', 'German - Bundesliga', 'German - DFB Pokal', 'Germany, Regionalliga Bayern', 'Germany, Regionalliga Nordost', 'Germany, Regionalliga North', 'Germany, Regionalliga Sudwest', 'Germany, Regionalliga West'],
+  'Italija': ['ITALY, Serie C - Group A', 'ITALY, Serie C - Group C', 'Italian - Coppa Italia', 'Italian - Supercoppa Italiana', 'Italija 1', 'Italija 2', 'Italija 3 - Grupa A', 'Italija 3 - Grupa B', 'Italija 3 - Grupa C', 'Italian - Serie A', 'Italian - Serie B', 'Italy, Serie C - Group A'],
+  'Argentina': ['Argentina 1', 'Argentina, Primera C - Promotion - Play Offs', 'Argentine - Argentine Liga Profesional', 'Argentine - Argentine Primera Nacional', 'Argentine - Primera B', 'Argentina Kup'],
+  'Holandija': ['Dutch - Eerste Divisie', 'Dutch - Eredivisie', 'Dutch - Tweede Divisie', 'Holandija 1', 'Holandija 2', 'Netherlands, Eerste Divisie'],
+  'Škotska': ['Scottish - League Two', 'Scottish - Premiership', 'Škotska 1', 'Škotska 2', 'Škotska 3'],
+  'Češka': ['Czech - CFL', 'Czech - National League', 'Češka 1', 'Češka 2', 'Czech Republic, ChNL', 'Czech Republic, MSFL'],
+  'Danska': ['Danska 1', 'Danska 2', 'Danska 3', 'Danska 4', 'Danish - Danish Cup'],
+  'Španija': ['Spanish - Spanish Primera RFEF', 'Spanish - Spanish Segunda RFEF', 'Španija 1', 'Španija 2', 'Španija 3 - 1', 'Španija 3 - 2', 'Spanish - La Liga'],
+  'Turska': ['Turkish - First League', 'Turkish - Second League', 'Turska 1', 'Turska 2', 'TUR2', 'Turkey, Super Lig', 'Turkish - Super Lig'],
+  'Austrija': ['Austrian - First League', 'Austrija 1', 'Austrija 2', 'Austrian - Bundesliga', 'Austrian - OFB Cup', 'AUT2'],
+  'Belgija': ['Belgian - Belgium Reserve League', 'Belgija 1', 'Belgija 2', 'Belgian - First Division A', 'Belgian - First Division B', 'Belgium, Challenger Pro League'],
+  'Brazil': ['Brazil 1', 'Brazil 2', 'Brazil 3', 'Brazilian - Serie A', 'Brazilian - Serie B'],
+  'Bugarska': ['Bugarska 1', 'Bulgarian - First League', 'Bulgarian - Second League', 'Bulgaria, Vtora Liga'],
+  'Evropa': ['European - Conference League', 'Liga Konferencija', 'Liga Konferencije', 'European - Champions League', 'European - Europa League', 'Liga Evrope', 'European - UEFA Nations League Women', 'European - UEFA Youth League', 'UEFA Liga Mladih', 'UEFA, Conference League - League phase'],
+  'Japan': ['Japan 1', 'Japan 2', 'Japan 3'],
+  'Kina': ['CHINA, Yi League - Relegation Group', 'Chinese - League Two', 'Kina 1', 'China, Super League', 'China, Yi League - Relegation Group'],
+  'Litvanija': ['Lithuania, A Lyga', 'Lithuanian - A Lyga', 'Litvanija 1', 'Lithuania, I Lyga'],
+  'Mađarska': ['Hungarian - NB I', 'Hungarian - NB II', 'Mađarska 1', 'MAĐ1'],
+  'Meksiko': ['MEXICO, Liga de Expansion MX - Apertura', 'Meksiko 1', 'Meksiko 2', 'MEXICO, Liga MX - Apertura', 'Mexican - Liga MX', 'Mexico, Liga de Expansion MX - Apertura'],
+  'Rusija': ['Rusija 1', 'Rusija 2', 'Russian - FNL', 'Rusija Kup', 'Russian - Cup', 'Russia, FNL', 'Russia,Youth League', 'Russian - Premier League'],
+  'Saudijska Arabija': ['Saudi Arabia, Saudi Professional League', 'Saudi Arabian - Professional League', 'Saudijska Arabija 1', 'S. Arabija 1'],
+  'Srbija': ['Serbian - Prva Liga', 'Serbian - Superliga', 'Srbija 1'],
+  'Švajcarska': ['Swiss - Super League', 'Švajcarska 1', 'Švajcarska 2'],
+  'Urugvaj': ['Uruguayan - Reserve League', 'Uruguayan - Segunda Division', 'Urugvaj 1'],
+  'Australija': ['Australian - A-League', 'Australija 1', 'Australian - Australian Championship', 'Australija Championship', 'Australia, A-League'],
+  'Čile': ['Čile 1', 'Čile 2', 'Chilean - Primera B', 'ČIL1'],
+  'Egipat': ['Egipat 1', 'Egipat 2', 'Egyptian - Premier League', 'Egyptian - Second Division'],
+  'Estonija': ['Estonia, Esiliiga', 'Estonian - Esiliiga'],
+  'Etiopija': ['Ethiopia, Premier League', 'Ethiopian - Premier League'],
+  'Finska': ['FINLAND, Ykkosliiga - Relegation', 'Finland, Ykkosliiga - Relegation', 'Finska 1', 'Finska 2', 'FINLAND, Veikkausliiga - Championship Group', 'Finnish - Veikkausliiga'],
+  'Francuska': ['Francuska 1', 'Francuska 2'],
+  'Hrvatska': ['Hrvatska 1', 'Hrvatska 2', 'Croatia, Prva NL'],
+  'Island': ['ICELAND, Besta-deild karla - Relegation Group', 'Island 1', 'ISL1'],
+  'Izrael': ['Izrael 1', 'Izrael 2', 'Israel, Leumit League', 'Israeli - Liga Leumit', 'Israeli - Ligat HaAl'],
+  'Južna Koreja': ['Južna Koreja 1', 'Južna Koreja 2', 'KOL1'],
+  'Letonija': ['Latvian - Virsliga', 'Letonija 1'],
+  'Norveška': ['Norveška 1', 'Norveška 2', 'Norwegian - Eliteserien', 'Norwegian - First Division'],
+  'Portugal': ['Portugal 1', 'Portugal 2'],
+  'SAD': ['SAD 1', 'SAD 2', 'USA - Major League Soccer', 'USA - United Soccer League', 'USL1'],
+  'Severna Irska': ['Severna Irska 1', 'Severna Irska 2'],
+  'Švedska': ['Švedska 1', 'Švedska 2', 'Swedish - Superettan', 'ŠVE2', 'Švedska 3 Sever', 'Sweden, Superettan', 'Swedish - Allsvenskan'],
+  'Tajland': ['Tajland 1', 'Tajland 2', 'Thailand, Thai Premier League'],
+  'Armenija': ['Armenia, Premier League'],
+  'Azerbejdžan': ['Azerbaijan, Division One', 'Azerbaijani - First Division', 'Azerbaijani - Premier League'],
+  'Bangladeš': ['Bangladeshi - Federation Cup'],
+  'Belorusija': ['Belorusija 1'],
+  'BiH': ['BiH 1', 'Bosnian - First League', 'Bosnian - Premier League'],
+  'Bolivija': ['Bolivian - Bolivian League Cup'],
+  'Kostarika': ['Costa Rican - Segunda Division', 'Kostarika 1'],
+  'Ekvador': ['Ecuador, Liga Pro - Championship Group', 'Ecuadorian - Primera Serie B', 'Ekvador 1'],
+  'Farska Ostrva': ['Faroe Islands - Premier League'],
+  'Gana': ['Ghana, Premier League'],
+  'Grčka': ['Grčka 1', 'Greek - Cup', 'Greek - Superleague'],
+  'Gvatemala': ['Guatemalan - Liga Nacional'],
+  'Indonezija': ['Indonezija 1'],
+  'Iran': ['Iran, Persian Gulf Pro League', 'Iranian - Gulf Pro League'],
+  'Irak': ['Iraq, First Division'],
+  'Irska': ['Ireland, Premier Division', 'Irska 1'],
+  'Kanada': ['Kanada 1'],
+  'Kazahstan': ['Kazakhstani - Premier League'],
+  'Kipar': ['Kipar 1', 'KIP1'],
+  'Kolumbija': ['Kolumbija 1', 'KRK1'],
+  'Malta': ['Maltese - Premier League'],
+  'Nikaragva': ['Nicaraguan - Primera Division', 'Nikaragva 1'],
+  'Panama': ['Panamanian - LPF'],
+  'Paragvaj': ['Paraguayan - Primera Division', 'Paragvaj 1', 'Paragvaj Kup'],
+  'Peru': ['Peru 1', 'Peruvian - Primera Division'],
+  'Katar': ['Qatari - Qatar Olympic League', 'Qatari - Stars League'],
+  'Rumunija': ['Romanian - Cup', 'RUM1', 'Rumunija 1'],
+  'Salvador': ['Salvador 1', 'Salvadoran - Primera Division'],
+  'Slovačka': ['Slovačka 1'],
+  'Slovenija': ['Slovenija 1'],
+  'UAE': ['UAE - Presidents Cup', 'UAE - Reserve League'],
+  'Uganda': ['Uganda, Premier League'],
+  'Ukrajina': ['Ukraine, Premier League', 'Ukrainian - Premier League', 'Ukrajina 1'],
+  'Uzbekistan': ['Uzbekistan 1'],
+  'Vels': ['Vels 1', 'Welsh - Premier League'],
+  'Afrika': ['African - African CAF Cup of Nations Women', 'African - CAF Confederation Cup', 'AFC Liga Šampiona 2', 'African - CAF Champions League'],
+  'CONCACAF': ['International Clubs, CONCACAF Central American Cup - Play Offs', 'KONKAKAF Cen.Američki Kup', 'KONKAKAF Kup Kariba', 'North American - CONCACAF Caribbean Cup'],
+  'Južna Amerika': ['South American - Copa Sudamericana', 'Kup Libertadores', 'Kup Sudamerikana'],
+  'Međunarodne': ['World - International Friendly', 'World - International Friendly Women']
+};
+
+// Funkcija koja pronalazi zemlju za ligu
+function getCountryForLeague(leagueName) {
+  for (const [country, leagues] of Object.entries(COUNTRY_LEAGUES)) {
+    if (leagues.includes(leagueName)) {
+      return country;
+    }
+  }
+  return 'Ostalo';
+}
+
+// Mapa zastava za zemlje
+const COUNTRY_FLAGS = {
+  'Poljska': '🇵🇱',
+  'Engleska': '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
+  'Nemačka': '🇩🇪',
+  'Italija': '🇮🇹',
+  'Argentina': '🇦🇷',
+  'Holandija': '🇳🇱',
+  'Škotska': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
+  'Češka': '🇨🇿',
+  'Danska': '🇩🇰',
+  'Španija': '🇪🇸',
+  'Turska': '🇹🇷',
+  'Austrija': '🇦🇹',
+  'Belgija': '🇧🇪',
+  'Brazil': '🇧🇷',
+  'Bugarska': '🇧🇬',
+  'Evropa': '🇪🇺',
+  'Japan': '🇯🇵',
+  'Kina': '🇨🇳',
+  'Litvanija': '🇱🇹',
+  'Mađarska': '🇭🇺',
+  'Meksiko': '🇲🇽',
+  'Rusija': '🇷🇺',
+  'Saudijska Arabija': '🇸🇦',
+  'Srbija': '🇷🇸',
+  'Švajcarska': '🇨🇭',
+  'Urugvaj': '🇺🇾',
+  'Australija': '🇦🇺',
+  'Čile': '🇨🇱',
+  'Egipat': '🇪🇬',
+  'Estonija': '🇪🇪',
+  'Etiopija': '🇪🇹',
+  'Finska': '🇫🇮',
+  'Francuska': '🇫🇷',
+  'Hrvatska': '🇭🇷',
+  'Island': '🇮🇸',
+  'Izrael': '🇮🇱',
+  'Južna Koreja': '🇰🇷',
+  'Letonija': '🇱🇻',
+  'Norveška': '🇳🇴',
+  'Portugal': '🇵🇹',
+  'SAD': '🇺🇸',
+  'Severna Irska': '🇬🇧',
+  'Švedska': '🇸🇪',
+  'Tajland': '🇹🇭',
+  'Armenija': '🇦🇲',
+  'Azerbejdžan': '🇦🇿',
+  'Bangladeš': '🇧🇩',
+  'Belorusija': '🇧🇾',
+  'BiH': '🇧🇦',
+  'Bolivija': '🇧🇴',
+  'Kostarika': '🇨🇷',
+  'Ekvador': '🇪🇨',
+  'Farska Ostrva': '🇫🇴',
+  'Gana': '🇬🇭',
+  'Grčka': '🇬🇷',
+  'Gvatemala': '🇬🇹',
+  'Indonezija': '🇮🇩',
+  'Iran': '🇮🇷',
+  'Irak': '🇮🇶',
+  'Irska': '🇮🇪',
+  'Kanada': '🇨🇦',
+  'Kazahstan': '🇰🇿',
+  'Kipar': '🇨🇾',
+  'Kolumbija': '🇨🇴',
+  'Malta': '🇲🇹',
+  'Nikaragva': '🇳🇮',
+  'Panama': '🇵🇦',
+  'Paragvaj': '🇵🇾',
+  'Peru': '🇵🇪',
+  'Katar': '🇶🇦',
+  'Rumunija': '🇷🇴',
+  'Salvador': '🇸🇻',
+  'Slovačka': '🇸🇰',
+  'Slovenija': '🇸🇮',
+  'UAE': '🇦🇪',
+  'Uganda': '🇺🇬',
+  'Ukrajina': '🇺🇦',
+  'Uzbekistan': '🇺🇿',
+  'Vels': '🏴󠁧󠁢󠁷󠁬󠁳󠁿',
+  'Afrika': '🌍',
+  'CONCACAF': '🌎',
+  'Južna Amerika': '🏆',
+  'Međunarodne': '🌐',
+  'Ostalo': '📁'
+};
+
 // Funkcija koja kreira link element za kladionicu
 function makeBookmakerLink(bookName) {
   if (!bookName) return '';
@@ -132,6 +317,263 @@ function makeBookmakerLink(bookName) {
     return `<a href="${url}" target="_blank" rel="noopener noreferrer">${bookName}</a>`;
   }
   return bookName;
+}
+
+// Funkcija za normalizaciju naziva lige (spaja duplikate)
+function normalizeLeagueName(leagueName) {
+  if (!leagueName) return leagueName;
+  
+  // Mapa sinonima - sve varijacije koje treba tretirati kao istu ligu
+  const synonyms = {
+    // Poljska
+    'Polish - II Liga': 'Poljska 2',
+    'Polish - III Liga': 'Poljska 3',
+    'Polish - IV Liga': 'Poljska 4',
+    
+    // Engleska
+    'English - Championship': 'Engleska 2',
+    'England, Championship': 'Engleska 2',
+    'English - Premier League': 'Engleska 1',
+    'English - EFL Cup': 'Engleska Kup',
+    
+    // Nemačka
+    'German - Bundesliga': 'Nemačka 1',
+    'German - DFB Pokal': 'Nemačka Kup',
+    'Germany, Regionalliga Bayern': 'Nemačka 4 Bavarija',
+    'German - Regionalliga Bayern': 'Nemačka 4 Bavarija',
+    'Germany, Regionalliga Nordost': 'Nemačka 4 Severoistok',
+    'German - Regionalliga Nordost': 'Nemačka 4 Severoistok',
+    'Germany, Regionalliga North': 'Nemačka 4 Sever',
+    'German - Regionalliga Nord': 'Nemačka 4 Sever',
+    'Germany, Regionalliga Sudwest': 'Nemačka 4 Jugozapad',
+    'German - Regionalliga Sudwest': 'Nemačka 4 Jugozapad',
+    'Germany, Regionalliga West': 'Nemačka 4 Zapad',
+    'German - Regionalliga West': 'Nemačka 4 Zapad',
+    
+    // Italija
+    'Italian - Serie A': 'Italija 1',
+    'Italian - Serie B': 'Italija 2',
+    'Italian - Coppa Italia': 'Italija Kup',
+    'ITALY, Serie C - Group A': 'Italija 3 - Grupa A',
+    'Italy, Serie C - Group A': 'Italija 3 - Grupa A',
+    'ITALY, Serie C - Group C': 'Italija 3 - Grupa C',
+    
+    // Španija
+    'Spanish - La Liga': 'Španija 1',
+    
+    // Turska
+    'Turkish - Super Lig': 'Turska 1',
+    'Turkey, Super Lig': 'Turska 1',
+    'Turkish - First League': 'Turska 2',
+    
+    // Austrija
+    'Austrian - Bundesliga': 'Austrija 1',
+    'Austrian - First League': 'Austrija 2',
+    'Austrian - OFB Cup': 'Austrija Kup',
+    
+    // Brazil
+    'Brazilian - Serie A': 'Brazil 1',
+    'Brazilian - Serie B': 'Brazil 2',
+    
+    // Bugarska
+    'Bulgarian - First League': 'Bugarska 1',
+    'Bulgarian - Second League': 'Bugarska 2',
+    'Bulgaria, Vtora Liga': 'Bugarska 2',
+    
+    // Češka
+    'Czech - National League': 'Češka 1',
+    'Czech Republic, ChNL': 'Češka 1',
+    'Czech - CFL': 'Češka 2',
+    'Czech Republic, MSFL': 'Češka 2',
+    
+    // Danska
+    'Danish - Danish Cup': 'Danska Kup',
+    
+    // Holandija
+    'Dutch - Eredivisie': 'Holandija 1',
+    'Dutch - Eerste Divisie': 'Holandija 2',
+    'Netherlands, Eerste Divisie': 'Holandija 2',
+    'Dutch - Tweede Divisie': 'Holandija 3',
+    
+    // Škotska
+    'Scottish - Premiership': 'Škotska 1',
+    'Scottish - League Two': 'Škotska 3',
+    
+    // Belgija
+    'Belgian - First Division A': 'Belgija 1',
+    'Belgian - First Division B': 'Belgija 2',
+    'Belgium, Challenger Pro League': 'Belgija 2',
+    
+    // Švedska
+    'Swedish - Allsvenskan': 'Švedska 1',
+    'Swedish - Superettan': 'Švedska 2',
+    'Sweden, Superettan': 'Švedska 2',
+    
+    // Norveška
+    'Norwegian - Eliteserien': 'Norveška 1',
+    'Norwegian - First Division': 'Norveška 2',
+    
+    // Rusija
+    'Russian - Premier League': 'Rusija 1',
+    'Russian - FNL': 'Rusija 2',
+    'Russia, FNL': 'Rusija 2',
+    'Russian - Cup': 'Rusija Kup',
+    
+    // Izrael
+    'Israeli - Ligat HaAl': 'Izrael 1',
+    'Israeli - Liga Leumit': 'Izrael 2',
+    'Israel, Leumit League': 'Izrael 2',
+    
+    // Finska
+    'Finnish - Veikkausliiga': 'Finska 1',
+    'FINLAND, Veikkausliiga - Championship Group': 'Finska 1',
+    
+    // Hrvatska
+    'Croatia, Prva NL': 'Hrvatska 1',
+    
+    // Tajland
+    'Thailand, Thai Premier League': 'Tajland 1',
+    
+    // Australija
+    'Australian - A-League': 'Australija 1',
+    'Australia, A-League': 'Australija 1',
+    'Australian - Australian Championship': 'Australija 2',
+    
+    // Litvanija
+    'Lithuanian - A Lyga': 'Litvanija 1',
+    'Lithuania, A Lyga': 'Litvanija 1',
+    'Lithuania, I Lyga': 'Litvanija 2',
+    
+    // Kina
+    'China, Super League': 'Kina 1',
+    'Chinese - League Two': 'Kina 2',
+    
+    // Mađarska
+    'Hungarian - NB I': 'Mađarska 1',
+    'Hungarian - NB II': 'Mađarska 2',
+    'MAĐ1': 'Mađarska 1',
+    
+    // Egipat
+    'Egyptian - Premier League': 'Egipat 1',
+    'Egyptian - Second Division': 'Egipat 2',
+    
+    // Estonija
+    'Estonian - Esiliiga': 'Estonija 2',
+    'Estonia, Esiliiga': 'Estonija 2',
+    
+    // Letonija
+    'Latvian - Virsliga': 'Letonija 1',
+    
+    // Azerbejdžan
+    'Azerbaijani - Premier League': 'Azerbejdžan 1',
+    'Azerbaijani - First Division': 'Azerbejdžan 2',
+    'Azerbaijan, Division One': 'Azerbejdžan 2',
+    
+    // BiH
+    'Bosnian - Premier League': 'BiH 1',
+    'Bosnian - First League': 'BiH 2',
+    
+    // Ukrajina
+    'Ukrainian - Premier League': 'Ukrajina 1',
+    'Ukraine, Premier League': 'Ukrajina 1',
+    
+    // Irska
+    'Ireland, Premier Division': 'Irska 1',
+    
+    // Ekvador
+    'Ecuadorian - Primera Serie B': 'Ekvador 2',
+    'Ecuador, Liga Pro - Championship Group': 'Ekvador 1',
+    
+    // Čile
+    'Chilean - Primera B': 'Čile 2',
+    'ČIL1': 'Čile 1',
+    
+    // Kostarika
+    'Costa Rican - Segunda Division': 'Kostarika 2',
+    
+    // Peru
+    'Peruvian - Primera Division': 'Peru 1',
+    
+    // Paragvaj
+    'Paraguayan - Primera Division': 'Paragvaj 1',
+    
+    // Salvador
+    'Salvadoran - Primera Division': 'Salvador 1',
+    
+    // Nikaragva
+    'Nicaraguan - Primera Division': 'Nikaragva 1',
+    
+    // Panama
+    'Panamanian - LPF': 'Panama 1',
+    
+    // Gvatemala
+    'Guatemalan - Liga Nacional': 'Gvatemala 1',
+    
+    // Urugvaj
+    'Uruguayan - Segunda Division': 'Urugvaj 2',
+    
+    // Iran
+    'Iranian - Gulf Pro League': 'Iran 1',
+    'Iran, Persian Gulf Pro League': 'Iran 1',
+    
+    // Kazahstan
+    'Kazakhstani - Premier League': 'Kazahstan 1',
+    
+    // Katar
+    'Qatari - Stars League': 'Katar 1',
+    'Qatari - Qatar Olympic League': 'Katar 2',
+    
+    // Rumunija
+    'Romanian - Cup': 'Rumunija Kup',
+    
+    // Malta
+    'Maltese - Premier League': 'Malta 1',
+    
+    // Gana
+    'Ghana, Premier League': 'Gana 1',
+    
+    // Uganda
+    'Uganda, Premier League': 'Uganda 1',
+    
+    // Etiopija
+    'Ethiopian - Premier League': 'Etiopija 1',
+    'Ethiopia, Premier League': 'Etiopija 1',
+    
+    // Vels
+    'Welsh - Premier League': 'Vels 1',
+    
+    // Armenija
+    'Armenia, Premier League': 'Armenija 1',
+    
+    // SAD
+    'USA - Major League Soccer': 'SAD 1',
+    'USA - United Soccer League': 'SAD 2',
+    
+    // Evropa
+    'European - Champions League': 'Liga Šampiona',
+    'European - Europa League': 'Liga Evrope',
+    'European - Conference League': 'Liga Konferencija',
+    'UEFA, Conference League - League phase': 'Liga Konferencija',
+    'European - UEFA Youth League': 'UEFA Liga Mladih',
+    
+    // Afrika
+    'African - CAF Champions League': 'Afrika Liga Šampiona',
+    'AFC Liga Šampiona 2': 'Afrika Liga Šampiona',
+    'African - CAF Confederation Cup': 'Afrika Kup Konfederacija',
+    
+    // CONCACAF
+    'North American - CONCACAF Caribbean Cup': 'KONKAKAF Kup Kariba',
+    'International Clubs, CONCACAF Central American Cup - Play Offs': 'KONKAKAF Cen.Američki Kup',
+    
+    // Južna Amerika
+    'South American - Copa Sudamericana': 'Kup Sudamerikana',
+    
+    // Međunarodne
+    'World - International Friendly': 'Prijateljske utakmice',
+    'World - International Friendly Women': 'Prijateljske utakmice Žene'
+  };
+  
+  return synonyms[leagueName] || leagueName;
 }
 
 // === Parser (robustan datum/vreme/ligа) ===
@@ -197,7 +639,9 @@ function render(data){
   const filtered = withArb.filter(m=> {
     const txt = (m.teams+' '+m.league).toLowerCase();
     if(q && !txt.includes(q)) return false;
-    if(window.selectedLeague && m.league !== window.selectedLeague) return false;
+    // Normalizuj naziv lige za poređenje
+    const normalizedMatchLeague = normalizeLeagueName(m.league);
+    if(window.selectedLeague && normalizedMatchLeague !== window.selectedLeague) return false;
     return true;
   });
 
@@ -288,34 +732,78 @@ function updateLeagueSidebar(data){
   const leagueList = document.getElementById('leagueList');
   if(!leagueList) return;
   
+  // Grupiši utakmice po zemljama i normalizovanim ligama
+  const countryGroups = {};
   const leagueCounts = {};
-  for(const m of data){
-    const league = m.league ? m.league : '(bez lige)';
-    leagueCounts[league] = (leagueCounts[league] || 0) + 1;
-  }
+  const leagueOriginalNames = {}; // Čuva originalne nazive za prikaz
   
-  const leagues = Object.entries(leagueCounts).sort((a,b)=> a[0].localeCompare(b[0]));
+  for(const m of data){
+    const originalLeague = m.league ? m.league : '(bez lige)';
+    const normalizedLeague = normalizeLeagueName(originalLeague);
+    
+    // Čuvaj prvi originalni naziv koji se pojavi za normalizovanu ligu
+    if(!leagueOriginalNames[normalizedLeague]) {
+      leagueOriginalNames[normalizedLeague] = originalLeague;
+    }
+    
+    leagueCounts[normalizedLeague] = (leagueCounts[normalizedLeague] || 0) + 1;
+    
+    const country = getCountryForLeague(originalLeague);
+    if(!countryGroups[country]) countryGroups[country] = {};
+    countryGroups[country][normalizedLeague] = (countryGroups[country][normalizedLeague] || 0) + 1;
+  }
   
   leagueList.innerHTML = '';
   
+  // "Sve lige" opcija
   const allItem = document.createElement('div');
   allItem.className = 'league-item' + (!window.selectedLeague ? ' active' : '');
-  allItem.innerHTML = `Sve lige <span class="league-count">${data.length}</span>`;
+  allItem.innerHTML = `🌍 Sve lige <span class="league-count">${data.length}</span>`;
   allItem.onclick = ()=>{
     window.selectedLeague = null;
     render(currentData);
   };
   leagueList.appendChild(allItem);
   
-  for(const [league, count] of leagues){
-    const item = document.createElement('div');
-    item.className = 'league-item' + (window.selectedLeague === league ? ' active' : '');
-    item.innerHTML = `${league} <span class="league-count">${count}</span>`;
-    item.onclick = ()=>{
-      window.selectedLeague = league;
-      render(currentData);
-    };
-    leagueList.appendChild(item);
+  // Sortiraj zemlje po broju utakmica, ali Ostalo stavi na kraj
+  const sortedCountries = Object.entries(countryGroups).sort((a,b)=> {
+    // Ako je jedno od njih "Ostalo", stavi ga na kraj
+    if (a[0] === 'Ostalo') return 1;
+    if (b[0] === 'Ostalo') return -1;
+    
+    const countA = Object.values(a[1]).reduce((sum, val) => sum + val, 0);
+    const countB = Object.values(b[1]).reduce((sum, val) => sum + val, 0);
+    return countB - countA;
+  });
+  
+  // Kreiraj grupisane lige
+  for(const [country, leagues] of sortedCountries){
+    const countryTotal = Object.values(leagues).reduce((sum, val) => sum + val, 0);
+    const flag = COUNTRY_FLAGS[country] || '🏳️';
+    
+    // Header za zemlju
+    const countryHeader = document.createElement('div');
+    countryHeader.style.cssText = 'margin-top:16px; padding:8px 12px; font-size:12px; font-weight:700; color:var(--accent); text-transform:uppercase; letter-spacing:.8px; cursor:pointer; border-radius:8px; transition:.2s all;';
+    countryHeader.innerHTML = `${flag} ${country} <span style="opacity:.7; font-size:10px; float:right;">${countryTotal}</span>`;
+    countryHeader.onmouseover = () => countryHeader.style.background = 'rgba(107,138,255,0.1)';
+    countryHeader.onmouseout = () => countryHeader.style.background = 'transparent';
+    leagueList.appendChild(countryHeader);
+    
+    // Sortiraj lige abecedno
+    const sortedLeagues = Object.entries(leagues).sort((a,b)=> a[0].localeCompare(b[0]));
+    
+    // Liga items
+    for(const [normalizedLeague, count] of sortedLeagues){
+      const item = document.createElement('div');
+      item.className = 'league-item' + (window.selectedLeague === normalizedLeague ? ' active' : '');
+      item.style.marginLeft = '8px';
+      item.innerHTML = `${normalizedLeague} <span class="league-count">${count}</span>`;
+      item.onclick = ()=>{
+        window.selectedLeague = normalizedLeague;
+        render(currentData);
+      };
+      leagueList.appendChild(item);
+    }
   }
 }
 
