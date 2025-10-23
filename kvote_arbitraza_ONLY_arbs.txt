@@ -1,28 +1,11 @@
-02:00   23.10.   [International Clubs, CONCACAF Central American Cup - Play - In]
-Miguelito  vs  Plaza Amador
-
-- BetOle     1=3.55  |  X=2.63  |  2=2.25  |  0-2=1.26  |  3+=3.4
-- Brazil_d   1=3.55  |  X=2.6  |  2=2.28  |  0-2=1.25  |  2+=1.75  |  3+=3.45
-- Merkur     1=3.65  |  X=2.65  |  2=2.28  |  0-2=1.27  |  3+=3.4  |  GG=2.62  |  IGG=8  |  GG&3+=4.25
-- Mozzart    1=3.1  |  X=3  |  2=2.35  |  0-2=1.41  |  2+=1.6  |  3+=2.7
-- Soccer     1=3.4  |  X=2.65  |  2=2.3  |  0-2=1.3  |  2+=1.72  |  3+=3.15  |  GG=2.45  |  IGG=7.4  |  GG&3+=3.5
-
-Najveća 1  : 3.65  [Merkur]
-Najveća X  : 3.00  [Mozzart]
-Najveća 2  : 2.35  [Mozzart]
-Najveća 0-2: 1.41  [Mozzart]
-Najveća 3+ : 3.45  [Brazil_d]
-
-Arbitraža (1-X-2): NE   inv_sum=1.0328   profit≈-3.28%
-Arbitraža (0-2 / 3+): DA   inv_sum=0.9991   profit≈0.09%
-
 18:45   23.10.   [Liga Evrope]
 FCSB  vs  Bologna
 
 - BalkanBet  1=5.75  |  X=3.85  |  2=1.65  |  0-2=1.88  |  2+=1.34  |  3+=1.97  |  GG=2.05  |  IGG=5.6  |  GG&3+=2.55  |  GG&4+=4  |  4+=3.5
-- BetOle     1=5.4  |  X=3.55  |  2=1.71  |  0-2=1.87  |  3+=1.95
-- Brazil_d   1=5.4  |  X=3.55  |  2=1.73  |  0-2=1.85  |  2+=1.31  |  3+=1.97
-- Meridian   1=5.6  |  X=3.95  |  2=1.65  |  0-2=1.86  |  3+=1.95  |  GG=2.01  |  GG&3+=2.55  |  GG&4+=4.05
+- BetOle     1=5.4  |  X=3.55  |  2=1.72  |  0-2=1.85  |  3+=1.95
+- Brazil_d   1=5.4  |  X=3.5  |  2=1.73  |  0-2=1.85  |  2+=1.32  |  3+=1.97
+- Meridian   1=5.6  |  X=3.95  |  2=1.65  |  0-2=1.86  |  3+=1.95  |  GG=1.98  |  GG&3+=2.55  |  GG&4+=4
+- Merkur     1=5.25  |  X=3.85  |  2=1.67  |  0-2=1.83  |  3+=1.97  |  GG=1.93  |  IGG=5.35  |  GG&3+=2.5
 - Mozzart    1=5.8  |  X=3.8  |  2=1.62  |  0-2=1.76  |  2+=1.3  |  3+=1.99
 - Soccer     1=5.25  |  X=4.1  |  2=1.65  |  0-2=1.85  |  2+=1.31  |  3+=1.95  |  GG=1.92  |  IGG=5.2  |  GG&3+=2.48
 - Topbet     1=5.55  |  X=3.9  |  2=1.65
@@ -36,25 +19,25 @@ Najveća 3+ : 1.99  [Mozzart]
 Arbitraža (1-X-2): DA   inv_sum=0.9944   profit≈0.56%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0344   profit≈-3.44%
 
-18:45   23.10.   [Liga Evrope]
-Fenerbahce  vs  Stuttgart
+18:45   23.10.   [Liga Konferencija]
+Breidablik  vs  KUPS
 
-- BalkanBet  1=2.4  |  X=3.65  |  2=2.85  |  0-2=2.4  |  2+=1.2  |  3+=1.6  |  GG=1.55  |  IGG=3.75  |  GG&3+=1.85  |  GG&4+=2.85  |  4+=2.55
-- BetOle     1=2.3  |  X=3.35  |  2=3.1  |  0-2=2.25  |  3+=1.65
-- Brazil_d   1=2.3  |  X=3.35  |  2=3.15  |  0-2=2.25  |  2+=1.21  |  3+=1.66
-- Meridian   1=2.35  |  X=3.75  |  2=2.9  |  0-2=2.25  |  3+=1.65  |  GG=1.57  |  GG&3+=1.9  |  GG&4+=2.81
-- Mozzart    1=2.35  |  X=3.5  |  2=2.95  |  0-2=2.19  |  2+=1.2  |  3+=1.63
-- Soccer     1=2.35  |  X=3.8  |  2=2.85  |  0-2=2.3  |  2+=1.2  |  3+=1.62  |  GG=1.52  |  IGG=3.75  |  GG&3+=1.85
-- Topbet     1=2.3  |  X=3.65  |  2=2.9
+- BalkanBet  1=2.15  |  X=3.65  |  2=3.05  |  0-2=2.4  |  2+=1.2  |  3+=1.58  |  GG=1.49  |  IGG=3.7  |  GG&3+=1.8  |  GG&4+=2.8  |  4+=2.5
+- BetOle     1=2.12  |  X=3.7  |  2=3.25  |  0-2=2.35  |  3+=1.6
+- Brazil_d   1=2.12  |  X=3.65  |  2=3.25  |  0-2=2.35  |  2+=1.19  |  3+=1.61
+- Merkur     1=2.07  |  X=3.8  |  2=3.05  |  0-2=2.33  |  3+=1.57  |  GG=1.5  |  IGG=3.85  |  GG&3+=1.82
+- Mozzart    1=2  |  X=3.5  |  2=3.7  |  0-2=2.29  |  2+=1.18  |  3+=1.58
+- Soccer     1=2.05  |  X=3.7  |  2=3.25  |  0-2=2.4  |  2+=1.16  |  3+=1.58  |  GG=1.5  |  IGG=3.5  |  GG&3+=1.78
+- Topbet     1=2.05  |  X=3.6  |  2=2.95
 
-Najveća 1  : 2.40  [BalkanBet]
-Najveća X  : 3.80  [Soccer]
-Najveća 2  : 3.15  [Brazil_d]
-Najveća 0-2: 2.40  [BalkanBet]
-Najveća 3+ : 1.66  [Brazil_d]
+Najveća 1  : 2.15  [BalkanBet]
+Najveća X  : 3.80  [Merkur]
+Najveća 2  : 3.70  [Mozzart]
+Najveća 0-2: 2.40  [BalkanBet, Soccer]
+Najveća 3+ : 1.61  [Brazil_d]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9973   profit≈0.27%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0191   profit≈-1.91%
+Arbitraža (1-X-2): DA   inv_sum=0.9985   profit≈0.15%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0378   profit≈-3.78%
 
 18:45   23.10.   [Liga Konferencija]
 Rijeka  vs  Sparta P.
@@ -63,6 +46,7 @@ Rijeka  vs  Sparta P.
 - BetOle     1=3.5  |  X=3.35  |  2=2.15  |  0-2=1.91  |  3+=1.9
 - Brazil_d   1=3.5  |  X=3.35  |  2=2.15  |  0-2=1.9  |  2+=1.3
 - Meridian   1=3.75  |  X=3.65  |  2=2.01  |  0-2=1.88  |  3+=1.93  |  GG=1.81  |  GG&3+=2.33  |  GG&4+=3.7
+- Merkur     1=3.3  |  X=3.45  |  2=2.07  |  0-2=1.88  |  3+=1.9  |  GG=1.7  |  IGG=4.75  |  GG&3+=2.23
 - Mozzart    1=3.6  |  X=3.45  |  2=2.05  |  0-2=1.8  |  2+=1.29  |  3+=1.94
 - Soccer     1=3.5  |  X=3.55  |  2=2.02  |  0-2=1.87  |  2+=1.28  |  3+=1.93  |  GG=1.75  |  IGG=4.45  |  GG&3+=2.2
 - Topbet     1=3.2  |  X=3.4  |  2=2
@@ -82,12 +66,13 @@ Celta  vs  Nice
 - BalkanBet  1=1.85  |  X=3.8  |  2=4.25  |  0-2=2.06  |  2+=1.28  |  3+=1.8  |  GG=1.7  |  IGG=4.8  |  GG&3+=2.15  |  GG&4+=3.4  |  4+=3.05
 - BetOle     1=1.93  |  X=3.45  |  2=4.15  |  0-2=2.1  |  3+=1.75
 - Meridian   1=1.83  |  X=3.75  |  2=4.4  |  0-2=2.03  |  3+=1.8  |  GG=1.76  |  GG&3+=2.21  |  GG&4+=3.35
+- Merkur     1=1.85  |  X=3.8  |  2=4.35  |  0-2=2.07  |  3+=1.77  |  GG=1.67  |  IGG=4.6  |  GG&3+=2.1
 - Mozzart    1=1.75  |  X=3.6  |  2=4.9  |  0-2=1.96  |  2+=1.25  |  3+=1.79
 - Soccer     1=1.85  |  X=3.8  |  2=4.3  |  0-2=2.03  |  2+=1.26  |  3+=1.78  |  GG=1.7  |  IGG=4.45  |  GG&3+=2.1
 - Topbet     1=1.8  |  X=3.8  |  2=4.25
 
 Najveća 1  : 1.93  [BetOle]
-Najveća X  : 3.80  [BalkanBet, Soccer, Topbet]
+Najveća X  : 3.80  [BalkanBet, Merkur, Soccer, Topbet]
 Najveća 2  : 4.90  [Mozzart]
 Najveća 0-2: 2.10  [BetOle]
 Najveća 3+ : 1.80  [BalkanBet, Meridian]
@@ -101,6 +86,7 @@ Lille  vs  PAOK
 - BalkanBet  1=1.57  |  X=4.25  |  2=5.95  |  0-2=2.03  |  2+=1.28  |  3+=1.83  |  GG=1.9  |  IGG=5.15  |  GG&3+=2.3  |  GG&4+=3.6  |  4+=3.15
 - BetOle     1=1.71  |  X=3.6  |  2=5.35  |  0-2=2  |  3+=1.81
 - Meridian   1=1.65  |  X=4.1  |  2=5.2  |  0-2=1.96  |  3+=1.85  |  GG=1.89  |  GG&3+=2.38  |  GG&4+=3.7
+- Merkur     1=1.63  |  X=4.05  |  2=5.25  |  0-2=1.97  |  3+=1.83  |  GG=1.8  |  IGG=4.95  |  GG&3+=2.28
 - Mozzart    1=1.63  |  X=3.8  |  2=5.7  |  0-2=1.9  |  2+=1.27  |  3+=1.84
 - Soccer     1=1.65  |  X=4.2  |  2=5.2  |  0-2=2.0  |  2+=1.27  |  3+=1.82  |  GG=1.82  |  IGG=4.8  |  GG&3+=2.3
 - Topbet     1=1.62  |  X=4.05  |  2=5.5
@@ -114,30 +100,13 @@ Najveća 3+ : 1.85  [Meridian]
 Arbitraža (1-X-2): DA   inv_sum=0.9882   profit≈1.18%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0332   profit≈-3.32%
 
-15:00   24.10.   [Izrael 2]
-H. Afula  vs  M. Petah Tikva
-
-- BalkanBet  1=8.6  |  X=4.75  |  2=1.3  |  0-2=2.03  |  2+=1.24  |  3+=1.7  |  GG=2.15  |  IGG=5.6  |  GG&3+=2.65  |  GG&4+=3.35  |  4+=2.75
-- BetOle     1=8.5  |  X=4.45  |  2=1.3  |  0-2=2  |  3+=1.7
-- Meridian   1=8.2  |  X=4.6  |  2=1.3  |  0-2=1.96  |  3+=1.67  |  GG=2.09  |  GG&3+=2.46  |  GG&4+=3.9
-- Soccer     1=6.05  |  X=4.0  |  2=1.5  |  0-2=2.0  |  2+=1.22  |  3+=1.72  |  GG=1.82  |  IGG=4.55  |  GG&3+=2.13
-- Topbet     1=8.8  |  X=4.95  |  2=1.3
-
-Najveća 1  : 8.80  [Topbet]
-Najveća X  : 4.95  [Topbet]
-Najveća 2  : 1.50  [Soccer]
-Najveća 0-2: 2.03  [BalkanBet]
-Najveća 3+ : 1.72  [Soccer]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9823   profit≈1.77%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0740   profit≈-7.40%
-
 15:00   25.10.   [Srbija 1]
 IMT  vs  OFK Beograd
 
 - BalkanBet  1=2.45  |  X=3.35  |  2=2.65  |  0-2=2.1  |  2+=1.22  |  3+=1.65  |  GG=1.55  |  IGG=3.85  |  GG&3+=1.95  |  GG&4+=2.95  |  4+=2.6
 - Brazil_p   1=2.3  |  X=3.45  |  2=2.7  |  0-2=2.15  |  2+=1.18  |  3+=1.63
 - Meridian   1=2.34  |  X=3.55  |  2=2.47  |  0-2=2.13  |  3+=1.64  |  GG=1.57  |  GG&3+=1.92  |  GG&4+=2.88
+- Merkur     1=2.35  |  X=3.5  |  2=2.52  |  0-2=2.13  |  3+=1.63  |  GG=1.5  |  IGG=4  |  GG&3+=1.85
 - Mozzart    1=2.5  |  X=3.4  |  2=2.8  |  0-2=2.11  |  2+=1.22  |  3+=1.65
 - Soccer     1=2.45  |  X=3.65  |  2=2.65  |  0-2=2.12  |  2+=1.19  |  3+=1.65  |  GG=1.55  |  IGG=3.7  |  GG&3+=1.85
 - Topbet     1=1.85  |  X=3.7  |  2=3.4
@@ -151,20 +120,39 @@ Najveća 3+ : 1.65  [BalkanBet, Mozzart, Soccer]
 Arbitraža (1-X-2): DA   inv_sum=0.9644   profit≈3.56%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0712   profit≈-7.12%
 
-19:00   24.10.   [Poland, III Liga - Group II]
+15:00   25.10.   [Srbija 1]
+Radnički 1923  vs  TSC Bačka T.
+
+- BalkanBet  1=2  |  X=3.5  |  2=3.4  |  0-2=1.8  |  2+=1.3  |  3+=1.9  |  GG=1.8  |  IGG=5.05  |  GG&3+=2.3  |  GG&4+=3.7  |  4+=3.3
+- Brazil_p   1=1.92  |  X=3.3  |  2=3.75  |  0-2=1.8  |  2+=1.28  |  3+=1.92
+- Merkur     1=1.93  |  X=3.25  |  2=3.55  |  0-2=1.77  |  3+=1.9  |  GG=1.73  |  IGG=4.85  |  GG&3+=2.25
+- Mozzart    1=1.85  |  X=3.5  |  2=4.4  |  0-2=1.85  |  2+=1.28  |  3+=1.85
+- Soccer     1=1.85  |  X=3.7  |  2=3.95  |  0-2=1.83  |  2+=1.28  |  3+=1.87  |  GG=1.8  |  IGG=4.5  |  GG&3+=2.23
+- Topbet     1=1.95  |  X=3.5  |  2=3.2
+
+Najveća 1  : 2.00  [BalkanBet]
+Najveća X  : 3.70  [Soccer]
+Najveća 2  : 4.40  [Mozzart]
+Najveća 0-2: 1.85  [Mozzart]
+Najveća 3+ : 1.92  [Brazil_p]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9975   profit≈0.25%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0614   profit≈-6.14%
+
+19:00   [POLAND, III Liga - Group II]
 Sroda  vs  Notec Czarnkow
 
-- BetOle     1=1.33  |  X=4.6  |  2=6.4  |  0-2=2.22  |  3+=1.53
+- Brazil_s   1=1.33  |  X=4.55  |  2=6.5  |  0-2=2.22  |  2+=1.14  |  3+=1.54
 - Meridian   1=1.62  |  X=3.95  |  2=4.1  |  0-2=2.46  |  3+=1.42  |  GG=1.49  |  GG&3+=1.67  |  GG&4+=2.45
 
 Najveća 1  : 1.62  [Meridian]
-Najveća X  : 4.60  [BetOle]
-Najveća 2  : 6.40  [BetOle]
+Najveća X  : 4.55  [Brazil_s]
+Najveća 2  : 6.50  [Brazil_s]
 Najveća 0-2: 2.46  [Meridian]
-Najveća 3+ : 1.53  [BetOle]
+Najveća 3+ : 1.54  [Brazil_s]
 
 Arbitraža (1-X-2): DA   inv_sum=0.9909   profit≈0.91%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0601   profit≈-6.01%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0559   profit≈-5.59%
 
 15:00   [POLAND, III Liga - Group IV]
 Siarka Tarnobrzeg  vs  Stal Krasnik
@@ -185,26 +173,27 @@ Arbitraža (0-2 / 3+): DA   inv_sum=0.9946   profit≈0.54%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1748
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1109
-Grupa sa veličinom ≥3: 841
-Grupa sa veličinom ≥4: 613
-Grupa sa veličinom ≥5: 416
-Grupa sa veličinom ≥6: 206
-Grupa sa veličinom ≥7: 54
+Ukupno mečeva (grupa): 1696
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1106
+Grupa sa veličinom ≥3: 826
+Grupa sa veličinom ≥4: 624
+Grupa sa veličinom ≥5: 466
+Grupa sa veličinom ≥6: 317
+Grupa sa veličinom ≥7: 171
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  889   spojeno (u grupama >1):  847
-  - BetOle     ukupno zapisa:  311   spojeno (u grupama >1):  300
-  - Brazil_d   ukupno zapisa:   78   spojeno (u grupama >1):   73
-  - Brazil_p   ukupno zapisa:  396   spojeno (u grupama >1):  371
-  - Meridian   ukupno zapisa: 1445   spojeno (u grupama >1): 1009
-  - Merkur     ukupno zapisa:   98   spojeno (u grupama >1):   39
-  - Mozzart    ukupno zapisa:  417   spojeno (u grupama >1):  387
-  - Soccer     ukupno zapisa:  650   spojeno (u grupama >1):  632
-  - Topbet     ukupno zapisa:  707   spojeno (u grupama >1):  694
+  - BalkanBet  ukupno zapisa:  883   spojeno (u grupama >1):  843
+  - BetOle     ukupno zapisa:   87   spojeno (u grupama >1):   87
+  - Brazil_d   ukupno zapisa:   71   spojeno (u grupama >1):   66
+  - Brazil_p   ukupno zapisa:  397   spojeno (u grupama >1):  371
+  - Brazil_s   ukupno zapisa:  147   spojeno (u grupama >1):  136
+  - Meridian   ukupno zapisa: 1446   spojeno (u grupama >1): 1003
+  - Merkur     ukupno zapisa:  435   spojeno (u grupama >1):  426
+  - Mozzart    ukupno zapisa:  402   spojeno (u grupama >1):  373
+  - Soccer     ukupno zapisa:  650   spojeno (u grupama >1):  636
+  - Topbet     ukupno zapisa:  702   spojeno (u grupama >1):  689
 
 Arbitraže (broj mečeva/grupa):
   - 1-X-2: 8
-  - 0-2 / 3+: 2
-  - Barem jedna arbitraža: 10
+  - 0-2 / 3+: 1
+  - Barem jedna arbitraža: 9

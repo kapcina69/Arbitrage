@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 25.10.
-0:00
+2:00
 23:59
-0:00 - 23:59
+2:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -41,114 +41,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-COLOMBIA, Copa Colombia - Second stage
-246
-01:00
-Atl. Nacional
-Once Caldas
-823
-1
-1.57
-X
-3.75
-2
-5.35
-0-2
-1.90
-2+
-1.24
-3+
-1.80
-ECUADOR, Copa Ecuador
-320
-01:00
-Guayaquil City
-Emelec
-824
-1
-3.05
-X
-2.95
-2
-2.25
-0-2
-1.62
-2+
-1.35
-3+
-2.15
-VENEZUELA, Liga FUTVE - Clausura - Quadrangular
-31335
-01:30
-Dep. Tachira
-Caracas
-653
-1
-1.74
-X
-3.25
-2
-4.45
-0-2
-1.70
-2+
-1.31
-3+
-2.02
-COSTA RICA, Liga de Ascenso - Apertura
-31271
-02:00
-Ad Aserri
-Pitbulls
-656
-1
-2.45
-X
-2.95
-2
-2.75
-0-2
-1.60
-2+
-1.36
-3+
-2.18
-NICARAGUA, Liga Primera - Apertura
-31264
-02:00
-Diriangen
-Matagalpa
-646
-1
-1.18
-X
-6.00
-2
-10.5
-0-2
-2.85
-2+
-1.06
-3+
-1.33
-WORLD, CONCACAF Central American Cup - Play - In
-31581
-02:00
-Miguelito
-Plaza Amador
-639
-1
-3.55
-X
-2.60
-2
-2.28
-0-2
-1.25
-2+
-1.75
-3+
-3.45
 USA, MLS - Play Offs
 134
 02:30
@@ -162,7 +54,7 @@ X
 2
 3.05
 0-2
-2.55
+2.60
 2+
 1.12
 3+
@@ -172,7 +64,7 @@ WORLD, Copa Libertadores - Play Offs
 02:30
 Flamengo RJ
 Racing Club
-964
+962
 1
 1.36
 X
@@ -180,11 +72,11 @@ X
 2
 9.75
 0-2
-1.70
+1.68
 2+
-1.36
+1.37
 3+
-2.12
+2.15
 MEXICO, Liga MX - Apertura
 141
 03:00
@@ -198,7 +90,7 @@ X
 2
 2.50
 0-2
-1.90
+1.92
 2+
 1.25
 3+
@@ -207,31 +99,31 @@ X
 03:00
 Queretaro
 Guadalajara Chivas
-828
+826
 1
-4.75
+4.85
 X
 3.55
 2
-1.74
+1.72
 0-2
-1.78
+1.80
 2+
-1.30
+1.29
 3+
-1.97
+1.94
 EL SALVADOR, Primera Division
 65
 03:30
 Aguila
 FAS
-824
+822
 1
-2.45
+2.30
 X
 3.00
 2
-2.70
+2.88
 0-2
 1.65
 2+
@@ -251,11 +143,11 @@ X
 2
 2.07
 0-2
-1.62
+1.60
 2+
-1.32
+1.33
 3+
-2.07
+2.08
 USA, USL
 91
 04:00
@@ -281,15 +173,15 @@ Real Espana
 Xelaju
 825
 1
-1.88
+1.92
 X
-3.20
+3.15
 2
-3.80
+3.65
 0-2
-1.67
+1.65
 2+
-1.32
+1.33
 3+
 2.07
 USA, MLS - Play Offs
@@ -299,7 +191,7 @@ Portland Timbers
 Real Salt Lake
 837
 1
-2.18
+2.15
 X
 3.55
 2
@@ -334,53 +226,35 @@ Club Tijuana
 Toluca
 842
 1
-2.95
+2.90
 X
-3.70
+3.75
 2
 2.18
 0-2
-2.80
+2.90
 2+
-1.10
+1.09
 3+
-1.39
+1.37
 MEXICO, Liga MX - Apertura
 145
 05:05
 U.N.A.M.- Pumas
 Atl. San Luis
-831
+829
 1
-1.85
+1.86
 X
 3.45
 2
 4.10
 0-2
-1.90
+1.87
 2+
 1.26
 3+
-1.84
-MONGOLIA, Premier League
-31576
-10:00
-Falcons
-Khovd Western
-96
-1
-1.18
-X
-6.30
-2
-9.50
-0-2
-4.15
-2+
-1.01
-3+
-1.16
+1.87
 WORLD, Friendly International Women U19
 33080
 11:00
@@ -406,11 +280,11 @@ Cebrayil
 Sahdag Qusar
 658
 1
-2.55
+2.70
 X
 2.88
 2
-2.70
+2.55
 0-2
 1.63
 2+
@@ -421,19 +295,19 @@ X
 12:00
 Sefa
 Sabail
-654
+653
 1
-2.18
+2.15
 X
 2.95
 2
-3.20
+3.25
 0-2
-1.68
+1.70
 2+
-1.29
+1.28
 3+
-1.99
+1.97
 31546
 12:00
 Zaqatala
@@ -493,13 +367,13 @@ Tai Po
 Beijing Guoan
 829
 1
-4.45
+4.40
 X
-3.70
+3.60
 2
-1.64
+1.66
 0-2
-2.08
+2.05
 2+
 1.19
 3+
@@ -733,19 +607,19 @@ ETHIOPIA, Premier League
 15:00
 Welwalo Adigrat
 Fasil Kenema
-101
+100
 1
-3.40
+4.55
 X
-2.80
+3.00
 2
-2.10
+1.75
 0-2
-1.39
+1.44
 2+
-1.49
+1.44
 3+
-2.55
+2.40
 33035
 15:00
 Sheger Ketema
@@ -786,19 +660,19 @@ UZBEKISTAN, Super League
 15:00
 Xorazm Urganch
 Pakhtakor
-810
+813
 1
-8.75
+8.25
 X
-4.00
+3.95
 2
-1.34
+1.37
 0-2
-1.65
+1.67
 2+
 1.30
 3+
-2.02
+2.00
 WORLD, Friendly International Women U19
 33081
 15:00
@@ -858,19 +732,19 @@ WORLD, Friendly International Women U19
 16:00
 Slovakia U19 Wom.
 Scotland U19 Wom.
-654
+653
 1
-4.50
+5.40
 X
-3.80
+4.10
 2
-1.60
+1.48
 0-2
-2.18
+2.25
 2+
-1.17
+1.15
 3+
-1.59
+1.56
 SAUDI ARABIA, Professional League
 76
 16:55
@@ -1001,17 +875,17 @@ Bibiani Gold Stars
 Berekum Chelsea
 100
 1
-1.42
+1.44
 X
-3.55
+3.50
 2
-8.25
+7.70
 0-2
-1.45
+1.46
 2+
-1.47
+1.46
 3+
-2.50
+2.45
 SAUDI ARABIA, Professional League
 77
 17:00
@@ -1143,7 +1017,7 @@ UEFA, Europa League
 18:45
 Braga
 Crvena zvezda
-1005
+1046
 1
 1.99
 X
@@ -1160,13 +1034,13 @@ X
 18:45
 Brann
 Rangers
-944
+987
 1
-2.08
+2.10
 X
 3.45
 2
-3.55
+3.50
 0-2
 2.12
 2+
@@ -1181,13 +1055,13 @@ Bologna
 1
 5.40
 X
-3.55
+3.50
 2
 1.73
 0-2
 1.85
 2+
-1.31
+1.32
 3+
 1.97
 206
@@ -1196,11 +1070,11 @@ Fenerbahce
 Stuttgart
 946
 1
-2.30
+2.45
 X
 3.35
 2
-3.15
+2.95
 0-2
 2.25
 2+
@@ -1211,7 +1085,7 @@ X
 18:45
 Feyenoord
 Panathinaikos
-1023
+942
 1
 1.59
 X
@@ -1228,7 +1102,7 @@ X
 18:45
 G.A. Eagles
 Aston Villa
-1047
+966
 1
 6.50
 X
@@ -1281,11 +1155,11 @@ Salzburg
 Ferencvaros
 950
 1
-2.02
+2.15
 X
-3.65
-2
 3.55
+2
+3.30
 0-2
 2.20
 2+
@@ -1350,15 +1224,15 @@ Hacken
 Rayo Vallecano
 948
 1
-4.20
+3.95
 X
-3.90
+3.85
 2
-1.81
+1.87
 0-2
-2.25
+2.22
 2+
-1.21
+1.22
 3+
 1.66
 225
@@ -1382,7 +1256,7 @@ X
 18:45
 Rijeka
 Sparta Prague
-939
+955
 1
 3.50
 X
@@ -1433,7 +1307,7 @@ X
 18:45
 Strasbourg
 Jagiellonia
-946
+1002
 1
 1.51
 X
@@ -1447,20 +1321,20 @@ X
 3+
 1.58
 Odigrani tiketi
-31335
-Dep. Tachira - Caracas
-23.10. 01:30
+141
+Pachuca - U.A.N.L.- Tigres
+23.10. 03:00
 KONAČAN ISHOD 
 1
-  1.74  
+  2.70  
 Običan
 Sistem
 Kvota:
-1.74
+2.70
 Uplata:
 20.00 RSD
 Dobitak:
-34.80 RSD
+54.00 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express

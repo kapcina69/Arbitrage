@@ -71,9 +71,9 @@ Roma - Plzen
 +53
 21:00
 Celtic - Sturm
-1.48
-4.50
-7.10
+1.50
+4.55
+6.50
 +53
 21:00
 Lille - PAOK
@@ -96,7 +96,7 @@ Malmo - Dinamo Z.
 21:00
 Nottingham Forest - Porto
 2.50
-3.30
+3.25
 2.90
 +53
 21:00
@@ -145,9 +145,9 @@ Shakhtar D. - Legia W.
 +53
 18:45
 Hacken - Rayo Vallecano
-3.70
-3.90
-1.72
+3.60
+3.75
+1.75
 +53
 18:45
 Rijeka - Sparta P.
@@ -205,8 +205,8 @@ Mainz - Zrinjski
 +53
 21:00
 Lincoln Red Imps - Lech P.
-11.60
-6.40
+10.40
+6.20
 1.20
 +53
 21:00
@@ -464,8 +464,8 @@ X
 15:30
 B. M'gladbach - Bayern M.
 11.50
-6.70
-1.25
+7.00
+1.23
 +53
 15:30
 E. Frankfurt - St. Pauli
@@ -637,9 +637,9 @@ Mallorca - Levante
 +53
 16:15
 Real M. - Barcelona
-2.00
+2.05
 4.05
-3.25
+3.15
 +53
 18:30
 Osasuna - Celta
@@ -743,9 +743,9 @@ X
 2
 21:15
 Alverca - Gil Vicente
-3.00
-3.20
-2.50
+3.15
+3.05
+2.45
 +53
 SUB. 25.10.
 1
@@ -875,9 +875,9 @@ X
 2
 03:10
 Independiente Rivadavia - River Plate (Arg)
-3.30
+3.50
 3.10
-2.10
+2.05
 +41
 Australija 1
 KONAČAN ISHOD
@@ -1191,9 +1191,9 @@ Vitoria BA - Corinthians SP
 +41
 22:30
 Fluminense RJ - Internacional RS
-1.90
-3.20
-3.70
+1.85
+3.30
+4.25
 +41
 23:30
 Sport Recife PE - Mirassol SP
@@ -2769,9 +2769,9 @@ X
 2
 19:00
 Mac. Tel Aviv - I. Kiryat Shmona
-1.23
-5.75
-10.40
+1.20
+6.00
+12.40
 +41
 Izrael 2
 KONAČAN ISHOD
@@ -2795,15 +2795,15 @@ Mac. Herzliya - Kafr Qasim
 +39
 15:00
 Hap. Rishon Lezion - Hap. Ramat Gan
-2.30
-3.20
-2.85
+2.50
+3.25
+2.60
 +39
 15:00
 Hap. Afula - Mac. Petah Tikva
-8.80
-4.95
-1.30
+7.80
+4.90
+1.32
 +36
 15:00
 Ironi Modiin - Bnei Yehuda
@@ -3269,20 +3269,6 @@ Once Caldas - Union Magdalena
 4.30
 6.50
 +41
-Kolumbija Kup
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-ČET. 23.10.
-1
-X
-2
-01:00
-Atl.Nacional - Once Caldas
-1.52
-3.95
-5.60
-+40
 Kostarika 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -3329,20 +3315,6 @@ Alajuelense - Zeledon
 4.35
 7.10
 +41
-Kostarika 2
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-ČET. 23.10.
-1
-X
-2
-02:00
-AD Aserri - Pitbulls Santa Barbara FC
-2.50
-2.95
-2.80
-+36
 Litvanija 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -3421,9 +3393,9 @@ X
 2
 03:00
 Queretaro - Chivas
-4.32
+4.64
 3.55
-1.75
+1.70
 +37
 03:00
 Pachuca - Tigres
@@ -3433,8 +3405,8 @@ Pachuca - Tigres
 +37
 05:00
 Tijuana - Dep.Toluca
-2.97
-3.75
+3.02
+3.70
 2.20
 +37
 05:00
@@ -3665,12 +3637,6 @@ OBA TIMA DAJU GOL
 1
 X
 2
-02:00
-Diriangen - Indigenas de Matagalpa FC
-1.20
-6.40
-10.40
-+36
 04:00
 Managua - Real Esteli
 3.40
@@ -4407,7 +4373,7 @@ X
 Akhmat - Sochi
 1.62
 3.65
-5.00
+4.80
 +53
 Rusija 2
 KONAČAN ISHOD
@@ -4624,7 +4590,7 @@ X
 02:30
 Chicago - Orlando
 2.15
-3.70
+3.75
 3.02
 +53
 04:30
@@ -4655,9 +4621,9 @@ Vancouver - Dallas
 +53
 23:45
 Cincinnati - Columbus
-2.15
-3.70
-3.02
+2.20
+3.80
+2.92
 +53
 UTO. 28.10.
 1
@@ -4718,7 +4684,7 @@ Tampa Bay - Detroit City FC
 02:00
 Tulsa - Colorado
 2.00
-3.40
+3.45
 3.35
 +39
 02:30
@@ -4835,8 +4801,8 @@ X
 2
 20:45
 Hamilton - Queen of South
-1.65
-3.80
+1.68
+3.65
 4.30
 +41
 SUB. 25.10.
@@ -5285,9 +5251,9 @@ Kocaeli - Alanya
 +53
 19:00
 Trabzon - Eyup
-1.58
-4.30
-5.65
+1.55
+4.25
+6.00
 +53
 NED. 26.10.
 1
@@ -5515,34 +5481,6 @@ Cardiff - Flint
 3.60
 2.60
 +41
-Venecuela 1
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-ČET. 23.10.
-1
-X
-2
-01:30
-Dep.Tachira - Caracas
-1.68
-3.60
-4.30
-+37
-Copa Ecuador
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-ČET. 23.10.
-1
-X
-2
-01:00
-Guayaquil City - Emelec
-3.02
-3.30
-2.30
-+22
 AFC Liga Šampiona 2
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -5553,9 +5491,9 @@ X
 2
 12:00
 Tampines - Pohang
-5.80
-4.20
-1.48
+5.70
+4.05
+1.50
 +23
 12:00
 Kaya - Pathum U.
@@ -5577,9 +5515,9 @@ Bangkok U. - Lion City
 +23
 14:15
 Persib Bandung - Selangor
-1.75
-3.80
-3.60
+1.80
+3.75
+3.50
 +23
 14:15
 Cong An Nhan Dan - Macarthur

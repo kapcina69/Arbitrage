@@ -42,12 +42,16 @@
   .stat h4{margin:0 0 6px; font-size:12px; text-transform:uppercase; letter-spacing:.6px; color:#b8c0d6}
   .big{font-size:20px; font-weight:900}
   .bk{opacity:.8; font-size:12px}
+  .bk a{color:var(--accent); text-decoration:none; font-weight:600; transition:.2s all}
+  .bk a:hover{color:var(--accent-2); text-decoration:underline}
   table{width:100%; border-collapse:collapse; margin-top:10px; overflow:auto}
   th,td{border-bottom:1px solid var(--line); padding:8px 6px; text-align:left}
   thead th{position:sticky; top:0; background:#151a33; z-index:1}
   td.num{text-align:right; font-variant-numeric:tabular-nums}
   td.num .cell{display:inline-block; padding:2px 6px; border-radius:8px}
   td.num .cell.best{outline:2px solid var(--best-ring); font-weight:800}
+  td a{color:var(--accent); text-decoration:none; font-weight:600; transition:.2s all}
+  td a:hover{color:var(--accent-2); text-decoration:underline}
   tr:hover td{background:rgba(255,255,255,.02)}
   .footer{display:flex; gap:8px; align-items:center; color:var(--muted); font-size:12px; padding:10px 14px; border-top:1px dashed var(--line)}
   .barwrap{height:6px; background:#0d1130; border-radius:6px; overflow:hidden; border:1px solid #0b0f29}
@@ -94,6 +98,34 @@ const AUTO_INTERVAL_MS = 300_000; // 5 minuta
 // Globalna promenljiva za podatke
 let currentData = [];
 
+// === Mapa URL-ova kladionica ===
+const BOOKMAKER_URLS = {
+  'balkanbet': 'https://www.balkanbet.rs/sportsko-kladjenje/1-offer/18-fudbal',
+  'betole': 'https://www.betole.com/sport/S/calendar',
+  'brazil': 'https://www.brazilbet.rs/sr/vremenska-ponuda',
+  'brazil_d': 'https://www.brazilbet.rs/sr/vremenska-ponuda',
+  'brazil_p': 'https://www.brazilbet.rs/sr/vremenska-ponuda',
+  'brazil_s': 'https://www.brazilbet.rs/sr/vremenska-ponuda',
+  'meridian': 'https://meridianbet.rs/en/betting/football',
+  'merkur': 'https://www.merkurxtip.rs/sr/sportsko-kladjenje/sledeci-mecevi',
+  'mozzart': 'https://www.mozzartbet.com/sr/kladjenje/sport/1?date=all_days',
+  'soccer': 'https://www.soccerbet.rs/sr/sportsko-kladjenje/fudbal/S',
+  'topbet': 'https://www.topbet.rs/sportsko-kladjenje/1-offer/3-fudbal'
+};
+
+// Funkcija koja kreira link element za kladionicu
+function makeBookmakerLink(bookName) {
+  if (!bookName) return '';
+  
+  const normalized = bookName.toLowerCase().trim();
+  const url = BOOKMAKER_URLS[normalized];
+  
+  if (url) {
+    return `<a href="${url}" target="_blank" rel="noopener noreferrer">${bookName}</a>`;
+  }
+  return bookName;
+}
+
 // === Parser (robustan datum/vreme/ligа) ===
 function parseBlock(txt){
   const parts = txt.split(/\r?\n-{5,}\r?\n/).map(s=>s.trim()).filter(Boolean);
@@ -107,7 +139,7 @@ function parseBlock(txt){
     const date   = (top3.match(/(\d{1,2}\.\d{1,2}\.(?:\d{2,4}\.)?)/) || [])[1] || '';
     const league = (top3.match(/\[(.+?)\]/) || [])[1] || '';
 
-    // timovi (linija sa “vs”)
+    // timovi (linija sa "vs")
     const teamsLine = (lines.find(l=> /\bvs\b/i.test(l)) || headLines[1] || '').trim();
     const teams = teamsLine.replace(/\s+/g,' ');
 
@@ -150,21 +182,19 @@ function render(data){
   const withArb = data.map(m=> ({...m, arb: arbitraza(m.rows), arb02: arbitraza02(m.rows)}));
   if(sortVal==='arbdesc')    withArb.sort((a,b)=> (b.arb?.profit??-1e9)  - (a.arb?.profit??-1e9));
   if(sortVal==='arbasc')     withArb.sort((a,b)=> (a.arb?.profit??1e9)   - (b.arb?.profit??1e9));
-  if(sortVal==='arb02desc')  withArb.sort((a,b)=> (b.arb02?.profit??-1e9) - (a.arb02?.profit??-1e9));
-  if(sortVal==='arb02asc')   withArb.sort((a,b)=> (a.arb02?.profit??1e9)  - (b.arb02?.profit??1e9));
-  if(sortVal==='time')       withArb.sort((a,b)=> (a.date+a.time).localeCompare(b.date+b.time));
+  if(sortVal==='arb02desc')  withArb.sort((a,b)=> (b.arb02?.profit??-1e9)- (a.arb02?.profit??-1e9));
+  if(sortVal==='arb02asc')   withArb.sort((a,b)=> (a.arb02?.profit??1e9) - (b.arb02?.profit??1e9));
 
-  const needle = document.getElementById('q').value.trim().toLowerCase();
-  const selectedLeague = window.selectedLeague || null;
-  
-  for(const m of withArb){
-    if(needle){ const hay=(m.teams+" "+m.league+" "+m.date+" "+m.time).toLowerCase(); if(!hay.includes(needle)) continue; }
-    
-    // Filtriranje po ligi
-    if(selectedLeague){
-      const mLeague = m.league ? m.league : '(bez lige)';
-      if(mLeague !== selectedLeague) continue;
-    }
+  const q = document.getElementById('q').value.toLowerCase().trim();
+  const filtered = withArb.filter(m=> {
+    const txt = (m.teams+' '+m.league).toLowerCase();
+    if(q && !txt.includes(q)) return false;
+    if(window.selectedLeague && m.league !== window.selectedLeague) return false;
+    return true;
+  });
+
+  for(const m of filtered){
+    if(!m.rows || !m.rows.length) continue;
 
     const card = document.createElement('div'); card.className='match';
     const head=document.createElement('div'); head.className='head';
@@ -175,15 +205,8 @@ function render(data){
     const when=[(m.date||'').trim(), (m.time||'').trim()].filter(Boolean).join(' ');
     datetime.textContent = when;
     
-    // Naziv timova
-    const title=document.createElement('div'); title.className='teams';
-    const teamsTxt=(m.teams && /\bvs\b/i.test(m.teams))? m.teams : ((m.raw.match(/^(?:.*\n)?(.+?\s+vs\s+.+?)\s*$/m)||[])[1]||'(nepoznat meč)');
-    title.textContent = teamsTxt;
-
-    // Liga ispod timova
-    const sub=document.createElement('div'); sub.className='sub';
-    sub.textContent = m.league ? `[${m.league}]` : '';
-
+    const title=document.createElement('div'); title.className='teams'; title.textContent = m.teams;
+    const sub=document.createElement('div'); sub.className='sub'; sub.textContent = m.league;
     left.appendChild(datetime); left.appendChild(title); left.appendChild(sub); head.appendChild(left);
 
     const meta=document.createElement('div'); meta.className='meta';
@@ -196,7 +219,12 @@ function render(data){
     const body=document.createElement('div'); body.className='body';
     const b1=bestByMarket(m.rows,'1'), bX=bestByMarket(m.rows,'X'), b2=bestByMarket(m.rows,'2');
     const stats=document.createElement('div'); stats.className='stats';
-    stats.innerHTML=[ ['Najveća 1',b1],['Najveća X',bX],['Najveća 2',b2] ].map(([lab,b])=>`<div class="stat"><h4>${lab}</h4><div class="big">${b.val??'—'}</div><div class="bk">${b.book??''}</div><div class="barwrap"><div class="bar" style="width:${b.val? Math.min(100,(100*Math.pow((b.val/(Math.max(b1.val||0,bX.val||0,b2.val||0)||1)),.8))).toFixed(0):0}%; background:linear-gradient(90deg, var(--accent), var(--accent-2))"></div></div></div>`).join('');
+    
+    // Stats sa linkovima
+    stats.innerHTML=[ ['Najveća 1',b1],['Najveća X',bX],['Najveća 2',b2] ].map(([lab,b])=>{
+      const bookLink = makeBookmakerLink(b.book);
+      return `<div class="stat"><h4>${lab}</h4><div class="big">${b.val??'—'}</div><div class="bk">${bookLink}</div><div class="barwrap"><div class="bar" style="width:${b.val? Math.min(100,(100*Math.pow((b.val/(Math.max(b1.val||0,bX.val||0,b2.val||0)||1)),.8))).toFixed(0):0}%; background:linear-gradient(90deg, var(--accent), var(--accent-2))"></div></div></div>`;
+    }).join('');
     body.appendChild(stats);
 
     const mkts=Array.from(new Set(m.rows.flatMap(r=>Object.keys(r.markets)))).sort((a,b)=>{const order=['1','X','2','0-2','2+','3+','GG','IGG','GG&3+','GG&4+','4+']; const ia=order.indexOf(a), ib=order.indexOf(b); return (ia===-1?999:ia)-(ib===-1?999:ib);});
@@ -208,7 +236,11 @@ function render(data){
     const tb=document.createElement('tbody');
     for(const r of m.rows){
       const tr=document.createElement('tr');
-      tr.innerHTML=`<td>${r.book}</td>` + mkts.map(k=>{ 
+      
+      // Link za kladionicu
+      const bookLink = makeBookmakerLink(r.book);
+      
+      tr.innerHTML=`<td>${bookLink}</td>` + mkts.map(k=>{ 
         const v=r.markets[k]; 
         const isBest=v && bestMap[k]===v; 
         const p=scalers[k](v)*100; 

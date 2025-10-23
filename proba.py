@@ -56,7 +56,7 @@ TEAM_SYNONYMS: Dict[str, List[str]] = {
     "Spartak Moscow": ["Spartak Moskva", "Spartak M.", "FC Spartak Moscow"],
     "Lokomotiv Moscow": ["Lokomotiv Moskva", "Lokomotiv M.", "FC Lokomotiv Moscow"],
     "Brondby": ["Brøndby", "Brondby IF","Broendby IF"],
-    "Nordsjaelland": ["Nordsjælland", "Nordsjaelland FC"],
+    "Nordsjaelland": ["Nordsjalland", "Nordsjaelland FC"],
     "Hajduk Split": ["Hajduk", "HNK Hajduk Split"],
     "Dinamo Zagreb": ["Dinamo", "GNK Dinamo Zagreb"],
     "Soenderjyske": ["Sonderjyske", "Soenderjyske FK"],
