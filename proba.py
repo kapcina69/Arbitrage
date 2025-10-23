@@ -33,7 +33,8 @@ INPUT_FILES = {
     "Brazil_s": "brazil_sutra_mecevi_pregled.txt",
     "Brazil_p": "brazil_prekosutra_mecevi_pregled.txt",
     "BetOle": "betole_mecevi_pregled.txt",
-    "Topbet": "topbet_mecevi_pregled.txt"
+    "Topbet": "topbet_mecevi_pregled.txt",
+    "OktagonBet": "oktagonbet_mecevi_pregled.txt"
 }
 
 ALL_MARKETS = ["1", "X", "2", "0-2", "2+", "3+", "GG", "IGG", "GG&3+", "GG&4+", "4+"]

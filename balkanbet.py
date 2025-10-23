@@ -9,7 +9,7 @@ from playwright.sync_api import sync_playwright, TimeoutError as PWTimeoutError
 
 # ======= PODEŠAVANJA (menjaj ovde) =======
 SCROLL_STEPS = 120        # ← tačno ovoliko skrol "klikova" će se izvršiti
-HEADLESS = True          # ← True = headless; False = vidljivo
+HEADLESS = False          # ← True = headless; False = vidljivo
 SCROLL_DELTA = 1500       # ← jačina točkića po koraku (pozitivan broj = naniže)
 SCROLL_PAUSE = 0.20       # ← pauza između skrol koraka u sekundama
 # =========================================
