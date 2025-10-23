@@ -1,0 +1,11 @@
+
+SAŽETAK
+-------
+Ukupno grupa (mečeva): 1227
+Grupa ≥3 linije: 0
+Grupa ≥4 linije: 0
+Grupa ≥5 linije: 0
+Grupa ≥6 linije: 0
+Mečeva sa arbitražom: 0  (1-X-2: 0,  0-2/3+: 0)
+
+Broj zapisa po kladionici:

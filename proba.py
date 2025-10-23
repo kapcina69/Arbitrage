@@ -43,7 +43,7 @@ SEP_RE = re.compile(r"^=+\s*$", re.MULTILINE)
 TEAM_STOPWORDS = {
     "fc","fk","al","cf","sc","ac","bc","ud","cd","sd","ad","ca",
     "the","club","de","of","sv","ss","ks","ik","if","sk",
-    "u19","u20","u21","b","c","a","u23","u17","u16","u15","u14","u13","Wom.","||"
+    "u19","u20","u21","b","c","a","u23","u17","u16","u15","u14","u13","wom.","||","H.Kfar","II","wom","u23 wom.","ii","(wom)"
 }
 
 # ============================================================
@@ -55,7 +55,7 @@ TEAM_SYNONYMS: Dict[str, List[str]] = {
     "CSKA Moscow": ["CSKA Moskva", "CSKA M.", "PFC CSKA Moscow"],
     "Spartak Moscow": ["Spartak Moskva", "Spartak M.", "FC Spartak Moscow"],
     "Lokomotiv Moscow": ["Lokomotiv Moskva", "Lokomotiv M.", "FC Lokomotiv Moscow"],
-    "Brondby": ["Brøndby", "Brondby IF","Brndby IF"],
+    "Brondby": ["Brøndby", "Brondby IF","Broendby IF"],
     "Nordsjaelland": ["Nordsjælland", "Nordsjaelland FC"],
     "Hajduk Split": ["Hajduk", "HNK Hajduk Split"],
     "Dinamo Zagreb": ["Dinamo", "GNK Dinamo Zagreb"],

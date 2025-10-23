@@ -2750,7 +2750,6 @@ Buchbach  vs  Nurnberg Am.
 
 - BalkanBet  1=2.7  |  X=3.35  |  2=2.35  |  0-2=2.63  |  2+=1.14  |  3+=1.43  |  GG=1.31  |  IGG=2.95  |  GG&3+=1.55  |  GG&4+=2.3  |  4+=2.05
 - BetOle     1=2.57  |  X=3.6  |  2=2.25  |  0-2=2.47  |  3+=1.47
-- Meridian   1=2.41  |  X=3.7  |  2=2.32  |  0-2=2.5  |  3+=1.4  |  GG=1.4  |  GG&3+=1.56  |  GG&4+=2.28
 - Soccer     1=2.5  |  X=3.8  |  2=2.38  |  0-2=2.6  |  2+=1.11  |  3+=1.43  |  GG=1.4  |  IGG=3.15  |  GG&3+=1.6
 
 Najveća 1  : 2.70  [BalkanBet]
@@ -3328,6 +3327,38 @@ Najveća 3+ : 1.57  [Soccer]
 
 Arbitraža (1-X-2): NE   inv_sum=1.0715   profit≈-7.15%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0736   profit≈-7.36%
+
+--------------------------------------------------------------------------------------
+20:00   24.10.   [European - UEFA Nations League Women]
+Ireland (W)  vs  Belgium (W)
+
+- Meridian   1=2.15  |  X=3.55  |  2=2.85  |  0-2=2.16  |  3+=1.62  |  GG=1.55  |  GG&3+=1.91  |  GG&4+=2.85
+- Soccer     1=2.2  |  X=3.55  |  2=2.9  |  0-2=2.15  |  2+=1.19  |  3+=1.62  |  GG=1.55  |  IGG=3.7  |  GG&3+=1.82
+
+Najveća 1  : 2.20  [Soccer]
+Najveća X  : 3.55  [Meridian, Soccer]
+Najveća 2  : 2.90  [Soccer]
+Najveća 0-2: 2.16  [Meridian]
+Najveća 3+ : 1.62  [Meridian, Soccer]
+
+Arbitraža (1-X-2): NE   inv_sum=1.0811   profit≈-8.11%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0802   profit≈-8.02%
+
+--------------------------------------------------------------------------------------
+20:00   24.10.   [European - UEFA Nations League Women]
+Northern Ireland (W)  vs  Iceland (W)
+
+- Meridian   1=11  |  X=5  |  2=1.25  |  0-2=2.07  |  3+=1.68  |  GG=2.25  |  GG&3+=2.85  |  GG&4+=4.1
+- Soccer     1=11.1  |  X=5.3  |  2=1.24  |  0-2=2.05  |  2+=1.21  |  3+=1.68  |  GG=2.35  |  IGG=5.9  |  GG&3+=2.7
+
+Najveća 1  : 11.10  [Soccer]
+Najveća X  : 5.30  [Soccer]
+Najveća 2  : 1.25  [Meridian]
+Najveća 0-2: 2.07  [Meridian]
+Najveća 3+ : 1.68  [Meridian, Soccer]
+
+Arbitraža (1-X-2): NE   inv_sum=1.0788   profit≈-7.88%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0783   profit≈-7.83%
 
 --------------------------------------------------------------------------------------
 20:00   24.10.   [Saudijska Arabija 1]
@@ -5415,11 +5446,11 @@ IMT  vs  OFK Beograd
 - BalkanBet  1=2.45  |  X=3.35  |  2=2.65  |  0-2=2.1  |  2+=1.22  |  3+=1.65  |  GG=1.55  |  IGG=3.85  |  GG&3+=1.95  |  GG&4+=2.95  |  4+=2.6
 - Brazil_p   1=2.3  |  X=3.45  |  2=2.7  |  0-2=2.15  |  2+=1.18  |  3+=1.63
 - Meridian   1=2.34  |  X=3.55  |  2=2.47  |  0-2=2.13  |  3+=1.64  |  GG=1.57  |  GG&3+=1.92  |  GG&4+=2.88
-- Mozzart    1=2.53  |  X=3.4  |  2=2.8  |  0-2=2.11  |  2+=1.22  |  3+=1.65
+- Mozzart    1=2.5  |  X=3.4  |  2=2.8  |  0-2=2.11  |  2+=1.22  |  3+=1.65
 - Soccer     1=2.45  |  X=3.65  |  2=2.65  |  0-2=2.12  |  2+=1.19  |  3+=1.65  |  GG=1.55  |  IGG=3.7  |  GG&3+=1.85
 - Topbet     1=1.85  |  X=3.7  |  2=3.4
 
-Najveća 1  : 2.53  [Mozzart]
+Najveća 1  : 2.50  [Mozzart]
 Najveća X  : 3.70  [Topbet]
 Najveća 2  : 3.40  [Topbet]
 Najveća 0-2: 2.15  [Brazil_p]
@@ -14630,6 +14661,7 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0816   profit≈-8.16%
 Odense  vs  Brondby
 
 - BalkanBet  1=3.75  |  X=3.85  |  2=1.9  |  0-2=2.3  |  2+=1.21  |  3+=1.63  |  GG=1.55  |  IGG=4.1  |  GG&3+=1.85  |  GG&4+=2.9  |  4+=2.6
+- Meridian   1=3.3  |  X=3.55  |  2=1.87  |  0-2=2.19  |  3+=1.58  |  GG=1.55  |  GG&3+=1.86  |  GG&4+=2.8
 - Mozzart    1=3.9  |  X=3.5  |  2=1.95  |  0-2=2.29  |  2+=1.18  |  3+=1.55
 - Topbet     1=3.65  |  X=3.8  |  2=1.95
 
@@ -21600,21 +21632,6 @@ Arbitraža (1-X-2): NE   inv_sum=1.0874   profit≈-8.74%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0584   profit≈-5.84%
 
 --------------------------------------------------------------------------------------
-19:00   27.10.   [Danish - Superliga]
-Odense Boldklub  vs  Broendby IF
-
-- Meridian   1=3.3  |  X=3.55  |  2=1.87  |  0-2=2.19  |  3+=1.58  |  GG=1.55  |  GG&3+=1.86  |  GG&4+=2.8
-
-Najveća 1  : 3.30  [Meridian]
-Najveća X  : 3.55  [Meridian]
-Najveća 2  : 1.87  [Meridian]
-Najveća 0-2: 2.19  [Meridian]
-Najveća 3+ : 1.58  [Meridian]
-
-Arbitraža (1-X-2): NE   inv_sum=1.1195   profit≈-11.95%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0895   profit≈-8.95%
-
---------------------------------------------------------------------------------------
 16:00   25.10.   [Greek - Superleague]
 AE Kifisia FC  vs  Panaitolikos Agrinio
 
@@ -23032,20 +23049,49 @@ Arbitraža (1-X-2): NE   inv_sum=1.0856   profit≈-8.56%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0881   profit≈-8.81%
 
 --------------------------------------------------------------------------------------
-17:00   [FINLAND, Ykkosliiga - Relegation]
-Portugal U23 Wom.  vs  France U23 Wom.
+20:00   23.10.   [African - African CAF Cup of Nations Women]
+Algeria (Wom)  vs  Cameroon (Wom)
 
-- Brazil_d   1=6.75  |  X=4.6  |  2=1.35  |  0-2=2.45  |  2+=1.12  |  3+=1.47
+- Meridian   1=2.52  |  X=3.56  |  2=2.46  |  0-2=1.92  |  3+=1.77
+
+Najveća 1  : 2.52  [Meridian]
+Najveća X  : 3.56  [Meridian]
+Najveća 2  : 2.46  [Meridian]
+Najveća 0-2: 1.92  [Meridian]
+Najveća 3+ : 1.77  [Meridian]
+
+Arbitraža (1-X-2): NE   inv_sum=1.0842   profit≈-8.42%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0858   profit≈-8.58%
+
+--------------------------------------------------------------------------------------
+17:00   24.10.   [African - African CAF Cup of Nations Women]
+Kenya (Wom)  vs  Gambia (Wom)
+
 - Meridian   1=3.35  |  X=3.35  |  2=2.05  |  0-2=1.67  |  3+=2.05
 
-Najveća 1  : 6.75  [Brazil_d]
-Najveća X  : 4.60  [Brazil_d]
+Najveća 1  : 3.35  [Meridian]
+Najveća X  : 3.35  [Meridian]
 Najveća 2  : 2.05  [Meridian]
-Najveća 0-2: 2.45  [Brazil_d]
+Najveća 0-2: 1.67  [Meridian]
 Najveća 3+ : 2.05  [Meridian]
 
-Arbitraža (1-X-2): DA   inv_sum=0.8533   profit≈14.67%
-Arbitraža (0-2 / 3+): DA   inv_sum=0.8960   profit≈10.40%
+Arbitraža (1-X-2): NE   inv_sum=1.0848   profit≈-8.48%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0866   profit≈-8.66%
+
+--------------------------------------------------------------------------------------
+17:00   24.10.   [African - African CAF Cup of Nations Women]
+Benin (Wom)  vs  Nigeria (Wom)
+
+- Meridian   1=17  |  X=9.3  |  2=1.09
+
+Najveća 1  : 17.00  [Meridian]
+Najveća X  : 9.30  [Meridian]
+Najveća 2  : 1.09  [Meridian]
+Najveća 0-2: -
+Najveća 3+ : -
+
+Arbitraža (1-X-2): NE   inv_sum=1.0838   profit≈-8.38%
+Arbitraža (0-2 / 3+): nedovoljno podataka
 
 --------------------------------------------------------------------------------------
 19:00   24.10.   [African - African CAF Cup of Nations Women]
@@ -23507,17 +23553,16 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.1014   profit≈-10.14%
 Legnica II  vs  Gornik Zabrze II
 
 - BetOle     1=2.83  |  X=3.45  |  2=2.07  |  0-2=2.27  |  3+=1.51
-- Brazil_p   1=1.61  |  X=3.8  |  2=4.1  |  0-2=2.45  |  2+=1.1  |  3+=1.44
 - Meridian   1=2.85  |  X=3.6  |  2=2.08
 
 Najveća 1  : 2.85  [Meridian]
-Najveća X  : 3.80  [Brazil_p]
-Najveća 2  : 4.10  [Brazil_p]
-Najveća 0-2: 2.45  [Brazil_p]
+Najveća X  : 3.60  [Meridian]
+Najveća 2  : 2.08  [Meridian]
+Najveća 0-2: 2.27  [BetOle]
 Najveća 3+ : 1.51  [BetOle]
 
-Arbitraža (1-X-2): DA   inv_sum=0.8579   profit≈14.21%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0704   profit≈-7.04%
+Arbitraža (1-X-2): NE   inv_sum=1.1094   profit≈-10.94%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.1028   profit≈-10.28%
 
 --------------------------------------------------------------------------------------
 19:00   24.10.   [Poland, III Liga - Group II]
@@ -23665,6 +23710,22 @@ Najveća 3+ : 1.56  [Brazil_p]
 
 Arbitraža (1-X-2): NE   inv_sum=1.1023   profit≈-10.23%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0956   profit≈-9.56%
+
+--------------------------------------------------------------------------------------
+15:00   [POLAND, III Liga - Group IV]
+Cracovia Krakow II  vs  Wisla II
+
+- Brazil_p   1=1.61  |  X=3.8  |  2=4.1  |  0-2=2.45  |  2+=1.1  |  3+=1.44
+- Meridian   1=1.53  |  X=4.4  |  2=4.3
+
+Najveća 1  : 1.61  [Brazil_p]
+Najveća X  : 4.40  [Meridian]
+Najveća 2  : 4.30  [Meridian]
+Najveća 0-2: 2.45  [Brazil_p]
+Najveća 3+ : 1.44  [Brazil_p]
+
+Arbitraža (1-X-2): NE   inv_sum=1.0809   profit≈-8.09%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.1026   profit≈-10.26%
 
 --------------------------------------------------------------------------------------
 15:00   [POLAND, III Liga - Group II]
@@ -24783,36 +24844,6 @@ Arbitraža (1-X-2): NE   inv_sum=1.1163   profit≈-11.63%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.1085   profit≈-10.85%
 
 --------------------------------------------------------------------------------------
-20:00   24.10.   [European - UEFA Nations League Women]
-Ireland (W)  vs  Belgium (W)
-
-- Meridian   1=2.15  |  X=3.55  |  2=2.85  |  0-2=2.16  |  3+=1.62  |  GG=1.55  |  GG&3+=1.91  |  GG&4+=2.85
-
-Najveća 1  : 2.15  [Meridian]
-Najveća X  : 3.55  [Meridian]
-Najveća 2  : 2.85  [Meridian]
-Najveća 0-2: 2.16  [Meridian]
-Najveća 3+ : 1.62  [Meridian]
-
-Arbitraža (1-X-2): NE   inv_sum=1.0977   profit≈-9.77%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0802   profit≈-8.02%
-
---------------------------------------------------------------------------------------
-20:00   24.10.   [European - UEFA Nations League Women]
-Northern Ireland (W)  vs  Iceland (W)
-
-- Meridian   1=11  |  X=5  |  2=1.25  |  0-2=2.07  |  3+=1.68  |  GG=2.25  |  GG&3+=2.85  |  GG&4+=4.1
-
-Najveća 1  : 11.00  [Meridian]
-Najveća X  : 5.00  [Meridian]
-Najveća 2  : 1.25  [Meridian]
-Najveća 0-2: 2.07  [Meridian]
-Najveća 3+ : 1.68  [Meridian]
-
-Arbitraža (1-X-2): NE   inv_sum=1.0909   profit≈-9.09%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0783   profit≈-7.83%
-
---------------------------------------------------------------------------------------
 18:00   24.10.   [Austrian - First League]
 Schwarz-Weiss Bregenz  vs  Kapfenberger SV
 
@@ -25361,6 +25392,21 @@ Najveća 3+ : 1.27  [Meridian]
 
 Arbitraža (1-X-2): NE   inv_sum=1.1086   profit≈-10.86%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.1100   profit≈-11.00%
+
+--------------------------------------------------------------------------------------
+19:00   24.10.   [German - Regionalliga Bayern]
+TSV Buchbach  vs  1 FC Nuremberg II
+
+- Meridian   1=2.41  |  X=3.7  |  2=2.32  |  0-2=2.5  |  3+=1.4  |  GG=1.4  |  GG&3+=1.56  |  GG&4+=2.28
+
+Najveća 1  : 2.41  [Meridian]
+Najveća X  : 3.70  [Meridian]
+Najveća 2  : 2.32  [Meridian]
+Najveća 0-2: 2.50  [Meridian]
+Najveća 3+ : 1.40  [Meridian]
+
+Arbitraža (1-X-2): NE   inv_sum=1.1162   profit≈-11.62%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.1143   profit≈-11.43%
 
 --------------------------------------------------------------------------------------
 14:00   26.10.   [German - Regionalliga Nordost]
@@ -28564,6 +28610,21 @@ Najveća 3+ : 1.35  [BetOle, Brazil_d]
 
 Arbitraža (1-X-2): NE   inv_sum=1.1038   profit≈-10.38%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0979   profit≈-9.79%
+
+--------------------------------------------------------------------------------------
+17:00   [FINLAND, Ykkosliiga - Relegation]
+Portugal U23 Wom.  vs  France U23 Wom.
+
+- Brazil_d   1=6.75  |  X=4.6  |  2=1.35  |  0-2=2.45  |  2+=1.12  |  3+=1.47
+
+Najveća 1  : 6.75  [Brazil_d]
+Najveća X  : 4.60  [Brazil_d]
+Najveća 2  : 1.35  [Brazil_d]
+Najveća 0-2: 2.45  [Brazil_d]
+Najveća 3+ : 1.47  [Brazil_d]
+
+Arbitraža (1-X-2): NE   inv_sum=1.1063   profit≈-10.63%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0884   profit≈-8.84%
 
 --------------------------------------------------------------------------------------
 10:00   25.10.   [China, Super League]
