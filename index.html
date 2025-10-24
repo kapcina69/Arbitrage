@@ -138,6 +138,14 @@
         
         <!-- Status i Akcije -->
         <div style="display:flex; align-items:center; gap:8px; flex-shrink:0;">
+          <!-- Trenutno vreme -->
+          <div style="display:flex; flex-direction:column; align-items:flex-end; gap:2px; margin-right:8px;">
+            <div id="currentTime" style="font-size:20px; font-weight:800; color:var(--text); line-height:1;">--:--</div>
+            <div id="currentDate" style="font-size:9px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">-- --- ----</div>
+          </div>
+          
+          <div style="width:1px; height:40px; background:rgba(107,138,255,0.3); margin:0 4px;"></div>
+          
           <div style="display:flex; flex-direction:column; align-items:flex-end; gap:4px;">
             <span class="pill" id="pillStatus" style="font-size:11px; padding:4px 10px;">
               <span id="statusIcon">🟢</span> <span id="statusText">Spremno</span>
@@ -1546,6 +1554,37 @@ document.getElementById('btnPrint').onclick = ()=> window.print();
 window.addEventListener('DOMContentLoaded', ()=>{
   fetchAndRender();
   setInterval(fetchAndRender, AUTO_INTERVAL_MS);
+  
+  // === Ažuriranje trenutnog vremena ===
+  function updateCurrentTime() {
+    const now = new Date();
+    const timeEl = document.getElementById('currentTime');
+    const dateEl = document.getElementById('currentDate');
+    
+    if (timeEl) {
+      timeEl.textContent = now.toLocaleTimeString('sr-RS', {
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit'
+      });
+    }
+    
+    if (dateEl) {
+      const days = ['Ned', 'Pon', 'Uto', 'Sre', 'Čet', 'Pet', 'Sub'];
+      const months = ['Jan', 'Feb', 'Mar', 'Apr', 'Maj', 'Jun', 'Jul', 'Avg', 'Sep', 'Okt', 'Nov', 'Dec'];
+      
+      const dayName = days[now.getDay()];
+      const day = now.getDate();
+      const month = months[now.getMonth()];
+      const year = now.getFullYear();
+      
+      dateEl.textContent = `${dayName}, ${day}. ${month} ${year}`;
+    }
+  }
+  
+  // Ažuriraj odmah i zatim svakih sekund
+  updateCurrentTime();
+  setInterval(updateCurrentTime, 1000);
   
   // === Footer linkovi ===
   const linkScrollTop = document.getElementById('linkScrollTop');
