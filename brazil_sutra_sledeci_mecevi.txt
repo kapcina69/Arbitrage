@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 26.10.
-2:00
+3:00
 23:59
-2:00 - 23:59
+3:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -30,7 +30,6 @@ RAGBI UNIJA
 AMERIČKI FUDBAL
 MMA
 FUTSAL
-BEJZBOL
 ESPORT
 BOKS
 FUDBAL VIRTUAL
@@ -39,78 +38,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-BOLIVIA, Copa Pacena
-35590
-02:00
-Independiente Petrolero
-Bolivar
-659
-1
-3.75
-X
-3.70
-2
-1.74
-0-2
-2.28
-2+
-1.14
-3+
-1.55
-ECUADOR, Liga Pro - Championship Group
-1212
-02:00
-Orense
-U. Catolica
-658
-1
-2.62
-X
-3.05
-2
-2.50
-0-2
-1.70
-2+
-1.31
-3+
-2.02
-USA, MLS - Play Offs
-1057
-02:00
-Inter Miami
-Nashville SC
-841
-1
-1.58
-X
-4.45
-2
-4.65
-0-2
-3.05
-2+
-1.08
-3+
-1.33
-BRAZIL, Serie B
-960
-02:35
-Cuiaba
-Remo
-820
-1
-1.85
-X
-3.20
-2
-4.55
-0-2
-1.60
-2+
-1.39
-3+
-2.25
 COSTA RICA, Primera Division - Apertura
 7902
 03:00
@@ -1613,19 +1540,19 @@ X
 13:00
 Iraklis 1908
 Niki Volos
-656
+655
 1
-2.10
+2.12
 X
-3.10
+3.05
 2
-3.20
+3.25
 0-2
-1.75
+1.67
 2+
-1.29
+1.32
 3+
-1.95
+2.05
 ITALY, Primavera 1
 37822
 13:00
@@ -3083,11 +3010,11 @@ Oberhausen
 Lotte
 832
 1
-1.68
+1.67
 X
 3.55
 2
-4.33
+4.35
 0-2
 2.12
 2+
@@ -3681,11 +3608,11 @@ RKAV Volendam
 Quick Boys
 657
 1
-4.80
+5.00
 X
-4.15
+4.25
 2
-1.52
+1.49
 0-2
 2.60
 2+
@@ -3821,19 +3748,19 @@ X
 15:00
 Udinese
 Lecce
-940
+1012
 1
-1.83
+1.86
 X
-3.45
+3.40
 2
-4.70
+4.60
 0-2
-1.72
+1.70
 2+
-1.37
+1.39
 3+
-2.15
+2.18
 SERBIA, Superliga
 387
 15:00
@@ -3856,37 +3783,37 @@ X
 15:00
 Radnicki 1923
 TSC
-831
+832
 1
-1.88
+1.84
 X
 3.45
 2
-3.75
+3.85
 0-2
-1.95
+1.97
 2+
-1.23
+1.22
 3+
-1.77
+1.75
 BELARUS, Vysshaya Liga
 846
 15:00
 Slavia-Mozyr
 Neman
-826
+822
 1
-2.30
+2.25
 X
-2.85
+2.80
 2
-3.25
+3.45
 0-2
-1.63
+1.55
 2+
-1.35
+1.41
 3+
-2.15
+2.30
 BULGARIA, Vtora Liga
 1007
 15:00
@@ -3928,11 +3855,11 @@ Lok. Gorna
 Minyor Pernik
 650
 1
-1.66
+1.65
 X
 3.35
 2
-4.80
+4.85
 0-2
 1.70
 2+
@@ -4084,7 +4011,7 @@ ITALY, Serie B
 15:00
 Avellino
 Spezia
-915
+956
 1
 2.75
 X
@@ -4101,7 +4028,7 @@ X
 15:00
 Entella
 Pescara
-919
+960
 1
 1.87
 X
@@ -4118,13 +4045,13 @@ X
 15:00
 Monza
 Reggiana
-917
+962
 1
-1.55
+1.57
 X
 3.75
 2
-6.10
+6.00
 0-2
 1.80
 2+
@@ -4453,11 +4380,11 @@ NK Jesenice
 Slovan Ljubljana
 656
 1
-2.95
+3.15
 X
-3.30
+3.40
 2
-2.07
+1.94
 0-2
 2.07
 2+
@@ -4663,7 +4590,7 @@ GERMANY, Bundesliga
 15:30
 Augsburg
 RB Leipzig
-1054
+1037
 1
 3.35
 X
@@ -4697,7 +4624,7 @@ X
 15:30
 Eintracht Frankfurt
 St. Pauli
-1031
+1029
 1
 1.71
 X
@@ -4714,7 +4641,7 @@ X
 15:30
 Hamburger SV
 Wolfsburg
-985
+957
 1
 2.30
 X
@@ -4731,7 +4658,7 @@ X
 15:30
 Hoffenheim
 Heidenheim
-1046
+1048
 1
 1.61
 X
@@ -4960,19 +4887,19 @@ ALGERIA, Ligue 1
 16:00
 El Bayadh
 Oran
-804
+809
 1
-2.55
+2.50
 X
-2.75
-2
-2.80
-0-2
-1.40
-2+
-1.52
-3+
 2.70
+2
+2.90
+0-2
+1.34
+2+
+1.61
+3+
+2.95
 BELGIUM, 1B Pro League
 1051
 16:00
@@ -5645,21 +5572,89 @@ X
 1.14
 3+
 1.51
+37801
+16:00
+FC United
+Bamber Bridge
+832
+1
+1.84
+X
+3.50
+2
+3.85
+0-2
+2.03
+2+
+1.21
+3+
+1.72
+37802
+16:00
+Hyde
+Stocksbridge
+841
+1
+2.05
+X
+3.70
+2
+3.00
+0-2
+2.50
+2+
+1.13
+3+
+1.47
+37803
+16:00
+Ilkeston
+St Ives
+836
+1
+2.10
+X
+3.50
+2
+3.05
+0-2
+2.18
+2+
+1.18
+3+
+1.61
+37804
+16:00
+Leatherhead
+Canvey
+840
+1
+1.85
+X
+3.80
+2
+3.50
+0-2
+2.50
+2+
+1.13
+3+
+1.47
 Odigrani tiketi
-1057
-Inter Miami - Nashville SC
-25.10. 02:00
+927
+Ind. Rivadavia - River Plate
+25.10. 03:10
 KONAČAN ISHOD 
 1
-  1.58  
+  3.85  
 Običan
 Sistem
 Kvota:
-1.58
+3.85
 Uplata:
 20.00 RSD
 Dobitak:
-31.60 RSD
+77.00 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express

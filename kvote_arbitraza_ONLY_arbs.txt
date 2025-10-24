@@ -1,22 +1,3 @@
-17:00   24.10.   [Albania, Superliga]
-Vllaznia  vs  KF Tirana
-
-- BetOle     1=1.35  |  X=4.15  |  2=7.9  |  0-2=1.83  |  3+=1.85
-- Brazil_d   1=1.35  |  X=4.1  |  2=8  |  0-2=1.82  |  2+=1.26  |  3+=1.87
-- Meridian   1=1.34  |  X=3.95  |  2=9.4  |  0-2=1.83  |  3+=1.84  |  GG=2.22  |  GG&3+=2.75  |  GG&4+=4.55
-- Mozzart    1=1.65  |  X=3.6  |  2=5.1  |  0-2=1.85  |  2+=1.28  |  3+=1.85
-- OktagonBet 1=1.35  |  X=4.15  |  2=7.85  |  0-2=1.83  |  3+=1.85  |  GG=2.3  |  GG&3+=2.88  |  4+=3.3
-- Soccer     1=1.37  |  X=4.0  |  2=7.8  |  0-2=1.85  |  2+=1.27  |  3+=1.85  |  GG=2.12  |  IGG=5.5  |  GG&3+=2.5
-
-Najveća 1  : 1.65  [Mozzart]
-Najveća X  : 4.15  [BetOle, OktagonBet]
-Najveća 2  : 9.40  [Meridian]
-Najveća 0-2: 1.85  [Mozzart, Soccer]
-Najveća 3+ : 1.87  [Brazil_d]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9534   profit≈4.66%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0753   profit≈-7.53%
-
 17:00   24.10.   [International, UEFA Nations League Women - League B/C - Relegation]
 Kosovo Wom.  vs  Turkey Wom.
 
@@ -55,44 +36,23 @@ Najveća 3+ : 1.60  [Meridian]
 Arbitraža (1-X-2): DA   inv_sum=0.9987   profit≈0.13%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0172   profit≈-1.72%
 
-20:45   24.10.   [Francuska 1]
-Paris FC  vs  Nantes
-
-- BalkanBet  1=1.67  |  X=4  |  2=5.2  |  0-2=2.06  |  2+=1.28  |  3+=1.8  |  GG=1.8  |  IGG=4.85  |  GG&3+=2.2  |  GG&4+=3.45  |  4+=3.05
-- Brazil_d   1=1.65  |  X=3.85  |  2=5.4  |  0-2=2.08  |  2+=1.25  |  3+=1.77
-- Meridian   1=1.68  |  X=4  |  2=5  |  0-2=2.03  |  3+=1.8  |  GG=1.82  |  GG&3+=2.27  |  GG&4+=3.45
-- Merkur     1=1.6  |  X=4.25  |  2=5.75  |  0-2=2.07  |  3+=1.77  |  GG=1.82  |  IGG=4.95  |  GG&3+=2.25
-- Mozzart    1=1.7  |  X=4  |  2=5  |  0-2=1.9  |  2+=1.27  |  3+=1.8
-- OktagonBet 1=1.65  |  X=3.85  |  2=5.35  |  0-2=2.08  |  3+=1.76  |  GG=1.82  |  GG&3+=2.25  |  4+=2.95
-- Soccer     1=1.65  |  X=4.1  |  2=5.25  |  0-2=2.05  |  2+=1.26  |  3+=1.78  |  GG=1.75  |  IGG=4.65  |  GG&3+=2.2
-- Topbet     1=1.65  |  X=4  |  2=5.25
-
-Najveća 1  : 1.70  [Mozzart]
-Najveća X  : 4.25  [Merkur]
-Najveća 2  : 5.75  [Merkur]
-Najveća 0-2: 2.08  [Brazil_d, OktagonBet]
-Najveća 3+ : 1.80  [BalkanBet, Meridian, Mozzart]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9974   profit≈0.26%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0363   profit≈-3.63%
-
 16:00   25.10.   [Engleska 1]
 Chelsea  vs  Sunderland
 
 - BalkanBet  1=1.45  |  X=5  |  2=7  |  0-2=2.15  |  2+=1.25  |  3+=1.73  |  GG=1.9  |  IGG=5.2  |  GG&3+=2.2  |  GG&4+=3.35  |  4+=2.85
 - Brazil_s   1=1.4  |  X=4.7  |  2=8.25  |  0-2=2.15  |  2+=1.23  |  3+=1.72
-- Meridian   1=1.39  |  X=5  |  2=8.2  |  0-2=2.05  |  3+=1.75  |  GG=2.08  |  GG&3+=2.55  |  GG&4+=3.8
+- Meridian   1=1.4  |  X=5  |  2=8  |  0-2=2.05  |  3+=1.75  |  GG=2.1  |  GG&3+=2.55  |  GG&4+=3.8
 - Merkur     1=1.4  |  X=5  |  2=8.25  |  0-2=2.15  |  3+=1.73  |  GG=2  |  IGG=5.3  |  GG&3+=2.42
 - Mozzart    1=1.45  |  X=4.4  |  2=7.25  |  0-2=2.03  |  2+=1.22  |  3+=1.7
 - OktagonBet 1=1.4  |  X=4.75  |  2=8.15  |  0-2=2.15  |  3+=1.7  |  GG=2.04  |  GG&3+=2.45  |  4+=2.8
-- Soccer     1=1.4  |  X=4.6  |  2=8.7  |  0-2=2.1  |  2+=1.24  |  3+=1.75  |  GG=1.9  |  IGG=5.1  |  GG&3+=2.32
+- Soccer     1=1.42  |  X=4.9  |  2=7.6  |  0-2=2.12  |  2+=1.24  |  3+=1.72  |  GG=1.92  |  IGG=5.05  |  GG&3+=2.35
 - Topbet     1=1.38  |  X=5  |  2=9.25
 
 Najveća 1  : 1.45  [BalkanBet, Mozzart]
 Najveća X  : 5.00  [BalkanBet, Meridian, Merkur, Topbet]
 Najveća 2  : 9.25  [Topbet]
 Najveća 0-2: 2.15  [BalkanBet, Brazil_s, Merkur, OktagonBet]
-Najveća 3+ : 1.75  [Meridian, Soccer]
+Najveća 3+ : 1.75  [Meridian]
 
 Arbitraža (1-X-2): DA   inv_sum=0.9978   profit≈0.22%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0365   profit≈-3.65%
@@ -154,28 +114,28 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.1007   profit≈-10.07%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1932
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1405
-Grupa sa veličinom ≥3: 1120
-Grupa sa veličinom ≥4: 916
-Grupa sa veličinom ≥5: 714
-Grupa sa veličinom ≥6: 562
-Grupa sa veličinom ≥7: 348
+Ukupno mečeva (grupa): 1902
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1347
+Grupa sa veličinom ≥3: 1106
+Grupa sa veličinom ≥4: 908
+Grupa sa veličinom ≥5: 673
+Grupa sa veličinom ≥6: 480
+Grupa sa veličinom ≥7: 301
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  841   spojeno (u grupama >1):  800
+  - BalkanBet  ukupno zapisa:  839   spojeno (u grupama >1):  796
   - BetOle     ukupno zapisa:  305   spojeno (u grupama >1):  305
-  - Brazil_d   ukupno zapisa:  305   spojeno (u grupama >1):  301
-  - Brazil_p   ukupno zapisa:  357   spojeno (u grupama >1):  308
+  - Brazil_d   ukupno zapisa:  301   spojeno (u grupama >1):  297
+  - Brazil_p   ukupno zapisa:  347   spojeno (u grupama >1):  298
   - Brazil_s   ukupno zapisa:  317   spojeno (u grupama >1):  316
-  - Meridian   ukupno zapisa: 1321   spojeno (u grupama >1):  969
-  - Merkur     ukupno zapisa:  829   spojeno (u grupama >1):  817
-  - Mozzart    ukupno zapisa:  387   spojeno (u grupama >1):  364
-  - OktagonBet ukupno zapisa: 1034   spojeno (u grupama >1): 1013
+  - Meridian   ukupno zapisa: 1046   spojeno (u grupama >1):  728
+  - Merkur     ukupno zapisa:  827   spojeno (u grupama >1):  815
+  - Mozzart    ukupno zapisa:  402   spojeno (u grupama >1):  369
+  - OktagonBet ukupno zapisa: 1034   spojeno (u grupama >1):  965
   - Soccer     ukupno zapisa:  650   spojeno (u grupama >1):  647
-  - Topbet     ukupno zapisa:  834   spojeno (u grupama >1):  813
+  - Topbet     ukupno zapisa:  832   spojeno (u grupama >1):  809
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 8
+  - 1-X-2: 6
   - 0-2 / 3+: 1
-  - Barem jedna arbitraža: 8
+  - Barem jedna arbitraža: 6

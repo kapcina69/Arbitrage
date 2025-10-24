@@ -1,0 +1,34 @@
+name: Run all scripts periodically
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # svakih 30 minuta
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340  # 5h 40min, da se ne prekine pre vremena
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run main loop
+        run: python run_all.py
+
+      - name: Commit & push new results
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "auto: run_all update $(date '+%Y-%m-%d %H:%M')" || echo "No changes"
+          git push

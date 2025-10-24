@@ -16,16 +16,15 @@ Bonus tip
 Danas
 Sutra
 26.10.
-2:00
+3:00
 23:59
-2:00 - 23:59
+3:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
 KOŠARKA IGRAČI
 TENIS
 HOKEJ
-SPECIJAL HOKEJ
 RUKOMET
 ODBOJKA
 STONI TENIS
@@ -36,7 +35,6 @@ PIKADO
 BEJZBOL
 ESPORT
 BADMINTON
-BOKS
 FUDBAL VIRTUAL
 TENIS VIRTUAL
 POBEDNICI
@@ -44,42 +42,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-MEXICO, Liga de Expansion MX - Apertura
-148
-03:00
-Venados
-Tampico Madero
-834
-1
-3.00
-X
-3.40
-2
-2.18
-0-2
-2.10
-2+
-1.19
-3+
-1.66
-PERU, Liga 1 - Clausura
-136
-03:00
-Sporting Cristal
-U. de Deportes
-825
-1
-3.20
-X
-2.95
-2
-2.30
-0-2
-1.60
-2+
-1.38
-3+
-2.22
 WORLD, CONCACAF Central American Cup - Play Offs
 33085
 04:00
@@ -197,15 +159,15 @@ Fakirerpool YMC
 1
 1.36
 X
-4.80
+4.75
 2
-6.00
+6.10
 0-2
-2.85
+2.70
 2+
-1.08
+1.09
 3+
-1.36
+1.40
 35518
 10:45
 Rahmatgonj MFS
@@ -281,11 +243,11 @@ Kairat Almaty 2
 SD Family
 657
 1
-1.44
+1.42
 X
-4.65
+4.75
 2
-4.95
+5.20
 0-2
 3.55
 2+
@@ -298,17 +260,17 @@ Zhetisay
 Taraz
 658
 1
-1.76
+1.80
 X
-3.75
+3.80
 2
-3.60
+3.40
 0-2
-2.50
+2.55
 2+
 1.10
 3+
-1.43
+1.41
 VIETNAM, V.League 2
 37830
 11:00
@@ -583,17 +545,17 @@ Meizhou Hakka
 Yunnan Yukun
 840
 1
-1.77
+1.74
 X
-3.85
+3.90
 2
-3.80
+3.90
 0-2
-2.50
+2.55
 2+
-1.13
+1.12
 3+
-1.46
+1.45
 479
 13:35
 Wuhan Three Towns
@@ -705,19 +667,19 @@ CYPRUS, Division 2
 14:00
 APEA Akrotiriou
 M.E.A.P. Nisou
-658
+657
 1
-2.40
+2.45
 X
-3.30
+3.15
 2
-2.55
+2.62
 0-2
-2.15
+1.93
 2+
-1.18
+1.23
 3+
-1.61
+1.77
 ETHIOPIA, Premier League
 37847
 14:00
@@ -935,15 +897,15 @@ TURKEY, TFF 1. Lig
 14:00
 Erzurumspor
 Umraniyespor
-813
+815
 1
-1.30
+1.32
 X
-4.50
+4.40
 2
-10.5
+9.75
 0-2
-1.83
+1.82
 2+
 1.27
 3+
@@ -1237,19 +1199,19 @@ BURUNDI, Primus League
 15:00
 Bumamuru
 Aigle Noir
-102
+103
 1
-2.35
+2.40
 X
-3.20
+3.00
 2
-2.75
+2.80
 0-2
-1.90
+1.63
 2+
-1.24
+1.34
 3+
-1.82
+2.12
 CROATIA, Prva NL
 33074
 15:00
@@ -1274,17 +1236,17 @@ Orijent
 Dugopolje
 645
 1
-1.66
+1.58
 X
-3.20
+3.40
 2
-5.10
+5.45
 0-2
-1.49
+1.55
 2+
-1.41
+1.35
 3+
-2.35
+2.18
 33076
 15:00
 Sesvete
@@ -1360,83 +1322,83 @@ ISRAEL, Leumit League
 15:00
 H. Ironi Rishon
 Hap. Ramat Gan
-825
+826
 1
-1.99
-X
-3.10
-2
-3.50
-0-2
-1.68
-2+
-1.32
-3+
-2.05
-906
-15:00
-Nof Hagalil
-H. Akko
-820
-1
-2.88
-X
-2.95
-2
-2.35
-0-2
-1.60
-2+
-1.35
-3+
-2.15
-32996
-15:00
-H. Raanana
-Maccabi Jaffa
-832
-1
-2.35
+2.45
 X
 3.05
 2
-2.75
+2.65
 0-2
 1.75
 2+
 1.29
 3+
 1.95
+906
+15:00
+Nof Hagalil
+H. Akko
+830
+1
+2.90
+X
+3.05
+2
+2.30
+0-2
+1.70
+2+
+1.31
+3+
+2.02
+32996
+15:00
+H. Raanana
+Maccabi Jaffa
+833
+1
+2.45
+X
+3.10
+2
+2.65
+0-2
+1.75
+2+
+1.28
+3+
+1.92
 32997
 15:00
 Hapoel Afula
 Maccabi Petah Tikva
-823
+817
 1
-5.90
+9.50
 X
-3.90
+5.00
 2
-1.47
+1.25
 0-2
-2.00
+2.25
 2+
-1.21
+1.16
 3+
-1.72
+1.56
 32998
 15:00
 Hapoel Kfar Shalem
 Hapoel Kfar Saba
-826
+832
 1
-1.83
+2.12
 X
-3.30
+3.15
 2
-3.80
+3.10
 0-2
-1.82
+1.83
 2+
 1.26
 3+
@@ -1445,53 +1407,53 @@ X
 15:00
 Ironi Modiin
 Bnei Yehuda
-831
+832
 1
-3.15
+2.75
 X
 3.15
 2
-2.10
+2.35
 0-2
-1.85
+1.83
 2+
 1.26
 3+
-1.85
+1.87
 33000
 15:00
 M.Herzliya
 MS Kafr Qasim
-820
+831
 1
-2.10
+2.45
 X
 3.05
 2
-3.30
+2.70
 0-2
-1.68
+1.72
 2+
-1.32
+1.30
 3+
-2.04
+1.99
 33001
 15:00
 SC Kiryat Yam
 Hapoel Hadera
-829
+826
 1
-1.98
+1.82
 X
-3.25
+3.30
 2
-3.35
+3.90
 0-2
-1.85
+1.80
 2+
 1.26
 3+
-1.85
+1.87
 ITALY, Primavera 2
 37831
 15:00
@@ -1675,19 +1637,19 @@ WORLD, CAF Champions League - Qualification
 15:00
 Power Dynamos
 Vipers
-824
+815
 1
-1.84
-X
-3.15
-2
-3.95
-0-2
-1.63
-2+
-1.34
-3+
 2.12
+X
+2.90
+2
+3.40
+0-2
+1.50
+2+
+1.42
+3+
+2.38
 WORLD, Friendly Women
 35449
 15:00
@@ -2015,13 +1977,13 @@ X
 17:00
 Vllaznia
 KF Tirana
-647
+648
 1
-1.35
+1.33
 X
-4.10
+4.15
 2
-8.00
+8.50
 0-2
 1.82
 2+
@@ -2159,55 +2121,55 @@ IRAQ, Stars League
 17:00
 Erbil
 Al Shorta
-632
+649
 1
-7.50
+6.30
 X
-4.15
+3.95
 2
-1.37
+1.44
 0-2
-1.90
+1.95
 2+
-1.23
+1.22
 3+
-1.79
+1.77
 LATVIA, Virsliga
 31191
 17:00
 Riga FC
 Tukums 2000
-789
+791
 1
-1.04
+1.06
 X
-9.00
+8.50
 2
-24.0
+21.0
 0-2
-3.00
+3.10
 2+
-1.07
+1.06
 3+
-1.33
+1.30
 LITHUANIA, 1 Lyga
 1042
 17:00
 BE1 NFA
 FK Panevezys 2
-657
+653
 1
-1.65
+1.66
 X
-3.85
+3.70
 2
-4.10
+4.25
 0-2
-2.35
+2.10
 2+
-1.12
+1.16
 3+
-1.48
+1.61
 33014
 17:00
 Nevezis Kedainiai
@@ -2320,13 +2282,13 @@ WORLD, Africa Cup of Nations Women - Qualification
 17:00
 Benin Wom.
 Nigeria Wom.
-631
+629
 1
-21.0
+24.0
 X
-9.75
+10.5
 2
-1.05
+1.04
 0-2
 4.10
 2+
@@ -2780,11 +2742,11 @@ Hlucin
 Brno B
 660
 1
-2.80
+2.85
 X
-3.50
+3.55
 2
-2.05
+2.04
 0-2
 2.45
 2+
@@ -3773,13 +3735,13 @@ WORLD, CAF Confederation Cup - Qualification
 19:00
 CR Belouizdad
 Hafia
-814
+811
 1
-1.39
+1.28
 X
-3.80
+4.25
 2
-7.70
+11.0
 0-2
 1.67
 2+
@@ -4915,7 +4877,7 @@ ITALY, Serie A
 20:45
 AC Milan
 Pisa
-1035
+1033
 1
 1.32
 X
@@ -5130,9 +5092,9 @@ Llanelli
 TNS
 54
 1
-35.0
+33.0
 X
-16.0
+15.0
 2
 -
 0-2
@@ -5164,7 +5126,7 @@ SPAIN, LaLiga
 21:00
 Real Sociedad
 Sevilla
-1037
+1050
 1
 2.00
 X
@@ -5466,24 +5428,7 @@ X
 3+
 2.12
 Odigrani tiketi
-33085
-Alajuelense - CD Olimpia
-24.10. 04:00
-KONAČAN ISHOD 
-1
-  1.85  
-Običan
-Sistem
-Kvota:
-1.85
-Uplata:
-20.00 RSD
-Dobitak:
-37.00 RSD
-Prihvatam sve promene kvota.
-FREEBET
-Express
-Prijavi se
+Klikni na kvotu i pokreni
 Srpski
 O nama
 Odgovorno klađenje

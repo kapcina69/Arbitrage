@@ -1,83 +1,23 @@
 ======================================================================
-02:00  [ECUADOR, Liga Pro - Placement Group]
-Dep. Cuenca  vs  Aucas   (ID: 653)
-1=2.1   X=3.05   2=3.25
-0-2=1.6   2+=1.36   3+=2.18
-GG=-   IGG=-   GG&3+=-
-======================================================================
-02:00  [ECUADOR, Liga Pro - Placement Group]
-FAS  vs  Alianza FC   (ID: 817)
-1=2.35   X=2.95   2=2.88
-0-2=1.6   2+=1.34   3+=2.12
-GG=-   IGG=-   GG&3+=-
-======================================================================
-02:00  [MEXICO, Liga MX - Apertura]
-Club Leon  vs  U.N.A.M.- Pumas   (ID: 835)
-1=2.5   X=3.3   2=2.7
-0-2=1.9   2+=1.25   3+=1.82
-GG=-   IGG=-   GG&3+=-
-======================================================================
-02:00  [MEXICO, Liga de Expansion MX - Apertura]
-Cancun  vs  Correcaminos   (ID: 831)
-1=1.42   X=4.35   2=6.3
-0-2=2.3   2+=1.16   3+=1.56
-GG=-   IGG=-   GG&3+=-
-======================================================================
-02:00  [MEXICO, Liga de Expansion MX - Apertura]
-Zacatecas Mineros  vs  Atlante   (ID: 832)
-1=2.65   X=3.15   2=2.55
-0-2=1.75   2+=1.3   3+=1.97
-GG=-   IGG=-   GG&3+=-
-======================================================================
-02:00  [MEXICO, Liga de Expansion MX - Apertura]
-FC Tulsa  vs  Colorado Springs   (ID: 656)
-1=2.08   X=3.15   2=3.2
-0-2=1.8   2+=1.26   3+=1.87
-GG=-   IGG=-   GG&3+=-
-======================================================================
-02:30  [MEXICO, Liga de Expansion MX - Apertura]
-Sao Paulo  vs  Bahia   (ID: 969)
-1=1.88   X=3.25   2=4.3
-0-2=1.57   2+=1.4   3+=2.28
-GG=-   IGG=-   GG&3+=-
-======================================================================
-02:30  [COLOMBIA, Primera A - Clausura]
-Deportes Tolima  vs  Dep. Cali   (ID: 824)
-1=1.82   X=3.25   2=4.3
-0-2=1.63   2+=1.36   3+=2.15
-GG=-   IGG=-   GG&3+=-
-======================================================================
-02:30  [COLOMBIA, Primera A - Clausura]
-Metapan  vs  Cacahuatique   (ID: 813)
-1=1.74   X=3.15   2=4.55
-0-2=1.49   2+=1.41   3+=2.35
-GG=-   IGG=-   GG&3+=-
-======================================================================
-02:30  [COLOMBIA, Primera A - Clausura]
-San Antonio  vs  EL Paso   (ID: 657)
-1=2.15   X=3.3   2=2.9
-0-2=2   2+=1.2   3+=1.7
-GG=-   IGG=-   GG&3+=-
-======================================================================
-03:00  [COLOMBIA, Primera A - Clausura]
+03:00
 Wellington Phoenix  vs  Brisbane Roar   (ID: 834)
 1=2.85   X=3.35   2=2.4
 0-2=2.02   2+=1.22   3+=1.72
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-03:00  [COLOMBIA, Primera A - Clausura]
+03:00
 Broadmeadow  vs  South Melbourne   (ID: 837)
 1=4.3   X=4.2   2=1.57
 0-2=2.6   2+=1.11   3+=1.42
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-03:00  [COLOMBIA, Primera A - Clausura]
+03:00
 Moreton City Excelsior  vs  Sydney Olympic   (ID: 842)
 1=2.38   X=3.7   2=2.38
 0-2=2.85   2+=1.08   3+=1.35
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-03:00  [COLOMBIA, Primera A - Clausura]
+03:00
 Heidelberg Utd  vs  South Hobart   (ID: 57)
 1=1.05   X=9.25   2=21
 0-2=3.9   2+=1.03   3+=1.2
@@ -397,7 +337,7 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 11:00  [MEXICO, Liga MX - Apertura]
 Zhenis  vs  Kaisar Kyzylorda   (ID: 824)
-1=1.9   X=3.2   2=3.7
+1=1.95   X=3.15   2=3.55
 0-2=1.63   2+=1.34   3+=2.12
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -600,7 +540,7 @@ Twente  vs  Ajax   (ID: 934)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 12:30  [POLAND, III Liga - Group I]
-Torino  vs  Genoa   (ID: 1020)
+Torino  vs  Genoa   (ID: 1027)
 1=2.3   X=2.85   2=3.75
 0-2=1.47   2+=1.56   3+=2.7
 GG=-   IGG=-   GG&3+=-
@@ -810,7 +750,7 @@ Dibba Al Fujairah  vs  Al Wasl   (ID: 653)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:00  [POLAND, III Liga - Group III]
-Mallorca  vs  Levante   (ID: 957)
+Mallorca  vs  Levante   (ID: 944)
 1=2.2   X=3.15   2=3.55
 0-2=1.75   2+=1.37   3+=2.12
 GG=-   IGG=-   GG&3+=-
@@ -1080,7 +1020,7 @@ Arsenal  vs  Crystal Palace   (ID: 1021)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:00  [ITALY, Serie C - Group C]
-Aston Villa  vs  Manchester City   (ID: 1023)
+Aston Villa  vs  Manchester City   (ID: 1031)
 1=4.1   X=3.6   2=1.91
 0-2=2.12   2+=1.24   3+=1.74
 GG=-   IGG=-   GG&3+=-
@@ -1092,8 +1032,8 @@ Bournemouth  vs  Nottingham   (ID: 1030)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:00  [ITALY, Serie C - Group C]
-Wolves  vs  Burnley   (ID: 965)
-1=2   X=3.25   2=4.15
+Wolves  vs  Burnley   (ID: 978)
+1=2   X=3.2   2=4.15
 0-2=1.63   2+=1.42   3+=2.3
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -1104,9 +1044,9 @@ Sassuolo  vs  AS Roma   (ID: 940)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:00  [ITALY, Serie C - Group C]
-Verona  vs  Cagliari   (ID: 1015)
+Verona  vs  Cagliari   (ID: 1011)
 1=2.3   X=2.95   2=3.6
-0-2=1.58   2+=1.46   3+=2.4
+0-2=1.6   2+=1.45   3+=2.38
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:00  [ITALY, Serie C - Group C]
@@ -1200,7 +1140,7 @@ Maldonado  vs  La Luz   (ID: 653)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:30  [ICELAND, Besta-deild karla - Championship Group]
-Bayer Leverkusen  vs  Freiburg   (ID: 1027)
+Bayer Leverkusen  vs  Freiburg   (ID: 1031)
 1=1.79   X=3.8   2=4.4
 0-2=2.12   2+=1.24   3+=1.74
 GG=-   IGG=-   GG&3+=-
@@ -1398,8 +1338,8 @@ Norrby  vs  IFK Skovde   (ID: 650)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 16:15  [FINLAND, Veikkausliiga - Championship Group]
-Real Madrid  vs  Barcelona   (ID: 1021)
-1=2.05   X=4.1   2=3.15
+Real Madrid  vs  Barcelona   (ID: 1017)
+1=2.03   X=4.1   2=3.2
 0-2=3.6   2+=1.08   3+=1.3
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -1548,9 +1488,9 @@ Sandefjord  vs  Fredrikstad   (ID: 837)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 17:00  [FINLAND, Veikkausliiga - Championship Group]
-Sporting Cristal  vs  Los Chankas   (ID: 806)
-1=1.13   X=6.9   2=17
-0-2=2.38   2+=1.14   3+=1.51
+Sporting Cristal  vs  Los Chankas   (ID: 809)
+1=1.15   X=6.75   2=14
+0-2=2.6   2+=1.11   3+=1.43
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 17:00  [FINLAND, Veikkausliiga - Championship Group]
@@ -1632,13 +1572,13 @@ Zalgiris  vs  Siauliai FA   (ID: 832)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 17:30  [FINLAND, Veikkausliiga - Championship Group]
-Everton  vs  Tottenham   (ID: 1034)
+Everton  vs  Tottenham   (ID: 1036)
 1=2.4   X=3.15   2=3.15
 0-2=1.82   2+=1.33   3+=2.02
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 17:30  [FINLAND, Veikkausliiga - Championship Group]
-Stuttgart  vs  Mainz   (ID: 1050)
+Stuttgart  vs  Mainz   (ID: 956)
 1=1.76   X=3.8   2=4.55
 0-2=2.4   2+=1.18   3+=1.56
 GG=-   IGG=-   GG&3+=-
@@ -1777,8 +1717,8 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:15  [COSTA RICA, Primera Division - Apertura]
 Cailungo  vs  San Giovanni   (ID: 657)
-1=3.2   X=3.45   2=1.9
-0-2=2.02   2+=1.18   3+=1.66
+1=3.15   X=3.45   2=1.92
+0-2=2   2+=1.18   3+=1.66
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:15  [COSTA RICA, Primera Division - Apertura]
@@ -1848,9 +1788,9 @@ Forge  vs  Atl. Ottawa   (ID: 657)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 19:00  [CANADA, Canadian Premier League - Play Offs]
-Cobreloa  vs  S. Wanderers   (ID: 828)
-1=1.99   X=3.25   2=3.3
-0-2=1.87   2+=1.24   3+=1.82
+Cobreloa  vs  S. Wanderers   (ID: 830)
+1=2.08   X=3.2   2=3.15
+0-2=1.85   2+=1.25   3+=1.84
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 19:00  [ECUADOR, Liga Pro - Relegation Group]
@@ -1956,9 +1896,9 @@ Olympiacos Piraeus  vs  AEK Athens FC   (ID: 829)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:00  [ECUADOR, Liga Pro - Relegation Group]
-Malagueno  vs  Aguilas FC   (ID: 648)
-1=3.3   X=2.85   2=2.2
-0-2=1.42   2+=1.47   3+=2.5
+Malagueno  vs  Aguilas FC   (ID: 651)
+1=3.3   X=2.88   2=2.18
+0-2=1.46   2+=1.43   3+=2.4
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:00  [URUGUAY, Liga AUF Uruguaya - Clausura]
@@ -1998,7 +1938,7 @@ Titanes  vs  Miranda   (ID: 656)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:45  [ITALY, Serie C - Group C]
-Lazio  vs  Juventus   (ID: 1011)
+Lazio  vs  Juventus   (ID: 1032)
 1=3.45   X=2.95   2=2.35
 0-2=1.63   2+=1.43   3+=2.3
 GG=-   IGG=-   GG&3+=-
@@ -2010,7 +1950,7 @@ Lyon  vs  Strasbourg   (ID: 945)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:00  [ITALY, Serie C - Group C]
-Rayo Vallecano  vs  Alaves   (ID: 991)
+Rayo Vallecano  vs  Alaves   (ID: 987)
 1=2.2   X=3   2=3.8
 0-2=1.5   2+=1.52   3+=2.55
 GG=-   IGG=-   GG&3+=-
@@ -2055,12 +1995,6 @@ GG=-   IGG=-   GG&3+=-
 Olimpia Asuncion  vs  Guarani Asuncion   (ID: 832)
 1=2.22   X=3.2   2=3.1
 0-2=1.82   2+=1.27   3+=1.87
-GG=-   IGG=-   GG&3+=-
-======================================================================
-21:30  [PARAGUAY, Copa de Primera - Clausura]
-AD Tarma  vs  U. de Deportes   (ID: 820)
-1=2.3   X=2.95   2=3.15
-0-2=1.53   2+=1.42   3+=2.3
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:30  [PARAGUAY, Copa de Primera - Clausura]
