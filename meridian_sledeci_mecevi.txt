@@ -9,7 +9,7 @@ BONUS ON DEPOSIT
 DONATIONS
 HELP
 USEFUL LINKS
-01:47 GMT+2
+02:55 GMT+2
 Home
 Live
 Sport
@@ -35,7 +35,7 @@ MISSIONS
 LOG IN TO SEE DETAILS OF YOUR CURRENT LEVEL
 SPORTS
 FOOTBALL
-1993
+1994
 ENGLISH
 PREMIER LEAGUE
 22
@@ -88,6 +88,8 @@ SOUTH AMERICAN
 TOTAL GOALS
 ALBANIAN
 ALGERIAN
+ANDORRA
+ANGOLA
 ARGENTINE
 ARMENIAN
 AUSTRALIAN
@@ -179,13 +181,13 @@ VENEZUELAN
 VIETNAMESE
 WELSH
 BASKETBALL
-164
+163
 TENNIS
-158
+150
 E FOOTBALL
 4
 TABLE TENNIS
-191
+190
 VOLLEYBALL
 37
 HANDBALL
@@ -193,7 +195,7 @@ HANDBALL
 ICE HOCKEY
 272
 AMERICAN FOOTBALL
-110
+107
 BASEBALL
 11
 RUGBY UNION
@@ -201,9 +203,9 @@ RUGBY UNION
 RUGBY LEAGUE
 8
 CRICKET
-15
+17
 COUNTER-STRIKE
-56
+54
 DOTA
 10
 LEAGUE OF LEGENDS
@@ -213,11 +215,11 @@ VALORANT
 MOBILE LEGENDS
 9
 OVERWATCH 2
-7
+6
 AUSSIE RULES
 11
 FUTSAL
-10
+8
 FLOORBALL
 39
 SNOOKER
@@ -227,13 +229,13 @@ CHESS
 BADMINTON
 31
 BEACH VOLLEYBALL
-6
+7
 SQUASH
 2
 WATER POLO
 6
 DARTS
-29
+37
 NETBALL
 1
 KABADDI
@@ -251,19 +253,19 @@ BIATHLON
 CYCLING
 5
 BOXING
-97
+93
 MARTIAL ARTS
 73
 FORMULA 1
 4
 MOTOR SPORT
-6
+7
 NASCAR
 6
 POLITICS
 1
 SPECIAL
-2
+3
 BETTING
 FOOTBALL
 Sort By
@@ -326,13 +328,13 @@ Union Saint-Gilloise
 1.29
 5.60
 9.40
-2.48
+2.50
 2.5
-1.52
-1.93
-2.24
-3.10
-+1720
+1.51
+1.91
+2.21
+3.00
++1719
 21:00
 04.11
 Olympiacos Piraeus
@@ -346,7 +348,7 @@ PSV Eindhoven
 1.59
 1.95
 2.93
-+1242
++1312
 21:00
 04.11
 Tottenham Hotspur
@@ -711,13 +713,13 @@ Fulham FC
 Tomorrow
 Chelsea FC
 Sunderland AFC
-1.39
+1.40
 5.00
-8.20
+8.00
 2.05
 2.5
 1.75
-2.08
+2.10
 2.55
 3.80
 +2965
@@ -733,15 +735,15 @@ Brighton & Hove Albion
 1.60
 1.57
 1.88
-2.74
+2.75
 +3132
 21:00
 Tomorrow
 Brentford FC
 Liverpool FC
-4.40
+4.50
 4.30
-1.72
+1.71
 2.41
 2.5
 1.55
@@ -762,7 +764,7 @@ Manchester City
 1.69
 2.08
 3.10
-+3032
++3037
 15:00
 26.10
 AFC Bournemouth
@@ -790,7 +792,7 @@ Burnley FC
 2.07
 2.85
 4.95
-+2977
++2978
 15:00
 26.10
 Arsenal FC
@@ -860,7 +862,7 @@ Brentford FC
 1.76
 2.21
 3.40
-+1355
++1445
 16:00
 01.11
 Brighton & Hove Albion
@@ -1057,7 +1059,7 @@ Wrexham AFC
 1.91
 2.47
 4.00
-+2023
++2024
 16:00
 Tomorrow
 Millwall FC
@@ -1127,7 +1129,7 @@ Charlton Athletic
 1.84
 2.43
 4.00
-+2036
++2020
 English - League One
 13:30
 Tomorrow
@@ -1559,8 +1561,8 @@ Stocksbridge Park Steels FC
 Tomorrow
 Billericay Town
 Bishop's Stortford
-1.86
-3.45
+1.89
+3.35
 3.55
 +6
 16:00
@@ -1777,9 +1779,9 @@ Spanish - La Liga
 Today
 Real Sociedad San Sebastian
 Sevilla FC
-1.99
+2.01
 3.50
-3.95
+3.90
 1.80
 2.5
 2.02
@@ -1799,7 +1801,7 @@ Real Oviedo
 2.08
 1.99
 2.65
-4.40
+4.35
 +2853
 16:15
 Tomorrow
@@ -1912,7 +1914,7 @@ Atletico Madrid
 1.71
 2.15
 3.35
-+3027
++3025
 21:00
 31.10
 Getafe CF
@@ -1947,11 +1949,11 @@ Atletico Madrid
 Sevilla FC
 1.36
 4.90
-8.00
+8.20
 2.12
 2.5
 1.70
-2.04
+2.05
 2.47
 3.60
 +1231
@@ -1980,9 +1982,9 @@ Valencia CF
 2.5
 1.40
 1.88
-2.10
-2.77
-+1309
+2.11
+2.78
++1350
 14:00
 02.11
 Levante UD
@@ -2179,7 +2181,7 @@ CD Castellon
 1.56
 1.90
 2.78
-+1944
++1945
 18:30
 26.10
 Sporting Gijon
@@ -2193,7 +2195,7 @@ Real Zaragoza
 1.89
 2.50
 4.10
-+1923
++1930
 21:00
 26.10
 RC Deportivo La Coruna
@@ -2222,7 +2224,7 @@ Union Berlin
 1.68
 2.10
 3.20
-+2786
++2800
 15:30
 Tomorrow
 FC Augsburg
@@ -2236,7 +2238,7 @@ RB Leipzig
 1.50
 1.75
 2.46
-+2814
++2818
 15:30
 Tomorrow
 Eintracht Frankfurt
@@ -2244,18 +2246,18 @@ FC St. Pauli
 1.70
 4.20
 4.60
-2.31
+2.32
 2.5
 1.59
-1.65
-1.96
-2.84
+1.64
+1.95
+2.83
 +2681
 15:30
 Tomorrow
 Hamburger SV
 VfL Wolfsburg
-2.39
+2.40
 3.65
 2.85
 2.20
@@ -2302,10 +2304,10 @@ Borussia Dortmund
 6.60
 2.80
 2.5
-1.42
-1.63
+1.43
+1.64
 1.86
-2.50
+2.51
 +2752
 15:30
 26.10
@@ -2347,7 +2349,7 @@ Borussia Dortmund
 1.57
 1.58
 1.87
-2.70
+2.69
 +1773
 15:30
 01.11
@@ -2708,12 +2710,12 @@ VfB Stuttgart
 2.65
 3.45
 2.20
-2.19
+2.22
 2.5
-1.58
-1.52
-1.82
-2.76
+1.56
+1.51
+1.80
+2.70
 +1168
 18:00
 29.10
@@ -2824,7 +2826,7 @@ Pisa SC
 2.16
 2.5
 1.70
-2.24
+2.23
 2.70
 3.90
 +2845
@@ -2835,12 +2837,12 @@ US Lecce
 1.80
 3.60
 4.80
-1.66
+1.65
 2.5
-2.19
-2.11
+2.20
+2.12
 2.85
-4.80
+4.85
 +2869
 15:00
 Tomorrow
@@ -2855,7 +2857,7 @@ Como 1907
 1.88
 2.45
 4.00
-+2781
++2782
 18:00
 Tomorrow
 SSC Napoli
@@ -2869,7 +2871,7 @@ Inter Milano
 1.86
 2.50
 4.20
-+2895
++2891
 20:45
 Tomorrow
 US Cremonese
@@ -2883,7 +2885,7 @@ Atalanta BC
 1.91
 2.40
 3.70
-+2724
++2725
 12:30
 26.10
 Torino FC
@@ -2904,7 +2906,7 @@ Sassuolo Calcio
 AS Roma
 4.30
 3.60
-1.89
+1.88
 1.71
 2.5
 2.10
@@ -2925,7 +2927,7 @@ Cagliari Calcio
 2.10
 3.00
 5.45
-+2635
++2659
 18:00
 26.10
 ACF Fiorentina
@@ -2939,7 +2941,7 @@ Bologna FC
 1.99
 2.75
 4.85
-+2871
++2873
 20:45
 26.10
 Lazio Rome
@@ -3122,7 +3124,7 @@ Spezia Calcio
 2.03
 2.90
 5.35
-+2065
++2054
 15:00
 Tomorrow
 Sampdoria Genoa
@@ -3178,7 +3180,7 @@ Cesena FC
 1.91
 2.65
 4.65
-+1913
++2009
 17:15
 Tomorrow
 Carrarese Calcio
@@ -3192,7 +3194,7 @@ Venezia FC
 1.84
 2.49
 4.20
-+2038
++2037
 19:30
 Tomorrow
 US Catanzaro
@@ -3206,7 +3208,7 @@ Palermo FC
 1.88
 2.55
 4.35
-+1999
++1994
 15:00
 26.10
 Calcio Padova
@@ -3435,23 +3437,23 @@ FC Nantes
 2.03
 2.5
 1.80
-1.83
-2.28
+1.82
+2.27
 3.45
 +1907
 17:00
 Tomorrow
 Stade Brest 29
 Paris Saint-Germain
-8.40
+8.20
 5.60
-1.34
+1.35
 2.55
 2.5
 1.50
-1.84
-2.13
-2.93
+1.82
+2.10
+2.90
 +2614
 19:00
 Tomorrow
@@ -3555,16 +3557,16 @@ Strasbourg Alsace
 29.10
 FC Lorient
 Paris Saint-Germain
-7.40
+7.80
 5.40
-1.39
+1.37
 2.55
 2.5
 1.50
-1.80
-2.08
-2.87
-+1708
+1.76
+2.04
+2.82
++1715
 19:00
 29.10
 OGC Nice
@@ -3618,8 +3620,8 @@ Angers SCO
 2.5
 1.60
 2.36
-2.80
-3.90
+2.75
+3.85
 +1780
 21:05
 29.10
@@ -3676,7 +3678,7 @@ Olympique Lyon
 1.57
 1.92
 2.86
-+1798
++1800
 French - Ligue 2
 20:00
 Today
@@ -3931,20 +3933,6 @@ Amiens SC
 3.50
 +1147
 South American - Copa Libertadores
-02:30
-Today
-LDU Quito
-SE Palmeiras SP
-3.85
-2.90
-2.30
-1.50
-2.5
-2.49
-2.11
-3.10
-5.70
-+2488
 01:30
 30.10
 Racing Club Avellaneda
@@ -3974,6 +3962,20 @@ CSD Independiente Del Valle
 2.80
 4.95
 +1148
+23:00
+30.10
+CA Lanus
+Universidad de Chile
+1.84
+3.30
+3.65
+1.68
+2.5
+2.01
+1.90
+2.49
+4.30
++1152
 Serbian - Superliga
 16:00
 Today
@@ -4007,15 +4009,15 @@ FK Javor Ivanjica
 Today
 FK Partizan Belgrade
 FK Mladost Lucani
-1.31
-5.20
-8.40
+1.32
+5.00
+8.00
 2.28
 2.5
 1.59
-1.94
-2.32
-3.30
+1.91
+2.29
+3.25
 +1203
 15:00
 Tomorrow
@@ -4106,15 +4108,15 @@ Blau-Weiss Linz
 Tomorrow
 SCR Altach
 TSV Hartberg
-1.98
-3.20
+2.00
+3.15
 3.35
 1.64
 2.5
 2.12
-1.94
+1.92
 2.65
-4.55
+4.50
 +1155
 17:00
 Tomorrow
@@ -4312,7 +4314,7 @@ Standard Liege
 1.72
 2.19
 3.40
-+1887
++1870
 13:30
 26.10
 Royal Antwerp FC
@@ -4599,13 +4601,13 @@ Botafogo FR RJ
 CR Flamengo RJ
 SC Recife PE
 1.15
-7.20
+7.00
 21
 2.07
 2.5
 1.73
 3.15
-3.85
+3.80
 5.90
 +1139
 20:00
@@ -4819,7 +4821,7 @@ Atromitos Athinon
 1.84
 2.46
 4.10
-+2220
++2211
 16:00
 26.10
 APO Levadiakos FC
@@ -4833,20 +4835,20 @@ Aris Thessaloniki
 1.83
 2.46
 4.15
-+2077
++2081
 16:30
 26.10
 Panathinaikos Athens
 Asteras Tripolis
-1.30
-4.90
-9.00
+1.29
+5.00
+9.20
 2.01
 2.5
 1.72
-2.16
+2.19
 2.70
-4.00
+4.05
 +1924
 18:30
 26.10
@@ -4914,9 +4916,9 @@ Aris Thessaloniki
 1.93
 2.5
 1.75
-2.18
+2.17
 2.70
-4.20
+4.15
 +1477
 16:30
 02.11
@@ -4942,24 +4944,24 @@ PAOK Thessaloniki
 2.01
 2.5
 1.69
-2.32
-2.85
-4.30
-+1517
+2.30
+2.80
+4.25
++1518
 20:00
 02.11
 AEK Athens
 Panaitolikos Agrinio
 1.21
 5.60
-12
+13
 1.99
 2.5
 1.70
-2.45
-3.00
-4.55
-+1137
+2.49
+3.05
+4.60
++1135
 16:00
 03.11
 Asteras Tripolis
@@ -5111,9 +5113,9 @@ Fortuna Sittard
 3.45
 2.5
 1.25
-1.87
-2.01
-2.63
+1.88
+2.02
+2.64
 +1133
 16:30
 01.11
@@ -5263,12 +5265,12 @@ Waterford FC
 1.41
 4.50
 5.60
-2.30
+2.25
 2.5
-1.58
-1.77
-2.12
-3.00
+1.60
+1.79
+2.16
+3.10
 +1152
 20:45
 Today
@@ -5752,10 +5754,10 @@ Inter Miami CF
 Nashville SC
 1.52
 4.50
-4.80
-2.95
+4.90
+3.00
 2.5
-1.35
+1.36
 1.45
 1.65
 2.17
@@ -5773,21 +5775,21 @@ Chicago Fire
 1.52
 1.83
 2.64
-+1666
++1665
 00:30
 27.10
 Vancouver Whitecaps FC
 FC Dallas
-1.38
-4.90
-6.20
+1.40
+4.80
+6.00
 2.70
 2.5
 1.41
-1.61
-1.85
-2.51
-+1831
+1.59
+1.83
+2.49
++1828
 02:30
 27.10
 San Diego FC
@@ -5801,7 +5803,7 @@ Portland Timbers
 1.61
 1.92
 2.74
-+1153
++1661
 23:45
 27.10
 FC Cincinnati
@@ -5956,7 +5958,7 @@ Besiktas Istanbul
 1.64
 2.03
 3.00
-+2356
++2359
 18:00
 27.10
 Gaziantep FK
@@ -6346,14 +6348,14 @@ Argentine - Argentine Liga Profesional
 Today
 CA Independiente Avellaneda
 CA Platense
-1.89
-3.00
-4.00
+1.87
+2.95
+4.10
 1.43
 2.5
 2.70
-2.36
-3.50
+2.37
+3.55
 6.90
 +1393
 20:00
@@ -6363,13 +6365,13 @@ Boca Juniors
 4.10
 2.65
 1.99
-1.38
+1.39
 2.5
-2.85
-2.37
-3.75
-7.55
-+1144
+2.80
+2.33
+3.65
+7.25
++1146
 14:00
 02.11
 CA Banfield
@@ -6542,16 +6544,16 @@ Union de Santa Fe
 02.11
 CA River Plate (Arg)
 Gimnasia Y Esgrima La Plata
-1.25
+1.24
 5.00
-11
+12
 1.91
 2.5
 1.77
-2.41
-3.00
-4.65
-+1142
+2.46
+3.10
+4.75
++1140
 14:00
 02.11
 CA San Lorenzo de Almagro
@@ -6589,50 +6591,21 @@ Peru
 3.35
 4.60
 +3
-Argentine - Copa Argentina
-02:10
-Today
-CA Belgrano de Cordoba
-Argentinos Juniors
-3.45
-2.85
-2.05
-1.44
-2.5
-2.60
-2.24
-3.20
--
-+505
-03:10
-Tomorrow
-Independiente Rivadavia
-CA River Plate (Arg)
-3.70
-3.10
-1.90
-1.58
-2.5
-2.23
-2.03
-2.75
-5.00
-+1077
 Mexican - Mexican Liga de Expansion MX
 03:00
 Today
 Venados FC
 Jaiba Brava
-2.70
-3.20
-2.32
-1.94
+2.90
+3.30
+2.13
+2.01
 2.5
-1.68
-1.59
-1.91
-3.10
-+1042
+1.63
+1.57
+1.86
+3.00
++1043
 03:00
 Tomorrow
 Alebrijes de Oaxaca FC
@@ -6666,15 +6639,15 @@ Peruvian - Primera Division
 Today
 Sporting Cristal
 Universitario De Deportes
-3.10
+3.00
 2.85
-2.22
+2.26
 1.58
 2.5
 2.24
 1.93
 2.65
-4.85
+4.80
 +1078
 22:00
 Today
@@ -6699,46 +6672,35 @@ San Martin FC
 3.72
 3.30
 +52
-03:15
-Today
-Panama City FC
-Sporting San Miguelito (Reserves)
-2.20
-3.47
-2.92
-2.26
-2.5
-1.55
-+52
 North&Central America - Central American Cup
 04:00
 Today
 Liga Deportiva Alajuelense
 CD Olimpia Tegucigalpa
-1.98
+1.94
 3.00
-3.60
-1.75
+3.70
+1.73
 2.5
-1.86
-1.72
-2.18
-3.75
+1.88
+1.76
+2.22
+3.85
 +1021
 World - International Friendly Women
 04:00
 Today
 Mexico (W)
 New Zealand (W)
-1.28
-4.70
-8.60
+1.31
+4.50
+8.00
 1.88
 2.5
 1.79
-2.28
-2.70
-4.50
+2.19
+2.60
+4.35
 +641
 17:00
 Today
@@ -6790,8 +6752,8 @@ Canada (W)
 Today
 Morocco (W)
 Scotland (W)
-4.30
-4.30
+4.50
+4.10
 1.55
 +3
 15:00
@@ -6810,7 +6772,7 @@ Wellington Phoenix NZ (Wom)
 1.24
 6.90
 7.50
-+151
++153
 01:00
 Tomorrow
 Auckland United FC (Wom)
@@ -6821,7 +6783,7 @@ West Coast Rangers (Wom)
 3.20
 2.5
 1.29
-+114
++149
 03:00
 Tomorrow
 Southern United NZ (Wom)
@@ -6861,14 +6823,14 @@ Indonesian - Championship A
 Today
 PSBS Biak
 Persebaya Surabaya
-5.60
-4.10
-1.44
+5.40
+4.20
+1.45
 2.13
 2.5
 1.56
 1.73
-2.00
+1.98
 3.10
 +1039
 14:00
@@ -6952,15 +6914,15 @@ Australian - A-League
 Today
 Newcastle United Jets
 Melbourne Victory
-2.75
-3.75
-2.06
-2.48
+2.70
+3.65
+2.10
+2.47
 2.5
 1.48
 1.46
 1.69
-2.43
+2.44
 +1144
 06:00
 Tomorrow
@@ -6994,15 +6956,15 @@ Perth Glory FC
 Tomorrow
 Sydney FC
 Central Coast Mariners
-1.47
+1.46
 4.40
-5.40
+5.60
 2.46
 2.5
 1.48
-1.62
-1.87
-2.67
+1.63
+1.88
+2.70
 +1140
 Bangladeshi - Federation Cup
 10:45
@@ -7179,13 +7141,13 @@ Indian - Mizoram Premier League
 Today
 Aizawl FC
 Dinthar FC
-1.28
+1.26
 5.70
-7.80
-3.48
+8.40
+2.98
 2.5
-1.25
-+155
+1.33
++149
 16:00
 Today
 Chanmari FC MPL
@@ -7498,20 +7460,34 @@ FC Shirak Gyumri
 2.08
 3.15
 +645
+15:00
+Tomorrow
+FC Pyunik Yerevan
+Gandzasar Kapan FC
+1.20
+5.40
+11
+2.36
+2.5
+1.50
+2.05
+2.31
+3.40
++641
 17:00
 Tomorrow
 FC Ararat-Armenia
 FC BKMA Yerevan
-1.17
-6.20
-11
+1.21
+5.80
+9.00
 2.60
 2.5
 1.42
-1.98
-2.16
-3.20
-+635
+1.87
+2.04
+2.96
++641
 Singaporean - S League
 13:30
 Today
@@ -7531,16 +7507,16 @@ Tanjong Pagar United
 Tomorrow
 Young Lions FC
 Geylang International FC
-7.60
-6.00
-1.22
-3.67
+7.00
+5.80
+1.24
+3.48
 2.5
-1.18
-1.44
-1.48
-1.87
-+955
+1.20
+1.45
+1.50
+1.97
++956
 Chinese - Super League
 13:35
 Today
@@ -7673,31 +7649,31 @@ PFC Cherno More Varna
 Tomorrow
 PFC Levski Sofia
 PFC Dobrudzha Dobrich
-1.16
+1.15
 6.20
-13
+14
 2.19
 2.5
 1.53
-2.38
-2.70
-4.20
+2.41
+2.75
+4.30
 +1024
 Thai - League T1
 14:00
 Today
 Port FC
 Muang Thong United
-1.82
+1.79
 3.65
-3.45
+3.55
 2.12
 2.5
 1.57
 1.57
-1.81
+1.82
 2.86
-+1021
++1020
 13:00
 Tomorrow
 Ayutthaya United FC
@@ -7797,6 +7773,14 @@ FK Borac Cacak
 2.60
 4.95
 +1022
+14:00
+Tomorrow
+FK Fap
+FK Zemun
+2.21
+3.15
+2.90
++8
 Thai - League T2
 14:00
 Today
@@ -7859,16 +7843,16 @@ Bylis Ballsh
 Today
 Vllaznia Shkoder
 KF Tirana
-1.46
-3.75
-6.40
+1.34
+3.95
+9.40
 1.83
 2.5
 1.84
-1.99
-2.45
-4.10
-+642
+2.22
+2.75
+4.55
++641
 17:00
 Tomorrow
 KF Teuta
@@ -7902,12 +7886,12 @@ Saudi Arabian - Second Divison
 Today
 Al Taraji
 Al Shoalah
-2.56
-3.29
-2.56
-1.57
+2.73
+2.92
+2.65
+1.55
 2.5
-2.22
+2.26
 +147
 14:05
 Today
@@ -7924,19 +7908,25 @@ Al Sadd Al Kharj
 Today
 Tuwaiq FC
 Al Sharq
-2.99
-3.51
-2.15
-1.84
+3.19
+3.25
+2.16
+1.82
 2.5
-1.84
+1.86
 +153
 Indonesian - Championship B
 14:00
 Today
 Sumsel United FC
 Adhyaksa FC
-+6
+2.10
+3.23
+3.34
+1.62
+2.5
+2.13
++121
 Ukrainian - Premier League
 14:30
 Today
@@ -8070,14 +8060,14 @@ Bologna FC U20
 Today
 Sassuolo Calcio U20
 Parma Calcio 1913 U20 U20
-1.95
-3.65
+1.98
+3.55
 3.10
 2.03
 2.5
 1.67
-1.62
-1.90
+1.60
+1.89
 3.05
 +644
 11:00
@@ -8199,14 +8189,6 @@ Ittihad Kalba FC
 1.97
 3.25
 +1025
-18:00
-Tomorrow
-Al-Nasr Dubai CSC
-Baniyas Club
-1.59
-3.70
-4.80
-+3
 UAE - Reserve League
 14:55
 Today
@@ -8283,11 +8265,11 @@ Tomorrow
 Adana Demirspor
 Van Spor FK
 28
-11
+12
 1.02
-4.60
+4.70
 2.5
-1.14
+1.13
 +34
 15:00
 Tomorrow
@@ -8421,7 +8403,7 @@ Israeli - Liga Leumit
 Today
 Hapoel Rishon Lezion FC
 Hapoel Ramat Gan Givatayim FC
-2.09
+2.08
 3.15
 3.15
 1.61
@@ -8491,15 +8473,15 @@ Bnei Yehuda Tel Aviv FC
 Today
 Hapoel Afula FC
 Maccabi Petah Tikva FC
-8.00
-4.70
-1.30
+7.60
+4.60
+1.31
 2.04
 2.5
 1.61
-2.01
-2.33
-3.65
+1.98
+2.30
+3.60
 +1015
 15:00
 Today
@@ -8508,11 +8490,11 @@ Hapoel Kfar Saba FC
 1.86
 3.30
 3.65
-1.78
+1.77
 2.5
-1.82
-1.75
-2.16
+1.83
+1.76
+2.17
 3.70
 +1024
 15:00
@@ -8548,15 +8530,15 @@ LKS Lodz II
 Today
 KKS 1925 Kalisz
 Slask II Wroclaw
-2.40
-3.30
-2.50
-2.06
+2.41
+3.20
+2.55
+1.95
 2.5
-1.60
-1.53
-1.80
-2.89
+1.68
+1.58
+1.90
+3.10
 +1023
 13:15
 Tomorrow
@@ -8676,7 +8658,7 @@ AL Hilal (SDN)
 Kenya Police FC
 1.45
 3.90
-6.20
+6.00
 1.70
 2.5
 1.99
@@ -8754,13 +8736,13 @@ Azerbaijani - Premier League
 Today
 FK Kapaz
 Imisli FK
-1.95
-3.20
+1.99
+3.10
 3.40
 1.64
 2.5
 2.00
-1.87
+1.85
 2.36
 4.30
 +1039
@@ -8870,15 +8852,15 @@ Mes Rafsanjan FC
 Today
 Foolad KHouzestan FC
 Shams Azar Qazvin
-1.73
+1.77
 3.00
-4.80
+4.60
 1.41
 2.5
 2.50
-2.37
-3.25
-6.90
+2.34
+3.20
+6.85
 +1033
 South African - National First Division
 15:30
@@ -8911,30 +8893,30 @@ KMKM
 Today
 CR Belouizdad
 Hafia FC
-1.24
-4.40
+1.28
+4.00
 13
 1.66
 2.5
 2.04
-2.95
-3.75
-6.75
-+634
+2.80
+3.65
+6.40
++638
 21:00
 Today
 Wydad AC
 Asante Kotoko
-1.15
-6.00
-14
+1.21
+5.40
+10
 2.27
 2.5
 1.54
-2.38
-2.70
-4.20
-+632
+2.08
+2.35
+3.50
++639
 15:30
 Tomorrow
 USM Alger
@@ -9078,20 +9060,6 @@ Spartak Kostroma
 3.10
 6.15
 +1070
-18:00
-Tomorrow
-Torpedo Moscow
-Chayka Peschanokopskoye
-1.37
-4.30
-6.60
-1.78
-2.5
-1.93
-2.28
-2.90
-4.70
-+1070
 Romanian - Liga 1
 16:30
 Today
@@ -9100,13 +9068,13 @@ FC Petrolul Ploiesti
 2.70
 2.85
 2.50
-1.59
+1.57
 2.5
-2.26
-1.92
-2.70
-4.80
-+1152
+2.31
+1.95
+2.75
+4.95
++1151
 19:30
 Today
 ACS Champions FC Arges
@@ -9170,7 +9138,7 @@ MKS Sokol Nisko 1919
 3.27
 2.5
 1.28
-+305
++307
 19:00
 Today
 Hutnik Warszawa
@@ -9891,30 +9859,15 @@ Unia Tarnow
 5.10
 4.80
 +3
-18:00
-Tomorrow
-Victoria Sulejowek
-KS Ursus Warszawa
-1.45
-5.00
-4.60
-+3
-18:00
-Tomorrow
-Stomil Olsztyn
-MKS Polonia Lidzbark Warminski
-2.15
-3.80
-2.65
-+3
-18:00
-Tomorrow
-KP Blekitni Stargard Szczecinski II
-KP Chemik Police
-1.54
-4.75
-4.10
-+3
+Angola - Angola Girabolo
+16:30
+Today
+Primeiro de Agosto
+CD Huila
+1.58
+3.55
+5.20
++6
 Saudi Arabian - Professional League
 16:45
 Today
@@ -9923,13 +9876,13 @@ Al-Ittifaq FC
 2.10
 3.70
 2.75
-2.44
+2.39
 2.5
-1.52
-1.48
-1.75
-2.51
-+2057
+1.53
+1.49
+1.78
+2.57
++2058
 17:30
 Today
 Neom SC
@@ -9943,7 +9896,7 @@ Al-Khaleej Club
 1.58
 1.92
 2.86
-+2027
++2022
 20:00
 Today
 Al-Ittihad FC
@@ -9957,7 +9910,7 @@ Al Hilal SFC
 1.42
 1.62
 2.17
-+2056
++2057
 16:40
 Tomorrow
 Al Qadsiah
@@ -9971,7 +9924,7 @@ Al-Akhdoud Club
 1.88
 2.26
 3.20
-+2016
++2021
 16:55
 Tomorrow
 Al-Shabab FC (SA)
@@ -10072,15 +10025,15 @@ FC Smorgon
 Tomorrow
 Naftan Novopolotsk
 FC Dinamo Minsk
-7.00
-4.50
-1.40
-1.99
+7.40
+4.60
+1.38
+2.05
 2.5
-1.73
+1.69
 -
 -
-3.75
+3.60
 +571
 15:00
 Tomorrow
@@ -10116,7 +10069,7 @@ Today
 Riga FC
 FK Tukums 2000/TSS
 1.06
-9.00
+8.80
 24
 2.90
 2.5
@@ -10183,15 +10136,15 @@ MFk Dukla Banska Bystrica
 Tomorrow
 FC STK 1914 Samorin
 OFK Dynamo Malzenice
-1.82
-3.70
-3.40
-2.26
+1.92
+3.55
+3.20
+2.17
 2.5
-1.50
-1.51
-1.72
-2.63
+1.54
+1.52
+1.76
+2.75
 +1023
 13:30
 Tomorrow
@@ -10200,13 +10153,13 @@ Slavia TU Kosice
 1.46
 4.20
 5.40
-2.13
+2.23
 2.5
-1.56
-1.72
-1.98
-3.05
-+1017
+1.51
+1.67
+1.90
+2.90
++1018
 13:30
 Tomorrow
 MFK Stara Lubovna
@@ -10225,16 +10178,16 @@ Slovan Bratislava B U21
 Tomorrow
 MSK Puchov
 MFK Tatran Liptovsky Mikulas
-2.60
-3.65
-2.19
+2.70
+3.60
+2.15
 2.00
 2.5
 1.64
 1.60
 1.87
-3.05
-+1023
+3.00
++1024
 African - African CAF Cup of Nations Women
 17:00
 Today
@@ -10251,10 +10204,10 @@ Gambia (Wom)
 Today
 Benin (Wom)
 Nigeria (Wom)
-17
-9.30
-1.09
-+147
+21
+11
+1.06
++146
 19:00
 Today
 Senegal (Wom)
@@ -10271,15 +10224,15 @@ European - UEFA Nations League Women
 Today
 Kosovo (W)
 Turkiye (W)
-5.00
-3.75
-1.58
-1.83
+4.70
+3.70
+1.63
+1.76
 2.5
-1.87
-1.91
-2.49
-3.95
+1.96
+1.95
+2.60
+4.20
 +1076
 17:30
 Today
@@ -10341,30 +10294,30 @@ Denmark (W)
 Today
 Spain (W)
 Sweden (W)
-1.25
+1.26
 5.60
-9.00
-2.43
+8.60
+2.44
 2.5
-1.50
-1.92
-2.27
+1.49
+1.90
+2.24
 3.10
-+1070
++1072
 20:00
 Today
 Ireland (W)
 Belgium (W)
-2.24
-3.35
-2.80
-1.88
+2.29
+3.25
+2.85
+1.85
 2.5
-1.83
+1.86
 1.69
-2.18
-3.45
-+1080
+2.21
+3.55
++1079
 20:00
 Today
 Northern Ireland (W)
@@ -10395,8 +10348,8 @@ Al Sailiya U23
 Today
 Qatar SC U23
 Umm Salal SC U23
-4.50
-3.50
+4.60
+3.47
 1.73
 1.67
 2.5
@@ -10590,13 +10543,13 @@ FC Admira Wacker Modling
 Today
 SV Stripfing
 FC Hertha Wels
-2.00
+1.96
 3.40
-3.10
+3.15
 1.96
 2.5
 1.76
-1.66
+1.67
 2.06
 3.25
 +1081
@@ -10619,15 +10572,15 @@ Czech - Czech MSFL
 Today
 FC Hlucin
 FC Zbrojovka Brno B
-3.50
-3.80
-1.76
-2.42
+3.15
+3.60
+1.92
+2.37
 2.5
-1.43
-1.47
+1.45
+1.46
 1.65
-2.44
+2.47
 +1021
 Polish - I Liga
 18:00
@@ -10637,12 +10590,12 @@ Puszcza Niepolomice
 2.40
 3.20
 2.60
-1.93
+1.90
 2.5
-1.69
-1.59
-1.91
-3.10
+1.71
+1.61
+1.94
+3.20
 +1042
 20:30
 Today
@@ -10663,15 +10616,15 @@ Bosnian - Premier League
 Today
 FK Sarajevo
 FK Sloga Meridian
-1.31
-4.70
-8.40
+1.30
+4.80
+9.00
 1.89
 2.5
 1.81
-2.26
-2.75
-4.40
+2.29
+2.80
+4.45
 +1053
 16:00
 Tomorrow
@@ -10805,9 +10758,9 @@ ND Beltinci
 Tomorrow
 Ilirija Ljubljana
 Nd Dravinja
-2.19
+2.18
 3.50
-2.70
+2.75
 2.01
 2.5
 1.69
@@ -10819,16 +10772,16 @@ Nd Dravinja
 Tomorrow
 NK Jesenice
 Nd Slovan
-3.35
-3.45
-1.91
-2.11
+3.15
+3.40
+2.01
+2.12
 2.5
 1.62
-1.56
-1.84
-2.92
-+643
+1.54
+1.82
+2.89
++644
 15:00
 Tomorrow
 NK Dekani
@@ -10885,12 +10838,12 @@ Manama Club
 Today
 East Riffa
 Etehad Alreef
-1.21
-4.70
-17
-2.28
+1.25
+5.00
+10
+2.41
 2.5
-1.51
+1.46
 +32
 Russian - Russian FNL 2
 18:00
@@ -11055,13 +11008,13 @@ Zabbar Saint Patrick FC
 3.05
 3.40
 2.02
-1.87
+1.85
 2.5
-1.74
-1.67
-2.00
-3.35
-+1040
+1.76
+1.69
+2.03
+3.40
++1039
 21:00
 Today
 Gzira United FC
@@ -11121,13 +11074,13 @@ AC Horsens
 3.55
 3.55
 1.80
-2.02
+1.98
 2.5
-1.71
-1.68
-2.05
-3.20
-+1079
+1.74
+1.70
+2.08
+3.30
++1078
 14:00
 Tomorrow
 Hobro IK
@@ -11670,15 +11623,15 @@ SD Ponferradina
 Today
 Barakaldo CF
 Tenerife CD
-4.00
+3.85
 3.00
-1.87
+1.91
 1.49
 2.5
 2.27
-2.09
-2.80
-5.55
+2.08
+2.75
+5.50
 +1019
 14:00
 Tomorrow
@@ -12530,15 +12483,15 @@ Burnley FC U21
 Today
 Birmingham City U21
 Nottingham Forest FC U21
-4.50
-4.20
-1.53
-2.49
+4.80
+4.30
+1.49
+2.55
 2.5
-1.45
-1.54
+1.44
+1.55
 1.72
-2.54
+2.53
 +714
 20:00
 Today
@@ -12909,9 +12862,9 @@ Bangor Celtic FC
 Today
 Malahide United AFC
 Inchicore Athletic FC
-1.30
-5.50
-7.40
+1.44
+5.00
+5.20
 2.52
 2.5
 1.45
@@ -12920,9 +12873,9 @@ Inchicore Athletic FC
 Today
 Lucan United FC
 Ballymun United FC
-1.38
-5.00
-6.30
+1.24
+6.00
+9.00
 2.46
 2.5
 1.47
@@ -12985,12 +12938,12 @@ Inverness Caledonian Thistle FC
 4.40
 3.95
 1.56
-2.09
+2.22
 2.5
-1.67
-1.74
-2.09
-3.20
+1.59
+1.66
+1.97
+2.94
 +1075
 16:00
 Tomorrow
@@ -13085,20 +13038,6 @@ Colwyn Bay
 2.05
 3.25
 +1081
-18:15
-Tomorrow
-Cardiff Metropolitan University FC
-Flint Town United
-1.99
-3.45
-3.05
-2.06
-2.5
-1.68
-1.61
-1.96
-3.05
-+1081
 Scottish - Lowland League
 20:45
 Today
@@ -13116,7 +13055,7 @@ Santos FC SP U20
 1.51
 3.90
 5.20
-2.15
+2.16
 2.5
 1.60
 1.69
@@ -13187,16 +13126,16 @@ Colombian - Primera B
 Today
 Atletico FC Cali
 Boyaca Patriotas
-5.40
-3.55
-1.54
+5.20
+3.50
+1.57
 1.63
 2.5
 2.02
-2.11
-2.70
-4.90
-+1014
+2.09
+2.65
+4.85
++1015
 Colombian - Primera A
 23:00
 Today
@@ -13274,16 +13213,16 @@ Brazilian - Serie B
 Tomorrow
 Gremio Novorizontino SP
 Botafogo FC SP
-1.48
-3.75
+1.50
+3.70
 5.60
 1.63
 2.5
 2.15
-2.32
-3.05
-5.40
-+1134
+2.29
+3.00
+5.35
++1133
 02:35
 Tomorrow
 Cuiaba EC MT
@@ -13313,20 +13252,6 @@ Montevideo City Torque
 2.41
 4.15
 +1079
-18:30
-Tomorrow
-CA Juventud de Las Piedras
-Plaza Colonia
-1.97
-3.05
-3.45
-1.48
-2.5
-2.46
-2.18
-3.05
-5.85
-+1076
 Chilean - Primera B
 00:30
 Tomorrow
@@ -13507,6 +13432,21 @@ Guadalupe FC
 2.09
 3.55
 +1043
+Argentine - Copa Argentina
+03:10
+Tomorrow
+Independiente Rivadavia
+CA River Plate (Arg)
+3.70
+3.10
+1.90
+1.58
+2.5
+2.23
+2.03
+2.75
+5.00
++1077
 Panamanian - LPF
 03:30
 Tomorrow
@@ -13550,7 +13490,7 @@ Tomorrow
 Briobecca Urayasu SC
 Yokogawa Musashino FC
 1.92
-3.33
+3.34
 3.78
 1.52
 2.5
@@ -13800,14 +13740,14 @@ Acs Sepsi Osk Sfantu Gheorghe
 CS Gloria 2018 Bistrita-Nasaud
 1.22
 5.40
-9.60
+10
 2.08
 2.5
 1.59
-2.17
-2.48
-3.85
-+1010
+2.19
+2.50
+3.90
++1008
 10:00
 Tomorrow
 Asa Targu Mures
@@ -14010,34 +13950,6 @@ Kirklarelispor
 2.45
 4.20
 +1015
-18:00
-Tomorrow
-MKE Ankaragucu
-Sanliurfaspor
-3.25
-3.40
-1.93
-1.88
-2.5
-1.73
-1.68
-2.01
-3.35
-+1021
-18:00
-Tomorrow
-Bursaspor
-Mus 1984 Musspor
-1.25
-5.80
-7.20
-2.41
-2.5
-1.44
--
--
-2.96
-+570
 Russian - Premier League
 13:00
 Tomorrow
@@ -14270,16 +14182,16 @@ York City FC
 Tomorrow
 Braintree Town FC
 Altrincham FC
-2.75
+2.65
 3.60
-2.34
-2.06
+2.40
+2.10
 2.5
-1.68
-1.60
-1.98
-3.00
-+1154
+1.66
+1.58
+1.95
+2.95
++1155
 16:00
 Tomorrow
 Forest Green Rovers
@@ -14406,36 +14318,22 @@ Carlisle United
 2.28
 3.65
 +1155
-18:30
-Tomorrow
-Tamworth FC
-Boston United FC
-1.77
-3.50
-3.75
-1.86
-2.5
-1.84
-1.79
-2.30
-3.65
-+1155
 Estonian - Meistriliiga
 13:30
 Tomorrow
 Harju JK Laagri
 JK Narva Trans
-3.30
-3.80
-1.84
+3.70
+3.55
+1.79
 +8
 13:30
 Tomorrow
 FC Kuressaare
 Nomme Kalju FC
-5.80
-4.50
-1.40
+6.60
+4.60
+1.35
 +8
 16:00
 Tomorrow
@@ -14875,15 +14773,15 @@ ACV Assen
 Tomorrow
 Rkav Volendam
 K.v.v. Quick Boys
-4.40
+5.00
 4.10
-1.56
-2.47
+1.50
+2.60
 2.5
-1.46
-1.53
-1.72
-2.54
+1.42
+1.52
+1.70
+2.47
 +641
 14:30
 Tomorrow
@@ -14969,20 +14867,6 @@ BVV Barendrecht
 1.62
 2.37
 +641
-18:00
-Tomorrow
-De Treffers Groesbeek
-Rijnsburgse Boys
-2.40
-3.60
-2.40
-2.20
-2.5
-1.58
-1.51
-1.75
-2.74
-+644
 Czech - First League
 15:00
 Tomorrow
@@ -15059,15 +14943,15 @@ Asian - Asian AFC Challenge League
 Tomorrow
 Al-Seeb
 Bashundhara Kings
-1.51
-3.45
-5.80
-1.75
+1.56
+3.25
+5.60
+1.69
 2.5
-1.82
-1.91
-2.35
-4.10
+1.89
+1.93
+2.42
+4.30
 +937
 16:00
 Tomorrow
@@ -15083,14 +14967,6 @@ Muras United FC
 1.82
 2.95
 +941
-18:00
-Tomorrow
-AL Ansar SC
-Kuwait SC
-2.50
-3.10
-2.50
-+8
 Slovakian - Super Liga
 15:30
 Tomorrow
@@ -15134,20 +15010,6 @@ MFK Skalica
 2.10
 3.20
 +1078
-18:00
-Tomorrow
-FK Kosice
-FK Zeleziarne Podbrezova
-1.90
-3.55
-3.20
-2.26
-2.5
-1.57
-1.54
-1.82
-2.71
-+1082
 Faroe Islands - Premier League
 15:30
 Tomorrow
@@ -15344,20 +15206,6 @@ Glenavon FC
 2.26
 3.65
 +1040
-18:30
-Tomorrow
-Larne FC
-Bangor FC
-1.34
-4.70
-7.60
-1.99
-2.5
-1.73
-2.09
-2.50
-3.90
-+1035
 Cypriot - First Division
 16:00
 Tomorrow
@@ -15417,20 +15265,6 @@ Bryne FK
 2.19
 3.00
 +1289
-18:00
-Tomorrow
-Sarpsborg 08
-KFUM Oslo
-2.65
-3.25
-2.31
-1.87
-2.5
-1.84
-1.69
-2.18
-3.50
-+1296
 Icelandic - Urvalsdeild
 16:00
 Tomorrow
@@ -15601,90 +15435,6 @@ SD Logrones
 2.13
 3.70
 +1021
-18:00
-Tomorrow
-RSD Alcala SAD
-CD Tenerife B
-2.55
-2.95
-2.60
-1.55
-2.5
-2.16
-1.91
-2.50
-4.80
-+1017
-18:00
-Tomorrow
-CD Extremadura
-Xerez Deportivo FC
-1.68
-3.30
-4.60
-1.62
-2.5
-2.04
-2.01
-2.55
-4.70
-+1019
-18:00
-Tomorrow
-Yeclano Deportivo
-CD Linares
-1.93
-2.90
-3.90
-1.41
-2.5
-2.50
-2.26
-3.10
-6.55
-+1016
-18:00
-Tomorrow
-UP Langreo
-Atletico Astorga FC
-1.94
-2.95
-3.80
-1.49
-2.5
-2.28
-2.07
-2.75
-5.50
-+1019
-18:00
-Tomorrow
-Real Avila CF
-UD Samano
-1.37
-4.00
-7.40
-1.61
-2.5
-2.04
-2.44
-3.05
-5.65
-+1013
-18:00
-Tomorrow
-SD Gernika Club
-SD Ejea
-2.18
-2.95
-3.10
-1.46
-2.5
-2.36
-2.09
-2.80
-5.75
-+1016
 Northern Irish - NIFL Championship
 16:00
 Tomorrow
@@ -16083,12 +15833,12 @@ Dover Athletic FC
 1.47
 4.10
 5.80
-1.97
+2.00
 2.5
-1.75
-1.90
-2.32
-3.60
+1.73
+1.88
+2.28
+3.55
 +1035
 16:00
 Tomorrow
@@ -16289,20 +16039,6 @@ MC Oran
 3.00
 6.55
 +1036
-18:00
-Tomorrow
-CS Constantine
-Olympique Akbou
-1.63
-3.30
-5.00
-1.55
-2.5
-2.15
-2.15
-2.80
-5.30
-+1035
 Portuguese - Liga 3
 16:30
 Tomorrow
@@ -16357,6 +16093,15 @@ Maghreb AS de Fes
 2.95
 5.70
 +1033
+Andorra - Andorra Primera Divisio
+17:00
+Tomorrow
+Inter Club de Escaldes
+FC Ordino
+1.07
+8.80
+16
++6
 Swiss - Super League
 18:00
 Tomorrow
@@ -16386,78 +16131,6 @@ Grasshopper Club Zurich
 1.94
 2.82
 +1153
-Israeli - Ligat HaAl
-18:15
-Tomorrow
-Hapoel Haifa FC
-Beitar Jerusalem FC
-3.75
-3.70
-1.74
-2.22
-2.5
-1.59
-1.59
-1.93
-2.84
-+1155
-18:15
-Tomorrow
-MS Ashdod
-Hapoel Petah Tikva FC
-2.65
-3.45
-2.24
-2.00
-2.5
-1.73
-1.63
-2.04
-3.15
-+1158
-18:30
-Tomorrow
-Ironi Tiberias
-Maccabi Haifa FC
-6.00
-4.70
-1.37
-2.27
-2.5
-1.56
-1.81
-2.16
-3.10
-+1152
-18:30
-Tomorrow
-Hapoel Jerusalem FC
-Bnei Sakhnin FC
-2.12
-3.20
-3.05
-1.70
-2.5
-2.03
-1.84
-2.46
-4.15
-+1154
-Qatari - Stars League
-18:30
-Tomorrow
-Al Sadd SC
-Al Arabi Doha SC
-1.46
-4.60
-4.70
-3.10
-2.5
-1.27
-1.39
-1.49
-2.00
-+1039
 TERMS AND CONDITIONS
 RULES
 CONTACT

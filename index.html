@@ -7,7 +7,7 @@
   :root{ --bg:#0a0e1a; --card:#161b2e; --muted:#9aa3b2; --txt:#e8ecf5; --line:#232842; --accent:#6b8aff; --accent-2:#5fead7; --good:#2dd4bf; --good-ink:#042f2e; --bad:#f87171; --bad-ink:#450a0a; --pill:#1e293b; --best-ring:#fef3c7; --hover-glow:rgba(107,138,255,0.15); }
   *{box-sizing:border-box}
   body{margin:0; font:15px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif; background:var(--bg); color:var(--txt); background-image:radial-gradient(circle at 20% 50%, rgba(107,138,255,0.05) 0%, transparent 50%), radial-gradient(circle at 80% 80%, rgba(95,234,215,0.05) 0%, transparent 50%);}
-  .wrap{max-width:1200px; margin:24px auto 48px; padding:0 20px}
+  .wrap{max-width:1400px; margin:24px auto 48px; padding:0 240px}
   header{position:sticky; top:0; z-index:10; backdrop-filter:saturate(1.2) blur(12px); background:linear-gradient(180deg, rgba(10,14,26,.92), rgba(10,14,26,.75) 60%, transparent); border-bottom:1px solid rgba(107,138,255,0.1);} 
   .bar{display:flex; align-items:center; justify-content:center; gap:12px; padding:14px 20px; flex-wrap:nowrap;}
   h1{font-size:20px; margin:0; letter-spacing:.5px; font-weight:700; background:linear-gradient(135deg, var(--accent), var(--accent-2)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; white-space:nowrap;}
@@ -25,18 +25,22 @@
   .in:focus{outline:none; border-color:var(--accent); box-shadow:0 0 0 3px var(--hover-glow);}
   textarea.in{height:140px; font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace; display:none}
   .small{font-size:12px; color:var(--muted); font-weight:500;}
-  .content-wrapper{display:flex; gap:24px; align-items:flex-start}
-  .sidebar{flex:0 0 240px; position:sticky; top:90px; background:var(--card); border:1px solid var(--line); border-radius:16px; padding:16px; max-height:calc(100vh - 110px); overflow-y:auto; box-shadow:0 8px 24px rgba(0,0,0,0.3); backdrop-filter:blur(8px);}
-  .sidebar h3{margin:0 0 12px; font-size:13px; color:var(--muted); text-transform:uppercase; letter-spacing:.8px; font-weight:700;}
+  .content-wrapper{display:grid; grid-template-columns:220px 1fr 220px; gap:18px; align-items:flex-start}
+  .sidebar-fixed-left, .sidebar-fixed-right{position:fixed; top:150px; width:200px; background:var(--card); border:1px solid var(--line); border-radius:16px; padding:14px; max-height:calc(100vh - 170px); overflow-y:auto; box-shadow:0 8px 24px rgba(0,0,0,0.3); backdrop-filter:blur(8px); z-index:50;}
+  .sidebar-fixed-left{left:20px;}
+  .sidebar-fixed-right{right:20px;}
+  .sidebar-fixed-left h3, .sidebar-fixed-right h3{position:sticky; top:0; margin:0 -14px 10px -14px; padding:10px 14px; font-size:12px; color:var(--muted); text-transform:uppercase; letter-spacing:.8px; font-weight:700; background:var(--card); z-index:10; border-bottom:1px solid var(--line);}
+  .sidebar{flex:0 0 220px; position:sticky; top:90px; background:var(--card); border:1px solid var(--line); border-radius:16px; padding:14px; max-height:calc(100vh - 110px); overflow-y:auto; box-shadow:0 8px 24px rgba(0,0,0,0.3); backdrop-filter:blur(8px);}
+  .sidebar h3{margin:0 0 10px; font-size:12px; color:var(--muted); text-transform:uppercase; letter-spacing:.8px; font-weight:700;}
   .country-arrow{display:inline-block; transition:.3s transform; font-size:10px; margin-right:6px;}
-  .league-item{padding:12px 14px; margin:4px 0; border-radius:10px; cursor:pointer; font-size:14px; transition:.2s all; border:1px solid transparent; font-weight:500; display:flex; align-items:center; justify-content:space-between;}
+  .league-item{padding:10px 12px; margin:3px 0; border-radius:8px; cursor:pointer; font-size:13px; transition:.2s all; border:1px solid transparent; font-weight:500; display:flex; align-items:center; justify-content:space-between;}
   .league-item:hover{background:rgba(107,138,255,0.08); border-color:rgba(107,138,255,0.2); transform:translateX(4px);}
-  .league-name{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif; font-weight:600; letter-spacing:0.3px; color:var(--text);}
+  .league-name{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif; font-weight:600; letter-spacing:0.3px; color:var(--text); font-size:12px;}
   .league-item:hover{background:var(--hover-glow); border-color:rgba(107,138,255,0.3); transform:translateX(2px);}
   .league-item.active{background:linear-gradient(135deg,rgba(107,138,255,.25),rgba(95,234,215,.15)); border-color:var(--accent); font-weight:700; box-shadow:0 2px 8px var(--hover-glow);}
   .league-item.active .league-name{color:var(--accent); font-weight:700;}
   .league-count{opacity:.8; font-size:11px; font-weight:700; background:rgba(107,138,255,0.25); padding:3px 10px; border-radius:999px; margin-left:8px;}
-  .widget{background:linear-gradient(135deg, rgba(107,138,255,0.15), rgba(95,234,215,0.1)); border:1px solid rgba(107,138,255,0.2); border-radius:16px; padding:16px; display:flex; gap:14px; align-items:center; transition:.3s all; backdrop-filter:blur(8px);}
+  .widget{background:linear-gradient(135deg, rgba(107,138,255,0.15), rgba(95,234,215,0.1)); border:1px solid rgba(107,138,255,0.2); border-radius:16px; padding:16px; display:flex; gap:14px; align-items:center; transition:.3s all; backdrop-filter:blur(8px); min-width:200px; flex:1; max-width:280px;}
   .widget:hover{transform:translateY(-4px); box-shadow:0 8px 24px rgba(107,138,255,0.2); border-color:rgba(107,138,255,0.4);}
   .widget-icon{width:56px; height:56px; border-radius:14px; display:flex; align-items:center; justify-content:center; font-size:24px; flex-shrink:0; box-shadow:0 4px 12px rgba(0,0,0,0.3);}
   .widget-content{flex:1;}
@@ -83,21 +87,21 @@
 </style>
 <body>
   <header style="background:linear-gradient(135deg, rgba(107,138,255,0.2), rgba(95,234,215,0.1)); border-bottom:2px solid rgba(107,138,255,0.3); backdrop-filter:blur(10px); position:sticky; top:0; z-index:100; box-shadow:0 4px 20px rgba(0,0,0,0.3);">
-    <div class="wrap" style="padding:12px 24px;">
+    <div class="wrap" style="padding:8px 24px;">
       
       <!-- Glavni red: Logo, Naslov, Status, Akcije -->
       <div style="display:flex; align-items:center; justify-content:space-between; gap:20px;">
         
         <!-- Logo i Naslov -->
         <div style="display:flex; align-items:center; gap:12px;">
-          <div style="width:48px; height:48px; background:linear-gradient(135deg, var(--accent), var(--accent-2)); border-radius:12px; display:flex; align-items:center; justify-content:center; font-size:24px; box-shadow:0 4px 16px rgba(107,138,255,0.4); flex-shrink:0;">
+          <div style="width:56px; height:56px; background:linear-gradient(135deg, var(--accent), var(--accent-2)); border-radius:14px; display:flex; align-items:center; justify-content:center; font-size:28px; box-shadow:0 4px 16px rgba(107,138,255,0.4); flex-shrink:0;">
             📊
           </div>
           <div>
-            <h1 style="margin:0; font-size:24px; font-weight:900; background:linear-gradient(135deg, var(--accent), var(--accent-2)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; letter-spacing:-0.5px; line-height:1;">
+            <h1 style="margin:0; font-size:28px; font-weight:900; background:linear-gradient(135deg, var(--accent), var(--accent-2)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; letter-spacing:-0.5px; line-height:1;">
               ANALIZATOR KVOTA
             </h1>
-            <p style="margin:2px 0 0 0; color:var(--muted); font-size:11px; font-weight:500;">
+            <p style="margin:2px 0 0 0; color:var(--muted); font-size:12px; font-weight:500;">
               Real-time • Auto-refresh svakih 5 min
             </p>
           </div>
@@ -106,29 +110,29 @@
         <!-- Quick Stats -->
         <div style="display:flex; gap:20px; align-items:center; flex:1; justify-content:center;">
           <div style="text-align:center;">
-            <div style="font-size:10px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">Ukupno</div>
-            <div id="quickTotal" style="font-size:20px; font-weight:800; color:var(--text);">-</div>
+            <div style="font-size:11px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">Ukupno</div>
+            <div id="quickTotal" style="font-size:24px; font-weight:800; color:var(--text);">-</div>
           </div>
           
-          <div style="width:1px; height:32px; background:rgba(107,138,255,0.3);"></div>
+          <div style="width:1px; height:16px; background:rgba(107,138,255,0.3);"></div>
           
           <div style="text-align:center;">
-            <div style="font-size:10px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">Arbitraže</div>
-            <div id="quickArb" style="font-size:20px; font-weight:800; color:var(--good);">-</div>
+            <div style="font-size:11px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">Arbitraže</div>
+            <div id="quickArb" style="font-size:24px; font-weight:800; color:var(--good);">-</div>
           </div>
           
-          <div style="width:1px; height:32px; background:rgba(107,138,255,0.3);"></div>
+          <div style="width:1px; height:16px; background:rgba(107,138,255,0.3);"></div>
           
           <div style="text-align:center;">
-            <div style="font-size:10px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">Profit</div>
-            <div id="quickProfit" style="font-size:20px; font-weight:800; color:var(--good);">-</div>
+            <div style="font-size:11px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">Profit</div>
+            <div id="quickProfit" style="font-size:24px; font-weight:800; color:var(--good);">-</div>
           </div>
           
-          <div style="width:1px; height:32px; background:rgba(107,138,255,0.3);"></div>
+          <div style="width:1px; height:16px; background:rgba(107,138,255,0.3);"></div>
           
           <div style="text-align:center;">
-            <div style="font-size:10px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">Danas</div>
-            <div id="quickToday" style="font-size:20px; font-weight:800; color:var(--text);">-</div>
+            <div style="font-size:11px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">Danas</div>
+            <div id="quickToday" style="font-size:24px; font-weight:800; color:var(--text);">-</div>
           </div>
         </div>
         
@@ -158,7 +162,7 @@
 
   <div class="wrap">
     <!-- Dashboard sa statistikama -->
-    <div id="dashboard" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(220px, 1fr)); gap:16px; margin-bottom:24px;">
+    <div id="dashboard" style="display:flex; gap:16px; margin-bottom:24px; justify-content:center; flex-wrap:wrap;">
       <!-- Widgeti će biti dodati dinamički -->
     </div>
     
@@ -195,13 +199,25 @@
         </button>
       </div>
     </div>
+  </div>
 
-    <div class="content-wrapper">
-      <div class="sidebar" id="sidebar">
-        <h3>Lige</h3>
-        <div id="leagueList"></div>
-      </div>
+  <!-- Content sa sidebar-ima uz ivice -->
+  <div style="position:relative;">
+    <!-- Levi sidebar - fiksan uz levu ivicu -->
+    <div class="sidebar-fixed-left" id="sidebarLeft">
+      <h3>⚽ Lige</h3>
+      <div id="leagueList"></div>
+    </div>
+    
+    <!-- Centralni sadržaj sa wrap-om -->
+    <div class="wrap">
       <div id="out" class="grid"></div>
+    </div>
+    
+    <!-- Desni sidebar - fiksan uz desnu ivicu -->
+    <div class="sidebar-fixed-right" id="sidebarRight">
+      <h3>🎰 Kladionice</h3>
+      <div id="bookmakerList"></div>
     </div>
   </div>
   
@@ -1065,6 +1081,13 @@ function render(data){
     const normalizedMatchLeague = normalizeLeagueName(m.league);
     if(window.selectedLeague && normalizedMatchLeague !== window.selectedLeague) return false;
     
+    // Filter po kladionici
+    if(window.selectedBookmaker) {
+      // Proveri da li meč ima kvote od odabrane kladionice
+      const hasBookmaker = m.rows && m.rows.some(row => row.book === window.selectedBookmaker);
+      if(!hasBookmaker) return false;
+    }
+    
     // Filter: samo arbitraže
     if(filterArbOnly && !m.arb.ok && !m.arb02.ok) return false;
     
@@ -1209,8 +1232,9 @@ function render(data){
     card.appendChild(body); out.appendChild(card);
   }
   
-  // Ažuriraj sidebar sa ligama
+  // Ažuriraj sidebar sa ligama i kladionicama
   updateLeagueSidebar(data);
+  updateBookmakerSidebar(data);
 }
 
 function updateLeagueSidebar(data){
@@ -1315,6 +1339,55 @@ function updateLeagueSidebar(data){
   }
 }
 
+function updateBookmakerSidebar(data){
+  const bookmakerList = document.getElementById('bookmakerList');
+  if(!bookmakerList) return;
+  
+  // Prikupi sve kladionice i brojač mečeva
+  const bookmakerCounts = {};
+  
+  for(const m of data){
+    if(!m.rows) continue;
+    for(const row of m.rows){
+      const book = row.book || 'Nepoznato';
+      if(!bookmakerCounts[book]) {
+        bookmakerCounts[book] = new Set();
+      }
+      bookmakerCounts[book].add(m.teams); // Dodaj unique meč
+    }
+  }
+  
+  // Konvertuj Set u broj
+  const bookmakers = Object.entries(bookmakerCounts).map(([book, matchSet]) => ({
+    name: book,
+    count: matchSet.size
+  })).sort((a, b) => b.count - a.count);
+  
+  bookmakerList.innerHTML = '';
+  
+  // "Sve kladionice" opcija
+  const allItem = document.createElement('div');
+  allItem.className = 'league-item' + (!window.selectedBookmaker ? ' active' : '');
+  allItem.innerHTML = `🌍 Sve kladionice <span class="league-count">${data.length}</span>`;
+  allItem.onclick = ()=>{
+    window.selectedBookmaker = null;
+    render(currentData);
+  };
+  bookmakerList.appendChild(allItem);
+  
+  // Kreiraj items za kladionice
+  for(const {name, count} of bookmakers){
+    const item = document.createElement('div');
+    item.className = 'league-item' + (window.selectedBookmaker === name ? ' active' : '');
+    item.innerHTML = `<span class="league-name">${name}</span><span class="league-count">${count}</span>`;
+    item.onclick = ()=>{
+      window.selectedBookmaker = name;
+      render(currentData);
+    };
+    bookmakerList.appendChild(item);
+  }
+}
+
 // === Auto učitavanje svakih 10s iz DEFAULT_FILE ===
 const srcEl=document.getElementById('src');
 const pillStatus=document.getElementById('pillStatus');
@@ -1361,7 +1434,46 @@ async function fetchAndRender(){
     const text = await resp.text();
     srcEl.value = text; srcEl.readOnly = true;
     
-    currentData = parseBlock(text);
+    let parsedData = parseBlock(text);
+    
+    // Validacija i filtriranje mečeva
+    const validMatches = parsedData.filter(match => {
+      // Proveri da li meč ima rows
+      if (!match.rows || match.rows.length === 0) return false;
+      
+      // Proveri da li bar jedna kladionica ima sve tri kvote (1, X, 2)
+      const hasCompleteBookmaker = match.rows.some(row => {
+        const has1 = row.markets['1'] && typeof row.markets['1'] === 'number' && row.markets['1'] > 0;
+        const hasX = row.markets['X'] && typeof row.markets['X'] === 'number' && row.markets['X'] > 0;
+        const has2 = row.markets['2'] && typeof row.markets['2'] === 'number' && row.markets['2'] > 0;
+        return has1 && hasX && has2;
+      });
+      
+      if (!hasCompleteBookmaker) {
+        console.log('Odbačen meč (nepotpune kvote):', match.teams);
+        return false;
+      }
+      
+      // Proveri arbitražu - ako je veća od 20%, smatraj greškom
+      const arb = arbitraza(match.rows);
+      const arb02 = arbitraza02(match.rows);
+      
+      if (arb.ok && arb.profit > 20) {
+        console.log('Odbačen meč (arbitraža 1-X-2 > 20%):', match.teams, arb.profit.toFixed(2) + '%');
+        return false;
+      }
+      
+      if (arb02.ok && arb02.profit > 20) {
+        console.log('Odbačen meč (arbitraža 0-2/3+ > 20%):', match.teams, arb02.profit.toFixed(2) + '%');
+        return false;
+      }
+      
+      return true;
+    });
+    
+    console.log(`Validacija: ${parsedData.length} mečeva → ${validMatches.length} validnih (odbačeno ${parsedData.length - validMatches.length})`);
+    
+    currentData = validMatches;
     render(currentData);
     
     const t = new Date();
@@ -1398,6 +1510,7 @@ if(btnClearFilters) {
     if(filterTimeEl) filterTimeEl.value = 'all';
     qEl.value = '';
     window.selectedLeague = null;
+    window.selectedBookmaker = null;
     render(currentData);
   });
 }

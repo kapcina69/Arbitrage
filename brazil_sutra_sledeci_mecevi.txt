@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 26.10.
-1:00
+2:00
 23:59
-1:00 - 23:59
+2:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -39,42 +39,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-COLOMBIA, Primera A - Clausura
-1122
-01:00
-Fortaleza CEIF
-Dep. Pasto
-811
-1
-1.71
-X
-3.15
-2
-5.25
-0-2
-1.50
-2+
-1.44
-3+
-2.40
-NEW ZEALAND, National League - Championship Group
-37901
-01:00
-Coastal Spirit
-Christchurch
-58
-1
-3.75
-X
-3.85
-2
-1.73
-0-2
-2.55
-2+
-1.11
-3+
-1.43
 BOLIVIA, Copa Pacena
 35590
 02:00
@@ -134,19 +98,19 @@ BRAZIL, Serie B
 02:35
 Cuiaba
 Remo
-822
+820
 1
-1.78
+1.85
 X
-3.25
+3.20
 2
-4.95
+4.55
 0-2
 1.60
 2+
-1.38
+1.39
 3+
-2.22
+2.25
 COSTA RICA, Primera Division - Apertura
 7902
 03:00
@@ -1150,13 +1114,13 @@ X
 10:00
 Sepsi Sf. Gheorghe
 Gloria 2018 Bistrita
-645
+644
 1
-1.23
+1.21
 X
 5.10
 2
-10.0
+11.0
 0-2
 2.10
 2+
@@ -1490,19 +1454,19 @@ BELARUS, Vysshaya Liga
 13:00
 Naftan
 Din. Minsk
-822
+823
 1
-7.10
+7.50
 X
-4.20
+4.30
 2
-1.42
+1.39
 0-2
-2.02
+2.05
 2+
 1.21
 3+
-1.72
+1.69
 CHINA, Super League
 481
 13:00
@@ -1649,19 +1613,19 @@ X
 13:00
 Iraklis 1908
 Niki Volos
-655
+656
 1
-2.12
+2.10
 X
-3.05
+3.10
 2
-3.25
+3.20
 0-2
-1.67
+1.75
 2+
-1.32
+1.29
 3+
-2.05
+1.95
 ITALY, Primavera 1
 37822
 13:00
@@ -1687,17 +1651,17 @@ BFC Daugavpils
 Super Nova
 832
 1
-1.82
+1.76
 X
-3.45
+3.50
 2
-3.65
+3.95
 0-2
-2.03
+2.05
 2+
-1.20
+1.19
 3+
-1.68
+1.66
 LITHUANIA, 1 Lyga
 1044
 13:00
@@ -2094,17 +2058,17 @@ Lyseng
 Sundby
 657
 1
-2.45
+2.80
 X
-3.25
+3.30
 2
-2.55
+2.22
 0-2
-2.03
+2.05
 2+
-1.20
+1.19
 3+
-1.68
+1.66
 ENGLAND, Championship
 349
 13:30
@@ -2250,13 +2214,13 @@ SINGAPORE, S-league
 13:30
 Young Lions
 Geylang
-638
+651
 1
-8.00
+7.75
 X
-5.80
+5.70
 2
-1.24
+1.25
 0-2
 3.95
 2+
@@ -2408,7 +2372,7 @@ SPAIN, LaLiga
 14:00
 Girona
 Real Oviedo
-943
+997
 1
 1.83
 X
@@ -3715,19 +3679,19 @@ X
 14:30
 RKAV Volendam
 Quick Boys
-659
+657
 1
-4.45
+4.80
 X
-4.10
+4.15
 2
-1.57
+1.52
 0-2
-2.65
+2.60
 2+
-1.10
+1.11
 3+
-1.41
+1.42
 POLAND, Division 2
 973
 14:30
@@ -3840,7 +3804,7 @@ ITALY, Serie A
 15:00
 Parma
 Como
-954
+1022
 1
 4.00
 X
@@ -3928,7 +3892,7 @@ BULGARIA, Vtora Liga
 15:00
 Belasitsa
 Marek
-653
+652
 1
 2.65
 X
@@ -3964,13 +3928,13 @@ Lok. Gorna
 Minyor Pernik
 650
 1
-1.64
+1.66
 X
 3.35
 2
-4.95
+4.80
 0-2
-1.68
+1.70
 2+
 1.29
 3+
@@ -4455,11 +4419,11 @@ Ilirija
 Dravinja
 657
 1
-2.45
+2.08
 X
 3.30
 2
-2.38
+2.88
 0-2
 1.95
 2+
@@ -4699,7 +4663,7 @@ GERMANY, Bundesliga
 15:30
 Augsburg
 RB Leipzig
-1052
+1054
 1
 3.35
 X
@@ -4733,7 +4697,7 @@ X
 15:30
 Eintracht Frankfurt
 St. Pauli
-950
+1031
 1
 1.71
 X
@@ -4767,7 +4731,7 @@ X
 15:30
 Hoffenheim
 Heidenheim
-1037
+1046
 1
 1.61
 X
@@ -4961,7 +4925,7 @@ ENGLAND, Premier League
 16:00
 Chelsea
 Sunderland
-957
+968
 1
 1.40
 X
@@ -4978,7 +4942,7 @@ X
 16:00
 Newcastle
 Fulham
-945
+1029
 1
 1.67
 X
@@ -5647,21 +5611,55 @@ X
 1.15
 3+
 1.53
+37799
+16:00
+Bradford PA
+Morpeth
+834
+1
+2.38
+X
+3.25
+2
+2.75
+0-2
+1.95
+2+
+1.23
+3+
+1.77
+37800
+16:00
+Brentwood
+Welling
+838
+1
+1.74
+X
+3.90
+2
+3.85
+0-2
+2.38
+2+
+1.14
+3+
+1.51
 Odigrani tiketi
-35590
-Independiente Petrolero - Bolivar
+1057
+Inter Miami - Nashville SC
 25.10. 02:00
 KONAČAN ISHOD 
 1
-  3.75  
+  1.58  
 Običan
 Sistem
 Kvota:
-3.75
+1.58
 Uplata:
 20.00 RSD
 Dobitak:
-75.00 RSD
+31.60 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express

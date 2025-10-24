@@ -7,7 +7,7 @@ Sve
   
   
 FUDBAL
-1645
+1642
   
   
 GOLOVI PO LIGAMA
@@ -15,7 +15,7 @@ GOLOVI PO LIGAMA
   
   
 KOŠARKA
-131
+129
   
   
 SP. KOŠARKA
@@ -23,7 +23,7 @@ SP. KOŠARKA
   
   
 TENIS
-70
+63
   
   
 RUKOMET
@@ -31,23 +31,19 @@ RUKOMET
   
   
 ODBOJKA
-36
+35
   
   
 HOKEJ
-214
-  
-  
-SP. HOKEJ
 211
   
   
+SP. HOKEJ
+103
+  
+  
 AM.FUDBAL
-52
-  
-  
-SP. AM. FUDBAL
-24
+51
   
   
 BEJZBOL
@@ -59,7 +55,7 @@ RAGBI UNIJA
   
   
 STONI TENIS
-205
+195
   
   
 FUTSAL
@@ -91,7 +87,7 @@ ESPORT
   
   
 SP. FUDBAL
-2087
+2056
   
   
 VIR. FUDBAL
@@ -103,7 +99,7 @@ VIR. TENIS
   
   
 OUTRIGHT
-431
+395
 
 This is a modal window.
 
@@ -116,10 +112,10 @@ Vremenska
 Top
 Specijali
  
-Argentina, Copa Argentina
-+796
-Argentinos Jrs
-24.10. 02:10
+Mexico, Liga de Expansion MX - Apertura
++814
+Tampico Madero
+24.10. 03:00
  Tiket
 TIKET
 
@@ -168,7 +164,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-01:52:00
+02:55:46
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
