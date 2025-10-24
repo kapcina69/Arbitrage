@@ -300,4 +300,4 @@ def run(headless=True):
 
 if __name__ == "__main__":
     #Ako želiš da GLEDAŠ skrol, stavi headless=False
-    run(headless=False)
+    run(headless=True)

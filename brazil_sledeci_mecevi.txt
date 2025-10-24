@@ -15,38 +15,5279 @@ Vremenska ponuda
 Bonus tip
 Danas
 Sutra
-25.10.
-21:00
+26.10.
+1:00
 23:59
-21:00 - 23:59
+1:00 - 23:59
 FUDBAL
 KOŠARKA
+STRELCI FUDBAL
+KOŠARKA IGRAČI
 TENIS
+HOKEJ
+SPECIJAL HOKEJ
+RUKOMET
 ODBOJKA
 STONI TENIS
+RAGBI UNIJA
+AMERIČKI FUDBAL
+SPECIJAL NFL
+FUTSAL
+FORMULA
 PIKADO
+BEJZBOL
 ESPORT
+BADMINTON
+BOKS
+FUDBAL VIRTUAL
+TENIS VIRTUAL
+POBEDNICI
+GOLOVI PO LIGAMA
 FUDBAL
-NICARAGUA, Liga Primera - Apertura
-35167
-23:00
-Jalapa
-UNAN-Managua
-653
-WORLD, Friendly International U20 Women
-35172
-23:00
-Brazil U20 Wom.
-Mexico U20 Wom.
+KONAČAN ISHOD
+UKUPNO GOLOVA
+ARGENTINA, Copa Argentina
+89
+02:10
+Belgrano
+Argentinos Jrs
+816
+1
+3.50
+X
+2.90
+2
+2.20
+0-2
+1.40
+2+
+1.54
+3+
+2.70
+WORLD, Copa Libertadores - Play Offs
+102
+02:30
+LDU Quito
+Palmeiras
+976
+1
+3.45
+X
+2.95
+2
+2.28
+0-2
+1.50
+2+
+1.49
+3+
+2.50
+MEXICO, Liga de Expansion MX - Apertura
+148
+03:00
+Venados
+Tampico Madero
+834
+1
+2.80
+X
+3.35
+2
+2.30
+0-2
+2.05
+2+
+1.20
+3+
+1.68
+PERU, Liga 1 - Clausura
+136
+03:00
+Sporting Cristal
+U. de Deportes
+823
+1
+3.35
+X
+2.95
+2
+2.22
+0-2
+1.58
+2+
+1.39
+3+
+2.25
+WORLD, CONCACAF Central American Cup - Play Offs
+33085
+04:00
+Alajuelense
+CD Olimpia
+827
+1
+1.91
+X
+3.30
+2
+3.55
+0-2
+1.83
+2+
+1.26
+3+
+1.87
+WORLD, Friendly International Women U19
+35560
+10:00
+Montenegro U19 Wom.
+Kosovo U19 Wom.
+652
+1
+5.00
+X
+3.55
+2
+1.60
+0-2
+1.95
+2+
+1.22
+3+
+1.77
+INDONESIA, Championship
+37931
+10:30
+Persekat
+PSPS Riau
+656
+1
+2.28
+X
+3.05
+2
+3.10
+0-2
+1.70
+2+
+1.32
+3+
+2.04
+INDONESIA, Super League
+862
+10:30
+PSBS Biak Numfor
+Persebaya
+830
+1
+5.45
+X
+4.10
+2
+1.47
+0-2
+2.25
+2+
+1.15
+3+
+1.56
+AUSTRALIA, A-League
+322
+10:35
+Newcastle Jets
+Melbourne Victory
+840
+1
+2.88
+X
+3.75
+2
+2.20
+0-2
+2.60
+2+
+1.12
+3+
+1.45
+AUSTRALIA, Australian Championship
+7958
+10:35
+Preston Lions
+Avondale FC
+839
+1
+3.65
+X
+3.70
+2
+1.77
+0-2
+2.40
+2+
+1.13
+3+
+1.50
+BANGLADESH, Federation Cup
+35517
+10:45
+Abahani Limited
+Fakirerpool YMC
 654
-PARAGUAY, Copa Paraguay
-317
-23:30
-Cerro Porteno
-General Caballero JLM
+1
+1.36
+X
+4.75
+2
+6.10
+0-2
+2.70
+2+
+1.09
+3+
+1.40
+35518
+10:45
+Rahmatgonj MFS
+Brothers U.
+659
+1
+1.80
+X
+3.60
+2
+3.60
+0-2
+2.18
+2+
+1.17
+3+
+1.59
+KAZAKHSTAN, First Division
+37825
+11:00
+AKAS
+Kaspij Aktau
+656
+1
+4.85
+X
+4.20
+2
+1.51
+0-2
+2.60
+2+
+1.09
+3+
+1.39
+37826
+11:00
+Aktobe 2
+Khan Tengri
+659
+1
+2.85
+X
+3.60
+2
+2.08
+0-2
+2.85
+2+
+1.06
+3+
+1.33
+37827
+11:00
+Altai
+Akademiya Ontustik
+640
+1
+1.51
+X
+4.10
+2
+4.90
+0-2
+2.40
+2+
+1.11
+3+
+1.45
+37828
+11:00
+Kairat Almaty 2
+SD Family
+657
+1
+1.44
+X
+4.65
+2
+4.95
+0-2
+3.55
+2+
+1.03
+3+
+1.22
+37829
+11:00
+Zhetisay
+Taraz
+658
+1
+1.76
+X
+3.75
+2
+3.60
+0-2
+2.50
+2+
+1.10
+3+
+1.43
+VIETNAM, V.League 2
+37830
+11:00
+Long An
+Ho Chi Minh City
+656
+1
+2.90
+X
+3.00
+2
+2.30
+0-2
+1.67
+2+
+1.32
+3+
+2.05
+ETHIOPIA, Premier League
+37846
+12:00
+Arba Menche
+Bahir Dar Kenema
+101
+1
+3.45
+X
+2.70
+2
+2.15
+0-2
+1.33
+2+
+1.57
+3+
+2.85
+ISRAEL, Liga Alef North
+35516
+12:00
+Tzeirey Umm al-Fahm
+Hapoel Ironi Karmiel
+642
+1
+1.96
+X
+3.25
+2
+3.40
+0-2
+1.85
+2+
+1.26
+3+
+1.85
+JAPAN, J3 League
+31246
+12:00
+Osaka
+Tochigi SC
+817
+1
+2.12
+X
+2.95
+2
+3.30
+0-2
+1.57
+2+
+1.38
+3+
+2.22
+RUSSIA, Youth League
+32983
+12:00
+FK Rostov U19
+Akhmat Grozny U19
+100
+1
+1.24
+X
+5.10
+2
+9.25
+0-2
+2.35
+2+
+1.12
+3+
+1.49
+32984
+12:00
+Konoplev Academy U19
+Ural U19
+102
+1
+1.88
+X
+3.70
+2
+3.25
+0-2
+2.40
+2+
+1.11
+3+
+1.46
+32985
+12:00
+Krylya Sovetov Samara U19
+Sochi U19
+102
+1
+2.10
+X
+3.35
+2
+3.00
+0-2
+2.30
+2+
+1.13
+3+
+1.50
+32986
+12:00
+Lokomotiv Moscow U19
+Baltika U19
+99
+1
+1.17
+X
+6.00
+2
+11.0
+0-2
+2.95
+2+
+1.06
+3+
+1.31
+WORLD, Friendly International Women U19
+35561
+12:00
+Belgium U19 Wom.
+Netherlands U19 Wom.
+654
+1
+5.75
+X
+4.50
+2
+1.41
+0-2
+2.65
+2+
+1.10
+3+
+1.40
+WORLD, Friendly Women
+37752
+12:00
+Estonia Wom.
+Latvia Wom.
+660
+1
+2.04
+X
+3.60
+2
+2.95
+0-2
+2.50
+2+
+1.12
+3+
+1.46
+AZERBAIJAN, Premier League
+35464
+12:30
+Karvan
+Turan
+820
+1
+6.20
+X
+3.65
+2
+1.49
+0-2
+1.75
+2+
+1.29
+3+
+1.97
+KENYA, Premier League
+37769
+13:00
+Mara Sugar
+Bidco United
+646
+1
+2.20
+X
+2.80
+2
+3.35
+0-2
+1.39
+2+
+1.49
+3+
+2.55
+POLAND, III Liga - Group III
+1032
+13:00
+Goczalkowice Zdroj
+Kluczbork
+59
+1
+2.35
+X
+3.30
+2
+2.50
+0-2
+2.15
+2+
+1.15
+3+
+1.56
+ARMENIA, Premier League
+32991
+13:30
+Alashkert FC
+Van
+827
+1
+1.66
+X
+3.50
+2
+4.55
+0-2
+1.90
+2+
+1.24
+3+
+1.80
+SINGAPORE, S-league
+36695
+13:30
+Balestier Khalsa
+Tanjong
+650
+1
+1.27
+X
+5.75
+2
+6.80
+0-2
+5.30
+2+
+1.01
+3+
+1.12
+CHINA, Super League
+478
+13:35
+Meizhou Hakka
+Yunnan Yukun
+840
+1
+1.83
+X
+3.80
+2
+3.60
+0-2
+2.50
+2+
+1.13
+3+
+1.47
+479
+13:35
+Wuhan Three Towns
+Shenzhen Xinpengcheng
+832
+1
+2.18
+X
+3.25
+2
+3.10
+0-2
+1.93
+2+
+1.24
+3+
+1.79
+ALBANIA, First Division
+37876
+14:00
+KF Iliria Fushe-Kruje
+Korabi Peshkopi
+653
+1
+2.18
+X
+3.00
+2
+3.15
+0-2
+1.50
+2+
+1.42
+3+
+2.38
+37877
+14:00
+Lushnja
+Apolonia Fier
+648
+1
+1.71
+X
+3.10
+2
+4.95
+0-2
+1.49
+2+
+1.44
+3+
+2.40
+ALBANIA, Superliga
+37873
+14:00
+Vora
+Dinamo Tirana
+654
+1
+3.25
+X
+2.90
+2
+2.18
+0-2
+1.53
+2+
+1.41
+3+
+2.30
+BOSNIA AND HERZEGOVINA, Prva Liga - RS
+37908
+14:00
+Zvijezda 09
+Nevesinje
+59
+1
+1.46
+X
+3.85
+2
+6.00
+0-2
+1.95
+2+
+1.22
+3+
+1.77
+BULGARIA, Parva Liga
+613
+14:00
+Montana
+Arda
+822
+1
+3.90
+X
+3.10
+2
+1.96
+0-2
+1.55
+2+
+1.40
+3+
+2.28
+CYPRUS, Division 2
+37783
+14:00
+APEA Akrotiriou
+M.E.A.P. Nisou
+658
+1
+2.40
+X
+3.30
+2
+2.55
+0-2
+2.15
+2+
+1.18
+3+
+1.61
+ETHIOPIA, Premier League
+37847
+14:00
+Mekelle 70 Enderta F.C.
+Defence Force
+102
+1
+2.95
+X
+2.70
+2
+2.40
+0-2
+1.34
+2+
+1.55
+3+
+2.80
+INDONESIA, Championship
+37932
+14:00
+Sumsel United
+Adhyaksa
+655
+1
+1.84
+X
+3.40
+2
+4.00
+0-2
+1.85
+2+
+1.26
+3+
+1.87
+INDONESIA, Super League
+863
+14:00
+Madura United
+Persija Jakarta
+829
+1
+3.25
+X
+3.20
+2
+2.05
+0-2
+1.82
+2+
+1.26
+3+
+1.87
+RUSSIA, Youth League
+32987
+14:00
+CSKA Moscow U19
+Zenit U19
+102
+1
+2.28
+X
+3.75
+2
+2.50
+0-2
+2.85
+2+
+1.06
+3+
+1.33
+32988
+14:00
+Fakel Voronezh U19
+Spartak Moscow U19
+102
+1
+3.80
+X
+3.65
+2
+1.76
+0-2
+2.20
+2+
+1.15
+3+
+1.56
+32989
+14:00
+Rubin Kazan U19
+Nizhny Novgorod U19
+102
+1
+2.02
+X
+3.30
+2
+3.25
+0-2
+1.98
+2+
+1.19
+3+
+1.68
+SAUDI ARABIA, Division 2
+37913
+14:00
+Al Taraji
+Al Shoalah
+658
+1
+2.60
+X
+2.95
+2
+2.62
+0-2
+1.58
+2+
+1.37
+3+
+2.22
+SERBIA, Prva Liga
+35487
+14:00
+Graficar Beograd
+Tekstilac
+102
+1
+1.92
+X
+3.05
+2
+3.55
+0-2
+1.55
+2+
+1.34
+3+
+2.18
+36697
+14:00
+Dubocica
+Jedinstvo
+102
+1
+2.55
+X
+2.85
+2
+2.60
+0-2
+1.52
+2+
+1.36
+3+
+2.22
+36698
+14:00
+Usce Novi Beograd
+Macva
+102
+1
+3.05
+X
+2.85
+2
+2.22
+0-2
+1.53
+2+
+1.36
+3+
+2.20
+THAILAND, Thai League 1
+836
+14:00
+Port MTI FC
+Muang Thong Utd
+837
+1
+1.85
+X
+3.60
+2
+3.40
+0-2
+2.25
+2+
+1.16
+3+
+1.56
+THAILAND, Thai League 2
+35488
+14:00
+Chainat
+Bangkok FC
+653
+1
+1.66
+X
+3.55
+2
+4.40
+0-2
+2.05
+2+
+1.20
+3+
+1.68
+TURKEY, TFF 1. Lig
+689
+14:00
+Erzurumspor
+Umraniyespor
+813
+1
+1.30
+X
+4.50
+2
+10.5
+0-2
+1.83
+2+
+1.27
+3+
+1.87
+SAUDI ARABIA, Division 2
+37914
+14:05
+Al-Rawdhah Club
+Al-Sadd FC
+658
+1
+2.45
+X
+2.95
+2
+2.75
+0-2
+1.63
+2+
+1.34
+3+
+2.12
+SAUDI ARABIA, Division 2
+37915
+14:20
+Tuwaiq FC
+Al Sharq
+658
+1
+3.10
+X
+3.15
+2
+2.15
+0-2
+1.85
+2+
+1.26
+3+
+1.85
+EGYPT, Division 2 - Group A
+35548
+14:30
+Raya
+WE SC
+60
+1
+2.40
+X
+2.75
+2
+2.85
+0-2
+1.39
+2+
+1.49
+3+
+2.55
+35549
+14:30
+Tersana
+La Viena
+60
+1
+2.75
+X
+2.60
+2
+2.62
+0-2
+1.29
+2+
+1.62
+3+
+3.05
+37861
+14:30
+El Mansoura
+Dayrout
+60
+1
+2.15
+X
+2.75
+2
+3.35
+0-2
+1.38
+2+
+1.50
+3+
+2.62
+ITALY, Primavera 1
+37819
+14:30
+Frosinone U20
+Bologna U20
+659
+1
+3.10
+X
+3.60
+2
+1.97
+0-2
+2.30
+2+
+1.13
+3+
+1.51
+MACEDONIA, Prva Liga
+37838
+14:30
+Bashkimi
+Shkupi
+813
+1
+1.28
+X
+4.40
+2
+9.75
+0-2
+1.85
+2+
+1.26
+3+
+1.85
+37839
+14:30
+Tikves
+Arsimi
+820
+1
+2.07
+X
+3.00
+2
+3.40
+0-2
+1.49
+2+
+1.44
+3+
+2.40
+UKRAINE, Premier League
+629
+14:30
+Oleksandriya
+Epitsentr
+828
+1
+2.05
+X
+3.20
+2
+3.45
+0-2
+1.75
+2+
+1.30
+3+
+1.97
+WORLD, Friendly Women
+35448
+14:30
+Iran Wom.
+Nepal Wom.
+654
+1
+1.62
+X
+3.75
+2
+4.45
+0-2
+2.15
+2+
+1.18
+3+
+1.61
+OMAN, Sultan Cup
+37776
+14:50
+Al Mudhaibi
+Al Wahda Sur
+656
+1
+2.70
+X
+2.90
+2
+2.55
+0-2
+1.55
+2+
+1.40
+3+
+2.28
+OMAN, Sultan Cup
+37777
+14:55
+Al Musannah
+Fanja
+654
+1
+2.08
+X
+3.05
+2
+3.30
+0-2
+1.67
+2+
+1.32
+3+
+2.05
+UNITED ARAB EMIRATES, Presidents Cup
+37817
+14:55
+Al Sharjah
+Dubai United
+652
+1
+1.37
+X
+4.35
+2
+6.60
+0-2
+2.25
+2+
+1.16
+3+
+1.56
+AZERBAIJAN, Premier League
+37762
+15:00
+Kapaz
+Imisli FK
+820
+1
+2.10
+X
+3.05
+2
+3.30
+0-2
+1.67
+2+
+1.32
+3+
+2.07
+BULGARIA, Vtora Liga
+1004
+15:00
+CSKA Sofia II
+Fratria
+657
+1
+2.50
+X
+3.20
+2
+2.55
+0-2
+1.87
+2+
+1.22
+3+
+1.77
+1005
+15:00
+Spartak Pleven
+Yantra Gabrovo
+640
+1
+4.75
+X
+3.05
+2
+1.77
+0-2
+1.43
+2+
+1.46
+3+
+2.45
+BURUNDI, Primus League
+37842
+15:00
+Bumamuru
+Aigle Noir
+102
+1
+2.35
+X
+3.20
+2
+2.75
+0-2
+1.90
+2+
+1.24
+3+
+1.82
+CROATIA, Prva NL
+33074
+15:00
+Cibalia
+Hrvace
+651
+1
+1.65
+X
+3.35
+2
+4.85
+0-2
+1.68
+2+
+1.29
+3+
+1.99
+33075
+15:00
+Orijent
+Dugopolje
+645
+1
+1.66
+X
+3.20
+2
+5.10
+0-2
+1.49
+2+
+1.41
+3+
+2.35
+33076
+15:00
+Sesvete
+Rudes
+647
+1
+2.70
+X
+2.85
+2
+2.60
+0-2
+1.44
+2+
+1.44
+3+
+2.40
+ENGLAND, Professional Development League
+35458
+15:00
+Sheffield Utd U21
+Fleetwood U21
+651
+1
+1.25
+X
+5.50
+2
+8.00
+0-2
+3.45
+2+
+1.05
+3+
+1.26
+35459
+15:00
+Sheffield Wed U21
+Coventry U21
+661
+1
+2.40
+X
+3.90
+2
+2.30
+0-2
+3.45
+2+
+1.05
+3+
+1.26
+ETHIOPIA, Premier League
+37848
+15:00
+Hadiya Hossana
+Ethio Electric
+102
+1
+2.80
+X
+2.65
+2
+2.55
+0-2
+1.32
+2+
+1.57
+3+
+2.88
+ISRAEL, Leumit League
+905
+15:00
+H. Ironi Rishon
+Hap. Ramat Gan
+825
+1
+1.99
+X
+3.10
+2
+3.50
+0-2
+1.68
+2+
+1.32
+3+
+2.05
+906
+15:00
+Nof Hagalil
+H. Akko
+820
+1
+2.88
+X
+2.95
+2
+2.35
+0-2
+1.60
+2+
+1.35
+3+
+2.15
+32996
+15:00
+H. Raanana
+Maccabi Jaffa
+832
+1
+2.35
+X
+3.05
+2
+2.75
+0-2
+1.75
+2+
+1.29
+3+
+1.95
+32997
+15:00
+Hapoel Afula
+Maccabi Petah Tikva
+821
+1
+7.70
+X
+4.25
+2
+1.35
+0-2
+2.00
+2+
+1.21
+3+
+1.72
+32998
+15:00
+Hapoel Kfar Shalem
+Hapoel Kfar Saba
+826
+1
+1.83
+X
+3.25
+2
+3.90
+0-2
+1.75
+2+
+1.29
+3+
+1.95
+32999
+15:00
+Ironi Modiin
+Bnei Yehuda
+831
+1
+3.15
+X
+3.15
+2
+2.10
+0-2
+1.85
+2+
+1.26
+3+
+1.85
+33000
+15:00
+M.Herzliya
+MS Kafr Qasim
+820
+1
+2.10
+X
+3.05
+2
+3.30
+0-2
+1.68
+2+
+1.32
+3+
+2.04
+33001
+15:00
+SC Kiryat Yam
+Hapoel Hadera
+829
+1
+1.98
+X
+3.25
+2
+3.35
+0-2
+1.85
+2+
+1.26
+3+
+1.85
+ITALY, Primavera 2
+37831
+15:00
+Avellino U19
+Monopoli U19
+642
+1
+2.35
+X
+3.40
+2
+2.60
+0-2
+2.07
+2+
+1.19
+3+
+1.66
+KYRGYZSTAN, Premier Liga
+37893
+15:00
+Kara Balta
+Ilbirs
+655
+1
+1.92
+X
+3.30
+2
+3.50
+0-2
+1.95
+2+
+1.22
+3+
+1.75
+MALAYSIA, Super League
+37765
+15:00
+Kelantan United
+Melaka FC
+837
+1
+2.05
+X
+3.50
+2
+3.00
+0-2
+2.22
+2+
+1.16
+3+
+1.56
+POLAND, Division 2
+969
+15:00
+Swit Szczecin
+LKS Lodz II
+832
+1
+2.02
+X
+3.30
+2
+3.20
+0-2
+1.98
+2+
+1.21
+3+
+1.72
+POLAND, III Liga - Group III
+1033
+15:00
+Carina Gubin
+Zaglebie II
+59
+1
+2.55
+X
+3.40
+2
+2.28
+0-2
+2.40
+2+
+1.11
+3+
+1.46
+1034
+15:00
+Legnica II
+Gornik Zabrze II
+59
+1
+2.80
+X
+3.50
+2
+2.07
+0-2
+2.38
+2+
+1.12
+3+
+1.47
+1035
+15:00
+Sleza Wroclaw
+Skra
+59
+1
+2.90
+X
+3.35
+2
+2.07
+0-2
+2.10
+2+
+1.16
+3+
+1.59
+RWANDA, Premier League
+37844
+15:00
+Gicumbi
+Gasogi United
+102
+1
+2.62
+X
+2.80
+2
+2.70
+0-2
+1.43
+2+
+1.49
+3+
+2.55
+TANZANIA, Ligi Kuu Bara
+37816
+15:00
+Mbeya City
+JKT Tanzania
+103
+1
+2.60
+X
+2.80
+2
+2.70
+0-2
+1.52
+2+
+1.42
+3+
+2.35
+UGANDA, Premier League
+37789
+15:00
+Kitara
+Mbarara City
+101
+1
+1.69
+X
+3.10
+2
+4.70
+0-2
+1.53
+2+
+1.38
+3+
+2.25
+WORLD, CAF Champions League - Qualification
+35491
+15:00
+Power Dynamos
+Vipers
+825
+1
+1.94
+X
+3.15
+2
+3.65
+0-2
+1.65
+2+
+1.34
+3+
+2.12
+WORLD, Friendly Women
+35449
+15:00
+Croatia Wom.
+Montenegro Wom.
+656
+1
+1.74
+X
+3.50
+2
+4.00
+0-2
+2.05
+2+
+1.19
+3+
+1.66
+IRAN, Persian Gulf Pro League
+811
+15:30
+Persepolis
+Zob Ahan
+639
+1
+1.50
+X
+3.35
+2
+6.80
+0-2
+1.42
+2+
+1.46
+3+
+2.45
+35446
+15:30
+Aluminium Arak
+Mes Rafsanjan
+639
+1
+2.30
+X
+2.62
+2
+3.35
+0-2
+1.26
+2+
+1.68
+3+
+3.25
+SOUTH AFRICA, Motsepe Foundation Championship
+36701
+15:30
+Milford
+Black Leopards
+103
+1
+2.20
+X
+3.00
+2
+3.15
+0-2
+1.60
+2+
+1.33
+3+
+2.10
+UKRAINE, Persha Liga
+37779
+15:30
+Nyva Ternopil
+Podillya Khmelnytskyi
+644
+1
+1.34
+X
+3.90
+2
+9.00
+0-2
+1.58
+2+
+1.35
+3+
+2.15
+WORLD, CAF Confederation Cup - Qualification
+35572
+15:30
+USM Alger
+Academie de FAD
+808
+1
+1.26
+X
+4.33
+2
+11.5
+0-2
+1.67
+2+
+1.32
+3+
+2.05
+SERBIA, Superliga
+384
+16:00
+Napredak
+Vojvodina
+828
+1
+4.30
+X
+3.40
+2
+1.78
+0-2
+1.92
+2+
+1.24
+3+
+1.79
+JORDAN, Premier League
+37750
+16:00
+Al Jazeera Amman
+Shabab Al Ordon
+830
+1
+2.25
+X
+3.05
+2
+2.95
+0-2
+1.70
+2+
+1.31
+3+
+2.02
+UZBEKISTAN, Super League
+37832
+16:00
+Qizilqum
+Din. Samarkand
 824
+1
+3.65
+X
+3.15
+2
+1.94
+0-2
+1.60
+2+
+1.33
+3+
+2.10
+WORLD, CAF Confederation Cup - Qualification
+35573
+16:00
+Azam
+KMKM
+805
+1
+1.12
+X
+6.60
+2
+14.0
+0-2
+2.75
+2+
+1.09
+3+
+1.38
+WORLD, Friendly International Women U19
+35562
+16:00
+Germany U19 Wom.
+Norway U19 Wom.
+654
+1
+1.36
+X
+4.75
+2
+6.20
+0-2
+2.65
+2+
+1.10
+3+
+1.40
+RUSSIA, FNL
+749
+16:15
+Kamaz
+Yenisey
+823
+1
+2.22
+X
+3.00
+2
+3.30
+0-2
+1.58
+2+
+1.38
+3+
+2.22
+BULGARIA, Parva Liga
+614
+16:30
+Spartak Varna
+Botev Plovdiv
+825
+1
+4.00
+X
+3.30
+2
+1.87
+0-2
+1.75
+2+
+1.30
+3+
+1.97
+ITALY, Primavera 1
+37820
+16:30
+Sassuolo U20
+Parma U20
+642
+1
+1.99
+X
+3.40
+2
+3.20
+0-2
+2.00
+2+
+1.18
+3+
+1.66
+ROMANIA, Superliga
+1149
+16:30
+Csikszereda M. Ciuc
+Petrolul
+823
+1
+2.75
+X
+2.95
+2
+2.60
+0-2
+1.57
+2+
+1.39
+3+
+2.28
+SAUDI ARABIA, Professional League
+830
+16:45
+Al-Fateh
+Al Ettifaq
+840
+1
+2.10
+X
+3.55
+2
+2.85
+0-2
+2.50
+2+
+1.12
+3+
+1.45
+ALBANIA, First Division
+37878
+17:00
+Skenderbeu
+Besa Kavaje
+647
+1
+1.49
+X
+3.55
+2
+6.40
+0-2
+1.60
+2+
+1.36
+3+
+2.18
+ALBANIA, Superliga
+37874
+17:00
+AF Elbasani
+Bylis
+652
+1
+1.77
+X
+3.15
+2
+4.45
+0-2
+1.60
+2+
+1.37
+3+
+2.18
+37875
+17:00
+Vllaznia
+KF Tirana
+651
+1
+1.50
+X
+3.70
+2
+5.90
+0-2
+1.82
+2+
+1.26
+3+
+1.87
+ANGOLA, Girabola
+37843
+17:00
+Primeiro de Agosto
+Desportivo Huila
+100
+1
+1.65
+X
+3.15
+2
+5.40
+0-2
+1.45
+2+
+1.47
+3+
+2.45
+ARMENIA, Premier League
+32992
+17:00
+Urartu
+Shirak Gjumri
+827
+1
+1.39
+X
+4.20
+2
+6.50
+0-2
+2.12
+2+
+1.18
+3+
+1.61
+BELARUS, Vysshaya Liga
+844
+17:00
+FC Minsk
+Smorgon
+825
+1
+1.79
+X
+3.30
+2
+4.40
+0-2
+1.68
+2+
+1.33
+3+
+2.07
+ETHIOPIA, Premier League
+37849
+17:00
+Ethiopia Nigd Bank
+Shire Endaselassie
+101
+1
+1.62
+X
+3.20
+2
+5.00
+0-2
+1.55
+2+
+1.35
+3+
+2.18
+EUROPE, UEFA Nations League Women - League B/C - Relegation
+37921
+17:00
+Kosovo Wom.
+Turkey Wom.
+824
+1
+4.80
+X
+3.45
+2
+1.64
+0-2
+1.78
+2+
+1.28
+3+
+1.92
+EUROPE, Youth, Euro U19 Women - Qualification - Round 1 - League B
+35544
+17:00
+Czech Republic U19 Wom.
+Lithuania U19 Wom.
+6
+1
+-
+X
+13.0
+2
+27.0
+0-2
+7.80
+2+
+-
+3+
+1.05
+GHANA, Premier League
+35467
+17:00
+Heart of Lions
+Holy Stars
+101
+1
+1.34
+X
+3.90
+2
+9.50
+0-2
+1.55
+2+
+1.39
+3+
+2.25
+IRAQ, Stars League
+37924
+17:00
+Erbil
+Al Shorta
+632
+1
+7.50
+X
+4.15
+2
+1.37
+0-2
+1.90
+2+
+1.23
+3+
+1.79
+LATVIA, Virsliga
+31191
+17:00
+Riga FC
+Tukums 2000
+789
+1
+1.04
+X
+9.00
+2
+24.0
+0-2
+3.00
+2+
+1.07
+3+
+1.33
+LITHUANIA, 1 Lyga
+1042
+17:00
+BE1 NFA
+FK Panevezys 2
+657
+1
+1.65
+X
+3.85
+2
+4.10
+0-2
+2.35
+2+
+1.12
+3+
+1.48
+33014
+17:00
+Nevezis Kedainiai
+Ekranas
+657
+1
+1.82
+X
+3.65
+2
+3.50
+0-2
+2.20
+2+
+1.15
+3+
+1.56
+MEXICO, Liga MX U21 - Apertura
+35604
+17:00
+Juarez U21
+Puebla U21
+656
+1
+2.50
+X
+2.88
+2
+2.75
+0-2
+1.58
+2+
+1.37
+3+
+2.22
+NIGERIA, Premier League
+37778
+17:00
+Katsina Utd
+El Kanemi
+101
+1
+1.83
+X
+2.95
+2
+4.45
+0-2
+1.36
+2+
+1.53
+3+
+2.75
+SERBIA, Prva Liga
+36699
+17:00
+Loznica
+Borac 1926
+102
+1
+1.87
+X
+3.05
+2
+3.70
+0-2
+1.57
+2+
+1.33
+3+
+2.12
+SLOVAKIA, 2. Liga
+31196
+17:00
+Pohronie
+Povazska Bystrica
+837
+1
+2.35
+X
+3.45
+2
+2.55
+0-2
+2.28
+2+
+1.13
+3+
+1.51
+UKRAINE, Premier League
+630
+17:00
+Veres-Rivne
+Zorya Luhansk
+828
+1
+2.65
+X
+3.00
+2
+2.65
+0-2
+1.60
+2+
+1.38
+3+
+2.22
+WORLD, Africa Cup of Nations Women - Qualification
+35576
+17:00
+Benin Wom.
+Nigeria Wom.
+633
+1
+20.0
+X
+9.25
+2
+1.06
+0-2
+4.05
+2+
+1.02
+3+
+1.19
+35577
+17:00
+Kenya Wom.
+Gambia Wom.
+658
+1
+2.70
+X
+3.00
+2
+2.50
+0-2
+1.68
+2+
+1.32
+3+
+2.04
+WORLD, Friendly Women
+35450
+17:00
+Georgia Wom.
+Moldova Wom.
+656
+1
+1.64
+X
+3.80
+2
+4.30
+0-2
+2.22
+2+
+1.16
+3+
+1.56
+SERBIA, Superliga
+385
+17:30
+Novi Pazar
+Javor
+828
+1
+1.77
+X
+3.35
+2
+4.40
+0-2
+1.80
+2+
+1.27
+3+
+1.90
+386
+17:30
+Partizan
+Mladost Lucani
+828
+1
+1.31
+X
+4.95
+2
+8.25
+0-2
+2.45
+2+
+1.13
+3+
+1.48
+EUROPE, UEFA Nations League Women - League A/B - Relegation
+37919
+17:30
+Czech Republic Wom.
+Austria Wom.
+831
+1
+3.60
+X
+3.40
+2
+1.86
+0-2
+1.95
+2+
+1.22
+3+
+1.75
+IRAN, Persian Gulf Pro League
+35447
+17:30
+Foolad
+Shams Azar Qazvin
+642
+1
+1.82
+X
+3.00
+2
+4.45
+0-2
+1.39
+2+
+1.49
+3+
+2.55
+SAUDI ARABIA, Professional League
+831
+17:30
+Neom SC
+Al Khaleej
+837
+1
+1.97
+X
+3.50
+2
+3.20
+0-2
+2.22
+2+
+1.16
+3+
+1.56
+SLOVENIA, Prva Liga
+870
+17:30
+Aluminij
+Bravo
+838
+1
+3.40
+X
+3.65
+2
+1.92
+0-2
+2.22
+2+
+1.17
+3+
+1.58
+EUROPE, UEFA Nations League Women - League A - Play Offs
+35579
+17:45
+Germany Wom.
+France Wom.
+834
+1
+2.60
+X
+3.25
+2
+2.40
+0-2
+1.95
+2+
+1.22
+3+
+1.75
+AUSTRIA, 2. Liga
+535
+18:00
+A. Klagenfurt
+Sturm Graz (Am)
+835
+1
+1.67
+X
+3.85
+2
+4.35
+0-2
+2.22
+2+
+1.17
+3+
+1.58
+536
+18:00
+Bregenz
+Kapfenberg
+835
+1
+2.35
+X
+3.40
+2
+2.75
+0-2
+2.10
+2+
+1.19
+3+
+1.66
+537
+18:00
+First Vienna
+Admira
+825
+1
+3.60
+X
+3.15
+2
+2.02
+0-2
+1.70
+2+
+1.33
+3+
+2.07
+538
+18:00
+Liefering
+St. Polten
+836
+1
+3.35
+X
+3.55
+2
+1.97
+0-2
+2.15
+2+
+1.18
+3+
+1.61
+539
+18:00
+Stripfing
+WSC Wels
+833
+1
+2.12
+X
+3.25
+2
+3.25
+0-2
+1.90
+2+
+1.25
+3+
+1.82
+AUSTRIA, Wien
+37903
+18:00
+Red Star-Penzing
+Floridsdorfer AC (Am)
+59
+1
+1.58
+X
+3.75
+2
+4.40
+0-2
+2.20
+2+
+1.14
+3+
+1.54
+37904
+18:00
+SV Gerasdorf Stammersdorf
+Lac Inter
+59
+1
+2.18
+X
+3.25
+2
+2.75
+0-2
+2.07
+2+
+1.17
+3+
+1.61
+BAHRAIN, Division 2
+35556
+18:00
+East Riffa
+Al Reef
+644
+1
+1.16
+X
+6.10
+2
+12.0
+0-2
+2.45
+2+
+1.12
+3+
+1.46
+35557
+18:00
+Tadamun Buri
+Manama Club
+638
+1
+19.0
+X
+6.70
+2
+1.11
+0-2
+2.20
+2+
+1.16
+3+
+1.58
+35558
+18:00
+Umm Al Hassam
+Qalali
+652
+1
+1.38
+X
+4.33
+2
+6.40
+0-2
+2.25
+2+
+1.16
+3+
+1.56
+BOSNIA AND HERZEGOVINA, Premijer Liga BiH
+6711
+18:00
+FK Sarajevo
+Sloga Doboj
+817
+1
+1.33
+X
+4.20
+2
+8.25
+0-2
+1.87
+2+
+1.24
+3+
+1.82
+BULGARIA, Vtora Liga
+1006
+18:00
+Dunav Ruse
+Svoge
+642
+1
+1.21
+X
+5.10
+2
+11.0
+0-2
+2.05
+2+
+1.18
+3+
+1.64
+CROATIA, HNL
+486
+18:00
+Gorica
+Hajduk Split
+823
+1
+3.90
+X
+3.10
+2
+1.96
+0-2
+1.58
+2+
+1.39
+3+
+2.25
+CYPRUS, Division 2
+37784
+18:00
+Ethnikos Latsion
+ASIL Lysi
+658
+1
+2.60
+X
+3.15
+2
+2.45
+0-2
+1.85
+2+
+1.26
+3+
+1.85
+CZECH REPUBLIC, Division 2
+31306
+18:00
+Ceske Budejovice
+Prostejov
+826
+1
+1.90
+X
+3.25
+2
+3.60
+0-2
+1.80
+2+
+1.27
+3+
+1.90
+31307
+18:00
+Usti nad Labem
+Ostrava B
+836
+1
+1.81
+X
+3.55
+2
+3.65
+0-2
+2.15
+2+
+1.18
+3+
+1.61
+CZECH REPUBLIC, MSFL
+1165
+18:00
+Hlucin
+Brno B
+660
+1
+2.80
+X
+3.50
+2
+2.05
+0-2
+2.45
+2+
+1.11
+3+
+1.44
+EUROPE, UEFA Nations League Women - League A/B - Relegation
+37920
+18:00
+Finland Wom.
+Denmark Wom.
+822
+1
+3.10
+X
+3.05
+2
+2.18
+0-2
+1.72
+2+
+1.30
+3+
+1.99
+EUROPE, UEFA Nations League Women - League B/C - Relegation
+37922
+18:00
+Cyprus Wom.
+Albania Wom.
+823
+1
+6.10
+X
+3.95
+2
+1.45
+0-2
+2.00
+2+
+1.21
+3+
+1.72
+LITHUANIA, 1 Lyga
+1043
+18:00
+Zalgiris 2
+Minija
+657
+1
+3.20
+X
+3.50
+2
+1.97
+0-2
+2.12
+2+
+1.16
+3+
+1.59
+37834
+18:00
+Neptunas
+Kauno Zalgiris 2
+651
+1
+1.35
+X
+4.50
+2
+6.70
+0-2
+2.38
+2+
+1.12
+3+
+1.47
+MEXICO, Liga MX U21 - Apertura
+35605
+18:00
+Mazatlan FC U21
+Club America U21
+654
+1
+4.05
+X
+3.45
+2
+1.75
+0-2
+2.00
+2+
+1.21
+3+
+1.72
+MEXICO, Liga Premier Serie A
+35519
+18:00
+Correcaminos 2
+Zacatepec
+657
+1
+2.60
+X
+3.15
+2
+2.45
+0-2
+1.85
+2+
+1.25
+3+
+1.82
+POLAND, Ekstraklasa
+516
+18:00
+Termalica B-B.
+Zaglebie
+835
+1
+2.45
+X
+3.40
+2
+2.70
+0-2
+2.15
+2+
+1.19
+3+
+1.64
+POLAND, Division 1
+802
+18:00
+Pruszkow
+Puszcza
+834
+1
+2.50
+X
+3.30
+2
+2.55
+0-2
+2.00
+2+
+1.21
+3+
+1.72
+POLAND, Division 2
+970
+18:00
+KKS Kalisz
+Slask Wroclaw 2
+834
+1
+2.45
+X
+3.25
+2
+2.55
+0-2
+1.98
+2+
+1.21
+3+
+1.72
+POLAND, III Liga - Group I
+1037
+18:00
+Wikielec
+Legia II
+59
+1
+4.60
+X
+4.40
+2
+1.47
+0-2
+2.65
+2+
+1.09
+3+
+1.38
+RUSSIA, FNL 2 - Division B - Group 3
+37895
+18:00
+Rodina Moscow U21
+D. Bryansk
+58
+1
+10.0
+X
+4.60
+2
+1.27
+0-2
+1.95
+2+
+1.22
+3+
+1.77
+RUSSIA, Youth League
+32990
+18:00
+Dinamo Moscow U19
+Krasnodar U19
+102
+1
+2.88
+X
+3.50
+2
+2.10
+0-2
+2.75
+2+
+1.07
+3+
+1.35
+SLOVENIA, 2. SNL
+33009
+18:00
+ND Gorica
+NK Krka
+652
+1
+1.82
+X
+3.35
+2
+3.55
+0-2
+1.97
+2+
+1.19
+3+
+1.68
+UNITED ARAB EMIRATES, Presidents Cup
+37818
+18:00
+Al Wahda Abu Dhabi
+Al Dhafra
+652
+1
+1.32
+X
+4.80
+2
+6.80
+0-2
+2.75
+2+
+1.09
+3+
+1.38
+WORLD, CAF Champions League - Qualification
+35492
+18:00
+Al-Hilal Omdurman
+Kenya Police FC
+819
+1
+1.52
+X
+3.55
+2
+5.80
+0-2
+1.70
+2+
+1.31
+3+
+2.00
+WORLD, Friendly Women
+35451
+18:00
+Hungary Wom.
+Luxembourg Wom.
+638
+1
+1.08
+X
+7.70
+2
+18.0
+0-2
+3.00
+2+
+1.07
+3+
+1.32
+35452
+18:00
+Poland Wom.
+Netherlands Wom.
+653
+1
+6.10
+X
+4.50
+2
+1.39
+0-2
+2.55
+2+
+1.11
+3+
+1.44
+WORLD, Friendly Women
+35453
+18:15
+Italy Wom.
+Japan Wom.
+658
+1
+2.90
+X
+3.05
+2
+2.28
+0-2
+1.75
+2+
+1.29
+3+
+1.97
+CZECH REPUBLIC, CFL - Group A
+35563
+18:30
+Pisek
+Petrin Plzen
+653
+1
+1.55
+X
+3.85
+2
+4.50
+0-2
+2.30
+2+
+1.13
+3+
+1.50
+GERMANY, 2. Bundesliga
+603
+18:30
+Greuther Furth
+Karlsruher
+978
+1
+2.65
+X
+3.65
+2
+2.45
+0-2
+2.50
+2+
+1.13
+3+
+1.47
+604
+18:30
+Schalke
+Darmstadt
+932
+1
+2.15
+X
+3.50
+2
+3.25
+0-2
+2.10
+2+
+1.20
+3+
+1.66
+JORDAN, Premier League
+37751
+18:30
+Al Salt
+Al Ramtha
+818
+1
+3.30
+X
+2.88
+2
+2.18
+0-2
+1.49
+2+
+1.44
+3+
+2.40
+RUSSIA, FNL
+750
+18:30
+Arsenal Tula
+Ural
+824
+1
+3.10
+X
+2.95
+2
+2.35
+0-2
+1.55
+2+
+1.40
+3+
+2.28
+RWANDA, Premier League
+37845
+18:30
+Rayon Sport
+Amagaju
+101
+1
+1.64
+X
+3.35
+2
+4.95
+0-2
+1.49
+2+
+1.44
+3+
+2.40
+MALTA, Premier League - First stage - Main
+37928
+18:45
+Mosta
+Zabbar
+657
+1
+3.15
+X
+3.25
+2
+2.08
+0-2
+1.90
+2+
+1.21
+3+
+1.77
+AUSTRIA, Karnten
+37906
+19:00
+St Veit/Glan
+Atus Ferlach
+59
+1
+1.60
+X
+3.55
+2
+4.45
+0-2
+2.00
+2+
+1.18
+3+
+1.66
+AUSTRIA, Regionalliga Centre
+37770
+19:00
+Deutschlandsberger
+Ried (Am)
+651
+1
+1.32
+X
+4.80
+2
+6.90
+0-2
+2.65
+2+
+1.08
+3+
+1.37
+37771
+19:00
+Gleisdorf
+Treibach
+647
+1
+2.00
+X
+3.65
+2
+2.95
+0-2
+2.45
+2+
+1.10
+3+
+1.43
+37772
+19:00
+Kalsdorf
+Union Gurten
+659
+1
+2.38
+X
+3.55
+2
+2.45
+0-2
+2.45
+2+
+1.11
+3+
+1.44
+37773
+19:00
+Wallern/St Marienkirchen
+Oedt
+659
+1
+2.40
+X
+3.50
+2
+2.45
+0-2
+2.35
+2+
+1.12
+3+
+1.49
+AUSTRIA, Regionalliga East
+37766
+19:00
+Parndorf
+Donaufeld Wien
+657
+1
+2.55
+X
+3.45
+2
+2.38
+0-2
+2.18
+2+
+1.15
+3+
+1.56
+37767
+19:00
+SV Donau
+Wiener Sport-Club
+660
+1
+2.00
+X
+3.45
+2
+3.10
+0-2
+2.35
+2+
+1.12
+3+
+1.49
+AUSTRIA, Steiermark
+37907
+19:00
+UFC Fehring
+Stadtwerke Bruck/Mur
+59
+1
+1.82
+X
+3.65
+2
+3.30
+0-2
+2.40
+2+
+1.11
+3+
+1.46
+BULGARIA, Parva Liga
+615
+19:00
+Lok. Sofia
+Lok. Plovdiv
+823
+1
+2.22
+X
+2.95
+2
+3.30
+0-2
+1.55
+2+
+1.40
+3+
+2.28
+DENMARK, 1st Division
+434
+19:00
+B.93
+Horsens
+831
+1
+3.70
+X
+3.45
+2
+1.90
+0-2
+1.97
+2+
+1.22
+3+
+1.77
+435
+19:00
+Kolding IF
+Middelfart
+825
+1
+1.47
+X
+4.10
+2
+6.00
+0-2
+2.05
+2+
+1.21
+3+
+1.69
+DENMARK, 2nd Division
+35532
+19:00
+Helsingor
+Thisted FC
+657
+1
+3.40
+X
+3.40
+2
+1.93
+0-2
+2.00
+2+
+1.21
+3+
+1.72
+35533
+19:00
+Vendsyssel FF
+F. Amager
+655
+1
+1.92
+X
+3.30
+2
+3.50
+0-2
+1.85
+2+
+1.25
+3+
+1.82
+DENMARK, Superliga
+378
+19:00
+Aarhus
+Nordsjaelland
+834
+1
+1.79
+X
+3.70
+2
+4.15
+0-2
+2.20
+2+
+1.18
+3+
+1.61
+GERMANY, 3. Liga
+496
+19:00
+Wehen
+Alemannia Aachen
+832
+1
+1.96
+X
+3.55
+2
+3.55
+0-2
+2.00
+2+
+1.22
+3+
+1.75
+GERMANY, Regionalliga Bayern
+32923
+19:00
+Buchbach
+Nurnberg II
+840
+1
+2.70
+X
+3.50
+2
+2.20
+0-2
+2.38
+2+
+1.14
+3+
+1.51
+32924
+19:00
+Burghausen
+Wurzburger Kickers
+834
+1
+2.20
+X
+3.35
+2
+2.80
+0-2
+2.10
+2+
+1.18
+3+
+1.64
+32925
+19:00
+SpVgg Bayreuth
+Augsburg II
+837
+1
+2.07
+X
+3.40
+2
+3.00
+0-2
+2.20
+2+
+1.17
+3+
+1.59
+GERMANY, Regionalliga North
+32965
+19:00
+Altona
+Phonix Lubeck
+841
+1
+2.70
+X
+3.80
+2
+2.12
+0-2
+2.85
+2+
+1.08
+3+
+1.36
+32966
+19:00
+Meppen
+Drochtersen/Assel
+844
+1
+1.97
+X
+3.85
+2
+2.90
+0-2
+3.05
+2+
+1.07
+3+
+1.32
+GERMANY, Regionalliga Northeast
+32957
+19:00
+Hallescher
+Lokomotive Leipzig
+832
+1
+2.90
+X
+3.20
+2
+2.22
+0-2
+1.85
+2+
+1.26
+3+
+1.85
+32958
+19:00
+Luckenwalde
+Babelsberg
+828
+1
+1.81
+X
+3.30
+2
+3.90
+0-2
+1.85
+2+
+1.26
+3+
+1.85
+POLAND, III Liga - Group II
+1036
+19:00
+Sroda
+Notec Czarnkow
+59
+1
+1.47
+X
+4.30
+2
+4.65
+0-2
+2.45
+2+
+1.10
+3+
+1.43
+SPAIN, Primera RFEF - Group 1
+33037
+19:00
+Merida AD
+Ponferradina
+654
+1
+2.15
+X
+3.00
+2
+3.25
+0-2
+1.63
+2+
+1.35
+3+
+2.12
+SWEDEN, Superettan
+822
+19:00
+Orgryte
+Vasteras SK
+840
+1
+2.70
+X
+3.60
+2
+2.28
+0-2
+2.45
+2+
+1.13
+3+
+1.49
+SWEDEN, Division 1 - Norra
+33084
+19:00
+Orebro Syr.
+Karlstad
+655
+1
+4.70
+X
+3.95
+2
+1.56
+0-2
+2.28
+2+
+1.15
+3+
+1.56
+TURKEY, Super Lig
+669
+19:00
+Karagumruk
+Kayserispor
+930
+1
+2.18
+X
+3.40
+2
+3.20
+0-2
+2.05
+2+
+1.22
+3+
+1.72
+TURKEY, TFF 1. Lig
+690
+19:00
+Sivasspor
+Hatayspor
+827
+1
+1.35
+X
+4.65
+2
+7.40
+0-2
+2.35
+2+
+1.15
+3+
+1.53
+UGANDA, Premier League
+37790
+19:00
+Villa
+Uganda Police FC
+103
+1
+1.96
+X
+3.00
+2
+3.50
+0-2
+1.55
+2+
+1.36
+3+
+2.18
+WORLD, Africa Cup of Nations Women - Qualification
+35578
+19:00
+Senegal Wom.
+Ivory Coast Wom.
+656
+1
+2.20
+X
+3.00
+2
+3.10
+0-2
+1.67
+2+
+1.32
+3+
+2.05
+WORLD, CAF Confederation Cup - Qualification
+35574
+19:00
+CR Belouizdad
+Hafia
+811
+1
+1.28
+X
+4.25
+2
+11.0
+0-2
+1.67
+2+
+1.32
+3+
+2.05
+POLAND, III Liga - Group IV
+1024
+19:08
+Wisloka Debica
+Korona Kielce II
+59
+1
+2.03
+X
+3.50
+2
+2.85
+0-2
+2.40
+2+
+1.11
+3+
+1.45
+AUSTRIA, Regionalliga East
+37768
+19:10
+Favoritner AC
+SV Oberwart
+645
+1
+9.25
+X
+4.95
+2
+1.26
+0-2
+2.18
+2+
+1.15
+3+
+1.56
+POLAND, III Liga - Group I
+1038
+19:23
+T. Mazowiecki
+CK Troszyn
+59
+1
+2.05
+X
+3.60
+2
+2.75
+0-2
+2.65
+2+
+1.08
+3+
+1.37
+AUSTRIA, Burgenland
+37905
+19:30
+Oberpullendorf
+ASV Siegendorf
+59
+1
+1.38
+X
+4.50
+2
+5.45
+0-2
+2.55
+2+
+1.10
+3+
+1.41
+BELGIUM, Pro League U21
+36709
+19:30
+Beveren U21
+Westerlo U21
+659
+1
+2.15
+X
+3.55
+2
+2.75
+0-2
+2.35
+2+
+1.12
+3+
+1.49
+GERMANY, Regionalliga North
+32967
+19:30
+Lubeck
+Emden
+842
+1
+2.25
+X
+3.70
+2
+2.55
+0-2
+2.75
+2+
+1.09
+3+
+1.38
+ROMANIA, Superliga
+1150
+19:30
+FC Arges
+Din. Bucuresti
+822
+1
+3.00
+X
+2.90
+2
+2.40
+0-2
+1.52
+2+
+1.43
+3+
+2.38
+SWITZERLAND, Challenge League
+684
+19:30
+Stade Nyonnais
+Yverdon
+831
+1
+5.10
+X
+3.95
+2
+1.57
+0-2
+2.25
+2+
+1.16
+3+
+1.56
+685
+19:30
+Xamax
+Rapperswil
+836
+1
+1.82
+X
+3.65
+2
+3.75
+0-2
+2.20
+2+
+1.17
+3+
+1.61
+WORLD, Friendly Women
+35454
+19:30
+Switzerland Wom.
+Canada Wom.
+655
+1
+3.20
+X
+3.25
+2
+2.04
+0-2
+1.88
+2+
+1.24
+3+
+1.82
+PORTUGAL, Liga Portugal 2
+1110
+19:45
+Torreense
+Oliveirense
+825
+1
+1.64
+X
+3.55
+2
+5.00
+0-2
+1.85
+2+
+1.26
+3+
+1.87
+NETHERLANDS, Eredivisie
+637
+20:00
+Heerenveen
+NAC Breda
+935
+1
+1.77
+X
+4.00
+2
+4.10
+0-2
+2.45
+2+
+1.14
+3+
+1.50
+BELGIUM, 1B Pro League
+1049
+20:00
+Francs Borains
+Gent U23
+832
+1
+2.35
+X
+3.15
+2
+2.90
+0-2
+1.78
+2+
+1.28
+3+
+1.92
+1050
+20:00
+Seraing
+Lierse K.
+835
+1
+2.70
+X
+3.25
+2
+2.45
+0-2
+1.90
+2+
+1.25
+3+
+1.82
+BELGIUM, Pro League U21
+36710
+20:00
+Francs Borains U21
+RWDM 47 U21
+659
+1
+3.45
+X
+3.90
+2
+1.78
+0-2
+2.75
+2+
+1.07
+3+
+1.35
+36711
+20:00
+Patro Eisden U21
+K. Lierse S.K. U21
+660
+1
+2.08
+X
+3.75
+2
+2.75
+0-2
+2.80
+2+
+1.07
+3+
+1.34
+36712
+20:00
+RFC Liege U21
+Beerschot VA U21
+659
+1
+2.02
+X
+3.75
+2
+2.88
+0-2
+2.75
+2+
+1.07
+3+
+1.35
+37840
+20:00
+OC Charleroi U21
+RAAL La Louviere U21
+659
+1
+2.90
+X
+3.95
+2
+1.97
+0-2
+2.85
+2+
+1.06
+3+
+1.33
+BRAZIL, Campeonato Carioca B1
+37925
+20:00
+Campo Grande
+Niteroiense
+638
+1
+1.84
+X
+3.25
+2
+3.85
+0-2
+1.67
+2+
+1.33
+3+
+2.07
+ENGLAND, Premier League 2
+37754
+20:00
+Birmingham U21
+Nottingham U21
+659
+1
+4.55
+X
+4.25
+2
+1.54
+0-2
+2.85
+2+
+1.08
+3+
+1.36
+37755
+20:00
+Fulham U21
+Derby U21
+651
+1
+1.22
+X
+5.90
+2
+8.50
+0-2
+3.40
+2+
+1.05
+3+
+1.26
+37756
+20:00
+Ipswich U21
+Brighton U21
+661
+1
+2.62
+X
+3.80
+2
+2.15
+0-2
+3.05
+2+
+1.07
+3+
+1.32
+37757
+20:00
+Middlesbrough U21
+Wolves U21
+660
+1
+2.10
+X
+3.75
+2
+2.75
+0-2
+2.85
+2+
+1.08
+3+
+1.36
+37758
+20:00
+Norwich U21
+Burnley U21
+659
+1
+1.84
+X
+3.95
+2
+3.20
+0-2
+2.75
+2+
+1.09
+3+
+1.38
+37759
+20:00
+West Brom U21
+Reading U21
+660
+1
+2.10
+X
+3.65
+2
+2.80
+0-2
+2.60
+2+
+1.11
+3+
+1.42
+37760
+20:00
+West Ham U21
+Aston Villa U21
+660
+1
+1.75
+X
+4.05
+2
+3.45
+0-2
+3.35
+2+
+1.05
+3+
+1.27
+ENGLAND, Premier League Cup U21
+37863
+20:00
+QPR U21
+Cardiff U21
+661
+1
+2.62
+X
+3.85
+2
+2.15
+0-2
+2.90
+2+
+1.08
+3+
+1.35
+EUROPE, UEFA Nations League Women - League A - Play Offs
+35580
+20:00
+Spain Wom.
+Sweden Wom.
+823
+1
+1.25
+X
+5.10
+2
+9.00
+0-2
+2.50
+2+
+1.12
+3+
+1.46
+EUROPE, UEFA Nations League Women - League A/B - Relegation
+35581
+20:00
+Ireland Wom.
+Belgium Wom.
+832
+1
+2.28
+X
+3.20
+2
+2.80
+0-2
+1.90
+2+
+1.24
+3+
+1.80
+35582
+20:00
+Northern Ireland Wom.
+Iceland Wom.
+809
+1
+13.0
+X
+5.50
+2
+1.18
+0-2
+2.15
+2+
+1.18
+3+
+1.61
+FRANCE, Ligue 2
+726
+20:00
+Bastia
+Laval
+955
+1
+2.22
+X
+2.95
+2
+3.55
+0-2
+1.46
+2+
+1.49
+3+
+2.50
+727
+20:00
+Guingamp
+Clermont
+967
+1
+1.68
+X
+3.60
+2
+5.00
+0-2
+1.80
+2+
+1.28
+3+
+1.92
+728
+20:00
+Le Mans
+Boulogne
+965
+1
+2.05
+X
+3.15
+2
+3.75
+0-2
+1.63
+2+
+1.36
+3+
+2.18
+729
+20:00
+Pau FC
+Dunkerque
+967
+1
+2.15
+X
+3.30
+2
+3.35
+0-2
+1.87
+2+
+1.26
+3+
+1.85
+730
+20:00
+Red Star
+Grenoble
+963
+1
+1.87
+X
+3.30
+2
+4.33
+0-2
+1.75
+2+
+1.31
+3+
+1.99
+731
+20:00
+Reims
+Troyes
+966
+1
+2.08
+X
+3.25
+2
+3.55
+0-2
+1.75
+2+
+1.31
+3+
+1.99
+LUXEMBOURG, Promotion D'Honneur
+37923
+20:00
+Marisca Mersch
+Koeppchen Wormeldange
+647
+1
+2.25
+X
+3.60
+2
+2.62
+0-2
+2.50
+2+
+1.12
+3+
+1.45
+NETHERLANDS, Eerste League
+506
+20:00
+Almere City
+Jong AZ
+840
+1
+1.76
+X
+4.10
+2
+3.60
+0-2
+2.70
+2+
+1.09
+3+
+1.39
+507
+20:00
+Eindhoven FC
+Venlo
+838
+1
+3.00
+X
+3.50
+2
+2.15
+0-2
+2.28
+2+
+1.16
+3+
+1.56
+508
+20:00
+Graafschap
+Jong PSV
+846
+1
+1.51
+X
+4.80
+2
+4.60
+0-2
+3.45
+2+
+1.04
+3+
+1.25
+509
+20:00
+Helmond
+Dordrecht
+840
+1
+2.12
+X
+3.75
+2
+2.85
+0-2
+2.50
+2+
+1.12
+3+
+1.46
+510
+20:00
+Jong Ajax
+FC Emmen
+842
+1
+2.62
+X
+3.90
+2
+2.22
+0-2
+2.90
+2+
+1.08
+3+
+1.36
+511
+20:00
+Jong Utrecht
+Oss
+836
+1
+2.38
+X
+3.55
+2
+2.60
+0-2
+2.28
+2+
+1.16
+3+
+1.56
+512
+20:00
+Vitesse
+Roda
+833
+1
+3.05
+X
+3.35
+2
+2.18
+0-2
+2.05
+2+
+1.21
+3+
+1.69
+513
+20:00
+Waalwijk
+Cambuur
+840
+1
+2.75
+X
+3.60
+2
+2.25
+0-2
+2.55
+2+
+1.12
+3+
+1.45
+SAUDI ARABIA, Professional League
+832
+20:00
+Al Ittihad Jeddah
+Al Hilal Riyadh
+845
+1
+3.70
+X
+3.90
+2
+1.72
+0-2
+2.90
+2+
+1.08
+3+
+1.35
+SLOVENIA, 2. SNL
+1003
+20:00
+Tabor Sezana
+Grosuplje
+653
+1
+3.10
+X
+3.05
+2
+2.08
+0-2
+1.72
+2+
+1.27
+3+
+1.92
+URUGUAY, Segunda Division
+35473
+20:00
+Club Oriental de Football
+Rentistas
+651
+1
+2.20
+X
+2.85
+2
+3.30
+0-2
+1.43
+2+
+1.49
+3+
+2.55
+SWITZERLAND, Challenge League
+686
+20:15
+Aarau
+Wil
+832
+1
+1.62
+X
+3.85
+2
+4.75
+0-2
+2.15
+2+
+1.19
+3+
+1.63
+GERMANY, Bundesliga
+439
+20:30
+Werder Bremen
+Union Berlin
+953
+1
+2.25
+X
+3.35
+2
+3.25
+0-2
+2.07
+2+
+1.25
+3+
+1.77
+BELGIUM, Pro League U21
+37841
+20:30
+Kortrijk U21
+Seraing U21
+638
+1
+1.32
+X
+5.20
+2
+6.20
+0-2
+3.10
+2+
+1.05
+3+
+1.28
+ITALY, Serie B
+709
+20:30
+Modena
+Empoli
+924
+1
+1.77
+X
+3.35
+2
+4.80
+0-2
+1.65
+2+
+1.36
+3+
+2.12
+ITALY, Serie C - Group A
+1001
+20:30
+Novara
+Virtus Verona
+826
+1
+2.08
+X
+3.10
+2
+3.25
+0-2
+1.70
+2+
+1.31
+3+
+2.02
+ITALY, Serie C - Group C
+1002
+20:30
+Foggia
+Altamura
+817
+1
+2.20
+X
+2.95
+2
+3.15
+0-2
+1.60
+2+
+1.37
+3+
+2.18
+POLAND, Ekstraklasa
+517
+20:30
+Motor Lublin
+Widzew Lodz
+835
+1
+2.70
+X
+3.45
+2
+2.45
+0-2
+2.10
+2+
+1.20
+3+
+1.66
+POLAND, Division 1
+803
+20:30
+Odra Opole
+Ruch Chorzow
+829
+1
+2.55
+X
+3.05
+2
+2.75
+0-2
+1.65
+2+
+1.35
+3+
+2.12
+SCOTLAND, Scottish Cup
+37836
+20:30
+Bo'ness Athletic
+Linlithgow Rose
+839
+1
+4.95
+X
+4.20
+2
+1.50
+0-2
+2.60
+2+
+1.11
+3+
+1.42
+SPAIN, LaLiga2
+875
+20:30
+Huesca
+Las Palmas
+907
+1
+2.95
+X
+2.85
+2
+2.65
+0-2
+1.39
+2+
+1.56
+3+
+2.80
+WALES, Cymru South
+37853
+20:30
+Ammanford
+Cwmbran Celtic
+653
+1
+1.36
+X
+4.33
+2
+6.25
+0-2
+2.40
+2+
+1.13
+3+
+1.48
+37854
+20:30
+Baglan Dragons
+Treowen
+653
+1
+1.64
+X
+3.55
+2
+4.25
+0-2
+2.05
+2+
+1.18
+3+
+1.66
+37855
+20:30
+Caerau Ely
+Trefelin
+658
+1
+2.45
+X
+3.35
+2
+2.38
+0-2
+2.20
+2+
+1.15
+3+
+1.56
+37856
+20:30
+Carmarthen Town
+Afan Lido
+653
+1
+1.36
+X
+4.30
+2
+6.20
+0-2
+2.40
+2+
+1.13
+3+
+1.49
+37857
+20:30
+Pontypridd
+Cambrian & Clydach
+654
+1
+3.80
+X
+3.40
+2
+1.77
+0-2
+2.03
+2+
+1.19
+3+
+1.66
+WORLD, Friendly Women
+35455
+20:30
+Morocco Wom.
+Scotland Wom.
+655
+1
+4.90
+X
+3.90
+2
+1.55
+0-2
+2.15
+2+
+1.17
+3+
+1.61
+ITALY, Serie A
+328
+20:45
+AC Milan
+Pisa
+934
+1
+1.32
+X
+4.90
+2
+11.0
+0-2
+2.15
+2+
+1.23
+3+
+1.72
+FRANCE, Ligue 1
+360
+20:45
+Paris FC
+Nantes
+943
+1
+1.65
+X
+3.85
+2
+5.40
+0-2
+2.08
+2+
+1.25
+3+
+1.77
+BELGIUM, Jupiler Pro League
+985
+20:45
+Charleroi
+Anderlecht
+935
+1
+3.05
+X
+3.20
+2
+2.30
+0-2
+1.85
+2+
+1.27
+3+
+1.87
+ENGLAND, FA Trophy
+35498
+20:45
+Dunston UTS
+Hebburn Town
+834
+1
+2.85
+X
+3.60
+2
+2.18
+0-2
+2.12
+2+
+1.19
+3+
+1.64
+IRELAND, Premier Division
+746
+20:45
+Galway
+Drogheda
+828
+1
+2.12
+X
+3.20
+2
+3.45
+0-2
+1.75
+2+
+1.31
+3+
+1.99
+7851
+20:45
+St. Patricks
+Waterford
+831
+1
+1.47
+X
+4.33
+2
+6.20
+0-2
+2.25
+2+
+1.17
+3+
+1.59
+IRELAND, Division 1 - Play Offs
+1148
+20:45
+Treaty United
+Cobh Ramblers
+832
+1
+3.35
+X
+3.40
+2
+1.95
+0-2
+2.00
+2+
+1.21
+3+
+1.72
+31305
+20:45
+UC Dublin
+Bray
+834
+1
+2.02
+X
+3.40
+2
+3.15
+0-2
+2.10
+2+
+1.19
+3+
+1.66
+SCOTLAND, League One
+582
+20:45
+Hamilton
+Queen of South
+832
+1
+1.45
+X
+4.15
+2
+5.60
+0-2
+2.30
+2+
+1.15
+3+
+1.54
+SCOTLAND, Scottish Cup
+37837
+20:45
+Formartine Utd
+Buckie Thistle
+839
+1
+1.46
+X
+4.35
+2
+5.10
+0-2
+2.85
+2+
+1.08
+3+
+1.36
+WALES, Cymru North
+37850
+20:45
+Buckley
+Llandudno
+659
+1
+4.10
+X
+4.00
+2
+1.59
+0-2
+2.80
+2+
+1.08
+3+
+1.36
+37851
+20:45
+Denbigh
+Ruthin
+658
+1
+1.45
+X
+4.40
+2
+4.75
+0-2
+3.30
+2+
+1.05
+3+
+1.27
+WALES, Cymru Premier
+984
+20:45
+Llanelli
+TNS
+54
+1
+35.0
+X
+16.0
+2
+-
+0-2
+6.20
+2+
+1.01
+3+
+1.08
+ENGLAND, Premier League
+414
+21:00
+Leeds
+West Ham
+957
+1
+1.81
+X
+3.50
+2
+4.70
+0-2
+1.87
+2+
+1.31
+3+
+1.95
+SPAIN, LaLiga
+907
+21:00
+Real Sociedad
+Sevilla
+964
+1
+1.99
+X
+3.40
+2
+3.95
+0-2
+1.85
+2+
+1.32
+3+
+1.97
+BOLIVIA, Copa Pacena
+35589
+21:00
+SA Bulo Bulo
+Tomayapo
+654
+1
+1.71
+X
+3.55
+2
+4.10
+0-2
+2.07
+2+
+1.18
+3+
+1.65
+BRAZIL, Campeonato Paulista U20 - Play Offs
+35586
+21:00
+Palmeiras U20
+Santos U20
+59
+1
+1.47
+X
+4.00
+2
+5.60
+0-2
+2.12
+2+
+1.18
+3+
+1.63
+ENGLAND, Championship
+348
+21:00
+Preston
+Sheffield Utd
+926
+1
+2.70
+X
+3.15
+2
+2.75
+0-2
+1.72
+2+
+1.37
+3+
+2.12
 Odigrani tiketi
-Klikni na kvotu i pokreni
+148
+Venados - Tampico Madero
+24.10. 03:00
+KONAČAN ISHOD 
+1
+  2.80  
+Običan
+Sistem
+Kvota:
+2.80
+Uplata:
+20.00 RSD
+Dobitak:
+56.00 RSD
+Prihvatam sve promene kvota.
+FREEBET
+Express
+Prijavi se
 Srpski
 O nama
 Odgovorno klađenje

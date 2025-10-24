@@ -15,11 +15,1718 @@ Vremenska ponuda
 Bonus tip
 Danas
 Sutra
-25.10.
-21:00
+26.10.
+1:00
 23:59
-21:00 - 23:59
-Trenutno nema mečeva za odabrani filter
+1:00 - 23:59
+FUDBAL
+KOŠARKA
+STRELCI FUDBAL
+KOŠARKA IGRAČI
+TENIS
+HOKEJ
+SPECIJAL HOKEJ
+RUKOMET
+ODBOJKA
+STONI TENIS
+RAGBI UNIJA
+AMERIČKI FUDBAL
+SPECIJAL NFL
+FUTSAL
+FORMULA
+PIKADO
+BEJZBOL
+ESPORT
+BADMINTON
+BOKS
+FUDBAL VIRTUAL
+TENIS VIRTUAL
+POBEDNICI
+GOLOVI PO LIGAMA
+FUDBAL
+ARGENTINA, Copa Argentina
+89
+02:10
+Belgrano
+Argentinos Jrs
+817
+WORLD, Copa Libertadores - Play Offs
+102
+02:30
+LDU Quito
+Palmeiras
+920
+MEXICO, Liga de Expansion MX - Apertura
+148
+03:00
+Venados
+Tampico Madero
+834
+PERU, Liga 1 - Clausura
+136
+03:00
+Sporting Cristal
+U. de Deportes
+823
+WORLD, CONCACAF Central American Cup - Play Offs
+33085
+04:00
+Alajuelense
+CD Olimpia
+828
+WORLD, Friendly International Women U19
+35560
+10:00
+Montenegro U19 Wom.
+Kosovo U19 Wom.
+652
+INDONESIA, Championship
+37931
+10:30
+Persekat
+PSPS Riau
+656
+INDONESIA, Super League
+862
+10:30
+PSBS Biak Numfor
+Persebaya
+830
+AUSTRALIA, A-League
+322
+10:35
+Newcastle Jets
+Melbourne Victory
+840
+AUSTRALIA, Australian Championship
+7958
+10:35
+Preston Lions
+Avondale FC
+839
+BANGLADESH, Federation Cup
+35517
+10:45
+Abahani Limited
+Fakirerpool YMC
+654
+35518
+10:45
+Rahmatgonj MFS
+Brothers U.
+659
+KAZAKHSTAN, First Division
+37825
+11:00
+AKAS
+Kaspij Aktau
+656
+37826
+11:00
+Aktobe 2
+Khan Tengri
+659
+37827
+11:00
+Altai
+Akademiya Ontustik
+640
+37828
+11:00
+Kairat Almaty 2
+SD Family
+657
+37829
+11:00
+Zhetisay
+Taraz
+658
+VIETNAM, V.League 2
+37830
+11:00
+Long An
+Ho Chi Minh City
+656
+ETHIOPIA, Premier League
+37846
+12:00
+Arba Menche
+Bahir Dar Kenema
+101
+ISRAEL, Liga Alef North
+35516
+12:00
+Tzeirey Umm al-Fahm
+Hapoel Ironi Karmiel
+642
+JAPAN, J3 League
+31246
+12:00
+Osaka
+Tochigi SC
+817
+RUSSIA, Youth League
+32983
+12:00
+FK Rostov U19
+Akhmat Grozny U19
+100
+32984
+12:00
+Konoplev Academy U19
+Ural U19
+102
+32985
+12:00
+Krylya Sovetov Samara U19
+Sochi U19
+102
+32986
+12:00
+Lokomotiv Moscow U19
+Baltika U19
+99
+WORLD, Friendly International Women U19
+35561
+12:00
+Belgium U19 Wom.
+Netherlands U19 Wom.
+654
+WORLD, Friendly Women
+37752
+12:00
+Estonia Wom.
+Latvia Wom.
+660
+AZERBAIJAN, Premier League
+35464
+12:30
+Karvan
+Turan
+820
+KENYA, Premier League
+37769
+13:00
+Mara Sugar
+Bidco United
+646
+POLAND, III Liga - Group III
+1032
+13:00
+Goczalkowice Zdroj
+Kluczbork
+59
+ARMENIA, Premier League
+32991
+13:30
+Alashkert FC
+Van
+827
+SINGAPORE, S-league
+36695
+13:30
+Balestier Khalsa
+Tanjong
+650
+CHINA, Super League
+478
+13:35
+Meizhou Hakka
+Yunnan Yukun
+840
+479
+13:35
+Wuhan Three Towns
+Shenzhen Xinpengcheng
+832
+ALBANIA, First Division
+37876
+14:00
+KF Iliria Fushe-Kruje
+Korabi Peshkopi
+653
+37877
+14:00
+Lushnja
+Apolonia Fier
+648
+ALBANIA, Superliga
+37873
+14:00
+Vora
+Dinamo Tirana
+654
+BOSNIA AND HERZEGOVINA, Prva Liga - RS
+37908
+14:00
+Zvijezda 09
+Nevesinje
+59
+BULGARIA, Parva Liga
+613
+14:00
+Montana
+Arda
+822
+CYPRUS, Division 2
+37783
+14:00
+APEA Akrotiriou
+M.E.A.P. Nisou
+658
+ETHIOPIA, Premier League
+37847
+14:00
+Mekelle 70 Enderta F.C.
+Defence Force
+102
+INDONESIA, Championship
+37932
+14:00
+Sumsel United
+Adhyaksa
+655
+INDONESIA, Super League
+863
+14:00
+Madura United
+Persija Jakarta
+829
+RUSSIA, Youth League
+32987
+14:00
+CSKA Moscow U19
+Zenit U19
+102
+32988
+14:00
+Fakel Voronezh U19
+Spartak Moscow U19
+102
+32989
+14:00
+Rubin Kazan U19
+Nizhny Novgorod U19
+102
+SAUDI ARABIA, Division 2
+37913
+14:00
+Al Taraji
+Al Shoalah
+658
+SERBIA, Prva Liga
+35487
+14:00
+Graficar Beograd
+Tekstilac
+102
+36697
+14:00
+Dubocica
+Jedinstvo
+102
+36698
+14:00
+Usce Novi Beograd
+Macva
+102
+THAILAND, Thai League 1
+836
+14:00
+Port MTI FC
+Muang Thong Utd
+837
+THAILAND, Thai League 2
+35488
+14:00
+Chainat
+Bangkok FC
+653
+TURKEY, TFF 1. Lig
+689
+14:00
+Erzurumspor
+Umraniyespor
+813
+SAUDI ARABIA, Division 2
+37914
+14:05
+Al-Rawdhah Club
+Al-Sadd FC
+658
+SAUDI ARABIA, Division 2
+37915
+14:20
+Tuwaiq FC
+Al Sharq
+658
+EGYPT, Division 2 - Group A
+35548
+14:30
+Raya
+WE SC
+60
+35549
+14:30
+Tersana
+La Viena
+60
+37861
+14:30
+El Mansoura
+Dayrout
+60
+ITALY, Primavera 1
+37819
+14:30
+Frosinone U20
+Bologna U20
+659
+MACEDONIA, Prva Liga
+37838
+14:30
+Bashkimi
+Shkupi
+815
+37839
+14:30
+Tikves
+Arsimi
+820
+UKRAINE, Premier League
+629
+14:30
+Oleksandriya
+Epitsentr
+828
+WORLD, Friendly Women
+35448
+14:30
+Iran Wom.
+Nepal Wom.
+654
+OMAN, Sultan Cup
+37776
+14:50
+Al Mudhaibi
+Al Wahda Sur
+656
+OMAN, Sultan Cup
+37777
+14:55
+Al Musannah
+Fanja
+654
+UNITED ARAB EMIRATES, Presidents Cup
+37817
+14:55
+Al Sharjah
+Dubai United
+652
+AZERBAIJAN, Premier League
+37762
+15:00
+Kapaz
+Imisli FK
+820
+BULGARIA, Vtora Liga
+1004
+15:00
+CSKA Sofia II
+Fratria
+657
+1005
+15:00
+Spartak Pleven
+Yantra Gabrovo
+640
+BURUNDI, Primus League
+37842
+15:00
+Bumamuru
+Aigle Noir
+102
+CROATIA, Prva NL
+33074
+15:00
+Cibalia
+Hrvace
+651
+33075
+15:00
+Orijent
+Dugopolje
+645
+33076
+15:00
+Sesvete
+Rudes
+647
+ENGLAND, Professional Development League
+35458
+15:00
+Sheffield Utd U21
+Fleetwood U21
+651
+35459
+15:00
+Sheffield Wed U21
+Coventry U21
+661
+ETHIOPIA, Premier League
+37848
+15:00
+Hadiya Hossana
+Ethio Electric
+102
+ISRAEL, Leumit League
+905
+15:00
+H. Ironi Rishon
+Hap. Ramat Gan
+825
+906
+15:00
+Nof Hagalil
+H. Akko
+820
+32996
+15:00
+H. Raanana
+Maccabi Jaffa
+832
+32997
+15:00
+Hapoel Afula
+Maccabi Petah Tikva
+821
+32998
+15:00
+Hapoel Kfar Shalem
+Hapoel Kfar Saba
+826
+32999
+15:00
+Ironi Modiin
+Bnei Yehuda
+831
+33000
+15:00
+M.Herzliya
+MS Kafr Qasim
+820
+33001
+15:00
+SC Kiryat Yam
+Hapoel Hadera
+829
+ITALY, Primavera 2
+37831
+15:00
+Avellino U19
+Monopoli U19
+642
+KYRGYZSTAN, Premier Liga
+37893
+15:00
+Kara Balta
+Ilbirs
+655
+MALAYSIA, Super League
+37765
+15:00
+Kelantan United
+Melaka FC
+837
+POLAND, Division 2
+969
+15:00
+Swit Szczecin
+LKS Lodz II
+832
+POLAND, III Liga - Group III
+1033
+15:00
+Carina Gubin
+Zaglebie II
+59
+1034
+15:00
+Legnica II
+Gornik Zabrze II
+59
+1035
+15:00
+Sleza Wroclaw
+Skra
+59
+RWANDA, Premier League
+37844
+15:00
+Gicumbi
+Gasogi United
+102
+TANZANIA, Ligi Kuu Bara
+37816
+15:00
+Mbeya City
+JKT Tanzania
+103
+UGANDA, Premier League
+37789
+15:00
+Kitara
+Mbarara City
+101
+WORLD, CAF Champions League - Qualification
+35491
+15:00
+Power Dynamos
+Vipers
+824
+WORLD, Friendly Women
+35449
+15:00
+Croatia Wom.
+Montenegro Wom.
+656
+IRAN, Persian Gulf Pro League
+811
+15:30
+Persepolis
+Zob Ahan
+639
+35446
+15:30
+Aluminium Arak
+Mes Rafsanjan
+639
+SOUTH AFRICA, Motsepe Foundation Championship
+36701
+15:30
+Milford
+Black Leopards
+103
+UKRAINE, Persha Liga
+37779
+15:30
+Nyva Ternopil
+Podillya Khmelnytskyi
+644
+WORLD, CAF Confederation Cup - Qualification
+35572
+15:30
+USM Alger
+Academie de FAD
+808
+SERBIA, Superliga
+384
+16:00
+Napredak
+Vojvodina
+828
+JORDAN, Premier League
+37750
+16:00
+Al Jazeera Amman
+Shabab Al Ordon
+830
+UZBEKISTAN, Super League
+37832
+16:00
+Qizilqum
+Din. Samarkand
+824
+WORLD, CAF Confederation Cup - Qualification
+35573
+16:00
+Azam
+KMKM
+805
+WORLD, Friendly International Women U19
+35562
+16:00
+Germany U19 Wom.
+Norway U19 Wom.
+651
+RUSSIA, FNL
+749
+16:15
+Kamaz
+Yenisey
+823
+BULGARIA, Parva Liga
+614
+16:30
+Spartak Varna
+Botev Plovdiv
+825
+ITALY, Primavera 1
+37820
+16:30
+Sassuolo U20
+Parma U20
+642
+ROMANIA, Superliga
+1149
+16:30
+Csikszereda M. Ciuc
+Petrolul
+823
+SAUDI ARABIA, Professional League
+830
+16:45
+Al-Fateh
+Al Ettifaq
+840
+ALBANIA, First Division
+37878
+17:00
+Skenderbeu
+Besa Kavaje
+647
+ALBANIA, Superliga
+37874
+17:00
+AF Elbasani
+Bylis
+652
+37875
+17:00
+Vllaznia
+KF Tirana
+654
+ANGOLA, Girabola
+37843
+17:00
+Primeiro de Agosto
+Desportivo Huila
+100
+ARMENIA, Premier League
+32992
+17:00
+Urartu
+Shirak Gjumri
+827
+BELARUS, Vysshaya Liga
+844
+17:00
+FC Minsk
+Smorgon
+825
+ETHIOPIA, Premier League
+37849
+17:00
+Ethiopia Nigd Bank
+Shire Endaselassie
+101
+EUROPE, UEFA Nations League Women - League B/C - Relegation
+37921
+17:00
+Kosovo Wom.
+Turkey Wom.
+824
+EUROPE, Youth, Euro U19 Women - Qualification - Round 1 - League B
+35544
+17:00
+Czech Republic U19 Wom.
+Lithuania U19 Wom.
+6
+GHANA, Premier League
+35467
+17:00
+Heart of Lions
+Holy Stars
+101
+IRAQ, Stars League
+37924
+17:00
+Erbil
+Al Shorta
+632
+LATVIA, Virsliga
+31191
+17:00
+Riga FC
+Tukums 2000
+789
+LITHUANIA, 1 Lyga
+1042
+17:00
+BE1 NFA
+FK Panevezys 2
+656
+33014
+17:00
+Nevezis Kedainiai
+Ekranas
+657
+MEXICO, Liga MX U21 - Apertura
+35604
+17:00
+Juarez U21
+Puebla U21
+656
+NIGERIA, Premier League
+37778
+17:00
+Katsina Utd
+El Kanemi
+101
+SERBIA, Prva Liga
+36699
+17:00
+Loznica
+Borac 1926
+102
+SLOVAKIA, 2. Liga
+31196
+17:00
+Pohronie
+Povazska Bystrica
+837
+UKRAINE, Premier League
+630
+17:00
+Veres-Rivne
+Zorya Luhansk
+828
+WORLD, Africa Cup of Nations Women - Qualification
+35576
+17:00
+Benin Wom.
+Nigeria Wom.
+633
+35577
+17:00
+Kenya Wom.
+Gambia Wom.
+658
+WORLD, Friendly Women
+35450
+17:00
+Georgia Wom.
+Moldova Wom.
+656
+SERBIA, Superliga
+385
+17:30
+Novi Pazar
+Javor
+828
+386
+17:30
+Partizan
+Mladost Lucani
+828
+EUROPE, UEFA Nations League Women - League A/B - Relegation
+37919
+17:30
+Czech Republic Wom.
+Austria Wom.
+831
+IRAN, Persian Gulf Pro League
+35447
+17:30
+Foolad
+Shams Azar Qazvin
+641
+SAUDI ARABIA, Professional League
+831
+17:30
+Neom SC
+Al Khaleej
+838
+SLOVENIA, Prva Liga
+870
+17:30
+Aluminij
+Bravo
+838
+EUROPE, UEFA Nations League Women - League A - Play Offs
+35579
+17:45
+Germany Wom.
+France Wom.
+834
+AUSTRIA, 2. Liga
+535
+18:00
+A. Klagenfurt
+Sturm Graz (Am)
+835
+536
+18:00
+Bregenz
+Kapfenberg
+835
+537
+18:00
+First Vienna
+Admira
+825
+538
+18:00
+Liefering
+St. Polten
+837
+539
+18:00
+Stripfing
+WSC Wels
+833
+AUSTRIA, Wien
+37903
+18:00
+Red Star-Penzing
+Floridsdorfer AC (Am)
+59
+37904
+18:00
+SV Gerasdorf Stammersdorf
+Lac Inter
+59
+BAHRAIN, Division 2
+35556
+18:00
+East Riffa
+Al Reef
+644
+35557
+18:00
+Tadamun Buri
+Manama Club
+639
+35558
+18:00
+Umm Al Hassam
+Qalali
+652
+BOSNIA AND HERZEGOVINA, Premijer Liga BiH
+6711
+18:00
+FK Sarajevo
+Sloga Doboj
+817
+BULGARIA, Vtora Liga
+1006
+18:00
+Dunav Ruse
+Svoge
+642
+CROATIA, HNL
+486
+18:00
+Gorica
+Hajduk Split
+823
+CYPRUS, Division 2
+37784
+18:00
+Ethnikos Latsion
+ASIL Lysi
+658
+CZECH REPUBLIC, Division 2
+31306
+18:00
+Ceske Budejovice
+Prostejov
+826
+31307
+18:00
+Usti nad Labem
+Ostrava B
+836
+CZECH REPUBLIC, MSFL
+1165
+18:00
+Hlucin
+Brno B
+660
+EUROPE, UEFA Nations League Women - League A/B - Relegation
+37920
+18:00
+Finland Wom.
+Denmark Wom.
+822
+EUROPE, UEFA Nations League Women - League B/C - Relegation
+37922
+18:00
+Cyprus Wom.
+Albania Wom.
+823
+LITHUANIA, 1 Lyga
+1043
+18:00
+Zalgiris 2
+Minija
+657
+37834
+18:00
+Neptunas
+Kauno Zalgiris 2
+651
+MEXICO, Liga MX U21 - Apertura
+35605
+18:00
+Mazatlan FC U21
+Club America U21
+654
+MEXICO, Liga Premier Serie A
+35519
+18:00
+Correcaminos 2
+Zacatepec
+657
+POLAND, Ekstraklasa
+516
+18:00
+Termalica B-B.
+Zaglebie
+835
+POLAND, Division 1
+802
+18:00
+Pruszkow
+Puszcza
+834
+POLAND, Division 2
+970
+18:00
+KKS Kalisz
+Slask Wroclaw 2
+834
+POLAND, III Liga - Group I
+1037
+18:00
+Wikielec
+Legia II
+59
+RUSSIA, FNL 2 - Division B - Group 3
+37895
+18:00
+Rodina Moscow U21
+D. Bryansk
+58
+RUSSIA, Youth League
+32990
+18:00
+Dinamo Moscow U19
+Krasnodar U19
+102
+SLOVENIA, 2. SNL
+33009
+18:00
+ND Gorica
+NK Krka
+652
+UNITED ARAB EMIRATES, Presidents Cup
+37818
+18:00
+Al Wahda Abu Dhabi
+Al Dhafra
+652
+WORLD, CAF Champions League - Qualification
+35492
+18:00
+Al-Hilal Omdurman
+Kenya Police FC
+819
+WORLD, Friendly Women
+35451
+18:00
+Hungary Wom.
+Luxembourg Wom.
+638
+35452
+18:00
+Poland Wom.
+Netherlands Wom.
+653
+WORLD, Friendly Women
+35453
+18:15
+Italy Wom.
+Japan Wom.
+658
+CZECH REPUBLIC, CFL - Group A
+35563
+18:30
+Pisek
+Petrin Plzen
+653
+GERMANY, 2. Bundesliga
+603
+18:30
+Greuther Furth
+Karlsruher
+936
+604
+18:30
+Schalke
+Darmstadt
+932
+JORDAN, Premier League
+37751
+18:30
+Al Salt
+Al Ramtha
+818
+RUSSIA, FNL
+750
+18:30
+Arsenal Tula
+Ural
+824
+RWANDA, Premier League
+37845
+18:30
+Rayon Sport
+Amagaju
+101
+MALTA, Premier League - First stage - Main
+37928
+18:45
+Mosta
+Zabbar
+657
+AUSTRIA, Karnten
+37906
+19:00
+St Veit/Glan
+Atus Ferlach
+59
+AUSTRIA, Regionalliga Centre
+37770
+19:00
+Deutschlandsberger
+Ried (Am)
+650
+37771
+19:00
+Gleisdorf
+Treibach
+647
+37772
+19:00
+Kalsdorf
+Union Gurten
+659
+37773
+19:00
+Wallern/St Marienkirchen
+Oedt
+659
+AUSTRIA, Regionalliga East
+37766
+19:00
+Parndorf
+Donaufeld Wien
+657
+37767
+19:00
+SV Donau
+Wiener Sport-Club
+660
+AUSTRIA, Steiermark
+37907
+19:00
+UFC Fehring
+Stadtwerke Bruck/Mur
+59
+BULGARIA, Parva Liga
+615
+19:00
+Lok. Sofia
+Lok. Plovdiv
+823
+DENMARK, 1st Division
+434
+19:00
+B.93
+Horsens
+831
+435
+19:00
+Kolding IF
+Middelfart
+825
+DENMARK, 2nd Division
+35532
+19:00
+Helsingor
+Thisted FC
+657
+35533
+19:00
+Vendsyssel FF
+F. Amager
+655
+DENMARK, Superliga
+378
+19:00
+Aarhus
+Nordsjaelland
+834
+GERMANY, 3. Liga
+496
+19:00
+Wehen
+Alemannia Aachen
+832
+GERMANY, Regionalliga Bayern
+32923
+19:00
+Buchbach
+Nurnberg II
+840
+32924
+19:00
+Burghausen
+Wurzburger Kickers
+834
+32925
+19:00
+SpVgg Bayreuth
+Augsburg II
+837
+GERMANY, Regionalliga North
+32965
+19:00
+Altona
+Phonix Lubeck
+841
+32966
+19:00
+Meppen
+Drochtersen/Assel
+844
+GERMANY, Regionalliga Northeast
+32957
+19:00
+Hallescher
+Lokomotive Leipzig
+832
+32958
+19:00
+Luckenwalde
+Babelsberg
+828
+POLAND, III Liga - Group II
+1036
+19:00
+Sroda
+Notec Czarnkow
+59
+SPAIN, Primera RFEF - Group 1
+33037
+19:00
+Merida AD
+Ponferradina
+654
+SWEDEN, Superettan
+822
+19:00
+Orgryte
+Vasteras SK
+840
+SWEDEN, Division 1 - Norra
+33084
+19:00
+Orebro Syr.
+Karlstad
+655
+TURKEY, Super Lig
+669
+19:00
+Karagumruk
+Kayserispor
+980
+TURKEY, TFF 1. Lig
+690
+19:00
+Sivasspor
+Hatayspor
+827
+UGANDA, Premier League
+37790
+19:00
+Villa
+Uganda Police FC
+103
+WORLD, Africa Cup of Nations Women - Qualification
+35578
+19:00
+Senegal Wom.
+Ivory Coast Wom.
+656
+WORLD, CAF Confederation Cup - Qualification
+35574
+19:00
+CR Belouizdad
+Hafia
+811
+POLAND, III Liga - Group IV
+1024
+19:08
+Wisloka Debica
+Korona Kielce II
+59
+AUSTRIA, Regionalliga East
+37768
+19:10
+Favoritner AC
+SV Oberwart
+645
+POLAND, III Liga - Group I
+1038
+19:23
+T. Mazowiecki
+CK Troszyn
+59
+AUSTRIA, Burgenland
+37905
+19:30
+Oberpullendorf
+ASV Siegendorf
+59
+BELGIUM, Pro League U21
+36709
+19:30
+Beveren U21
+Westerlo U21
+659
+GERMANY, Regionalliga North
+32967
+19:30
+Lubeck
+Emden
+842
+ROMANIA, Superliga
+1150
+19:30
+FC Arges
+Din. Bucuresti
+822
+SWITZERLAND, Challenge League
+684
+19:30
+Stade Nyonnais
+Yverdon
+831
+685
+19:30
+Xamax
+Rapperswil
+836
+WORLD, Friendly Women
+35454
+19:30
+Switzerland Wom.
+Canada Wom.
+655
+PORTUGAL, Liga Portugal 2
+1110
+19:45
+Torreense
+Oliveirense
+825
+NETHERLANDS, Eredivisie
+637
+20:00
+Heerenveen
+NAC Breda
+935
+BELGIUM, 1B Pro League
+1049
+20:00
+Francs Borains
+Gent U23
+832
+1050
+20:00
+Seraing
+Lierse K.
+835
+BELGIUM, Pro League U21
+36710
+20:00
+Francs Borains U21
+RWDM 47 U21
+659
+36711
+20:00
+Patro Eisden U21
+K. Lierse S.K. U21
+660
+36712
+20:00
+RFC Liege U21
+Beerschot VA U21
+659
+37840
+20:00
+OC Charleroi U21
+RAAL La Louviere U21
+659
+BRAZIL, Campeonato Carioca B1
+37925
+20:00
+Campo Grande
+Niteroiense
+638
+ENGLAND, Premier League 2
+37754
+20:00
+Birmingham U21
+Nottingham U21
+659
+37755
+20:00
+Fulham U21
+Derby U21
+651
+37756
+20:00
+Ipswich U21
+Brighton U21
+661
+37757
+20:00
+Middlesbrough U21
+Wolves U21
+660
+37758
+20:00
+Norwich U21
+Burnley U21
+659
+37759
+20:00
+West Brom U21
+Reading U21
+660
+37760
+20:00
+West Ham U21
+Aston Villa U21
+660
+ENGLAND, Premier League Cup U21
+37863
+20:00
+QPR U21
+Cardiff U21
+661
+EUROPE, UEFA Nations League Women - League A - Play Offs
+35580
+20:00
+Spain Wom.
+Sweden Wom.
+823
+EUROPE, UEFA Nations League Women - League A/B - Relegation
+35581
+20:00
+Ireland Wom.
+Belgium Wom.
+832
+35582
+20:00
+Northern Ireland Wom.
+Iceland Wom.
+809
+FRANCE, Ligue 2
+726
+20:00
+Bastia
+Laval
+955
+727
+20:00
+Guingamp
+Clermont
+967
+728
+20:00
+Le Mans
+Boulogne
+965
+729
+20:00
+Pau FC
+Dunkerque
+967
+730
+20:00
+Red Star
+Grenoble
+963
+731
+20:00
+Reims
+Troyes
+966
+LUXEMBOURG, Promotion D'Honneur
+37923
+20:00
+Marisca Mersch
+Koeppchen Wormeldange
+647
+NETHERLANDS, Eerste League
+506
+20:00
+Almere City
+Jong AZ
+840
+507
+20:00
+Eindhoven FC
+Venlo
+838
+508
+20:00
+Graafschap
+Jong PSV
+846
+509
+20:00
+Helmond
+Dordrecht
+840
+510
+20:00
+Jong Ajax
+FC Emmen
+842
+511
+20:00
+Jong Utrecht
+Oss
+836
+512
+20:00
+Vitesse
+Roda
+833
+513
+20:00
+Waalwijk
+Cambuur
+840
+SAUDI ARABIA, Professional League
+832
+20:00
+Al Ittihad Jeddah
+Al Hilal Riyadh
+845
+SLOVENIA, 2. SNL
+1003
+20:00
+Tabor Sezana
+Grosuplje
+653
+URUGUAY, Segunda Division
+35473
+20:00
+Club Oriental de Football
+Rentistas
+651
+SWITZERLAND, Challenge League
+686
+20:15
+Aarau
+Wil
+832
+GERMANY, Bundesliga
+439
+20:30
+Werder Bremen
+Union Berlin
+1031
+BELGIUM, Pro League U21
+37841
+20:30
+Kortrijk U21
+Seraing U21
+638
+ITALY, Serie B
+709
+20:30
+Modena
+Empoli
+968
+ITALY, Serie C - Group A
+1001
+20:30
+Novara
+Virtus Verona
+826
+ITALY, Serie C - Group C
+1002
+20:30
+Foggia
+Altamura
+817
+POLAND, Ekstraklasa
+517
+20:30
+Motor Lublin
+Widzew Lodz
+835
+POLAND, Division 1
+803
+20:30
+Odra Opole
+Ruch Chorzow
+829
+SCOTLAND, Scottish Cup
+37836
+20:30
+Bo'ness Athletic
+Linlithgow Rose
+839
+SPAIN, LaLiga2
+875
+20:30
+Huesca
+Las Palmas
+907
+WALES, Cymru South
+37853
+20:30
+Ammanford
+Cwmbran Celtic
+653
+37854
+20:30
+Baglan Dragons
+Treowen
+653
+37855
+20:30
+Caerau Ely
+Trefelin
+658
+37856
+20:30
+Carmarthen Town
+Afan Lido
+653
+37857
+20:30
+Pontypridd
+Cambrian & Clydach
+654
+WORLD, Friendly Women
+35455
+20:30
+Morocco Wom.
+Scotland Wom.
+655
+ITALY, Serie A
+328
+20:45
+AC Milan
+Pisa
+1018
+FRANCE, Ligue 1
+360
+20:45
+Paris FC
+Nantes
+943
+BELGIUM, Jupiler Pro League
+985
+20:45
+Charleroi
+Anderlecht
+935
+ENGLAND, FA Trophy
+35498
+20:45
+Dunston UTS
+Hebburn Town
+834
+IRELAND, Premier Division
+746
+20:45
+Galway
+Drogheda
+828
+7851
+20:45
+St. Patricks
+Waterford
+831
+IRELAND, Division 1 - Play Offs
+1148
+20:45
+Treaty United
+Cobh Ramblers
+832
+31305
+20:45
+UC Dublin
+Bray
+834
+SCOTLAND, League One
+582
+20:45
+Hamilton
+Queen of South
+832
+SCOTLAND, Scottish Cup
+37837
+20:45
+Formartine Utd
+Buckie Thistle
+839
+WALES, Cymru North
+37850
+20:45
+Buckley
+Llandudno
+659
+37851
+20:45
+Denbigh
+Ruthin
+658
+WALES, Cymru Premier
+984
+20:45
+Llanelli
+TNS
+54
+ENGLAND, Premier League
+414
+21:00
+Leeds
+West Ham
+1041
+SPAIN, LaLiga
+907
+21:00
+Real Sociedad
+Sevilla
+951
+BOLIVIA, Copa Pacena
+35589
+21:00
+SA Bulo Bulo
+Tomayapo
+654
+BRAZIL, Campeonato Paulista U20 - Play Offs
+35586
+21:00
+Palmeiras U20
+Santos U20
+59
+ENGLAND, Championship
+348
+21:00
+Preston
+Sheffield Utd
+995
 Odigrani tiketi
 Klikni na kvotu i pokreni
 Srpski

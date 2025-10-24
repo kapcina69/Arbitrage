@@ -409,7 +409,7 @@ def write_pretty(blocks: List[Dict], out_path: Path):
 # ===========================
 
 def main():
-    raw = fetch_and_copy_oktagon(headless=False)  # stavi True za rad bez prozora
+    raw = fetch_and_copy_oktagon(headless=True)  # stavi True za rad bez prozora
     blocks = parse_oktagon(raw)
     write_pretty(blocks, PRETTY_TXT)
 

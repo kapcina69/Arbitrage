@@ -1,13 +1,3 @@
-  KLAĐENJE
-  UŽIVO KLAĐENJE
-  SLOT
-  IGRE UŽIVO
-  VIRTUALI
-  E-LUCKY 6
-  AVIATOR
-  ROCKETMAN
-  PROMO
-  TURNIRI
 Registracija
 Prijava
 1h
@@ -17,7 +7,7 @@ Sve
   
   
 FUDBAL
-1652
+1645
   
   
 GOLOVI PO LIGAMA
@@ -25,15 +15,15 @@ GOLOVI PO LIGAMA
   
   
 KOŠARKA
-129
+131
   
   
 SP. KOŠARKA
-94
+80
   
   
 TENIS
-75
+70
   
   
 RUKOMET
@@ -41,19 +31,19 @@ RUKOMET
   
   
 ODBOJKA
-37
+36
   
   
 HOKEJ
-220
+214
   
   
 SP. HOKEJ
-426
+211
   
   
 AM.FUDBAL
-53
+52
   
   
 SP. AM. FUDBAL
@@ -61,7 +51,7 @@ SP. AM. FUDBAL
   
   
 BEJZBOL
-3
+6
   
   
 RAGBI UNIJA
@@ -69,11 +59,11 @@ RAGBI UNIJA
   
   
 STONI TENIS
-217
+205
   
   
 FUTSAL
-21
+20
   
   
 BADMINTON
@@ -89,7 +79,7 @@ BOKS
   
   
 PIKADO
-20
+21
   
   
 FORMULA 1
@@ -97,11 +87,11 @@ FORMULA 1
   
   
 ESPORT
-50
+42
   
   
 SP. FUDBAL
-2118
+2087
   
   
 VIR. FUDBAL
@@ -113,7 +103,7 @@ VIR. TENIS
   
   
 OUTRIGHT
-493
+431
 
 This is a modal window.
 
@@ -126,475 +116,10 @@ Vremenska
 Top
 Specijali
  
-Nicaragua, Liga Primera - Apertura
-+632
-Jalapa
-UNAN-Managua
-23.10. 23:00
-ki 1
-1.52
-ki X
-4.10
-ki 2
-4.80
-manje 2.5
-2.22
-više 2.5
-1.55
- 
-International Youth, Friendly International U20 Women
-+633
-Brazil U20 Wom.
-Mexico U20 Wom.
-23.10. 23:00
-ki 1
-1.75
-ki X
-3.40
-ki 2
-4.10
-manje 2.5
-1.88
-više 2.5
-1.80
- 
-Paraguay, Copa Paraguay
-+802
-Cerro Porteno
-General Caballero JLM
-23.10. 23:30
-ki 1
-1.55
-ki X
-3.65
-ki 2
-5.10
-manje 2.5
-1.88
-više 2.5
-1.80
- 
-International Clubs, Copa Sudamericana - Play Offs
-+940
-U. De Chile
-Lanus
-24.10. 00:00
-ki 1
-2.57
-ki X
-2.80
-ki 2
-2.95
-manje 2.5
-1.38
-više 2.5
-2.77
- 
-International Clubs, CONCACAF Caribbean Cup - Play Offs
-+636
-Universidad O&M
-Cibao FC
-24.10. 00:00
-ki 1
-3.10
-ki X
-3.20
-ki 2
-2.10
-manje 2.5
-1.72
-više 2.5
-1.97
- 
-International, Friendly Women
-+611
-USA Wom.
-Portugal Wom.
-24.10. 01:00
-ki 1
-1.05
-ki X
-9.25
-ki 2
-21.0
-manje 2.5
-3.50
-više 2.5
-1.25
- 
-Bolivia, Copa Pacena
-+639
-GV San Jose
-The Strongest
-24.10. 01:00
-ki 1
-3.03
-ki X
-3.75
-ki 2
-1.95
-manje 2.5
-2.37
-više 2.5
-1.50
- 
 Argentina, Copa Argentina
 +796
-Belgrano
 Argentinos Jrs
 24.10. 02:10
-ki 1
-3.45
-ki X
-2.97
-ki 2
-2.15
-manje 2.5
-1.45
-više 2.5
-2.55
- 
-International Clubs, Copa Libertadores - Play Offs
-+900
-LDU Quito
-Palmeiras
-24.10. 02:30
-ki 1
-3.40
-ki X
-2.93
-ki 2
-2.30
-manje 2.5
-1.48
-više 2.5
-2.57
- 
-Mexico, Liga de Expansion MX - Apertura
-+814
-Venados
-Tampico Madero
-24.10. 03:00
-ki 1
-2.50
-ki X
-3.35
-ki 2
-2.55
-manje 2.5
-2.02
-više 2.5
-1.71
- 
-Peru, Liga 1 - Clausura
-+803
-Sporting Cristal
-U. de Deportes
-24.10. 03:00
-ki 1
-3.30
-ki X
-2.95
-ki 2
-2.22
-manje 2.5
-1.57
-više 2.5
-2.22
- 
-International Clubs, CONCACAF Central American Cup - Play Offs
-+810
-Alajuelense
-CD Olimpia
-24.10. 04:00
-ki 1
-1.88
-ki X
-3.40
-ki 2
-3.50
-manje 2.5
-1.95
-više 2.5
-1.75
- 
-International Youth, Friendly International Women U19
-+632
-Montenegro U19 Wom.
-Kosovo U19 Wom.
-24.10. 10:00
-ki 1
-5.00
-ki X
-3.60
-ki 2
-1.57
-manje 2.5
-1.95
-više 2.5
-1.75
- 
-Indonesia, Super League
-+810
-PSBS Biak Numfor
-Persebaya
-24.10. 10:30
-ki 1
-4.95
-ki X
-4.00
-ki 2
-1.52
-manje 2.5
-2.20
-više 2.5
-1.57
- 
-Indonesia, Championship
-+624
-Persekat
-PSPS Riau
-24.10. 10:30
-ki 1
-2.35
-ki X
-3.20
-ki 2
-2.83
-manje 2.5
-1.85
-više 2.5
-1.85
- 
-Australia, A-League
-+820
-Newcastle Jets
-Melbourne Victory
-24.10. 10:35
-ki 1
-2.90
-ki X
-3.75
-ki 2
-2.20
-manje 2.5
-2.55
-više 2.5
-1.47
- 
-Australia, Australian Championship
-+818
-Preston Lions
-Avondale FC
-24.10. 10:35
-ki 1
-3.65
-ki X
-3.75
-ki 2
-1.75
-manje 2.5
-2.40
-više 2.5
-1.50
- 
-Bangladesh, Federation Cup
-+633
-Abahani Limited
-Fakirerpool YMC
-24.10. 10:45
-ki 1
-1.36
-ki X
-4.80
-ki 2
-6.10
-manje 2.5
-2.70
-više 2.5
-1.40
-+638
-Rahmatgonj MFS
-Brothers U.
-24.10. 10:45
-ki 1
-1.80
-ki X
-3.60
-ki 2
-3.60
-manje 2.5
-2.20
-više 2.5
-1.60
- 
-Kazakhstan, First Division
-+634
-AKAS
-Kaspij Aktau
-24.10. 11:00
-ki 1
-4.85
-ki X
-4.25
-ki 2
-1.50
-manje 2.5
-2.62
-više 2.5
-1.40
-+626
-Aktobe 2
-Khan Tengri
-24.10. 11:00
-ki 1
-2.88
-ki X
-3.60
-ki 2
-2.07
-manje 2.5
-2.73
-više 2.5
-1.36
-+618
-Altai
-Akademiya Ontustik
-24.10. 11:00
-ki 1
-1.51
-ki X
-4.15
-ki 2
-4.85
-manje 2.5
-2.45
-više 2.5
-1.45
-+623
-Kairat Almaty 2
-SD Family
-24.10. 11:00
-ki 1
-1.50
-ki X
-4.55
-ki 2
-4.45
-manje 2.5
-3.55
-više 2.5
-1.22
-+637
-Zhetisay
-Taraz
-24.10. 11:00
-ki 1
-1.77
-ki X
-3.80
-ki 2
-3.55
-manje 2.5
-2.50
-više 2.5
-1.43
- 
-Vietnam, V.League 2
-+636
-Long An
-Ho Chi Minh City
-24.10. 11:00
-ki 1
-2.90
-ki X
-3.05
-ki 2
-2.30
-manje 2.5
-1.67
-više 2.5
-2.03
- 
-International, Friendly Women
-+638
-Estonia Wom.
-Latvia Wom.
-24.10. 12:00
-ki 1
-2.05
-ki X
-3.50
-ki 2
-2.95
-manje 2.5
-2.22
-više 2.5
-1.57
- 
-International Youth, Friendly International Women U19
-+634
-Belgium U19 Wom.
-Netherlands U19 Wom.
-24.10. 12:00
-ki 1
-5.75
-ki X
-4.55
-ki 2
-1.40
-manje 2.5
-2.70
-više 2.5
-1.40
- 
-Ethiopia, Premier League
-+80
-Arba Menche
-Bahir Dar Kenema
-24.10. 12:00
-ki 1
-3.45
-ki X
-2.73
-ki 2
-2.12
-manje 2.5
-1.33
-više 2.5
-2.83
- 
-Israel, Liga Alef North
-+622
-Tzeirey Umm al-Fahm
-Hapoel Ironi Karmiel
-24.10. 12:00
-ki 1
-1.95
-ki X
-3.30
-ki 2
-3.40
-manje 2.5
-1.85
-više 2.5
-1.83
- 
-Japan, J3 League
-+801
-Osaka
-Tochigi SC
-24.10. 12:00
-ki 1
-2.15
-ki X
-3.03
-ki 2
-3.40
-manje 2.5
-1.57
-više 2.5
-2.22
  Tiket
 TIKET
 
@@ -605,23 +130,9 @@ Molimo odigrajte neku igru.
 Prihvatam promene
 FREEBET
 UPLATI
-RSD
- 
-RSD
-1
-1
-7
-,
-7
-7
-3
-.
-1
-7
- RSD
   500.000 RSD U SPINOVIMA 
 TRAJE JOŠ
-6 
+5 
  dana
 FOND DOBITAKA
 500,000 RSD
@@ -657,10 +168,11 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-21:49:51
+01:52:00
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
 Betole priredjuje igre na sreću u skladu sa rešenjem izdatim od Ministarstva Finansija Srbije – Uprava za igre na sreću.
 
 LIVE CHAT
+ 
