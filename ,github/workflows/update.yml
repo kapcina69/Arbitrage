@@ -2,13 +2,13 @@ name: Run all scripts periodically
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # svakih 30 minuta
+    - cron: "*/30 * * * *" 
   workflow_dispatch:
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 340  # 5h 40min, da se ne prekine pre vremena
+    timeout-minutes: 340 
 
     steps:
       - name: Checkout repo
