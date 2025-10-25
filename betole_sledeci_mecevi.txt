@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-942
+1375
   
   
 DNEVNI SPECIJAL
@@ -48,15 +48,15 @@ GOLOVI PO LIGAMA
   
   
 KOŠARKA
-142
+143
   
   
 SP. KOŠARKA
-97
+99
   
   
 TENIS
-113
+122
   
   
 RUKOMET
@@ -64,11 +64,11 @@ RUKOMET
   
   
 ODBOJKA
-75
+83
   
   
 HOKEJ
-132
+131
   
   
 SP. HOKEJ
@@ -76,7 +76,7 @@ SP. HOKEJ
   
   
 AM.FUDBAL
-22
+21
   
   
 SP. AM. FUDBAL
@@ -92,11 +92,11 @@ RAGBI UNIJA
   
   
 STONI TENIS
-311
+309
   
   
 FUTSAL
-6
+9
   
   
 BADMINTON
@@ -104,7 +104,7 @@ BADMINTON
   
   
 MMA
-4
+3
   
   
 BOKS
@@ -112,15 +112,19 @@ BOKS
   
   
 PIKADO
-21
+19
+  
+  
+FORMULA 1
+19
   
   
 ESPORT
-30
+31
   
   
 SP. FUDBAL
-1909
+1879
   
   
 VIR. FUDBAL
@@ -146,131 +150,37 @@ Top
 Specijali
 KONAČAN ISHOD
  
-Brazil, Serie C - Play Offs
-+798
-Ponte Preta
-Londrina
-25.10. 22:00
-ki 1
-1.87
-ki X
-3.15
-ki 2
-4.20
-manje 2.5
-1.51
-više 2.5
-2.37
- 
-Chile, Chile Segunda
-+632
-Santiago City
-D. Puerto Montt
-25.10. 22:00
-ki 1
-6.60
-ki X
-4.60
-ki 2
-1.35
-manje 2.5
-2.47
-više 2.5
-1.47
-+636
-Trasandino
-Dep. Linares
-25.10. 22:00
-ki 1
-2.75
-ki X
-3.35
-ki 2
-2.22
-manje 2.5
-2.08
-više 2.5
-1.65
- 
-Colombia, Primera A - Clausura
-+804
-Deportes Tolima
-Dep. Cali
-25.10. 22:00
-ki 1
-2.03
-ki X
-3.20
-ki 2
-3.50
-manje 2.5
-1.62
-više 2.5
-2.15
- 
-Colombia, Primera B - Clausura
-+40
-Bogota
-Leones
-25.10. 22:00
-ki 1
-1.81
-ki X
-3.45
-ki 2
-3.75
-manje 2.5
-1.97
-više 2.5
-1.72
- 
-Dominican Republic, LDF
-+631
-Jarabacoa
-Moca
-25.10. 22:00
-ki 1
-5.00
-ki X
-3.60
-ki 2
-1.57
-manje 2.5
-1.87
-više 2.5
-1.81
- 
 Peru, Liga 1 - Clausura
-+808
++809
 Alianza Atl.
 Cienciano
 25.10. 22:15
 ki 1
-1.97
+2.12
 ki X
-3.30
+3.20
 ki 2
-3.55
+3.25
 manje 2.5
 1.80
 više 2.5
-1.91
+1.90
  
 Brazil, Serie A
-+899
++913
 Fluminense
 Internacional
 25.10. 22:30
 ki 1
-1.85
+1.75
 ki X
-3.25
+3.30
 ki 2
-4.45
+5.10
 manje 2.5
-1.60
+1.63
 više 2.5
-2.25
+2.15
  
 Chile, Primera Division
 +818
@@ -278,15 +188,15 @@ Huachipato
 Deportes Iquique
 25.10. 22:30
 ki 1
-1.75
+1.90
 ki X
-3.80
+3.70
 ki 2
-3.90
+3.45
 manje 2.5
-2.37
+2.25
 više 2.5
-1.51
+1.57
  
 Paraguay, Copa de Primera - Clausura
 +808
@@ -399,18 +309,18 @@ više 2.5
 1.77
  
 Nicaragua, Liga Primera - Apertura
-+615
++630
 Sport Sebaco
 Rancho Santana
 25.10. 23:00
 ki 1
-1.35
+1.33
 ki X
-4.70
+4.80
 ki 2
-6.40
+6.70
 manje 2.5
-2.41
+2.45
 više 2.5
 1.45
  
@@ -477,20 +387,20 @@ više 2.5
 2.10
  
 Brazil, Serie A
-+909
++987
 Sport Recife
 Mirassol
 25.10. 23:30
 ki 1
 2.80
 ki X
-3.30
+3.25
 ki 2
 2.45
 manje 2.5
 1.83
 više 2.5
-1.88
+1.90
  
 Brazil, Serie B
 +808
@@ -574,15 +484,15 @@ Dynamo Puerto
 Trujillanos
 25.10. 23:30
 ki 1
-2.40
+2.30
 ki X
 2.83
 ki 2
-2.97
+3.15
 manje 2.5
 1.38
 više 2.5
-2.77
+2.75
  
 Venezuela, Liga FUTVE - Clausura - Quadrangular
 +634
@@ -615,6 +525,38 @@ manje 2.5
 2.55
 više 2.5
 1.45
+ 
+Ecuador, Liga Pro - Championship Group
++632
+Barcelona SC
+Libertad Loja
+25.10. 23:30
+ki 1
+1.57
+ki X
+3.70
+ki 2
+4.95
+manje 2.5
+1.95
+više 2.5
+1.75
+ 
+Uruguay, Liga AUF Uruguaya - Clausura
++798
+Cerro Largo
+Racing Montevideo
+25.10. 23:30
+ki 1
+2.55
+ki X
+3.03
+ki 2
+2.73
+manje 2.5
+1.52
+više 2.5
+2.37
  Tiket
 TIKET
 
@@ -637,7 +579,7 @@ RSD
  RSD
   500.000 RSD U SPINOVIMA 
 TRAJE JOŠ
-4 
+3 
  dana
 FOND DOBITAKA
 500,000 RSD
@@ -673,7 +615,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-21:39:49
+22:07:07
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.

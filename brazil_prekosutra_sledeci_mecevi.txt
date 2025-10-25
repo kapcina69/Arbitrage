@@ -16,87 +16,14 @@ Bonus tip
 Danas
 Sutra
 27.10.
-21:00
+22:00
 23:59
-21:00 - 23:59
+22:00 - 23:59
 FUDBAL
 KOŠARKA
-STRELCI FUDBAL
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-SPAIN, LaLiga
-451
-21:00
-Betis
-Atl. Madrid
-952
-1
-3.25
-X
-3.40
-2
-2.22
-0-2
-2.07
-2+
-1.25
-3+
-1.77
-ENGLAND, League One
-193
-21:00
-Port Vale
-Stockport
-829
-1
-2.55
-X
-3.20
-2
-2.70
-0-2
-1.67
-2+
-1.35
-3+
-2.12
-PORTUGAL, Liga Portugal
-108
-21:15
-Moreirense
-FC Porto
-913
-1
-9.25
-X
-4.75
-2
-1.33
-0-2
-2.00
-2+
-1.23
-3+
-1.75
-PARAGUAY, Copa de Primera - Clausura
-623
-21:30
-Ameliano
-General Caballero JLM
-823
-1
-2.15
-X
-3.00
-2
-3.40
-0-2
-1.60
-2+
-1.37
-3+
-2.18
 USA, MLS - Play Offs
 531
 22:45
@@ -134,24 +61,7 @@ X
 3+
 2.40
 Odigrani tiketi
-108
-Moreirense - FC Porto
-27.10. 21:15
-KONAČAN ISHOD 
-1
-  9.25  
-Običan
-Sistem
-Kvota:
-9.25
-Uplata:
-20.00 RSD
-Dobitak:
-185.00 RSD
-Prihvatam sve promene kvota.
-FREEBET
-Express
-Prijavi se
+Klikni na kvotu i pokreni
 Srpski
 O nama
 Odgovorno klađenje

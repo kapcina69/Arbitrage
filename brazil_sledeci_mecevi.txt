@@ -16,77 +16,38 @@ Bonus tip
 Danas
 Sutra
 27.10.
-21:00
+22:00
 23:59
-21:00 - 23:59
+22:00 - 23:59
 FUDBAL
-KOŠARKA
 STRELCI FUDBAL
 TENIS
 HOKEJ
 SPECIJAL HOKEJ
 ODBOJKA
 STONI TENIS
-AMERIČKI FUDBAL
-MMA
-FUTSAL
 PIKADO
 BOKS
 GOLOVI PO LIGAMA
 FUDBAL
-BRAZIL, Serie C - Play Offs
-1332
-22:00
-Ponte Preta
-Londrina
-821
-CHILE, Chile Segunda
-940
-22:00
-Santiago City
-D. Puerto Montt
-652
-34366
-22:00
-Trasandino
-Dep. Linares
-657
-COLOMBIA, Primera A - Clausura
-571
-22:00
-Deportes Tolima
-Dep. Cali
-827
-COLOMBIA, Primera B - Clausura
-33564
-22:00
-Bogota
-Leones
-655
-DOMINICAN REPUBLIC, LDF
-34408
-22:00
-Jarabacoa
-Moca
-652
 PERU, Liga 1 - Clausura
 535
 22:15
 Alianza Atl.
 Cienciano
-828
+829
 BRAZIL, Serie A
 454
 22:30
 Fluminense
 Internacional
-919
+933
 CHILE, Primera Division
 70
 22:30
 Huachipato
 Deportes Iquique
-837
+838
 PARAGUAY, Copa de Primera - Clausura
 619
 22:30
@@ -133,7 +94,7 @@ NICARAGUA, Liga Primera - Apertura
 23:00
 Sport Sebaco
 Rancho Santana
-652
+651
 USA, USL League One
 1080
 23:00
@@ -220,7 +181,7 @@ VENEZUELA, Liga FUTVE 2 - Play Offs
 23:30
 Dynamo Puerto
 Trujillanos
-644
+645
 Odigrani tiketi
 Klikni na kvotu i pokreni
 Srpski

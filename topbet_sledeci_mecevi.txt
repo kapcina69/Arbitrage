@@ -88,8 +88,8 @@ Rennes - Nice
 20:45
 Lyon - Strasbourg
 2.10
-3.70
-3.35
+3.65
+3.30
 +53
 Nemačka 1
 KONAČAN ISHOD
@@ -489,9 +489,9 @@ X
 2
 22:30
 Fluminense RJ - Internacional RS
-1.75
+1.70
 3.40
-4.20
+4.70
 +41
 23:30
 Sport Recife PE - Mirassol SP
@@ -599,20 +599,6 @@ Atl. Paranaense PR - Amazonas AM
 4.45
 8.40
 +41
-Brazil 3
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-22:00
-Ponte Preta SP - Londrina PR
-1.90
-3.10
-3.70
-+39
 Bugarska 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -771,9 +757,9 @@ X
 2
 22:30
 Huachipato - Iquique
-1.70
-3.95
-3.80
+1.90
+3.75
+3.20
 +40
 NED. 26.10.
 1
@@ -885,26 +871,6 @@ Odense - Brondby
 3.70
 1.95
 +37
-Dominikanska Rep. 1
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-22:00
-Jarabacoa - Moca
-5.10
-3.80
-1.58
-+36
-22:00
-San Cristobal - Atletico Pantoja
-14.80
-7.60
-1.12
-+36
 Egipat 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -1339,9 +1305,9 @@ Wofoo Tai Po - Eastern SC
 +37
 11:00
 Kitchee - Golik North District
-1.78
-3.80
-3.50
+1.70
+3.90
+3.90
 +37
 Hrvatska 1
 KONAČAN ISHOD
@@ -1837,9 +1803,9 @@ Ulytau FC - Tobol
 +41
 11:00
 Zhetysu - Kyzyl-Zhar
-2.50
-3.15
-2.60
+2.45
+3.20
+2.70
 +41
 11:00
 Elimai FC - FK Atyrau
@@ -1961,12 +1927,6 @@ SUB. 25.10.
 1
 X
 2
-22:00
-Tolima - Dep.Cali
-2.05
-3.30
-3.10
-+41
 23:10
 Bucaramanga - Llaneros
 1.45
@@ -2007,12 +1967,6 @@ SUB. 25.10.
 1
 X
 2
-22:00
-Bogota - Leones
-1.80
-3.70
-3.50
-+41
 23:00
 Barranquilla - Tigres
 2.05
@@ -2021,9 +1975,9 @@ Barranquilla - Tigres
 +41
 23:00
 Cucuta - Orsomarso
-1.60
-3.70
-5.00
+1.58
+3.65
+5.70
 +41
 NED. 26.10.
 1
@@ -2081,8 +2035,8 @@ X
 2
 15:35
 Al-Nasr - Al Jahra
-1.95
-3.70
+2.00
+3.45
 3.10
 +36
 17:50
@@ -2259,9 +2213,9 @@ Debreceni - Ujpest
 +41
 17:30
 Ferencvarosi - Zalaegerszeg
-1.45
-4.50
-5.90
+1.42
+4.65
+6.00
 +41
 Mađarska 2
 KONAČAN ISHOD
@@ -2379,9 +2333,9 @@ Leon - Pumas
 +37
 02:07
 Chivas - Atlas
-1.55
-4.00
-5.51
+1.52
+4.15
+5.40
 +37
 04:05
 Cruz Azul - Monterrey
@@ -2457,7 +2411,7 @@ X
 2
 13:30
 Kaiserslautern - Nurnberg
-2.15
+2.20
 3.60
 2.80
 +53
@@ -2869,9 +2823,9 @@ X
 2
 22:15
 Alianza Atletico - Cienciano
-2.00
-3.35
+2.10
 3.30
+3.00
 +37
 NED. 26.10.
 1
@@ -3886,8 +3840,8 @@ X
 14:00
 Zurich - Young Boys
 2.70
-3.65
-2.45
+3.75
+2.40
 +37
 16:30
 Lausanne - Basel
@@ -4427,9 +4381,9 @@ Heidelberg U - South Hobart
 +41
 03:00
 Broadmeadow Magic - S.Melbourne
-4.50
-4.55
-1.52
+4.80
+4.65
+1.50
 +41
 03:00
 Moreton City Excelsior FC - Sydney Olympic
@@ -4472,26 +4426,6 @@ Aurora - Always Ready
 2.90
 3.70
 2.05
-+36
-Čile 3
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-22:00
-CD Trasandino de Los Andes - Deportes Linares
-2.75
-3.65
-2.25
-+36
-22:00
-Santiago City FC - Puerto Montt
-7.40
-5.05
-1.32
 +36
 AFC Challenge League
 KONAČAN ISHOD
@@ -4545,9 +4479,9 @@ X
 2
 02:00
 The Town FC - Colorado Rapids 2
-1.85
-3.85
-3.40
+1.90
+3.80
+3.20
 +22
 
 Tiket (0)
