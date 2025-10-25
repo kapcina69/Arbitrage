@@ -3,12 +3,12 @@ name: Run all scripts every 5 minutes
 on:
   schedule:
     - cron: "*/5 * * * *"   # svakih 5 minuta
-  workflow_dispatch:          # omogućava ručno pokretanje
+  workflow_dispatch:
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 60       # do 1 sat po pokretanju
+    timeout-minutes: 60
 
     steps:
       - name: Checkout repo
@@ -20,7 +20,9 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
 
       - name: Run single scraping cycle
         run: python run_all.py
