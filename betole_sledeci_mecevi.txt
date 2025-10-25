@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1031
+1030
   
   
 DNEVNI SPECIJAL
@@ -52,11 +52,11 @@ KOŠARKA
   
   
 SP. KOŠARKA
-192
+196
   
   
 TENIS
-98
+95
   
   
 RUKOMET
@@ -68,7 +68,7 @@ SP. RUKOMET
   
   
 ODBOJKA
-85
+83
   
   
 HOKEJ
@@ -80,7 +80,7 @@ SP. HOKEJ
   
   
 AM.FUDBAL
-36
+35
   
   
 SP. AM. FUDBAL
@@ -96,11 +96,11 @@ RAGBI UNIJA
   
   
 STONI TENIS
-344
+341
   
   
 VATERPOLO
-3
+1
   
   
 FUTSAL
@@ -108,7 +108,7 @@ FUTSAL
   
   
 BADMINTON
-3
+2
   
   
 MMA
@@ -140,7 +140,7 @@ ESPORT
   
   
 SP. FUDBAL
-2419
+2385
   
   
 VIR. FUDBAL
@@ -166,22 +166,6 @@ Top
 Specijali
 KONAČAN ISHOD
  
-Netherlands, Eredivisie
-+917
-Sparta Rotterdam
-Telstar
-25.10. 18:45
-ki 1
-1.80
-ki X
-4.00
-ki 2
-3.95
-manje 2.5
-2.55
-više 2.5
-1.47
- 
 France, Ligue 1
 +1067
 Monaco
@@ -190,27 +174,27 @@ Toulouse
 ki 1
 2.12
 ki X
-3.75
+3.70
 ki 2
 3.20
 manje 2.5
-2.30
+2.25
 više 2.5
-1.62
+1.65
  
 Portugal, Liga Portugal
-+888
++889
 Santa Clara
 AVS
 25.10. 19:00
 ki 1
-1.53
+1.55
 ki X
-3.70
+3.65
 ki 2
-7.00
+6.75
 manje 2.5
-1.61
+1.60
 više 2.5
 2.20
  
@@ -236,15 +220,15 @@ OFI Crete
 Atromitos
 25.10. 19:00
 ki 1
-2.00
+1.97
 ki X
-3.30
+3.35
 ki 2
 3.50
 manje 2.5
-1.77
+1.81
 više 2.5
-1.93
+1.88
  
 Algeria, Ligue 1
 +789
@@ -279,52 +263,52 @@ više 2.5
 2.15
  
 Botswana, Premier League
-+81
++82
 Extension Gunners
 Morupule
 25.10. 19:00
 ki 1
-2.80
+2.85
 ki X
-2.88
+2.83
 ki 2
-2.35
+2.37
 manje 2.5
-1.52
+1.47
 više 2.5
-2.25
+2.40
  
 Costa Rica, Liga de Ascenso - Apertura
-+633
++632
 ADR Jicaral
 Cofutpa
 25.10. 19:00
 ki 1
-1.52
+1.60
 ki X
-4.05
+3.75
 ki 2
-4.85
+4.65
 manje 2.5
-2.30
+2.07
 više 2.5
-1.53
+1.65
  
 Egypt, Premier League
-+624
++626
 Future FC
 Arab Contractors
 25.10. 19:00
 ki 1
-2.37
+2.20
 ki X
-2.77
-ki 2
-3.05
-manje 2.5
-1.37
-više 2.5
 2.80
+ki 2
+3.40
+manje 2.5
+1.38
+više 2.5
+2.77
  
 International Clubs, CAF Champions League - Qualification
 +37
@@ -332,15 +316,15 @@ Al Ahly Cairo
 Aigle Noir
 25.10. 19:00
 ki 1
-1.02
+1.06
 ki X
-11.0
+8.75
 ki 2
-28.0
+20.0
 manje 2.5
-3.60
+3.40
 više 2.5
-1.23
+1.26
  
 Israel, Ligat ha'Al
 +817
@@ -455,20 +439,20 @@ više 2.5
 1.91
  
 Spain, Tercera RFEF - Group 3
-+628
++627
 Vimenor
 Colindres
 25.10. 19:00
 ki 1
-1.60
+1.47
 ki X
-3.45
+3.70
 ki 2
-4.80
+5.75
 manje 2.5
-1.80
+1.83
 više 2.5
-1.85
+1.80
  
 Spain, Tercera RFEF - Group 18
 +631
@@ -487,23 +471,23 @@ više 2.5
 1.97
  
 Malta, Premier League - First stage - Main
-+626
++628
 Floriana
 Birkirkara
 25.10. 19:00
 ki 1
-1.88
+2.15
 ki X
-3.10
+2.88
 ki 2
-3.90
+3.35
 manje 2.5
-1.50
+1.45
 više 2.5
-2.35
+2.45
  
 Hungary, NB I.
-+806
++804
 Nyiregyhaza
 Kazincbarcikai
 25.10. 19:30
@@ -512,14 +496,14 @@ ki 1
 ki X
 3.30
 ki 2
-4.60
+4.65
 manje 2.5
 1.71
 više 2.5
 2.02
  
 Italy, Serie B
-+942
++901
 Catanzaro
 Palermo
 25.10. 19:30
@@ -593,20 +577,20 @@ manje 2.5
 2.00
 više 2.5
 1.72
-+811
++815
 Slask Wroclaw
 Leczna
 25.10. 19:30
 ki 1
-1.55
+1.47
 ki X
-4.10
+4.35
 ki 2
-5.00
+5.60
 manje 2.5
-2.27
+2.41
 više 2.5
-1.55
+1.50
  
 Portugal, Liga 3
 +631
@@ -639,6 +623,1432 @@ manje 2.5
 2.88
 više 2.5
 1.35
+ 
+Netherlands, Eredivisie
++965
+FC Volendam
+Heracles
+25.10. 20:00
+ki 1
+2.15
+ki X
+3.60
+ki 2
+3.15
+manje 2.5
+2.15
+više 2.5
+1.63
+ 
+Romania, Superliga
++809
+CFR Cluj
+Farul Constanta
+25.10. 20:00
+ki 1
+1.93
+ki X
+3.40
+ki 2
+3.65
+manje 2.5
+1.88
+više 2.5
+1.82
+ 
+Saudi Arabia, Saudi Professional League
++791
+Al-Hazem
+Al-Nassr Riyadh
+25.10. 20:00
+ki 1
+11.5
+ki X
+6.90
+ki 2
+1.14
+manje 2.5
+3.70
+više 2.5
+1.22
+ 
+France, Ligue 2
++946
+Annecy
+St Etienne
+25.10. 20:00
+ki 1
+3.70
+ki X
+3.40
+ki 2
+1.97
+manje 2.5
+1.82
+više 2.5
+1.90
+ 
+Austria, 2. Liga
++818
+SK Rapid Wien (Am)
+A. Lustenau
+25.10. 20:00
+ki 1
+3.30
+ki X
+3.80
+ki 2
+1.91
+manje 2.5
+2.25
+više 2.5
+1.57
+ 
+Belgium, Challenger Pro League
++803
+Beveren
+Patro Eisden
+25.10. 20:00
+ki 1
+1.61
+ki X
+3.65
+ki 2
+5.20
+manje 2.5
+1.80
+više 2.5
+1.92
++812
+Eupen
+Genk U23
+25.10. 20:00
+ki 1
+1.60
+ki X
+4.00
+ki 2
+4.65
+manje 2.5
+2.20
+više 2.5
+1.60
++813
+RFC Liege
+RWDM
+25.10. 20:00
+ki 1
+2.88
+ki X
+3.30
+ki 2
+2.27
+manje 2.5
+2.02
+više 2.5
+1.71
+ 
+Belgium, National Division 1
++638
+Tubize-Braine
+Virton
+25.10. 20:00
+ki 1
+1.97
+ki X
+3.60
+ki 2
+3.10
+manje 2.5
+2.25
+više 2.5
+1.55
++637
+Union Rochefortoise
+Stockay-Warfusee
+25.10. 20:00
+ki 1
+2.75
+ki X
+3.25
+ki 2
+2.27
+manje 2.5
+1.93
+više 2.5
+1.75
+ 
+Botswana, Premier League
++82
+Centre Chiefs
+Township Rollers
+25.10. 20:00
+ki 1
+2.65
+ki X
+2.93
+ki 2
+2.45
+manje 2.5
+1.52
+više 2.5
+2.25
+ 
+Brazil, Copa do Brasil U20
++632
+Gremio U20
+EC Sao Jose U20
+25.10. 20:00
+ki 1
+1.63
+ki X
+3.40
+ki 2
+4.90
+manje 2.5
+1.73
+više 2.5
+1.97
+ 
+Brazil, Campeonato Pernambucano 2 - Play Offs
++627
+Academica Vitoria
+Centro Limoeirense
+25.10. 20:00
+ki 1
+1.45
+ki X
+3.70
+ki 2
+6.50
+manje 2.5
+1.70
+više 2.5
+2.02
+ 
+Chile, Primera Division
++813
+Deportes La Serena
+A. Italiano
+25.10. 20:00
+ki 1
+2.30
+ki X
+3.30
+ki 2
+2.88
+manje 2.5
+1.92
+više 2.5
+1.77
+ 
+International Clubs, CAF Champions League - Qualification
++804
+Kabylie
+Monastir
+25.10. 20:00
+ki 1
+1.83
+ki X
+3.20
+ki 2
+4.00
+manje 2.5
+1.63
+više 2.5
+2.10
+ 
+Mexico, Liga Premier Serie B
++638
+Huracanes Izcalli
+Ayense
+25.10. 20:00
+ki 1
+2.73
+ki X
+3.55
+ki 2
+2.15
+manje 2.5
+2.30
+više 2.5
+1.53
+ 
+Peru, Liga 1 - Clausura
++808
+Ayacucho
+Deportivo Garcilaso
+25.10. 20:00
+ki 1
+2.12
+ki X
+3.10
+ki 2
+3.35
+manje 2.5
+1.70
+više 2.5
+2.03
+ 
+Brazil, Campeonato Carioca B1
++622
+Artsul
+AA Carapebus
+25.10. 20:00
+ki 1
+1.63
+ki X
+3.20
+ki 2
+5.40
+manje 2.5
+1.47
+više 2.5
+2.47
++627
+Bonsucesso
+Nova Cidade
+25.10. 20:00
+ki 1
+1.67
+ki X
+3.20
+ki 2
+5.10
+manje 2.5
+1.53
+više 2.5
+2.30
++630
+Duque de Caxias
+Paduano
+25.10. 20:00
+ki 1
+2.15
+ki X
+3.00
+ki 2
+3.15
+manje 2.5
+1.45
+više 2.5
+2.55
++623
+Sao Cristovao
+Friburguense
+25.10. 20:00
+ki 1
+2.00
+ki X
+2.80
+ki 2
+3.95
+manje 2.5
+1.31
+više 2.5
+3.10
++626
+Serrano
+Petropolis
+25.10. 20:00
+ki 1
+2.88
+ki X
+2.85
+ki 2
+2.41
+manje 2.5
+1.42
+više 2.5
+2.60
+ 
+Brazil, Campeonato Carioca Women
++40
+Fluminense Wom.
+Flamengo Wom.
+25.10. 20:00
+ki 1
+3.00
+ki X
+3.10
+ki 2
+2.20
+manje 2.5
+1.73
+više 2.5
+1.97
+ 
+Brazil, Campeonato Mineiro 3
++40
+Tupi-MG
+Novo Esporte
+25.10. 20:00
+ki 1
+2.08
+ki X
+3.10
+ki 2
+3.25
+manje 2.5
+1.70
+više 2.5
+2.00
+ 
+Poland, Ekstraklasa
++814
+GKS Katowice
+Korona Kielce
+25.10. 20:15
+ki 1
+2.50
+ki X
+3.30
+ki 2
+2.73
+manje 2.5
+1.87
+više 2.5
+1.85
+ 
+Switzerland, Super League
++817
+Winterthur
+Luzern
+25.10. 20:30
+ki 1
+3.20
+ki X
+3.65
+ki 2
+2.00
+manje 2.5
+2.27
+više 2.5
+1.57
+ 
+Germany, 2. Bundesliga
++954
+Hertha Berlin
+Dusseldorf
+25.10. 20:30
+ki 1
+1.87
+ki X
+3.80
+ki 2
+3.85
+manje 2.5
+2.25
+više 2.5
+1.57
+ 
+Italy, Serie C - Group B
++802
+Forli
+ASD Pineto Calcio
+25.10. 20:30
+ki 1
+2.20
+ki X
+3.00
+ki 2
+3.30
+manje 2.5
+1.57
+više 2.5
+2.27
+ 
+Spain, Segunda RFEF - Group 2
++629
+UD Logrones
+Tudelano
+25.10. 20:30
+ki 1
+1.67
+ki X
+3.40
+ki 2
+4.70
+manje 2.5
+1.72
+više 2.5
+1.93
+ 
+Uruguay, Segunda Division
++632
+Uruguay Montevideo
+Tacuarembo
+25.10. 20:30
+ki 1
+3.05
+ki X
+2.93
+ki 2
+2.27
+manje 2.5
+1.55
+više 2.5
+2.27
+ 
+Brazil, Campeonato Maranhense 2 - Play Offs
++40
+Luminense
+ITZ Sport
+25.10. 20:30
+ki 1
+4.15
+ki X
+3.15
+ki 2
+1.80
+manje 2.5
+1.53
+više 2.5
+2.30
+ 
+Italy, Serie A
++1045
+Cremonese
+Atalanta
+25.10. 20:45
+ki 1
+5.75
+ki X
+4.10
+ki 2
+1.57
+manje 2.5
+2.07
+više 2.5
+1.77
+ 
+Bosnia and Herzegovina, Premijer Liga BiH
++805
+Velez Mostar
+Siroki Brijeg
+25.10. 20:45
+ki 1
+1.93
+ki X
+3.20
+ki 2
+3.60
+manje 2.5
+1.70
+više 2.5
+2.02
+ 
+Belgium, Jupiler Pro League
++956
+Gent
+St. Liege
+25.10. 20:45
+ki 1
+2.12
+ki X
+3.30
+ki 2
+3.40
+manje 2.5
+1.87
+više 2.5
+1.85
+ 
+Ireland, Premier Division
++806
+Sligo Rovers
+Cork City
+25.10. 20:45
+ki 1
+1.53
+ki X
+3.95
+ki 2
+6.00
+manje 2.5
+1.95
+više 2.5
+1.77
+ 
+England, Premier League
++1062
+Brentford
+Liverpool
+25.10. 21:00
+ki 1
+4.00
+ki X
+4.15
+ki 2
+1.80
+manje 2.5
+2.47
+više 2.5
+1.55
+ 
+Spain, LaLiga
++1067
+Valencia
+Villarreal
+25.10. 21:00
+ki 1
+3.45
+ki X
+3.50
+ki 2
+2.10
+manje 2.5
+2.05
+više 2.5
+1.77
+ 
+Netherlands, Eredivisie
++915
+Zwolle
+Nijmegen
+25.10. 21:00
+ki 1
+3.55
+ki X
+3.85
+ki 2
+1.92
+manje 2.5
+2.30
+više 2.5
+1.55
+ 
+Brazil, Serie A
++975
+Atletico-MG
+Ceara
+25.10. 21:00
+ki 1
+1.92
+ki X
+3.30
+ki 2
+4.05
+manje 2.5
+1.55
+više 2.5
+2.30
++973
+Vitoria
+Corinthians
+25.10. 21:00
+ki 1
+2.60
+ki X
+2.97
+ki 2
+2.85
+manje 2.5
+1.48
+više 2.5
+2.47
+ 
+Spain, LaLiga2
++906
+Mirandes
+Racing Santander
+25.10. 21:00
+ki 1
+3.70
+ki X
+3.40
+ki 2
+1.97
+manje 2.5
+1.87
+više 2.5
+1.85
+ 
+Brazil, Serie B
++803
+Athletic Club
+America MG
+25.10. 21:00
+ki 1
+2.55
+ki X
+3.05
+ki 2
+2.85
+manje 2.5
+1.60
+više 2.5
+2.25
++803
+Volta Redonda
+Coritiba
+25.10. 21:00
+ki 1
+3.35
+ki X
+3.05
+ki 2
+2.25
+manje 2.5
+1.60
+više 2.5
+2.22
+ 
+Colombia, Primera A - Clausura
++801
+Envigado
+Chico
+25.10. 21:00
+ki 1
+2.15
+ki X
+3.00
+ki 2
+3.45
+manje 2.5
+1.55
+više 2.5
+2.27
+ 
+Costa Rica, Liga de Ascenso - Apertura
++634
+Escorpiones
+Pitbulls
+25.10. 21:00
+ki 1
+1.72
+ki X
+3.60
+ki 2
+4.00
+manje 2.5
+2.10
+više 2.5
+1.63
+ 
+International Clubs, CAF Champions League - Qualification
++780
+FAR Rabat
+Horoya
+25.10. 21:00
+ki 1
+1.20
+ki X
+4.90
+ki 2
+14.0
+manje 2.5
+1.75
+više 2.5
+1.95
+ 
+Portugal, Liga 3
++631
+AD Fafe
+Vitoria Guimaraes B
+25.10. 21:00
+ki 1
+1.67
+ki X
+3.40
+ki 2
+4.60
+manje 2.5
+1.70
+više 2.5
+2.00
+ 
+Spain, Primera RFEF - Group 1
++634
+Real Madrid B
+Real Aviles
+25.10. 21:00
+ki 1
+1.87
+ki X
+3.25
+ki 2
+3.70
+manje 2.5
+1.75
+više 2.5
+1.95
+ 
+Spain, Segunda RFEF - Group 4
++625
+Jaen
+Almeria B
+25.10. 21:00
+ki 1
+1.55
+ki X
+3.55
+ki 2
+5.50
+manje 2.5
+1.62
+više 2.5
+2.07
+ 
+Spain, Segunda RFEF - Group 5
++625
+Rayo Majadahonda
+Ilicitano
+25.10. 21:00
+ki 1
+1.67
+ki X
+3.30
+ki 2
+4.85
+manje 2.5
+1.55
+više 2.5
+2.20
+ 
+Bolivia, Copa Pacena
++635
+Academia del Balompie
+Universitario de Vinto
+25.10. 21:00
+ki 1
+1.92
+ki X
+3.40
+ki 2
+3.40
+manje 2.5
+1.93
+više 2.5
+1.75
+ 
+Brazil, Campeonato Mineiro 3
++40
+Essube
+Paracatu
+25.10. 21:00
+ki 1
+3.75
+ki X
+3.15
+ki 2
+1.88
+manje 2.5
+1.63
+više 2.5
+2.12
+ 
+Brazil, Campeonato Sergipano 2
++637
+Desportiva Aracaju
+Atletica Gloriense
+25.10. 21:00
+ki 1
+2.00
+ki X
+3.35
+ki 2
+3.25
+manje 2.5
+1.93
+više 2.5
+1.75
+ 
+Brazil, Copa Santa Catarina - Play Offs
++636
+Santa Catarina
+Marcilio Dias
+25.10. 21:00
+ki 1
+2.22
+ki X
+3.05
+ki 2
+3.00
+manje 2.5
+1.71
+više 2.5
+2.00
+ 
+Ecuador, Liga Pro - Relegation Group
++903
+Mushuc Runa
+Manta
+25.10. 21:00
+ki 1
+1.50
+ki X
+3.80
+ki 2
+5.60
+manje 2.5
+1.95
+više 2.5
+1.75
+ 
+Uruguay, Liga AUF Uruguaya - Clausura
++793
+CA Cerro
+Penarol
+25.10. 21:00
+ki 1
+8.25
+ki X
+4.00
+ki 2
+1.40
+manje 2.5
+1.71
+više 2.5
+2.02
+ 
+France, Ligue 1
++1072
+Lens
+Marseille
+25.10. 21:05
+ki 1
+2.67
+ki X
+3.45
+ki 2
+2.57
+manje 2.5
+2.12
+više 2.5
+1.72
+ 
+Portugal, Liga Portugal
++939
+Benfica
+Arouca
+25.10. 21:30
+ki 1
+1.17
+ki X
+6.80
+ki 2
+14.0
+manje 2.5
+2.83
+više 2.5
+1.37
++958
+Estrela
+Rio Ave
+25.10. 21:30
+ki 1
+2.50
+ki X
+3.10
+ki 2
+2.85
+manje 2.5
+1.67
+više 2.5
+2.10
+ 
+Brazil, Serie C - Play Offs
++798
+Ponte Preta
+Londrina
+25.10. 22:00
+ki 1
+1.87
+ki X
+3.15
+ki 2
+4.20
+manje 2.5
+1.51
+više 2.5
+2.37
+ 
+Chile, Chile Segunda
++632
+Santiago City
+D. Puerto Montt
+25.10. 22:00
+ki 1
+6.60
+ki X
+4.65
+ki 2
+1.35
+manje 2.5
+2.55
+više 2.5
+1.45
++636
+Trasandino
+Dep. Linares
+25.10. 22:00
+ki 1
+2.75
+ki X
+3.35
+ki 2
+2.22
+manje 2.5
+2.08
+više 2.5
+1.65
+ 
+Colombia, Primera A - Clausura
++804
+Deportes Tolima
+Dep. Cali
+25.10. 22:00
+ki 1
+2.02
+ki X
+3.20
+ki 2
+3.55
+manje 2.5
+1.62
+više 2.5
+2.15
+ 
+Colombia, Primera B - Clausura
++40
+Bogota
+Leones
+25.10. 22:00
+ki 1
+1.72
+ki X
+3.50
+ki 2
+4.15
+manje 2.5
+2.02
+više 2.5
+1.70
+ 
+Dominican Republic, LDF
++631
+Jarabacoa
+Moca
+25.10. 22:00
+ki 1
+5.00
+ki X
+3.60
+ki 2
+1.57
+manje 2.5
+1.87
+više 2.5
+1.81
+ 
+Peru, Liga 1 - Clausura
++808
+Alianza Atl.
+Cienciano
+25.10. 22:15
+ki 1
+1.97
+ki X
+3.30
+ki 2
+3.60
+manje 2.5
+1.80
+više 2.5
+1.91
+ 
+Brazil, Serie A
++899
+Fluminense
+Internacional
+25.10. 22:30
+ki 1
+1.85
+ki X
+3.25
+ki 2
+4.45
+manje 2.5
+1.61
+više 2.5
+2.20
+ 
+Chile, Primera Division
++818
+Huachipato
+Deportes Iquique
+25.10. 22:30
+ki 1
+1.70
+ki X
+3.90
+ki 2
+4.10
+manje 2.5
+2.37
+više 2.5
+1.51
+ 
+Paraguay, Copa de Primera - Clausura
++808
+Atl. Tembetary
+Sp. Luqueno
+25.10. 22:30
+ki 1
+3.30
+ki X
+3.20
+ki 2
+2.12
+manje 2.5
+1.77
+više 2.5
+1.95
+ 
+Brazil, Copa FGF
++634
+Esportivo
+Gaucho
+25.10. 23:00
+ki 1
+2.02
+ki X
+3.10
+ki 2
+3.40
+manje 2.5
+1.65
+više 2.5
+2.08
+ 
+Colombia, Primera B - Clausura
++41
+Barranquilla
+Tigres
+25.10. 23:00
+ki 1
+2.15
+ki X
+2.97
+ki 2
+3.20
+manje 2.5
+1.55
+više 2.5
+2.25
++40
+Cucuta
+Orsomarso
+25.10. 23:00
+ki 1
+1.62
+ki X
+3.35
+ki 2
+5.20
+manje 2.5
+1.60
+više 2.5
+2.20
+ 
+El Salvador, Primera Division - Apertura
++801
+Zacatecoluca
+Aguila
+25.10. 23:00
+ki 1
+3.40
+ki X
+3.05
+ki 2
+2.05
+manje 2.5
+1.57
+više 2.5
+2.15
+ 
+Guatemala, Liga Nacional - Apertura
++795
+Deportivo Mixco
+Mictlan
+25.10. 23:00
+ki 1
+1.45
+ki X
+3.65
+ki 2
+6.70
+manje 2.5
+1.65
+više 2.5
+2.07
+ 
+Honduras, Liga Nacional - Apertura
++809
+CD Marathon
+Motagua
+25.10. 23:00
+ki 1
+1.92
+ki X
+3.35
+ki 2
+3.45
+manje 2.5
+1.90
+više 2.5
+1.77
+ 
+Nicaragua, Liga Primera - Apertura
++615
+Sport Sebaco
+Rancho Santana
+25.10. 23:00
+ki 1
+1.35
+ki X
+4.70
+ki 2
+6.40
+manje 2.5
+2.41
+više 2.5
+1.45
+ 
+USA, USL Championship
++633
+Charleston
+Birmingham Legion FC
+25.10. 23:00
+ki 1
+1.37
+ki X
+4.55
+ki 2
+6.20
+manje 2.5
+2.55
+više 2.5
+1.45
++636
+Loudoun
+North Carolina FC
+25.10. 23:00
+ki 1
+1.87
+ki X
+3.45
+ki 2
+3.50
+manje 2.5
+1.97
+više 2.5
+1.73
+ 
+USA, USL League One
++82
+Portland Hearts of Pine
+AV Alta
+25.10. 23:00
+ki 1
+1.82
+ki X
+3.75
+ki 2
+3.45
+manje 2.5
+2.35
+više 2.5
+1.51
+ 
+Colombia, Primera A - Clausura
++795
+Bucaramanga
+Llaneros
+25.10. 23:10
+ki 1
+1.47
+ki X
+3.85
+ki 2
+6.90
+manje 2.5
+1.65
+više 2.5
+2.10
+ 
+Brazil, Serie A
++987
+Sport Recife
+Mirassol
+25.10. 23:30
+ki 1
+2.75
+ki X
+3.25
+ki 2
+2.50
+manje 2.5
+1.82
+više 2.5
+1.90
+ 
+Brazil, Serie B
++806
+Paysandu PA
+Avai
+25.10. 23:30
+ki 1
+2.57
+ki X
+3.10
+ki 2
+2.80
+manje 2.5
+1.62
+više 2.5
+2.20
+ 
+Mexico, Liga Premier Serie A
++634
+Chapulineros
+Inter Playa Del Carmen
+25.10. 23:30
+ki 1
+4.40
+ki X
+3.40
+ki 2
+1.70
+manje 2.5
+1.83
+više 2.5
+1.85
++633
+Ciervos
+Canamy
+25.10. 23:30
+ki 1
+4.20
+ki X
+3.35
+ki 2
+1.75
+manje 2.5
+1.80
+više 2.5
+1.88
++634
+Cordobes FC
+Lobos ULMX
+25.10. 23:30
+ki 1
+1.82
+ki X
+3.20
+ki 2
+4.00
+manje 2.5
+1.67
+više 2.5
+2.05
+ 
+Mexico, Liga Premier Serie B
++636
+Uruapan
+Poza Rica
+25.10. 23:30
+ki 1
+1.83
+ki X
+3.45
+ki 2
+3.65
+manje 2.5
+1.95
+više 2.5
+1.73
+ 
+Venezuela, Liga FUTVE 2 - Play Offs
++623
+Dynamo Puerto
+Trujillanos
+25.10. 23:30
+ki 1
+2.20
+ki X
+2.83
+ki 2
+3.35
+manje 2.5
+1.36
+više 2.5
+2.85
+ 
+Venezuela, Liga FUTVE - Clausura - Quadrangular
++634
+Monagas
+La Guaira
+25.10. 23:30
+ki 1
+3.20
+ki X
+3.03
+ki 2
+2.15
+manje 2.5
+1.62
+više 2.5
+2.12
+ 
+Bolivia, Copa Pacena
++640
+Guabira
+Blooming
+25.10. 23:30
+ki 1
+2.15
+ki X
+3.65
+ki 2
+2.73
+manje 2.5
+2.55
+više 2.5
+1.45
+ 
+Ecuador, Liga Pro - Championship Group
++632
+Barcelona SC
+Libertad Loja
+25.10. 23:30
+ki 1
+1.57
+ki X
+3.70
+ki 2
+5.00
+manje 2.5
+1.93
+više 2.5
+1.77
+ 
+Uruguay, Liga AUF Uruguaya - Clausura
++798
+Cerro Largo
+Racing Montevideo
+25.10. 23:30
+ki 1
+2.55
+ki X
+3.03
+ki 2
+2.73
+manje 2.5
+1.52
+više 2.5
+2.37
  Tiket
 TIKET
 
@@ -697,11 +2107,10 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-18:31:49
+18:58:58
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
 Betole priredjuje igre na sreću u skladu sa rešenjem izdatim od Ministarstva Finansija Srbije – Uprava za igre na sreću.
 
 LIVE CHAT
- 

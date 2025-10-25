@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 27.10.
-18:00
+19:00
 23:59
-18:00 - 23:59
+19:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -29,7 +29,6 @@ SPECIJAL HOKEJ
 RUKOMET
 SPECIJAL RUKOMET
 ODBOJKA
-VATERPOLO
 STONI TENIS
 RAGBI UNIJA
 AMERIČKI FUDBAL
@@ -38,391 +37,12 @@ SNUKER
 FUTSAL
 PIKADO
 ESPORT
-BADMINTON
 BOKS
 POBEDNICI
 GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-NETHERLANDS, Eredivisie
-253
-18:45
-Sparta Rotterdam
-Telstar
-937
-1
-1.80
-X
-3.95
-2
-4.00
-0-2
-2.50
-2+
-1.13
-3+
-1.47
-FRANCE, Ligue 1
-41
-19:00
-Monaco
-Toulouse
-1087
-1
-2.10
-X
-3.75
-2
-3.25
-0-2
-2.30
-2+
-1.20
-3+
-1.63
-ALGERIA, Ligue 1
-33288
-19:00
-Rouisset
-Ben Aknoun
-811
-1
-1.69
-X
-3.10
-2
-5.20
-0-2
-1.46
-2+
-1.46
-3+
-2.45
-BELARUS, Vysshaya Liga
-404
-19:00
-BATE
-Zhodino
-819
-1
-5.25
-X
-3.00
-2
-1.77
-0-2
-1.60
-2+
-1.37
-3+
-2.18
-BOTSWANA, Premier League
-33626
-19:00
-Extension Gunners
-Morupule
-102
-1
-2.80
-X
-2.85
-2
-2.38
-0-2
-1.52
-2+
-1.38
-3+
-2.28
-COSTA RICA, Liga de Ascenso - Apertura
-34407
-19:00
-ADR Jicaral
-Cofutpa
-655
-1
-1.52
-X
-4.00
-2
-4.90
-0-2
-2.30
-2+
-1.15
-3+
-1.53
-EGYPT, Premier League
-764
-19:00
-Future FC
-Arab Contractors
-644
-1
-2.38
-X
-2.75
-2
-3.10
-0-2
-1.36
-2+
-1.57
-3+
-2.85
-GREECE, Super League
-262
-19:00
-OFI Crete
-Atromitos
-828
-1
-2.00
-X
-3.25
-2
-3.55
-0-2
-1.75
-2+
-1.29
-3+
-1.95
-ISRAEL, Ligat ha'Al
-647
-19:00
-Netanya
-Hapoel Tel Aviv
-837
-1
-3.05
-X
-3.55
-2
-2.10
-0-2
-2.28
-2+
-1.16
-3+
-1.56
-MALTA, Premier League - First stage - Main
-33685
-19:00
-Floriana
-Birkirkara
-651
-1
-1.96
-X
-3.00
-2
-3.75
-0-2
-1.48
-2+
-1.42
-3+
-2.38
-MEXICO, Liga Premier Serie A
-34392
-19:00
-Leones Negros 2
-Mineros de Fresnillo
-653
-1
-1.59
-X
-3.60
-2
-4.95
-0-2
-1.90
-2+
-1.24
-3+
-1.82
-MOROCCO, Botola 2
-33374
-19:00
-Mouloudia Oujda
-Jeunesse Massira
-646
-1
-2.15
-X
-2.75
-2
-3.55
-0-2
-1.36
-2+
-1.58
-3+
-2.85
-MOROCCO, Botola
-33311
-19:00
-Raja Casablanca
-Dcheira
-814
-1
-1.34
-X
-4.05
-2
-8.50
-0-2
-1.75
-2+
-1.29
-3+
-1.95
-PORTUGAL, Liga Portugal
-101
-19:00
-Santa Clara
-AVS
-910
-1
-1.53
-X
-3.65
-2
-7.10
-0-2
-1.60
-2+
-1.38
-3+
-2.22
-SPAIN, Segunda RFEF - Group 2
-1187
-19:00
-Eibar B
-R. Union
-647
-1
-2.55
-X
-2.75
-2
-2.80
-0-2
-1.44
-2+
-1.45
-3+
-2.40
-SPAIN, Segunda RFEF - Group 3
-1193
-19:00
-UE Sant Andreu
-Torrent
-647
-1
-1.67
-X
-3.25
-2
-4.95
-0-2
-1.50
-2+
-1.39
-3+
-2.28
-SPAIN, Tercera Division - Group 1
-33466
-19:00
-Noia
-Montaneros
-653
-1
-2.12
-X
-3.05
-2
-3.10
-0-2
-1.72
-2+
-1.27
-3+
-1.92
-SPAIN, Tercera Division - Group 3
-33468
-19:00
-Vimenor
-Colindres
-651
-1
-1.59
-X
-3.40
-2
-4.85
-0-2
-1.78
-2+
-1.25
-3+
-1.87
-SPAIN, Tercera RFEF - Group 18
-33491
-19:00
-Albacete B
-Huracan de Balazote
-652
-1
-1.81
-X
-3.15
-2
-3.90
-0-2
-1.67
-2+
-1.29
-3+
-1.99
-TURKEY, Super Lig
-269
-19:00
-Trabzonspor
-Eyupspor
-957
-1
-1.68
-X
-3.75
-2
-4.75
-0-2
-2.08
-2+
-1.21
-3+
-1.68
-WORLD, CAF Champions League - Qualification
-34367
-19:00
-Al Ahly Cairo
-Aigle Noir
-57
-1
-1.02
-X
-11.0
-2
-29.0
-0-2
-3.60
-2+
-1.04
-3+
-1.23
 HUNGARY, NB I
 136
 19:30
@@ -430,11 +50,11 @@ Nyiregyhaza
 Kazincbarcikai
 826
 1
-1.75
+1.74
 X
 3.30
 2
-4.65
+4.70
 0-2
 1.70
 2+
@@ -481,7 +101,7 @@ ITALY, Serie B
 19:30
 Catanzaro
 Palermo
-964
+923
 1
 3.30
 X
@@ -533,19 +153,19 @@ X
 19:30
 Slask Wroclaw
 Leczna
-831
+835
 1
-1.55
+1.47
 X
-4.05
+4.30
 2
-5.10
+5.70
 0-2
-2.28
+2.40
 2+
-1.16
+1.14
 3+
-1.56
+1.50
 PORTUGAL, Liga 3
 1174
 19:30
@@ -976,19 +596,19 @@ SAUDI ARABIA, Professional League
 20:00
 Al-Hazem
 Al-Nassr Riyadh
-814
+816
 1
-12.0
+11.5
 X
-6.90
+6.80
 2
-1.14
+1.15
 0-2
-3.60
+3.70
 2+
-1.04
+1.03
 3+
-1.23
+1.22
 WORLD, CAF Champions League - Qualification
 34368
 20:00
@@ -996,15 +616,15 @@ Kabylie
 Monastir
 824
 1
-1.85
+1.83
 X
 3.15
 2
-3.95
+4.05
 0-2
 1.63
 2+
-1.35
+1.34
 3+
 2.12
 POLAND, Ekstraklasa
@@ -1050,7 +670,7 @@ Hertha Berlin
 Dusseldorf
 974
 1
-1.87
+1.86
 X
 3.75
 2
@@ -1066,7 +686,7 @@ ITALY, Serie C - Group B
 20:30
 Forli
 ASD Pineto Calcio
-822
+823
 1
 2.18
 X
@@ -1076,7 +696,7 @@ X
 0-2
 1.55
 2+
-1.40
+1.39
 3+
 2.28
 SPAIN, Segunda RFEF - Group 2
@@ -1104,7 +724,7 @@ Winterthur
 Luzern
 837
 1
-3.15
+3.20
 X
 3.65
 2
@@ -1140,11 +760,11 @@ Cremonese
 Atalanta
 1065
 1
-5.80
+5.75
 X
 4.05
 2
-1.59
+1.60
 0-2
 2.07
 2+
@@ -1156,13 +776,13 @@ BELGIUM, Jupiler Pro League
 20:45
 Gent
 St. Liege
-926
+976
 1
-2.10
+2.12
 X
-3.30
+3.25
 2
-3.45
+3.40
 0-2
 1.85
 2+
@@ -1194,15 +814,15 @@ Sligo Rovers
 Cork City
 827
 1
-1.53
+1.54
 X
 3.95
 2
 6.10
 0-2
-1.98
+1.95
 2+
-1.23
+1.24
 3+
 1.77
 ENGLAND, Premier League
@@ -1210,13 +830,13 @@ ENGLAND, Premier League
 21:00
 Brentford
 Liverpool
-989
+1069
 1
-3.95
+4.00
 X
 4.10
 2
-1.82
+1.81
 0-2
 2.45
 2+
@@ -1228,7 +848,7 @@ SPAIN, LaLiga
 21:00
 Valencia
 Villarreal
-1074
+1087
 1
 3.45
 X
@@ -1246,7 +866,7 @@ NETHERLANDS, Eredivisie
 21:00
 Zwolle
 Nijmegen
-985
+935
 1
 3.55
 X
@@ -1284,11 +904,11 @@ Essube
 Paracatu
 60
 1
-2.65
+3.75
 X
-2.95
+3.15
 2
-2.55
+1.91
 0-2
 1.62
 2+
@@ -1353,7 +973,7 @@ X
 21:00
 Vitoria
 Corinthians
-920
+995
 1
 2.60
 X
@@ -1361,11 +981,11 @@ X
 2
 2.88
 0-2
-1.52
+1.48
 2+
-1.44
+1.47
 3+
-2.40
+2.45
 BRAZIL, Serie B
 847
 21:00
@@ -1442,17 +1062,17 @@ ECUADOR, Liga Pro - Relegation Group
 21:00
 Mushuc Runa
 Manta
-921
+923
 1
-1.52
+1.50
 X
-3.75
+3.80
 2
-5.40
+5.60
 0-2
-1.92
+1.95
 2+
-1.22
+1.21
 3+
 1.75
 PORTUGAL, Liga 3
@@ -1500,15 +1120,15 @@ Real Aviles
 1
 1.87
 X
-3.20
+3.25
 2
-3.80
+3.75
 0-2
-1.70
+1.75
 2+
-1.31
+1.29
 3+
-2.02
+1.97
 SPAIN, Segunda RFEF - Group 4
 1204
 21:00
@@ -1606,9 +1226,9 @@ Benfica
 Arouca
 961
 1
-1.18
+1.17
 X
-6.60
+6.70
 2
 14.0
 0-2
@@ -1782,19 +1402,19 @@ CHILE, Primera Division
 22:30
 Huachipato
 Deportes Iquique
-835
+837
 1
-1.70
+1.75
 X
-3.85
+3.80
 2
-4.15
+3.90
 0-2
-2.30
+2.35
 2+
-1.15
+1.14
 3+
-1.55
+1.50
 PARAGUAY, Copa de Primera - Clausura
 619
 22:30
@@ -1810,7 +1430,7 @@ X
 0-2
 1.75
 2+
-1.29
+1.30
 3+
 1.97
 BRAZIL, Copa FGF
@@ -2032,37 +1652,37 @@ BRAZIL, Serie A
 23:30
 Sport Recife
 Mirassol
-1006
+1007
 1
-2.90
+2.75
 X
-3.15
+3.25
 2
-2.45
+2.50
 0-2
-1.73
+1.82
 2+
-1.32
+1.28
 3+
-2.02
+1.92
 BRAZIL, Serie B
 849
 23:30
 Paysandu PA
 Avai
-827
+828
 1
 2.60
 X
-3.10
+3.05
 2
 2.80
 0-2
-1.65
+1.60
 2+
-1.36
+1.38
 3+
-2.15
+2.20
 ECUADOR, Liga Pro - Championship Group
 1394
 23:30
@@ -2103,19 +1723,19 @@ X
 23:30
 Ciervos
 Canamy
-654
+653
 1
-4.10
+4.30
 X
-3.25
+3.40
 2
-1.80
+1.72
 0-2
-1.75
+1.90
 2+
-1.29
+1.23
 3+
-1.95
+1.77
 34395
 23:30
 Cordobes FC
@@ -2194,36 +1814,19 @@ Dynamo Puerto
 Trujillanos
 644
 1
-2.28
+2.20
 X
 2.80
 2
-3.20
+3.35
 0-2
 1.35
 2+
-1.59
+1.58
 3+
 2.88
 Odigrani tiketi
-33288
-Rouisset - Ben Aknoun
-25.10. 19:00
-KONAČAN ISHOD 
-1
-  1.69  
-Običan
-Sistem
-Kvota:
-1.69
-Uplata:
-20.00 RSD
-Dobitak:
-33.80 RSD
-Prihvatam sve promene kvota.
-FREEBET
-Express
-Prijavi se
+Klikni na kvotu i pokreni
 Srpski
 O nama
 Odgovorno klađenje
