@@ -2,12 +2,12 @@
 Udinese  vs  Lecce
 
 - BalkanBet  1=1.85  |  X=3.35  |  2=5  |  0-2=1.68  |  2+=1.43  |  3+=2.25  |  GG=2.1  |  IGG=5.9  |  GG&3+=2.75  |  GG&4+=4.7  |  4+=4.25
+- BetOle     1=1.95  |  X=3.3  |  2=4.2  |  0-2=1.61  |  3+=2.35
 - Brazil_d   1=1.99  |  X=3.4  |  2=4.35  |  0-2=1.61  |  2+=1.43  |  3+=2.38
-- Merkur     1=1.92  |  X=3.35  |  2=4.3  |  0-2=1.6  |  3+=2.35  |  GG=2.07  |  IGG=6  |  GG&3+=2.85
 - Mozzart    1=1.95  |  X=3.5  |  2=4.4  |  0-2=1.62  |  2+=1.45  |  3+=2.35
 - OktagonBet 1=1.96  |  X=3.3  |  2=4.2  |  0-2=1.61  |  3+=2.32  |  GG=2.12  |  GG&3+=2.88  |  4+=4.55
 - Soccer     1=1.95  |  X=3.35  |  2=4.4  |  0-2=1.63  |  2+=1.45  |  3+=2.3  |  GG=2.05  |  IGG=5.85  |  GG&3+=2.75
-- Topbet     1=1.9  |  X=3.35  |  2=4.55
+- Topbet     1=1.9  |  X=3.35  |  2=4.45
 
 Najveća 1  : 1.99  [Brazil_d]
 Najveća X  : 3.50  [Mozzart]
@@ -18,11 +18,28 @@ Najveća 3+ : 2.38  [Brazil_d]
 Arbitraža (1-X-2): DA   inv_sum=0.9882   profit≈1.18%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0154   profit≈-1.54%
 
+13:00   25.10.   [AFC Challenge League]
+Al Seeb  vs  Bashundhara
+
+- BalkanBet  1=1.63  |  X=3.25  |  2=5.25  |  0-2=1.53  |  2+=1.42  |  3+=2.2  |  GG=2.1  |  IGG=5.75  |  GG&3+=2.8  |  GG&4+=4.6  |  4+=4.1
+- Mozzart    1=1.7  |  X=3.45  |  2=4.9  |  0-2=1.69  |  2+=1.35  |  3+=2.05
+- OktagonBet 1=1.66  |  X=3.25  |  2=5.05  |  0-2=1.57  |  3+=2.22  |  GG=2.2  |  GG&3+=2.95  |  4+=4.3
+- Soccer     1=1.85  |  X=3.0  |  2=4.85  |  0-2=1.4  |  2+=1.6  |  3+=2.75  |  GG=2.4  |  IGG=7.0  |  GG&3+=3.4
+- Topbet     1=1.65  |  X=3.35  |  2=5.3
+
+Najveća 1  : 1.85  [Soccer]
+Najveća X  : 3.45  [Mozzart]
+Najveća 2  : 5.30  [Topbet]
+Najveća 0-2: 1.69  [Mozzart]
+Najveća 3+ : 2.75  [Soccer]
+
+Arbitraža (1-X-2): NE   inv_sum=1.0191   profit≈-1.91%
+Arbitraža (0-2 / 3+): DA   inv_sum=0.9554   profit≈4.46%
+
 13:30   25.10.   [Farska Ostrva 1]
 07 Vestur S.  vs  Streymur
 
 - BalkanBet  1=1.6  |  X=4  |  2=4  |  0-2=2.53  |  2+=1.12  |  3+=1.4  |  GG=1.41  |  IGG=3.4  |  GG&3+=1.65  |  GG&4+=2.35  |  4+=2
-- Merkur     1=1.55  |  X=4.15  |  2=4.55  |  0-2=2.6  |  3+=1.42  |  GG=1.48  |  IGG=3.7  |  GG&3+=1.73
 - OktagonBet 1=1.3  |  X=5.25  |  2=6.7  |  0-2=3.1  |  3+=1.31  |  GG=1.54  |  GG&3+=1.73  |  4+=1.83
 - Soccer     1=1.5  |  X=4.55  |  2=5.0  |  0-2=2.6  |  2+=1.11  |  3+=1.45  |  GG=1.57  |  IGG=3.55  |  GG&3+=1.75
 - Topbet     1=1.55  |  X=4.35  |  2=4.4
@@ -36,31 +53,33 @@ Najveća 3+ : 1.45  [Soccer]
 Arbitraža (1-X-2): DA   inv_sum=0.9647   profit≈3.53%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0122   profit≈-1.22%
 
-14:00
+14:00   25.10.   [Alžir 2]
 Batna  vs  Chelghoum Laid
 
+- BalkanBet  1=1.2  |  X=5  |  2=12.85  |  0-2=1.52  |  2+=1.36  |  3+=2.2  |  4+=4.1
 - Mozzart    1=1.33  |  X=4.4  |  2=10  |  0-2=1.55  |  2+=1.45  |  3+=2.3
 - OktagonBet 1=1.22  |  X=4.95  |  2=11.6  |  0-2=1.91  |  3+=1.73  |  GG=2.62  |  GG&3+=3.25  |  4+=2.95
 
 Najveća 1  : 1.33  [Mozzart]
-Najveća X  : 4.95  [OktagonBet]
-Najveća 2  : 11.60  [OktagonBet]
+Najveća X  : 5.00  [BalkanBet]
+Najveća 2  : 12.85  [BalkanBet]
 Najveća 0-2: 1.91  [OktagonBet]
 Najveća 3+ : 2.30  [Mozzart]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0401   profit≈-4.01%
+Arbitraža (1-X-2): NE   inv_sum=1.0297   profit≈-2.97%
 Arbitraža (0-2 / 3+): DA   inv_sum=0.9583   profit≈4.17%
 
-12:00   [RUSSIA, FNL - Division A Gold - Fall Season]
+12:00   25.10.   [Austria, Regionalliga West]
 Bischofshofen  vs  SC Imst
 
+- BetOle     1=2.08  |  X=3.3  |  2=3.05  |  0-2=1.92  |  3+=1.72
 - Brazil_d   1=2.08  |  X=3.25  |  2=3.1  |  0-2=1.92  |  2+=1.21  |  3+=1.74
 - Mozzart    1=2.5  |  X=3.7  |  2=2.35  |  0-2=2.15  |  2+=1.15  |  3+=1.55
-- OktagonBet 1=2.08  |  X=3.3  |  2=3.1  |  0-2=1.92  |  3+=1.72  |  GG=1.62  |  GG&3+=2.05  |  4+=2.95
+- OktagonBet 1=2.4  |  X=3.25  |  2=2.6  |  0-2=1.95  |  3+=1.7  |  GG=1.58  |  GG&3+=2.02  |  4+=2.9
 
 Najveća 1  : 2.50  [Mozzart]
 Najveća X  : 3.70  [Mozzart]
-Najveća 2  : 3.10  [Brazil_d, OktagonBet]
+Najveća 2  : 3.10  [Brazil_d]
 Najveća 0-2: 2.15  [Mozzart]
 Najveća 3+ : 1.74  [Brazil_d]
 
@@ -70,44 +89,58 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0398   profit≈-3.98%
 11:00   [RUSSIA, FNL - Division A Gold - Fall Season]
 Binh Dinh  vs  Ho Chi Minh City II
 
-- Brazil_d   1=1.26  |  X=4.5  |  2=10.5  |  0-2=1.83  |  2+=1.26  |  3+=1.87
-- OktagonBet 1=1.26  |  X=4.55  |  2=10.4  |  0-2=1.83  |  3+=1.85  |  GG=2.65  |  GG&3+=3.3  |  4+=3.25
+- Brazil_d   1=1.22  |  X=4.85  |  2=12  |  0-2=1.9  |  2+=1.24  |  3+=1.8
+- OktagonBet 1=1.22  |  X=4.9  |  2=11.9  |  0-2=1.9  |  3+=1.78  |  GG=2.75  |  GG&3+=3.4  |  4+=3.1
 - Topbet     1=2  |  X=3.45  |  2=3.3
 
 Najveća 1  : 2.00  [Topbet]
-Najveća X  : 4.55  [OktagonBet]
-Najveća 2  : 10.50  [Brazil_d]
-Najveća 0-2: 1.83  [Brazil_d, OktagonBet]
-Najveća 3+ : 1.87  [Brazil_d]
+Najveća X  : 4.90  [OktagonBet]
+Najveća 2  : 12.00  [Brazil_d]
+Najveća 0-2: 1.90  [Brazil_d, OktagonBet]
+Najveća 3+ : 1.80  [Brazil_d]
 
-Arbitraža (1-X-2): DA   inv_sum=0.8150   profit≈18.50%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0812   profit≈-8.12%
+Arbitraža (1-X-2): DA   inv_sum=0.7874   profit≈21.26%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0819   profit≈-8.19%
+
+02:30   26.10.
+CD Victoria  vs  UPNFM
+
+- OktagonBet 1=4.75  |  X=3.6  |  2=1.62  |  0-2=1.99  |  3+=1.71  |  GG=1.76  |  GG&3+=2.2  |  4+=2.88
+- Topbet     1=2.6  |  X=3.3  |  2=2.55
+
+Najveća 1  : 4.75  [OktagonBet]
+Najveća X  : 3.60  [OktagonBet]
+Najveća 2  : 2.55  [Topbet]
+Najveća 0-2: 1.99  [OktagonBet]
+Najveća 3+ : 1.71  [OktagonBet]
+
+Arbitraža (1-X-2): DA   inv_sum=0.8805   profit≈11.95%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0873   profit≈-8.73%
 
 
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1707
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1321
-Grupa sa veličinom ≥3: 1019
-Grupa sa veličinom ≥4: 777
-Grupa sa veličinom ≥5: 557
-Grupa sa veličinom ≥6: 226
-Grupa sa veličinom ≥7: 44
+Ukupno mečeva (grupa): 1783
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1338
+Grupa sa veličinom ≥3: 1066
+Grupa sa veličinom ≥4: 764
+Grupa sa veličinom ≥5: 371
+Grupa sa veličinom ≥6: 132
+Grupa sa veličinom ≥7: 30
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  872   spojeno (u grupama >1):  807
-  - BetOle     ukupno zapisa:   25   spojeno (u grupama >1):   25
-  - Brazil_d   ukupno zapisa:  358   spojeno (u grupama >1):  355
-  - Brazil_p   ukupno zapisa:   33   spojeno (u grupama >1):   28
-  - Brazil_s   ukupno zapisa:  269   spojeno (u grupama >1):  246
-  - Merkur     ukupno zapisa: 1020   spojeno (u grupama >1):  943
-  - Mozzart    ukupno zapisa:  369   spojeno (u grupama >1):  297
-  - OktagonBet ukupno zapisa: 1039   spojeno (u grupama >1):  958
-  - Soccer     ukupno zapisa:  650   spojeno (u grupama >1):  647
-  - Topbet     ukupno zapisa: 1017   spojeno (u grupama >1):  960
+  - BalkanBet  ukupno zapisa:  900   spojeno (u grupama >1):  842
+  - BetOle     ukupno zapisa:  318   spojeno (u grupama >1):  318
+  - Brazil_d   ukupno zapisa:  378   spojeno (u grupama >1):  375
+  - Brazil_p   ukupno zapisa:   33   spojeno (u grupama >1):   33
+  - Brazil_s   ukupno zapisa:  262   spojeno (u grupama >1):  261
+  - Mozzart    ukupno zapisa:  369   spojeno (u grupama >1):  338
+  - OktagonBet ukupno zapisa: 1534   spojeno (u grupama >1): 1235
+  - Soccer     ukupno zapisa:  675   spojeno (u grupama >1):  667
+  - Topbet     ukupno zapisa: 1015   spojeno (u grupama >1):  970
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 4
-  - 0-2 / 3+: 1
-  - Barem jedna arbitraža: 5
+  - 1-X-2: 5
+  - 0-2 / 3+: 2
+  - Barem jedna arbitraža: 7

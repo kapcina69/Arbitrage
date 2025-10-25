@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 27.10.
-3:00
+4:00
 23:59
-3:00 - 23:59
+4:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -33,130 +33,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-GUATEMALA, Liga Nacional - Apertura
-876
-03:00
-Marquense
-CSD Comunicaciones
-817
-1
-2.12
-X
-2.95
-2
-3.35
-0-2
-1.55
-2+
-1.39
-3+
-2.28
-MEXICO, Liga de Expansion MX - Apertura
-1120
-03:00
-Dorados de Sinaloa
-Tlaxcala
-835
-1
-2.22
-X
-3.45
-2
-2.85
-0-2
-2.15
-2+
-1.18
-3+
-1.61
-USA, USL
-834
-03:00
-Monterey Bay
-Las Vegas Lights
-653
-1
-1.73
-X
-3.45
-2
-4.10
-0-2
-1.98
-2+
-1.21
-3+
-1.72
-835
-03:00
-Orange County SC
-Indy Eleven
-659
-1
-1.94
-X
-3.50
-2
-3.25
-0-2
-2.15
-2+
-1.18
-3+
-1.61
-836
-03:00
-Sacramento Republic
-Miami FC
-652
-1
-1.56
-X
-3.55
-2
-5.25
-0-2
-1.82
-2+
-1.26
-3+
-1.87
-MEXICO, Liga MX - Apertura
-545
-03:05
-Cruz Azul
-Monterrey
-838
-1
-1.96
-X
-3.70
-2
-3.45
-0-2
-2.28
-2+
-1.17
-3+
-1.56
-MEXICO, Liga MX - Apertura
-546
-03:07
-Guadalajara Chivas
-Atlas
-824
-1
-1.56
-X
-4.00
-2
-5.50
-0-2
-2.00
-2+
-1.22
-3+
-1.74
 JAPAN, J2 League
 701
 04:00
@@ -197,36 +73,36 @@ JAPAN, Japan Football League
 04:00
 Atletico Suzuka Club
 FC Tiamo Hirakata
-658
+655
 1
-2.70
+3.30
 X
-2.95
+3.05
 2
-2.50
+2.08
 0-2
-1.70
+1.75
 2+
-1.31
+1.29
 3+
-2.00
+1.97
 996
 04:00
 Grulla Morioka
 Verspah Oita
 657
 1
-3.05
+3.35
 X
 3.35
 2
-2.08
+1.95
 0-2
-2.05
+1.97
 2+
-1.19
+1.21
 3+
-1.66
+1.72
 997
 04:00
 Maruyasu Okazaki
@@ -885,7 +761,7 @@ X
 10:00
 K. Almaty
 FC Astana
-824
+823
 1
 2.50
 X
@@ -893,28 +769,28 @@ X
 2
 2.75
 0-2
-1.68
+1.65
 2+
-1.32
+1.33
 3+
-2.04
+2.08
 727
 10:00
 Okzhetpes
 Turan
-840
+837
 1
-1.88
+1.89
 X
-3.65
+3.55
 2
 3.30
 0-2
-2.38
+2.20
 2+
-1.14
+1.17
 3+
-1.50
+1.59
 728
 10:00
 Ulytau
@@ -955,17 +831,17 @@ Zhenis
 Kaisar Kyzylorda
 824
 1
-1.95
+2.02
 X
-3.15
+3.10
 2
-3.55
+3.40
 0-2
-1.63
+1.60
 2+
-1.34
+1.35
 3+
-2.12
+2.15
 731
 10:00
 Zhetysu Taldykorgan
@@ -1113,19 +989,19 @@ CHINA, Super League
 10:30
 Qingdao West Coast
 Chengdu Rongcheng
-833
+832
 1
 6.10
 X
-4.40
+4.35
 2
 1.44
 0-2
-2.40
+2.35
 2+
-1.14
+1.15
 3+
-1.50
+1.53
 SPAIN, Segunda RFEF - Group 2
 1189
 10:30
@@ -1948,17 +1824,17 @@ BVSC-Zuglo
 Vasas
 653
 1
-4.50
+4.55
 X
-3.45
+3.55
 2
-1.68
+1.65
 0-2
-1.85
+1.90
 2+
-1.25
+1.23
 3+
-1.84
+1.77
 1370
 12:00
 Szentlorinc
@@ -1983,15 +1859,15 @@ Malut United
 Semen Padang
 827
 1
-1.70
+1.68
 X
 3.45
 2
-4.30
+4.40
 0-2
-1.93
+1.95
 2+
-1.23
+1.22
 3+
 1.77
 LITHUANIA, A Lyga
@@ -2408,7 +2284,7 @@ SPAIN, LaLiga
 13:00
 Mallorca
 Levante
-946
+944
 1
 2.18
 X
@@ -2831,19 +2707,19 @@ GREECE, Super League 2
 13:30
 Makedonikos
 Kampaniakos
-654
+652
 1
 1.98
 X
 3.00
 2
-3.65
+3.70
 0-2
-1.53
+1.50
 2+
-1.41
+1.43
 3+
-2.30
+2.38
 1095
 13:30
 Marko
@@ -3148,7 +3024,7 @@ ENGLAND, Premier League
 14:00
 Arsenal
 Crystal Palace
-1029
+1025
 1
 1.42
 X
@@ -3167,13 +3043,13 @@ Aston Villa
 Manchester City
 1033
 1
-4.55
+4.50
 X
 3.55
 2
-1.82
+1.83
 0-2
-2.08
+2.07
 2+
 1.25
 3+
@@ -3199,7 +3075,7 @@ X
 14:00
 Wolves
 Burnley
-941
+954
 1
 1.98
 X
@@ -3234,7 +3110,7 @@ X
 14:00
 Verona
 Cagliari
-934
+938
 1
 2.25
 X
@@ -3521,7 +3397,7 @@ GERMANY, Bundesliga
 14:30
 Bayer Leverkusen
 Freiburg
-1027
+1040
 1
 1.87
 X
@@ -4234,17 +4110,17 @@ U. Catolica
 U. De Chile
 828
 1
-2.05
+2.12
 X
-3.20
+3.15
 2
-3.40
+3.30
 0-2
-1.78
+1.77
 2+
-1.28
+1.29
 3+
-1.92
+1.95
 CZECH REPUBLIC, Division 2
 1276
 15:30
@@ -4799,13 +4675,13 @@ FRANCE, Ligue 1
 16:15
 Angers
 Lorient
-931
+1015
 1
-2.62
+2.65
 X
 3.05
 2
-2.95
+2.90
 0-2
 1.65
 2+
@@ -4847,20 +4723,20 @@ X
 3+
 1.72
 Odigrani tiketi
-834
-Monterey Bay - Las Vegas Lights
-26.10. 03:00
+996
+Grulla Morioka - Verspah Oita
+26.10. 04:00
 KONAČAN ISHOD 
 1
-  1.73  
+  3.35  
 Običan
 Sistem
 Kvota:
-1.73
+3.35
 Uplata:
 20.00 RSD
 Dobitak:
-34.60 RSD
+67.00 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express
