@@ -1,9 +1,9 @@
-name: Run all scripts continuously (1min pause, auto-reset every 3h, auto-push after each cycle)
+name: Run all scripts continuously (1min pause, auto-reset every 3h, silent git)
 
 on:
   schedule:
-    - cron: "0 */3 * * *"  # automatski restart svakih 3 sata
-  workflow_dispatch:        # ručno pokretanje iz GitHub Actions taba
+    - cron: "0 */3 * * *"  # automatski restart svakih 3h
+  workflow_dispatch:
 
 jobs:
   run:
@@ -26,17 +26,20 @@ jobs:
 
       - name: Continuous execution (run → commit → wait → repeat)
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "actions@github.com"
+          git config --global user.name "GitHub Action" >/dev/null 2>&1
+          git config --global user.email "actions@github.com" >/dev/null 2>&1
 
           while true; do
             echo "=== [$(date)] Starting run_all.py ==="
             python run_all.py
 
             echo "=== [$(date)] Finished run_all.py, committing changes... ==="
-            git add .
-            git commit -m "auto: run_all update $(date '+%Y-%m-%d %H:%M')" || echo "No changes"
-            git push || echo "Push failed (maybe no new data)"
+            git add . >/dev/null 2>&1
+            git commit -m "auto: run_all update $(date '+%Y-%m-%d %H:%M')" >/dev/null 2>&1 || true
+
+            # tiha sinhronizacija sa origin/main
+            git pull --rebase origin main >/dev/null 2>&1 || true
+            git push origin main >/dev/null 2>&1 || echo "[git] Push skipped (no changes or race condition)"
 
             echo "=== [$(date)] Sleeping 1 minute before next cycle... ==="
             sleep 60
