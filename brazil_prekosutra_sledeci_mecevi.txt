@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 27.10.
-4:00
+5:00
 23:59
-4:00 - 23:59
+5:00 - 23:59
 FUDBAL
 STRELCI FUDBAL
 HOKEJ
@@ -338,7 +338,7 @@ X
 17:00
 Samsunspor
 Rizespor
-981
+925
 1
 1.94
 X
@@ -571,7 +571,7 @@ SPAIN, LaLiga
 20:00
 Betis
 Atl. Madrid
-1011
+1002
 1
 3.25
 X
