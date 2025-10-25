@@ -26,8 +26,6 @@ KOŠARKA IGRAČI
 TENIS
 HOKEJ
 SPECIJAL HOKEJ
-RUKOMET
-SPECIJAL RUKOMET
 ODBOJKA
 STONI TENIS
 RAGBI UNIJA
@@ -35,395 +33,1031 @@ AMERIČKI FUDBAL
 MMA
 FUTSAL
 PIKADO
-ESPORT
 BOKS
 POBEDNICI
 GOLOVI PO LIGAMA
 FUDBAL
-BRAZIL, Campeonato Maranhense 2 - Play Offs
-34454
-20:30
-Luminense
-ITZ Sport
-60
-GERMANY, 2. Bundesliga
-231
-20:30
-Hertha Berlin
-Dusseldorf
-976
-ITALY, Serie C - Group B
-892
-20:30
-Forli
-ASD Pineto Calcio
-823
-SPAIN, Segunda RFEF - Group 2
-1188
-20:30
-UD Logrones
-Tudelano
-650
-SWITZERLAND, Super League
-278
-20:30
-Winterthur
-Luzern
-838
-URUGUAY, Segunda Division
-864
-20:30
-Uruguay Montevideo
-Tacuarembo
-650
-ITALY, Serie A
-21
-20:45
-Cremonese
-Atalanta
-979
-BELGIUM, Jupiler Pro League
-484
-20:45
-Gent
-St. Liege
-926
-BOSNIA AND HERZEGOVINA, Premijer Liga BiH
-604
-20:45
-Velez Mostar
-Siroki Brijeg
-825
-IRELAND, Premier Division
-351
-20:45
-Sligo Rovers
-Cork City
-826
+KONAČAN ISHOD
+UKUPNO GOLOVA
 ENGLAND, Premier League
 80
 21:00
 Brentford
 Liverpool
-1086
+1078
+1
+3.70
+X
+4.10
+2
+1.87
+0-2
+2.55
+2+
+1.16
+3+
+1.51
 SPAIN, LaLiga
 446
 21:00
 Valencia
 Villarreal
-996
+1080
+1
+3.60
+X
+3.40
+2
+2.10
+0-2
+1.95
+2+
+1.28
+3+
+1.87
 NETHERLANDS, Eredivisie
 255
 21:00
 Zwolle
 Nijmegen
 934
+1
+3.70
+X
+3.80
+2
+1.90
+0-2
+2.30
+2+
+1.17
+3+
+1.56
 BOLIVIA, Copa Pacena
 1365
 21:00
 Academia del Balompie
 Universitario de Vinto
-656
+658
+1
+1.93
+X
+3.50
+2
+3.30
+0-2
+2.10
+2+
+1.18
+3+
+1.65
 BRAZIL, Campeonato Mineiro 3
 35151
 21:00
 Essube
 Paracatu
 60
+1
+3.75
+X
+3.15
+2
+1.91
+0-2
+1.62
+2+
+1.35
+3+
+2.15
 BRAZIL, Campeonato Sergipano 2
 35158
 21:00
 Desportiva Aracaju
 Atletica Gloriense
 657
+1
+2.00
+X
+3.30
+2
+3.25
+0-2
+1.93
+2+
+1.23
+3+
+1.77
 BRAZIL, Copa Santa Catarina - Play Offs
 34436
 21:00
 Santa Catarina
 Marcilio Dias
 656
+1
+2.22
+X
+3.05
+2
+3.05
+0-2
+1.70
+2+
+1.31
+3+
+2.02
 BRAZIL, Serie A
 452
 21:00
 Atletico-MG
 Ceara
 917
+1
+1.88
+X
+3.30
+2
+4.30
+0-2
+1.55
+2+
+1.42
+3+
+2.30
 453
 21:00
 Vitoria
 Corinthians
-999
+918
+1
+2.60
+X
+3.00
+2
+2.88
+0-2
+1.53
+2+
+1.44
+3+
+2.38
 BRAZIL, Serie B
 847
 21:00
 Athletic Club
 America MG
-823
+827
+1
+2.28
+X
+3.10
+2
+3.25
+0-2
+1.67
+2+
+1.34
+3+
+2.10
 848
 21:00
 Volta Redonda
 Coritiba
 820
+1
+3.50
+X
+3.00
+2
+2.20
+0-2
+1.55
+2+
+1.41
+3+
+2.30
 COLOMBIA, Primera A - Clausura
 570
 21:00
 Envigado
 Chico
 822
+1
+2.15
+X
+3.00
+2
+3.50
+0-2
+1.55
+2+
+1.40
+3+
+2.30
 COSTA RICA, Liga de Ascenso - Apertura
 33533
 21:00
 Escorpiones
 Pitbulls
 657
+1
+2.07
+X
+3.30
+2
+3.10
+0-2
+2.05
+2+
+1.20
+3+
+1.68
 ECUADOR, Liga Pro - Relegation Group
 1406
 21:00
 Mushuc Runa
 Manta
 957
+1
+1.61
+X
+3.55
+2
+4.85
+0-2
+1.85
+2+
+1.24
+3+
+1.83
 PORTUGAL, Liga 3
 1175
 21:00
 AD Fafe
 Vitoria Guimaraes B
 653
+1
+1.67
+X
+3.35
+2
+4.65
+0-2
+1.70
+2+
+1.31
+3+
+2.02
 SPAIN, LaLiga2
 432
 21:00
 Mirandes
 Racing Santander
-967
+969
+1
+3.60
+X
+3.40
+2
+2.00
+0-2
+1.93
+2+
+1.24
+3+
+1.80
 SPAIN, Primera RFEF - Group 1
 1159
 21:00
 Real Madrid B
 Real Aviles
 654
+1
+1.86
+X
+3.25
+2
+3.80
+0-2
+1.75
+2+
+1.29
+3+
+1.97
 SPAIN, Segunda RFEF - Group 4
 1204
 21:00
 Jaen
 Almeria B
 646
+1
+1.54
+X
+3.55
+2
+5.60
+0-2
+1.60
+2+
+1.33
+3+
+2.08
 SPAIN, Segunda RFEF - Group 5
 1212
 21:00
 Rayo Majadahonda
 Ilicitano
 648
+1
+1.67
+X
+3.25
+2
+4.90
+0-2
+1.55
+2+
+1.37
+3+
+2.22
 URUGUAY, Liga AUF Uruguaya - Clausura
 1378
 21:00
 CA Cerro
 Penarol
 813
+1
+8.25
+X
+4.00
+2
+1.39
+0-2
+1.70
+2+
+1.31
+3+
+2.00
 WORLD, CAF Champions League - Qualification
 34369
 21:00
 FAR Rabat
 Horoya
-799
+802
+1
+1.24
+X
+4.40
+2
+13.0
+0-2
+1.62
+2+
+1.35
+3+
+2.12
 FRANCE, Ligue 1
 42
 21:05
 Lens
 Marseille
-1009
+1092
+1
+2.50
+X
+3.50
+2
+2.75
+0-2
+2.20
+2+
+1.22
+3+
+1.69
 PORTUGAL, Liga Portugal
 102
 21:30
 Benfica
 Arouca
-955
+957
+1
+1.16
+X
+6.90
+2
+15.0
+0-2
+2.85
+2+
+1.09
+3+
+1.37
 103
 21:30
 Estrela
 Rio Ave
-978
+979
+1
+2.75
+X
+3.10
+2
+2.62
+0-2
+1.65
+2+
+1.35
+3+
+2.12
 BRAZIL, Serie C - Play Offs
 1332
 22:00
 Ponte Preta
 Londrina
 821
+1
+1.87
+X
+3.10
+2
+4.25
+0-2
+1.50
+2+
+1.44
+3+
+2.40
 CHILE, Chile Segunda
 940
 22:00
 Santiago City
 D. Puerto Montt
 652
+1
+6.60
+X
+4.60
+2
+1.36
+0-2
+2.50
+2+
+1.12
+3+
+1.45
 34366
 22:00
 Trasandino
 Dep. Linares
 657
+1
+2.75
+X
+3.30
+2
+2.25
+0-2
+2.07
+2+
+1.19
+3+
+1.66
 COLOMBIA, Primera A - Clausura
 571
 22:00
 Deportes Tolima
 Dep. Cali
 824
+1
+2.04
+X
+3.15
+2
+3.55
+0-2
+1.62
+2+
+1.36
+3+
+2.18
 COLOMBIA, Primera B - Clausura
 33564
 22:00
 Bogota
 Leones
 653
+1
+1.72
+X
+3.50
+2
+4.20
+0-2
+2.02
+2+
+1.20
+3+
+1.69
 DOMINICAN REPUBLIC, LDF
 34408
 22:00
 Jarabacoa
 Moca
 652
+1
+5.00
+X
+3.60
+2
+1.59
+0-2
+1.87
+2+
+1.24
+3+
+1.82
 PERU, Liga 1 - Clausura
 535
 22:15
 Alianza Atl.
 Cienciano
 828
+1
+1.97
+X
+3.30
+2
+3.60
+0-2
+1.78
+2+
+1.28
+3+
+1.92
 BRAZIL, Serie A
 454
 22:30
 Fluminense
 Internacional
-919
+934
+1
+1.86
+X
+3.20
+2
+4.50
+0-2
+1.58
+2+
+1.40
+3+
+2.28
 CHILE, Primera Division
 70
 22:30
 Huachipato
 Deportes Iquique
-837
+838
+1
+1.69
+X
+3.90
+2
+4.10
+0-2
+2.40
+2+
+1.13
+3+
+1.49
 PARAGUAY, Copa de Primera - Clausura
 619
 22:30
 Atl. Tembetary
 Sp. Luqueno
 828
+1
+3.30
+X
+3.15
+2
+2.15
+0-2
+1.75
+2+
+1.30
+3+
+1.97
 BRAZIL, Copa FGF
 34441
 23:00
 Esportivo
 Gaucho
 654
+1
+2.02
+X
+3.10
+2
+3.45
+0-2
+1.65
+2+
+1.34
+3+
+2.12
 COLOMBIA, Primera B - Clausura
 33565
 23:00
 Barranquilla
 Tigres
 654
+1
+1.95
+X
+3.05
+2
+3.70
+0-2
+1.57
+2+
+1.38
+3+
+2.22
 33566
 23:00
 Cucuta
 Orsomarso
 650
+1
+1.62
+X
+3.30
+2
+5.30
+0-2
+1.58
+2+
+1.37
+3+
+2.20
 EL SALVADOR, Primera Division
 33304
 23:00
 Zacatecoluca
 Aguila
 822
+1
+3.40
+X
+3.05
+2
+2.07
+0-2
+1.57
+2+
+1.35
+3+
+2.18
 GUATEMALA, Liga Nacional - Apertura
 873
 23:00
 Deportivo Mixco
 Mictlan
 815
+1
+1.46
+X
+3.60
+2
+6.60
+0-2
+1.65
+2+
+1.33
+3+
+2.07
 HONDURAS, Liga Nacional - Apertura
 1255
 23:00
 CD Marathon
 Motagua
 829
+1
+1.92
+X
+3.35
+2
+3.45
+0-2
+1.90
+2+
+1.24
+3+
+1.80
 NICARAGUA, Liga Primera - Apertura
 34389
 23:00
 Sport Sebaco
 Rancho Santana
 652
+1
+1.35
+X
+4.65
+2
+6.40
+0-2
+2.40
+2+
+1.11
+3+
+1.46
 USA, USL League One
 1080
 23:00
 Portland Hearts of Pine
 AV Alta
 102
+1
+1.82
+X
+3.70
+2
+3.50
+0-2
+2.35
+2+
+1.14
+3+
+1.51
 USA, USL
 825
 23:00
 Charleston
 Birmingham Legion FC
 653
+1
+1.38
+X
+4.50
+2
+6.25
+0-2
+2.50
+2+
+1.12
+3+
+1.45
 826
 23:00
 Loudoun
 North Carolina FC
 658
+1
+1.91
+X
+3.45
+2
+3.35
+0-2
+2.10
+2+
+1.19
+3+
+1.64
 COLOMBIA, Primera A - Clausura
 573
 23:10
 Bucaramanga
 Llaneros
 815
+1
+1.46
+X
+3.80
+2
+7.00
+0-2
+1.65
+2+
+1.35
+3+
+2.12
 BOLIVIA, Copa Pacena
 1366
 23:30
 Guabira
 Blooming
 660
+1
+2.30
+X
+3.60
+2
+2.50
+0-2
+2.50
+2+
+1.11
+3+
+1.44
 BRAZIL, Serie A
 455
 23:30
 Sport Recife
 Mirassol
 929
+1
+2.80
+X
+3.25
+2
+2.50
+0-2
+1.82
+2+
+1.28
+3+
+1.92
 BRAZIL, Serie B
 849
 23:30
 Paysandu PA
 Avai
 828
+1
+2.60
+X
+3.05
+2
+2.80
+0-2
+1.60
+2+
+1.38
+3+
+2.18
 ECUADOR, Liga Pro - Championship Group
 1394
 23:30
 Barcelona SC
 Libertad Loja
 653
+1
+1.57
+X
+3.65
+2
+5.10
+0-2
+1.92
+2+
+1.23
+3+
+1.77
 MEXICO, Liga Premier Serie A
 34393
 23:30
 Chapulineros
 Inter Playa Del Carmen
 654
+1
+4.40
+X
+3.35
+2
+1.72
+0-2
+1.83
+2+
+1.26
+3+
+1.87
 34394
 23:30
 Ciervos
 Canamy
 653
+1
+4.30
+X
+3.40
+2
+1.72
+0-2
+1.90
+2+
+1.23
+3+
+1.77
 34395
 23:30
 Cordobes FC
 Lobos ULMX
 654
+1
+1.82
+X
+3.20
+2
+4.05
+0-2
+1.65
+2+
+1.33
+3+
+2.07
+MEXICO, Liga Premier Serie B
+34400
+23:30
+Uruapan
+Poza Rica
+659
+1
+1.81
+X
+3.65
+2
+3.55
+0-2
+2.25
+2+
+1.16
+3+
+1.56
 URUGUAY, Liga AUF Uruguaya - Clausura
 1379
 23:30
 Cerro Largo
 Racing Montevideo
 818
+1
+2.55
+X
+3.00
+2
+2.75
+0-2
+1.50
+2+
+1.42
+3+
+2.35
 VENEZUELA, Liga FUTVE - Clausura - Quadrangular
 1359
 23:30
 Monagas
 La Guaira
 654
+1
+3.20
+X
+3.00
+2
+2.15
+0-2
+1.60
+2+
+1.35
+3+
+2.15
 VENEZUELA, Liga FUTVE 2 - Play Offs
 1303
 23:30
 Dynamo Puerto
 Trujillanos
 645
+1
+2.28
+X
+2.80
+2
+3.20
+0-2
+1.38
+2+
+1.55
+3+
+2.75
 Odigrani tiketi
-Klikni na kvotu i pokreni
+255
+Zwolle - Nijmegen
+25.10. 21:00
+KONAČAN ISHOD 
+1
+  3.70  
+Običan
+Sistem
+Kvota:
+3.70
+Uplata:
+20.00 RSD
+Dobitak:
+74.00 RSD
+Prihvatam sve promene kvota.
+FREEBET
+Express
+Prijavi se
 Srpski
 O nama
 Odgovorno klađenje
