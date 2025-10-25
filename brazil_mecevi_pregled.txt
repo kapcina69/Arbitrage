@@ -5,18 +5,6 @@
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-21:30
-Benfica  vs  Arouca   (ID: 911)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-21:30
-Estrela  vs  Rio Ave   (ID: 927)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
 22:00  [BRAZIL, Serie C - Play Offs]
 Ponte Preta  vs  Londrina   (ID: 821)
 1=-   X=-   2=-
@@ -36,13 +24,13 @@ Trasandino  vs  Dep. Linares   (ID: 657)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 22:00  [COLOMBIA, Primera A - Clausura]
-Deportes Tolima  vs  Dep. Cali   (ID: 824)
+Deportes Tolima  vs  Dep. Cali   (ID: 827)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 22:00  [COLOMBIA, Primera B - Clausura]
-Bogota  vs  Leones   (ID: 653)
+Bogota  vs  Leones   (ID: 655)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
@@ -60,13 +48,13 @@ Alianza Atl.  vs  Cienciano   (ID: 828)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 22:30  [COLOMBIA, Primera B - Clausura]
-Fluminense  vs  Internacional   (ID: 934)
+Fluminense  vs  Internacional   (ID: 919)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 22:30  [COLOMBIA, Primera B - Clausura]
-Huachipato  vs  Deportes Iquique   (ID: 838)
+Huachipato  vs  Deportes Iquique   (ID: 837)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-

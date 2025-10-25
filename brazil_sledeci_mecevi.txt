@@ -34,17 +34,6 @@ PIKADO
 BOKS
 GOLOVI PO LIGAMA
 FUDBAL
-PORTUGAL, Liga Portugal
-102
-21:30
-Benfica
-Arouca
-911
-103
-21:30
-Estrela
-Rio Ave
-927
 BRAZIL, Serie C - Play Offs
 1332
 22:00
@@ -67,13 +56,13 @@ COLOMBIA, Primera A - Clausura
 22:00
 Deportes Tolima
 Dep. Cali
-824
+827
 COLOMBIA, Primera B - Clausura
 33564
 22:00
 Bogota
 Leones
-653
+655
 DOMINICAN REPUBLIC, LDF
 34408
 22:00
@@ -91,13 +80,13 @@ BRAZIL, Serie A
 22:30
 Fluminense
 Internacional
-934
+919
 CHILE, Primera Division
 70
 22:30
 Huachipato
 Deportes Iquique
-838
+837
 PARAGUAY, Copa de Primera - Clausura
 619
 22:30
@@ -197,7 +186,7 @@ MEXICO, Liga Premier Serie A
 23:30
 Chapulineros
 Inter Playa Del Carmen
-654
+653
 34394
 23:30
 Ciervos

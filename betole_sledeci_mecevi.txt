@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-944
+942
   
   
 DNEVNI SPECIJAL
@@ -52,7 +52,7 @@ KOŠARKA
   
   
 SP. KOŠARKA
-99
+97
   
   
 TENIS
@@ -64,7 +64,7 @@ RUKOMET
   
   
 ODBOJKA
-76
+75
   
   
 HOKEJ
@@ -76,7 +76,7 @@ SP. HOKEJ
   
   
 AM.FUDBAL
-33
+22
   
   
 SP. AM. FUDBAL
@@ -92,11 +92,11 @@ RAGBI UNIJA
   
   
 STONI TENIS
-317
+311
   
   
 FUTSAL
-7
+6
   
   
 BADMINTON
@@ -104,7 +104,7 @@ BADMINTON
   
   
 MMA
-5
+4
   
   
 BOKS
@@ -112,11 +112,7 @@ BOKS
   
   
 PIKADO
-22
-  
-  
-KONJSKE TRKE
-9
+21
   
   
 ESPORT
@@ -124,7 +120,7 @@ ESPORT
   
   
 SP. FUDBAL
-1975
+1909
   
   
 VIR. FUDBAL
@@ -149,36 +145,6 @@ Vremenska
 Top
 Specijali
 KONAČAN ISHOD
- 
-Portugal, Liga Portugal
-+942
-Benfica
-Arouca
-25.10. 21:30
-ki 1
-1.17
-ki X
-6.80
-ki 2
-14.0
-manje 2.5
-2.90
-više 2.5
-1.36
-+960
-Estrela
-Rio Ave
-25.10. 21:30
-ki 1
-2.85
-ki X
-3.15
-ki 2
-2.47
-manje 2.5
-1.72
-više 2.5
-2.02
  
 Brazil, Serie C - Play Offs
 +798
@@ -248,15 +214,15 @@ Bogota
 Leones
 25.10. 22:00
 ki 1
-1.72
+1.81
 ki X
-3.50
+3.45
 ki 2
-4.15
+3.75
 manje 2.5
-2.02
+1.97
 više 2.5
-1.70
+1.72
  
 Dominican Republic, LDF
 +631
@@ -291,12 +257,12 @@ više 2.5
 1.91
  
 Brazil, Serie A
-+914
++899
 Fluminense
 Internacional
 25.10. 22:30
 ki 1
-1.87
+1.85
 ki X
 3.25
 ki 2
@@ -511,7 +477,7 @@ više 2.5
 2.10
  
 Brazil, Serie A
-+987
++909
 Sport Recife
 Mirassol
 25.10. 23:30
@@ -543,20 +509,20 @@ više 2.5
 2.20
  
 Mexico, Liga Premier Serie A
-+634
++633
 Chapulineros
 Inter Playa Del Carmen
 25.10. 23:30
 ki 1
-4.40
+4.35
 ki X
-3.40
+3.35
 ki 2
-1.70
+1.72
 manje 2.5
-1.83
+1.80
 više 2.5
-1.85
+1.88
 +633
 Ciervos
 Canamy
@@ -617,6 +583,38 @@ manje 2.5
 1.38
 više 2.5
 2.77
+ 
+Venezuela, Liga FUTVE - Clausura - Quadrangular
++634
+Monagas
+La Guaira
+25.10. 23:30
+ki 1
+3.20
+ki X
+3.03
+ki 2
+2.15
+manje 2.5
+1.62
+više 2.5
+2.12
+ 
+Bolivia, Copa Pacena
++640
+Guabira
+Blooming
+25.10. 23:30
+ki 1
+2.30
+ki X
+3.60
+ki 2
+2.50
+manje 2.5
+2.55
+više 2.5
+1.45
  Tiket
 TIKET
 
@@ -675,7 +673,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-21:12:45
+21:39:49
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.

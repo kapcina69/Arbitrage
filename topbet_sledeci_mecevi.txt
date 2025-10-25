@@ -37,9 +37,9 @@ Arsenal - Crystal Palace
 +53
 15:00
 Aston Villa - Man. City
-4.20
-3.80
-1.80
+4.55
+3.75
+1.78
 +53
 15:00
 Wolverhampton - Burnley
@@ -227,22 +227,6 @@ Portugal 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-21:30
-CF Estrela - Rio Ave
-2.90
-3.15
-2.55
-+53
-21:30
-Benfica - Arouca
-1.18
-7.70
-17.00
-+53
 NED. 26.10.
 1
 X
@@ -356,7 +340,7 @@ Ried - Rapid W.
 17:00
 Austria W. - Salzburg
 3.10
-3.60
+3.65
 2.20
 +53
 Austrija 2
@@ -505,9 +489,9 @@ X
 2
 22:30
 Fluminense RJ - Internacional RS
-1.80
+1.75
 3.40
-3.90
+4.20
 +41
 23:30
 Sport Recife PE - Mirassol SP
@@ -641,7 +625,7 @@ X
 CSKA S. - Beroe
 1.23
 5.85
-11.20
+10.80
 +37
 PON. 27.10.
 1
@@ -990,7 +974,7 @@ Cuenca - Aucas
 19:00
 Cuniburo FC - Tecnico Uni.
 2.40
-3.10
+3.00
 2.80
 +37
 21:30
@@ -1061,9 +1045,9 @@ FAS - Alianza (Slv)
 +39
 03:30
 Isidro Metapan - CD. Cacahuatique
-1.75
-3.25
-4.40
+1.85
+3.10
+4.00
 +39
 22:00
 CD Fuerte San Francisco Morazan - Municipal Limeno
@@ -1835,9 +1819,9 @@ Kairat Almaty - Astana
 +41
 11:00
 Okzhetpes - FK Turan
-1.90
+1.78
 3.55
-3.50
+3.80
 +41
 11:00
 Zhenis - Kaisar Kyzylorda
@@ -1873,9 +1857,9 @@ X
 2
 08:30
 Shandong Taishan - Shanghai SIPG
-2.45
-4.20
-2.35
+2.40
+4.10
+2.40
 +41
 11:30
 Qingdao Youth Island - Chengdu Q.
@@ -1981,7 +1965,7 @@ X
 Tolima - Dep.Cali
 2.05
 3.30
-3.20
+3.10
 +41
 23:10
 Bucaramanga - Llaneros
@@ -2025,9 +2009,9 @@ X
 2
 22:00
 Bogota - Leones
-1.75
-3.60
-3.90
+1.80
+3.70
+3.50
 +41
 23:00
 Barranquilla - Tigres
@@ -2170,8 +2154,8 @@ Dziugas - Panevezys
 17:25
 Žalgiris - Siauliai
 1.55
-4.25
-4.60
+4.20
+4.70
 +40
 PON. 27.10.
 1
@@ -2319,9 +2303,9 @@ Ajka - Kozarmisleny SE
 +39
 17:00
 Kecskemeti TE - Karcag SE
-1.50
-4.00
-5.60
+1.52
+4.05
+5.20
 +39
 PON. 27.10.
 1
@@ -2634,8 +2618,8 @@ X
 23:00
 Sebaco FC - Rancho Santana FC
 1.38
-4.75
-6.30
+5.05
+6.10
 +36
 NED. 26.10.
 1
@@ -2744,8 +2728,8 @@ Auckland City - Auckland FC Reserves
 03:00
 Birkenhead United AFC - Wellington Olympic
 2.30
-3.65
-2.60
+3.90
+2.55
 +36
 05:00
 Western Springs AFC - Auckland United FC
@@ -3962,8 +3946,8 @@ Mjallby - Norrkoping
 16:30
 AIK - Hacken
 2.15
-3.60
-3.30
+3.50
+3.40
 +53
 16:30
 Halmstads - Goteborg
@@ -4476,8 +4460,8 @@ X
 23:30
 Guabira Montero - Blooming
 2.25
-3.85
-2.60
+3.70
+2.70
 +36
 NED. 26.10.
 1
@@ -4499,9 +4483,9 @@ X
 2
 22:00
 CD Trasandino de Los Andes - Deportes Linares
-2.70
-3.40
-2.30
+2.75
+3.65
+2.25
 +36
 22:00
 Santiago City FC - Puerto Montt
@@ -4531,9 +4515,9 @@ Svay Rieng - SP Falcons FC
 +36
 13:00
 Dewa United - Phnom Penh Crown
-1.78
+1.72
 3.75
-3.60
+3.80
 +36
 MLS Next Pro
 KONAČAN ISHOD
