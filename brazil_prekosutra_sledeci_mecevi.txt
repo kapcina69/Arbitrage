@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 27.10.
-9:00
+10:00
 23:59
-9:00 - 23:59
+10:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -537,7 +537,7 @@ SPAIN, LaLiga
 20:00
 Betis
 Atl. Madrid
-998
+1000
 1
 3.25
 X
@@ -641,20 +641,20 @@ X
 3+
 2.40
 Odigrani tiketi
-242
-CSKA 1948 Sofia - Ludogorets
-27.10. 15:30
+589
+FC Botosani - FC Hermannstadt
+27.10. 14:30
 KONAČAN ISHOD 
 1
-  3.50  
+  2.20  
 Običan
 Sistem
 Kvota:
-3.50
+2.20
 Uplata:
 20.00 RSD
 Dobitak:
-70.00 RSD
+44.00 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express

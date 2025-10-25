@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 27.10.
-9:00
+10:00
 23:59
-9:00 - 23:59
+10:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -26,103 +26,12 @@ HOKEJ
 RUKOMET
 ODBOJKA
 FUTSAL
-BEJZBOL
 ESPORT
 FUDBAL VIRTUAL
 GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-ITALY, Primavera 1
-1011
-09:00
-Juventus U20
-Lazio U20
-657
-1
-2.07
-X
-3.45
-2
-3.00
-0-2
-2.15
-2+
-1.15
-3+
-1.56
-AUSTRIA, 2. Liga
-182
-09:30
-Amstetten
-Floridsdorfer AC
-833
-1
-2.25
-X
-3.25
-2
-2.95
-0-2
-1.90
-2+
-1.24
-3+
-1.82
-CZECH REPUBLIC, Division 2
-1275
-09:30
-Sparta Prague B
-Zizkov
-833
-1
-3.00
-X
-3.30
-2
-2.12
-0-2
-2.10
-2+
-1.19
-3+
-1.66
-ROMANIA, Liga 2
-813
-09:30
-FC Bihor
-Afumati
-653
-1
-1.51
-X
-3.85
-2
-5.30
-0-2
-2.10
-2+
-1.19
-3+
-1.66
-SLOVAKIA, 2. Liga
-843
-09:30
-Zilina B
-Zvolen
-835
-1
-2.50
-X
-3.45
-2
-2.38
-0-2
-2.20
-2+
-1.14
-3+
-1.54
 BELARUS, Vysshaya Liga
 405
 10:00
@@ -146,139 +55,139 @@ HONG KONG, Premier League
 10:00
 Kitchee
 North District
-655
+657
 1
-1.49
+1.71
 X
-4.15
+3.70
 2
-5.00
+3.90
 0-2
-2.50
+2.30
 2+
-1.10
+1.13
 3+
-1.43
+1.51
 KAZAKHSTAN, Premier League
 725
 10:00
 Aktobe
 Ordabasy
-823
+826
 1
-1.50
+1.84
 X
-3.65
+3.25
 2
-5.80
-0-2
-1.82
-2+
-1.26
-3+
-1.87
-726
-10:00
-K. Almaty
-FC Astana
-823
-1
-2.50
-X
-2.88
-2
-2.75
-0-2
-1.65
-2+
-1.33
-3+
-2.08
-727
-10:00
-Okzhetpes
-Turan
-829
-1
-1.94
-X
-3.30
-2
-3.45
-0-2
-1.85
-2+
-1.26
-3+
-1.85
-728
-10:00
-Ulytau
-Tobol
-820
-1
-4.10
-X
-3.20
-2
-1.82
-0-2
-1.77
-2+
-1.28
-3+
-1.92
-729
-10:00
-Yelimay Semey
-Atyrau
-823
-1
-1.56
-X
-3.55
-2
-5.30
-0-2
-1.88
-2+
-1.24
-3+
-1.82
-730
-10:00
-Zhenis
-Kaisar Kyzylorda
-823
-1
-1.70
-X
-3.35
-2
-4.50
-0-2
-1.70
-2+
-1.31
-3+
-2.02
-731
-10:00
-Zhetysu Taldykorgan
-Kyzylzhar
-832
-1
-2.40
-X
-3.05
-2
-2.70
+3.85
 0-2
 1.75
 2+
 1.29
 3+
 1.95
+726
+10:00
+K. Almaty
+FC Astana
+826
+1
+2.12
+X
+3.10
+2
+3.20
+0-2
+1.95
+2+
+1.22
+3+
+1.74
+727
+10:00
+Okzhetpes
+Turan
+828
+1
+1.75
+X
+3.40
+2
+4.10
+0-2
+1.90
+2+
+1.23
+3+
+1.77
+728
+10:00
+Ulytau
+Tobol
+823
+1
+5.20
+X
+3.55
+2
+1.58
+0-2
+1.92
+2+
+1.23
+3+
+1.77
+729
+10:00
+Yelimay Semey
+Atyrau
+823
+1
+1.48
+X
+3.75
+2
+5.90
+0-2
+1.98
+2+
+1.21
+3+
+1.72
+730
+10:00
+Zhenis
+Kaisar Kyzylorda
+824
+1
+1.65
+X
+3.45
+2
+4.65
+0-2
+1.70
+2+
+1.30
+3+
+2.00
+731
+10:00
+Zhetysu Taldykorgan
+Kyzylzhar
+820
+1
+2.85
+X
+2.95
+2
+2.38
+0-2
+1.60
+2+
+1.36
+3+
+2.18
 RUSSIA, FNL 2 - Division B - Group 2
 33617
 10:00
@@ -337,19 +246,19 @@ SLOVAKIA, 2. Liga
 10:00
 Petrzalka
 Z. Moravce-Vrable
-835
+833
 1
-3.00
+2.95
 X
-3.45
+3.30
 2
-2.07
+2.15
 0-2
-2.12
+2.00
 2+
-1.16
+1.19
 3+
-1.59
+1.66
 SPAIN, Segunda RFEF - Group 5
 1213
 10:00
@@ -373,37 +282,37 @@ TURKEY, 2. Lig Red Group
 10:00
 Mardin BB
 Isparta 32 Spor
-658
+654
 1
-2.18
+1.92
 X
-3.50
+3.35
 2
-2.75
+3.45
 0-2
-2.25
+1.90
 2+
-1.14
+1.21
 3+
-1.53
+1.77
 TURKEY, 2. Lig White Group
 33456
 10:00
 Erbaaspor
 1928 Bucaspor
-649
+645
 1
-1.32
+1.30
 X
-4.60
+4.45
 2
-7.50
+8.75
 0-2
-2.25
+1.97
 2+
-1.14
+1.19
 3+
-1.53
+1.69
 CHINA, Super League
 126
 10:30
@@ -516,19 +425,19 @@ INDIA, Super Cup
 11:00
 North East Utd
 Inter Kashi
-832
+829
 1
-1.40
+1.35
 X
-4.35
+4.60
 2
-6.00
+6.70
 0-2
-2.35
+2.40
 2+
-1.13
+1.12
 3+
-1.50
+1.48
 ITALY, Primavera 1
 33415
 11:00
@@ -644,11 +553,11 @@ Dynamo Vologda
 Tver
 59
 1
-1.55
+1.51
 X
-3.80
+3.85
 2
-4.95
+5.30
 0-2
 2.18
 2+
@@ -880,6 +789,23 @@ X
 1.32
 3+
 2.07
+1200
+11:00
+Alcoyano
+Reus FCR
+652
+1
+1.81
+X
+3.20
+2
+4.10
+0-2
+1.62
+2+
+1.32
+3+
+2.07
 SPAIN, Segunda RFEF - Group 5
 1215
 11:00
@@ -996,15 +922,15 @@ Duzcespor
 1
 2.07
 X
-3.05
+3.00
 2
-3.15
+3.20
 0-2
-1.70
+1.65
 2+
-1.26
+1.28
 3+
-1.92
+1.97
 UKRAINE, Premier League
 248
 11:00
@@ -1012,17 +938,17 @@ SC Poltava
 Kolos Kovalivka
 813
 1
-8.50
+8.25
 X
-4.00
+3.90
 2
-1.40
+1.41
 0-2
-1.70
+1.63
 2+
-1.32
+1.36
 3+
-2.04
+2.15
 NETHERLANDS, Eredivisie
 256
 11:15
@@ -1046,7 +972,7 @@ ITALY, Serie A
 11:30
 Torino
 Genoa
-1014
+1016
 1
 2.30
 X
@@ -1100,15 +1026,15 @@ THAILAND, Thai League 1
 11:30
 Bangkok Utd
 Lamphun Warrior
-829
+827
 1
-1.66
+1.61
 X
-3.55
+3.65
 2
-4.45
+4.65
 0-2
-2.00
+2.02
 2+
 1.20
 3+
@@ -1260,19 +1186,19 @@ BELARUS, Vysshaya Liga
 12:00
 Molodechno
 Arsenal Dzyarzhynsk
-823
+826
 1
-4.70
+4.45
 X
-3.25
+3.30
 2
-1.76
+1.78
 0-2
-1.67
+1.75
 2+
-1.33
+1.30
 3+
-2.07
+1.97
 CROATIA, Prva NL
 1265
 12:00
@@ -1309,6 +1235,24 @@ X
 1.26
 3+
 1.87
+GREECE, Super League 2
+1097
+12:00
+Panionios
+Kalamata
+656
+1
+2.55
+X
+2.88
+2
+2.70
+0-2
+1.53
+2+
+1.41
+3+
+2.30
 HUNGARY, NB II.
 1369
 12:00
@@ -1421,13 +1365,13 @@ LITHUANIA, A Lyga
 12:00
 Riteriai
 Banga
-832
+833
 1
-2.62
+2.45
 X
 3.10
 2
-2.45
+2.65
 0-2
 1.80
 2+
@@ -1653,19 +1597,19 @@ UKRAINE, Persha Liga
 12:00
 Livyi Bereg
 Ch. Odesa
-648
+651
 1
 2.70
 X
-2.80
+2.85
 2
-2.62
+2.60
 0-2
-1.47
+1.50
 2+
-1.42
+1.39
 3+
-2.38
+2.30
 RUSSIA, Premier League
 222
 12:15
@@ -1780,17 +1724,17 @@ Paide
 Flora
 840
 1
-2.75
+2.80
 X
-3.55
+3.60
 2
-2.15
+2.12
 0-2
-2.40
+2.50
 2+
-1.13
+1.12
 3+
-1.48
+1.46
 GERMANY, 2. Bundesliga
 232
 12:30
@@ -1902,7 +1846,7 @@ SPAIN, LaLiga
 13:00
 Mallorca
 Levante
-995
+944
 1
 2.18
 X
@@ -2203,13 +2147,13 @@ Malaga
 FC Andorra
 925
 1
-2.25
+2.18
 X
 3.15
 2
-3.30
+3.40
 0-2
-1.72
+1.73
 2+
 1.32
 3+
@@ -2496,23 +2440,6 @@ X
 1.37
 3+
 2.22
-1097
-13:30
-Panionios
-Kalamata
-656
-1
-2.55
-X
-2.88
-2
-2.70
-0-2
-1.53
-2+
-1.41
-3+
-2.30
 IRAN, Persian Gulf Pro League
 724
 13:30
@@ -2784,7 +2711,7 @@ ENGLAND, Premier League
 14:00
 Arsenal
 Crystal Palace
-947
+1027
 1
 1.42
 X
@@ -2801,15 +2728,15 @@ X
 14:00
 Aston Villa
 Manchester City
-952
+1031
 1
 4.55
 X
 3.55
 2
-1.82
+1.83
 0-2
-2.08
+2.10
 2+
 1.25
 3+
@@ -2818,7 +2745,7 @@ X
 14:00
 Bournemouth
 Nottingham
-1032
+1028
 1
 1.84
 X
@@ -2835,7 +2762,7 @@ X
 14:00
 Wolves
 Burnley
-1019
+942
 1
 1.95
 X
@@ -2870,7 +2797,7 @@ X
 14:00
 Verona
 Cagliari
-1023
+934
 1
 2.25
 X
@@ -3027,1000 +2954,21 @@ X
 1.18
 3+
 1.65
-ITALY, Serie B
-313
-14:00
-Padova
-Juve Stabia
-955
-1
-2.55
-X
-2.95
-2
-2.90
-0-2
-1.49
-2+
-1.46
-3+
-2.45
-LATVIA, Virsliga
-441
-14:00
-RFS
-Grobina
-816
-1
-1.16
-X
-6.30
-2
-11.2
-0-2
-3.20
-2+
-1.05
-3+
-1.29
-LITHUANIA, A Lyga
-787
-14:00
-Dziugas Telsiai
-FK Panevezys
-832
-1
-2.65
-X
-3.15
-2
-2.45
-0-2
-1.82
-2+
-1.26
-3+
-1.87
-POLAND, Division 2
-469
-14:00
-Sandecja Nowy S.
-Warta Poznan
-828
-1
-2.45
-X
-3.20
-2
-2.60
-0-2
-2.02
-2+
-1.20
-3+
-1.69
-RUSSIA, FNL 2 - Division B - Group 2
-33620
-14:00
-Chertanovo M.
-Baltika 2
-59
-1
-3.20
-X
-3.65
-2
-1.93
-0-2
-2.38
-2+
-1.14
-3+
-1.50
-SWEDEN, Superettan
-393
-14:00
-Orebro
-Landskrona
-835
-1
-1.95
-X
-3.50
-2
-3.40
-0-2
-2.10
-2+
-1.19
-3+
-1.66
-TURKEY, Super Lig
-271
-14:00
-Galatasaray
-Goztepe
-929
-1
-1.40
-X
-4.75
-2
-6.75
-0-2
-2.30
-2+
-1.16
-3+
-1.56
-272
-14:00
-Genclerbirligi
-Konyaspor
-929
-1
-3.15
-X
-3.30
-2
-2.25
-0-2
-1.80
-2+
-1.28
-3+
-1.92
-URUGUAY, Segunda Division
-867
-14:00
-Maldonado
-La Luz
-653
-1
-2.00
-X
-3.00
-2
-3.60
-0-2
-1.52
-2+
-1.41
-3+
-2.30
-GERMANY, Bundesliga
-98
-14:30
-Bayer Leverkusen
-Freiburg
-1046
-1
-1.87
-X
-3.70
-2
-4.10
-0-2
-2.10
-2+
-1.25
-3+
-1.77
-AZERBAIJAN, Premier League
-775
-14:30
-Qarabag
-Shamakhi
-813
-1
-1.22
-X
-5.20
-2
-10.5
-0-2
-2.20
-2+
-1.17
-3+
-1.58
-BOSNIA AND HERZEGOVINA, Premijer Liga BiH
-605
-14:30
-Posusje
-Radnik Bijeljina
-813
-1
-2.30
-X
-2.80
-2
-3.10
-0-2
-1.43
-2+
-1.49
-3+
-2.55
-CZECH REPUBLIC, Chance Liga
-600
-14:30
-Sparta Prague
-Bohemians
-824
-1
-1.33
-X
-5.00
-2
-8.25
-0-2
-2.30
-2+
-1.16
-3+
-1.56
-QATAR, QSL
-1130
-14:30
-Al-Shahaniya
-Al Sailiya
-834
-1
-2.38
-X
-3.35
-2
-2.60
-0-2
-2.10
-2+
-1.19
-3+
-1.66
-1131
-14:30
-Qatar SC
-Umm-Salal
-841
-1
-1.83
-X
-3.95
-2
-3.25
-0-2
-2.95
-2+
-1.07
-3+
-1.34
-RUSSIA, Premier League
-223
-14:30
-Zenit
-Dynamo Moscow
-831
-1
-1.57
-X
-4.15
-2
-5.40
-0-2
-2.25
-2+
-1.17
-3+
-1.59
-SCOTLAND, Premiership
-173
-14:30
-Aberdeen
-Hibernian
-835
-1
-2.62
-X
-3.25
-2
-2.62
-0-2
-1.85
-2+
-1.27
-3+
-1.87
-SLOVAKIA, Nike liga
-412
-14:30
-Ruzomberok
-Trnava
-826
-1
-3.70
-X
-3.25
-2
-1.96
-0-2
-1.73
-2+
-1.31
-3+
-1.99
-SPAIN, Segunda RFEF - Group 1
-1226
-14:45
-Rayo Cantabria
-Bergantinos
-653
-1
-2.25
-X
-2.95
-2
-3.05
-0-2
-1.58
-2+
-1.34
-3+
-2.15
-BELGIUM, 1B Pro League
-523
-15:00
-Anderlecht U23
-Lokeren-Temse
-836
-1
-2.40
-X
-3.50
-2
-2.60
-0-2
-2.22
-2+
-1.17
-3+
-1.58
-524
-15:00
-Lommel SK
-Beerschot VA
-834
-1
-2.75
-X
-3.30
-2
-2.38
-0-2
-2.00
-2+
-1.22
-3+
-1.74
-BELGIUM, Jupiler Pro League
-486
-15:00
-Cercle Brugge KSV
-Waregem
-933
-1
-1.82
-X
-3.75
-2
-3.95
-0-2
-2.25
-2+
-1.17
-3+
-1.58
-CROATIA, HNL
-132
-15:00
-Rijeka
-Osijek
-826
-1
-1.84
-X
-3.35
-2
-4.05
-0-2
-1.77
-2+
-1.29
-3+
-1.94
-CYPRUS, Cyprus League
-317
-15:00
-Chloraka
-Omonia Aradippou
-829
-1
-2.55
-X
-3.05
-2
-2.75
-0-2
-1.65
-2+
-1.35
-3+
-2.12
-DENMARK, Superliga
-51
-15:00
-Randers FC
-Sonderjyske
-837
-1
-1.99
-X
-3.70
-2
-3.35
-0-2
-2.18
-2+
-1.18
-3+
-1.61
-FINLAND, Veikkausliiga - Championship Group
-557
-15:00
-HJK
-Inter Turku
-837
-1
-2.75
-X
-3.60
-2
-2.35
-0-2
-2.35
-2+
-1.16
-3+
-1.54
-GREECE, Super League
-263
-15:00
-Levadiakos
-Aris
-828
-1
-2.62
-X
-3.00
-2
-2.65
-0-2
-1.62
-2+
-1.36
-3+
-2.15
-IRELAND, Premier Division
-352
-15:00
-Derry City
-Shamrock Rovers
-821
-1
-2.62
-X
-3.00
-2
-2.80
-0-2
-1.55
-2+
-1.42
-3+
-2.30
-MALTA, Premier League - First stage - Main
-33686
-15:00
-Sliema
-Marsaxlokk
-657
-1
-2.65
-X
-3.15
-2
-2.40
-0-2
-1.80
-2+
-1.25
-3+
-1.85
-MOROCCO, Botola
-33312
-15:00
-Union Touarga
-Yacoub El Mansour
-826
-1
-2.25
-X
-3.00
-2
-3.05
-0-2
-1.63
-2+
-1.34
-3+
-2.12
-PORTUGAL, Liga 3
-1176
-15:00
-1* Dezembro
-Os Belenenses
-654
-1
-3.65
-X
-3.10
-2
-1.96
-0-2
-1.60
-2+
-1.36
-3+
-2.18
-1177
-15:00
-Amarante
-Paredes
-652
-1
-2.95
-X
-2.88
-2
-2.38
-0-2
-1.50
-2+
-1.43
-3+
-2.40
-1178
-15:00
-Amora
-Academica
-654
-1
-3.30
-X
-2.95
-2
-2.12
-0-2
-1.57
-2+
-1.38
-3+
-2.22
-1179
-15:00
-Atletico CP
-Covilha
-651
-1
-1.62
-X
-3.35
-2
-5.10
-0-2
-1.65
-2+
-1.33
-3+
-2.07
-1180
-15:00
-Caldas
-Lusitano Evora 1911
-654
-1
-2.18
-X
-2.95
-2
-3.15
-0-2
-1.60
-2+
-1.36
-3+
-2.18
-1181
-15:00
-Sanjoanense
-Varzim
-658
-1
-2.50
-X
-3.00
-2
-2.65
-0-2
-1.65
-2+
-1.34
-3+
-2.08
-1182
-15:00
-Santarem
-Mafra
-654
-1
-2.75
-X
-2.88
-2
-2.55
-0-2
-1.52
-2+
-1.42
-3+
-2.35
-RUSSIA, FNL 2 - Division B - Group 1 - Relegation Group
-1337
-15:00
-Sochi 2
-Angust Nazran
-60
-1
-2.04
-X
-3.10
-2
-3.40
-0-2
-1.85
-2+
-1.26
-3+
-1.85
-RUSSIA, FNL 2 - Division B - Group 2
-33621
-15:00
-Cherepovets
-Yenisey 2
-59
-1
-1.63
-X
-3.90
-2
-4.20
-0-2
-2.45
-2+
-1.13
-3+
-1.47
-SCOTLAND, Premiership
-174
-15:00
-Rangers
-Kilmarnock
-829
-1
-1.36
-X
-4.90
-2
-7.80
-0-2
-2.45
-2+
-1.14
-3+
-1.50
-SPAIN, Primera RFEF - Group 1
-1161
-15:00
-Unionistas
-Lugo
-652
-1
-2.55
-X
-2.80
-2
-2.80
-0-2
-1.49
-2+
-1.44
-3+
-2.40
-SPAIN, Segunda RFEF - Group 1
-1227
-15:00
-Burgos CF B
-Lealtad
-653
-1
-2.12
-X
-2.95
-2
-3.30
-0-2
-1.55
-2+
-1.36
-3+
-2.18
-SPAIN, Segunda RFEF - Group 5
-1217
-15:00
-Rayo Vallecano B
-Conquense
-654
-1
-3.05
-X
-3.00
-2
-2.22
-0-2
-1.65
-2+
-1.31
-3+
-2.04
-SWEDEN, Division 1 - Norra
-1302
-15:00
-Haninge
-Team TG FF
-657
-1
-1.35
-X
-5.00
-2
-6.00
-0-2
-3.25
-2+
-1.06
-3+
-1.29
-SWEDEN, Division 1 - Sodra
-1293
-15:00
-Angelholm
-Eskilsminne
-658
-1
-2.12
-X
-3.40
-2
-2.90
-0-2
-2.15
-2+
-1.18
-3+
-1.61
-1294
-15:00
-Norrby
-IFK Skovde
-649
-1
-1.18
-X
-6.20
-2
-10.0
-0-2
-3.25
-2+
-1.05
-3+
-1.28
-SPAIN, LaLiga
-448
-15:15
-Real Madrid
-Barcelona
-964
-1
-1.99
-X
-4.15
-2
-3.25
-0-2
-3.65
-2+
-1.08
-3+
-1.29
-BULGARIA, Parva Liga
-241
-15:15
-CSKA Sofia
-Beroe
-810
-1
-1.23
-X
-5.10
-2
-12.0
-0-2
-2.05
-2+
-1.21
-3+
-1.69
-CHILE, Primera B
-796
-15:30
-Magallanes
-Antofagasta
-828
-1
-2.15
-X
-3.10
-2
-3.10
-0-2
-1.75
-2+
-1.29
-3+
-1.97
-CHILE, Primera Division
-72
-15:30
-U. Catolica
-U. De Chile
-828
-1
-2.12
-X
-3.15
-2
-3.30
-0-2
-1.77
-2+
-1.29
-3+
-1.95
-CZECH REPUBLIC, Division 2
-1276
-15:30
-Vlasim
-Brno
-828
-1
-4.25
-X
-3.65
-2
-1.67
-0-2
-2.00
-2+
-1.21
-3+
-1.72
-GERMANY, 3. Liga
-148
-15:30
-Viktoria Koln
-Hansa Rostock
-835
-1
-2.70
-X
-3.35
-2
-2.50
-0-2
-1.95
-2+
-1.24
-3+
-1.79
-GREECE, Super League
-264
-15:30
-Panathinaikos
-Asteras Tripolis
-813
-1
-1.21
-X
-5.50
-2
-12.0
-0-2
-2.25
-2+
-1.16
-3+
-1.56
-PORTUGAL, Liga Portugal
-104
-15:30
-Estoril
-Nacional
-925
-1
-2.25
-X
-3.15
-2
-3.25
-0-2
-1.73
-2+
-1.32
-3+
-2.02
-105
-15:30
-Famalicao
-Vitoria Guimaraes
-921
-1
-1.92
-X
-3.25
-2
-4.15
-0-2
-1.63
-2+
-1.37
-3+
-2.18
 Odigrani tiketi
-813
-FC Bihor - Afumati
-26.10. 09:30
+725
+Aktobe - Ordabasy
+26.10. 10:00
 KONAČAN ISHOD 
 1
-  1.51  
+  1.84  
 Običan
 Sistem
 Kvota:
-1.51
+1.84
 Uplata:
 20.00 RSD
 Dobitak:
-30.20 RSD
+36.80 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express
