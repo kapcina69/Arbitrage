@@ -166,8 +166,8 @@ Mallorca - Levante
 16:15
 Real M. - Barcelona
 1.95
-4.35
-3.30
+4.20
+3.35
 +53
 18:30
 Osasuna - Celta
@@ -487,12 +487,6 @@ NED. 26.10.
 1
 X
 2
-00:30
-Fortaleza CE - Flamengo RJ
-4.60
-3.70
-1.65
-+41
 02:30
 Sao Paulo SP - Bahia BA
 2.00
@@ -539,7 +533,7 @@ X
 Criciuma SC - Goias GO
 1.95
 3.20
-4.15
+3.50
 +41
 20:00
 CRB - Atl. Goianiense GO
@@ -711,9 +705,9 @@ Slovacko B - Unicov
 +33
 10:15
 Karvina B - SK Hranice
-1.52
-4.40
-4.90
+1.48
+4.70
+5.00
 +33
 10:30
 Zlin B - Vsetin
@@ -867,9 +861,9 @@ X
 2
 15:00
 Smouha - El Gouna
-2.15
-2.70
-3.50
+2.10
+2.75
+3.70
 +37
 18:00
 Al Ittihad Al Sakandary - Wadi Degla
@@ -935,9 +929,9 @@ Guayaquil City - Independiente Juniors
 +36
 23:00
 San Antonio FC - Gualaceo
-2.45
+2.35
 2.85
-2.80
+3.00
 +36
 El Salvador 1
 KONAČAN ISHOD
@@ -1035,9 +1029,9 @@ X
 2
 13:00
 KTP - TPS
-1.90
-3.80
-3.20
+1.95
+3.90
+3.00
 +52
 16:00
 Helsinki - Inter T.
@@ -1347,9 +1341,9 @@ X
 2
 14:30
 Trento - Vicenza
-5.00
-3.60
-1.62
+4.80
+3.55
+1.65
 +40
 14:30
 Pro Vercelli - Pergolettese
@@ -1396,20 +1390,20 @@ X
 14:30
 Bra - Vis Pesaro
 3.00
-3.10
+3.15
 2.20
 +40
 14:30
 Ascoli - Sambenedettese
 1.42
-4.25
+4.10
 6.70
 +40
 17:30
 Pianese - Ravenna
-2.80
-3.10
-2.30
+3.00
+3.15
+2.20
 +40
 PON. 27.10.
 1
@@ -1437,8 +1431,8 @@ Trapani - Audace Cerignola
 +40
 14:30
 Catania - Benevento
-2.40
-3.20
+2.45
+3.00
 2.80
 +40
 14:30
@@ -1581,9 +1575,9 @@ Montedio Yamagata - Omiya Ardija
 +41
 05:05
 Tokushima - Iwaki FC
-2.40
-3.20
-2.80
+2.35
+3.00
+2.90
 +41
 06:00
 Blaublitz Akita - JEF United
@@ -1594,8 +1588,8 @@ Blaublitz Akita - JEF United
 06:00
 Renofa Yamaguchi - Kataller Toyama
 1.95
-3.40
-3.85
+3.35
+3.95
 +41
 06:00
 Roasso Kumamoto - Oita
@@ -1747,9 +1741,9 @@ X
 2
 08:30
 Shandong Taishan - Shanghai SIPG
-2.40
-4.20
-2.40
+2.35
+4.10
+2.45
 +41
 11:30
 Qingdao Youth Island - Chengdu Q.
@@ -2219,9 +2213,9 @@ X
 2
 01:00
 Tigres - Tijuana
-1.55
-4.15
-5.08
+1.50
+4.45
+5.51
 +37
 02:00
 Leon - Pumas
@@ -2279,14 +2273,14 @@ Cancun - Correcaminos
 +39
 02:00
 Zacatecas Mineros - Atlante
-2.55
-3.35
-2.55
+2.65
+3.15
+2.60
 +39
 04:00
 Dorados Sinaloa - Tlaxcala
-2.30
-3.55
+2.35
+3.35
 2.70
 +39
 PON. 27.10.
@@ -2341,9 +2335,9 @@ Hoffenheim II - Aue
 +41
 16:30
 Viktoria Koln - Hansa
-2.65
+2.75
 3.40
-2.45
+2.40
 +41
 19:30
 Duisburg - Essen
@@ -2616,8 +2610,8 @@ Miguelito - Arabe Unido
 02:15
 Plaza Amador - Alianza
 1.80
-3.50
-3.70
+3.65
+3.60
 +36
 22:00
 SD Atletico Nacional - Universitario
@@ -3265,21 +3259,21 @@ X
 2
 01:00
 Chattanooga Red Wolves - Westchester SC
-1.80
-3.50
+1.72
 3.70
+3.90
 +39
 01:00
 FC Naples - Charlotte
-2.15
-3.35
-2.90
+2.35
+3.30
+2.70
 +39
 01:00
 One Knoxville SC - Greenville Triumph
-1.95
+2.05
+3.20
 3.30
-3.55
 +39
 01:00
 South Georgia Tormenta - Texoma FC
@@ -3289,9 +3283,9 @@ South Georgia Tormenta - Texoma FC
 +39
 01:00
 Union Omaha - Spokane Velocity FC
-1.68
-3.80
-4.10
+1.42
+4.50
+6.10
 +39
 San Marino 1
 KONAČAN ISHOD
@@ -3389,8 +3383,8 @@ X
 2
 17:30
 Olimpija - Domzale
-1.32
-5.25
+1.35
+4.90
 7.30
 +41
 20:15
@@ -3619,9 +3613,9 @@ Colonia Moscardo - Getafe B
 +12
 15:45
 Racing Santander B - Bergantinos
-2.15
+2.25
 3.15
-3.00
+2.90
 +12
 16:00
 Burgos Promesas - Lealtad
@@ -3631,9 +3625,9 @@ Burgos Promesas - Lealtad
 +13
 16:00
 Rayo Vallecano B - Conquense
-2.80
-3.15
-2.35
+2.90
+3.10
+2.30
 +12
 17:00
 Alfaro - Alaves B
@@ -3951,9 +3945,9 @@ X
 2
 11:30
 Bandirma - Esenler Erok
-2.20
+2.25
 3.45
-2.97
+2.80
 +41
 14:00
 Amed Faaliyetler - Istanbul

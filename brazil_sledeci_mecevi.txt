@@ -42,60 +42,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-ARUBA, Division di Honor
-34391
-00:30
-Dakota
-Bubali
-55
-1
-1.07
-X
-9.00
-2
-16.0
-0-2
-5.90
-2+
-1.01
-3+
-1.09
-BRAZIL, Copa FGF
-34442
-00:30
-Brasil de Pelotas
-Internacional B
-648
-1
-1.37
-X
-4.10
-2
-7.40
-0-2
-1.90
-2+
-1.24
-3+
-1.80
-BRAZIL, Serie A
-456
-00:30
-Fortaleza
-Flamengo RJ
-1003
-1
-4.65
-X
-3.65
-2
-1.72
-0-2
-1.80
-2+
-1.29
-3+
-1.95
 GUATEMALA, Liga Nacional - Apertura
 874
 01:00
@@ -119,19 +65,19 @@ MEXICO, Liga MX - Apertura
 01:00
 U.A.N.L.- Tigres
 Club Tijuana
-835
+836
 1
-1.56
+1.51
 X
-4.40
+4.50
 2
-4.90
+5.35
 0-2
-2.55
+2.50
 2+
 1.13
 3+
-1.46
+1.48
 NEW ZEALAND, National League - Championship Group
 34430
 01:00
@@ -191,19 +137,19 @@ PERU, Liga 1 - Clausura
 01:00
 Cusco
 Grau
-822
+821
 1
-1.49
+1.45
 X
-3.90
+4.00
 2
-6.25
+6.60
 0-2
-1.90
+1.95
 2+
-1.24
+1.23
 3+
-1.80
+1.77
 USA, USL League One
 33501
 01:00
@@ -230,32 +176,32 @@ Charlotte Independ.
 1
 2.20
 X
-3.20
+3.25
 2
-2.90
+2.88
 0-2
-1.90
+1.98
 2+
-1.23
+1.21
 3+
-1.77
+1.72
 33503
 01:00
 One Knoxville
 Greenville
 103
 1
-1.97
+1.88
 X
-3.20
+3.30
 2
-3.45
+3.65
 0-2
-1.77
+1.83
 2+
-1.28
+1.26
 3+
-1.92
+1.87
 33504
 01:00
 Tormenta
@@ -277,19 +223,19 @@ X
 01:00
 Union Omaha
 Spokane Velocity
-102
+101
 1
-1.66
+1.44
 X
-3.55
+4.05
 2
-4.45
+5.90
 0-2
-2.00
+2.12
 2+
-1.21
+1.18
 3+
-1.72
+1.61
 USA, USL
 827
 01:00
@@ -315,35 +261,35 @@ CD Choloma
 Juticalpa
 56
 1
-3.45
+3.10
 X
-3.75
+3.65
 2
-1.82
+1.96
 0-2
-2.45
+2.40
 2+
-1.12
+1.13
 3+
-1.47
+1.49
 COLOMBIA, Primera A - Clausura
 574
 01:20
 Santa Fe
 Millonarios
-824
+829
 1
 2.75
 X
-3.00
+3.05
 2
 2.55
 0-2
-1.60
+1.65
 2+
-1.37
+1.35
 3+
-2.20
+2.12
 BRAZIL, Serie B
 850
 01:30
@@ -351,11 +297,11 @@ Criciuma
 Goias
 820
 1
-1.95
+1.96
 X
 3.15
 2
-4.15
+4.10
 0-2
 1.53
 2+
@@ -404,17 +350,17 @@ Puerto Cabello
 Zamora
 654
 1
-1.83
+1.85
 X
-3.15
+3.10
 2
-4.10
+4.05
 0-2
-1.57
+1.55
 2+
-1.38
+1.40
 3+
-2.22
+2.28
 BOLIVIA, Copa Pacena
 1367
 02:00
@@ -438,37 +384,37 @@ BRAZIL, Serie A
 02:00
 Sao Paulo
 Bahia
-921
+974
 1
-2.03
+2.00
 X
-3.20
+3.25
 2
-3.75
+3.80
 0-2
-1.60
+1.62
 2+
-1.38
+1.37
 3+
-2.20
+2.18
 COLOMBIA, Primera A - Clausura
 576
 02:00
 Once Caldas
 U. Magdalena
-822
+823
 1
-1.48
+1.52
 X
-3.85
+3.75
 2
-6.50
+6.00
 0-2
-1.83
+1.82
 2+
 1.27
 3+
-1.87
+1.89
 COSTA RICA, Primera Division - Apertura
 1059
 02:00
@@ -651,19 +597,19 @@ PANAMA, LPF - Clausura
 02:00
 Plaza Amador
 Alianza FC Panama
-654
+656
 1
 1.84
 X
-3.35
+3.40
 2
 3.70
 0-2
-1.88
+1.93
 2+
-1.24
+1.23
 3+
-1.82
+1.77
 USA, USL
 830
 02:00
@@ -1056,19 +1002,19 @@ MONGOLIA, Premier League
 05:00
 Hunters
 Tuv Buganuud
-101
+102
 1
-5.75
+4.15
 X
-4.85
+4.60
 2
-1.38
+1.55
 0-2
-2.65
+2.85
 2+
-1.08
+1.06
 3+
-1.38
+1.33
 NEW ZEALAND, National League - Championship Group
 37842
 05:00
@@ -1515,11 +1461,11 @@ Chengdu Rongcheng B
 Changchun Xidu
 652
 1
-1.57
+1.54
 X
-3.55
+3.60
 2
-5.20
+5.40
 0-2
 1.82
 2+
@@ -1639,17 +1585,17 @@ Shandong Taishan
 Shanghai Port
 848
 1
-2.38
+2.40
 X
-4.10
+4.05
 2
-2.38
+2.35
 0-2
-3.90
+3.85
 2+
 1.03
 3+
-1.21
+1.22
 SOUTH KOREA, K League 2
 979
 08:30
@@ -1657,13 +1603,13 @@ Seoul E-Land
 Asan
 827
 1
-2.02
+2.05
 X
-3.20
+3.15
 2
-3.55
+3.50
 0-2
-1.72
+1.70
 2+
 1.31
 3+
@@ -1912,11 +1858,11 @@ X
 2
 8.75
 0-2
-2.45
+2.55
 2+
-1.12
+1.11
 3+
-1.46
+1.43
 CZECH REPUBLIC, 3. CFL - Group B
 37855
 10:15
@@ -2346,19 +2292,19 @@ X
 11:00
 Ulytau
 Tobol
-818
+821
 1
-4.80
+5.50
 X
-3.30
+3.60
 2
-1.68
+1.55
 0-2
-1.78
+1.85
 2+
-1.28
+1.25
 3+
-1.92
+1.82
 729
 11:00
 Yelimay Semey
@@ -2596,17 +2542,17 @@ Italy U19 Wom.
 Denmark U19 Wom.
 59
 1
-1.98
+2.22
 X
-3.75
+3.45
 2
-2.95
+2.70
 0-2
-2.65
+2.22
 2+
-1.10
+1.16
 3+
-1.40
+1.56
 CHINA, Super League
 126
 11:30
@@ -3951,19 +3897,19 @@ NETHERLANDS, Eredivisie
 12:15
 Twente
 Ajax
-932
+986
 1
 2.25
 X
 3.50
 2
-3.05
+3.00
 0-2
-2.15
+2.18
 2+
 1.19
 3+
-1.64
+1.61
 LEBANON, Premier League
 37779
 12:15
@@ -4005,17 +3951,17 @@ ITALY, Serie A
 12:30
 Torino
 Genoa
-957
+1037
 1
-2.35
+2.38
 X
-2.85
+2.80
 2
-3.65
+3.60
 0-2
 1.46
 2+
-1.56
+1.57
 3+
 2.75
 CHINA, Jia League
@@ -4327,15 +4273,15 @@ Kisvarda
 Gyor
 833
 1
-3.30
+3.60
 X
-3.45
+3.50
 2
-2.03
+1.91
 0-2
 2.05
 2+
-1.21
+1.20
 3+
 1.69
 SPAIN, Youth League
@@ -5129,7 +5075,7 @@ X
 13:30
 Magdeburg
 Preussen Munster
-937
+978
 1
 1.90
 X
@@ -5137,11 +5083,11 @@ X
 2
 3.65
 0-2
-2.45
+2.50
 2+
-1.14
+1.13
 3+
-1.49
+1.48
 GERMANY, 3. Liga
 147
 13:30
@@ -5558,15 +5504,15 @@ Kampaniakos
 1
 2.07
 X
-3.20
+3.25
 2
 3.15
 0-2
-1.90
+1.93
 2+
-1.24
+1.23
 3+
-1.80
+1.77
 1095
 14:00
 Marko
@@ -6156,72 +6102,72 @@ X
 14:30
 Trento
 L.R. Vicenza
-820
+819
 1
-4.95
+4.55
 X
-3.30
+3.20
 2
-1.66
+1.75
 0-2
-1.65
+1.62
 2+
-1.33
+1.35
 3+
-2.07
+2.12
 ITALY, Serie C - Group B
 893
 14:30
 Ascoli
 Sambenedettese
-815
+820
 1
-1.44
+1.47
 X
 3.70
 2
-6.80
+6.30
 0-2
-1.70
+1.75
 2+
-1.31
+1.29
 3+
-2.02
+1.95
 894
 14:30
 Bra
 Vis Pesaro
-815
+818
 1
-3.35
+3.30
 X
-2.90
+3.00
 2
-2.15
+2.12
 0-2
-1.50
+1.62
 2+
-1.42
+1.35
 3+
-2.38
+2.15
 ITALY, Serie C - Group C
 902
 14:30
 Catania
 Benevento
-820
+816
 1
-2.62
+2.38
 X
-2.90
+2.85
 2
-2.62
+2.95
 0-2
-1.53
+1.45
 2+
-1.40
+1.47
 3+
-2.30
+2.50
 903
 14:30
 Cosenza
@@ -6394,21 +6340,89 @@ X
 1.27
 3+
 1.94
+37596
+14:30
+Folgore Caratese
+AC Milan U23
+650
+1
+1.74
+X
+3.20
+2
+4.10
+0-2
+1.70
+2+
+1.26
+3+
+1.92
+37597
+14:30
+Oltrepo
+Caldiero Terme
+656
+1
+2.45
+X
+2.95
+2
+2.65
+0-2
+1.65
+2+
+1.28
+3+
+1.97
+37598
+14:30
+Real Calepina
+Ciserano-Bergamo
+656
+1
+2.40
+X
+3.00
+2
+2.65
+0-2
+1.70
+2+
+1.26
+3+
+1.92
+37599
+14:30
+Varesina
+Pavia
+652
+1
+1.59
+X
+3.60
+2
+4.40
+0-2
+1.95
+2+
+1.18
+3+
+1.66
 Odigrani tiketi
-456
-Fortaleza - Flamengo RJ
-26.10. 00:30
+34430
+Auckland City - Auckland FC II
+26.10. 01:00
 KONAČAN ISHOD 
 1
-  4.65  
+  1.32  
 Običan
 Sistem
 Kvota:
-4.65
+1.32
 Uplata:
 20.00 RSD
 Dobitak:
-93.00 RSD
+26.40 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express

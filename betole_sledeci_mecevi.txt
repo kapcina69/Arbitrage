@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1343
+1340
   
   
 DNEVNI SPECIJAL
@@ -44,7 +44,7 @@ DNEVNI SPECIJAL
   
   
 GOLOVI PO LIGAMA
-78
+77
   
   
 KOŠARKA
@@ -52,11 +52,11 @@ KOŠARKA
   
   
 SP. KOŠARKA
-95
+96
   
   
 TENIS
-116
+117
   
   
 RUKOMET
@@ -92,7 +92,7 @@ RAGBI UNIJA
   
   
 STONI TENIS
-293
+289
   
   
 FUTSAL
@@ -116,11 +116,11 @@ PIKADO
   
   
 ESPORT
-30
+31
   
   
 SP. FUDBAL
-1813
+1784
   
   
 VIR. FUDBAL
@@ -146,54 +146,6 @@ Top
 Specijali
 KONAČAN ISHOD
  
-Brazil, Serie A
-+983
-Fortaleza
-Flamengo RJ
-26.10. 00:30
-ki 1
-4.65
-ki X
-3.70
-ki 2
-1.71
-manje 2.5
-1.80
-više 2.5
-1.93
- 
-Aruba, Division di Honor
-+33
-Dakota
-Bubali
-26.10. 00:30
-ki 1
-1.07
-ki X
-9.00
-ki 2
-15.0
-manje 2.5
-5.80
-više 2.5
-1.09
- 
-Brazil, Copa FGF
-+627
-Brasil de Pelotas
-Internacional B
-26.10. 00:30
-ki 1
-1.35
-ki X
-4.20
-ki 2
-7.80
-manje 2.5
-1.90
-više 2.5
-1.77
- 
 Guatemala, Liga Nacional - Apertura
 +789
 Municipal
@@ -211,20 +163,20 @@ više 2.5
 1.61
  
 Mexico, Liga MX - Apertura
-+815
++816
 U.A.N.L.- Tigres
 Club Tijuana
 26.10. 01:00
 ki 1
-1.55
+1.51
 ki X
-4.45
+4.55
 ki 2
-4.85
+5.30
 manje 2.5
-2.57
+2.50
 više 2.5
-1.45
+1.48
  
 New Zealand, National League - Championship Group
 +39
@@ -259,18 +211,18 @@ više 2.5
 2.47
  
 Peru, Liga 1 - Clausura
-+802
++799
 Cusco
 Grau
 26.10. 01:00
 ki 1
-1.48
+1.45
 ki X
-3.95
+4.05
 ki 2
-6.20
+6.50
 manje 2.5
-1.92
+1.95
 više 2.5
 1.77
  
@@ -312,13 +264,13 @@ Charlotte Independ.
 ki 1
 2.20
 ki X
-3.25
+3.30
 ki 2
-2.88
+2.85
 manje 2.5
-1.92
+1.97
 više 2.5
-1.77
+1.71
 +83
 One Knoxville
 Greenville
@@ -347,20 +299,20 @@ manje 2.5
 2.55
 više 2.5
 1.45
-+82
++81
 Union Omaha
 Spokane Velocity
 26.10. 01:00
 ki 1
-1.65
+1.48
 ki X
-3.60
+3.95
 ki 2
-4.40
+5.45
 manje 2.5
-2.00
+2.08
 više 2.5
-1.70
+1.65
  
 Paraguay, Copa de Primera - Clausura
 +804
@@ -384,31 +336,31 @@ CD Choloma
 Juticalpa
 26.10. 01:15
 ki 1
-3.45
+3.10
 ki X
-3.75
+3.70
 ki 2
-1.81
+1.95
 manje 2.5
-2.47
+2.40
 više 2.5
-1.47
+1.50
  
 Colombia, Primera A - Clausura
-+804
++809
 Santa Fe
 Millonarios
 26.10. 01:20
 ki 1
 2.75
 ki X
-3.03
+3.05
 ki 2
-2.55
+2.50
 manje 2.5
-1.60
+1.65
 više 2.5
-2.20
+2.10
  
 Brazil, Serie B
 +799
@@ -416,11 +368,11 @@ Criciuma
 Goias
 26.10. 01:30
 ki 1
-1.95
+1.97
 ki X
-3.20
+3.15
 ki 2
-4.10
+4.05
 manje 2.5
 1.53
 više 2.5
@@ -457,36 +409,36 @@ više 2.5
 1.73
  
 Venezuela, Liga FUTVE - Clausura - Quadrangular
-+632
++631
 Puerto Cabello
 Zamora
 26.10. 01:30
 ki 1
-1.83
+1.85
 ki X
 3.15
 ki 2
-4.05
+4.00
 manje 2.5
-1.57
+1.55
 više 2.5
-2.20
+2.27
  
 Brazil, Serie A
-+901
++954
 Sao Paulo
 Bahia
 26.10. 02:00
 ki 1
-2.03
+2.00
 ki X
 3.25
 ki 2
-3.70
+3.80
 manje 2.5
 1.62
 više 2.5
-2.20
+2.15
  
 Costa Rica, Primera Division - Apertura
 +808
@@ -611,6 +563,52 @@ manje 2.5
 1.85
 više 2.5
 1.80
+ 
+USA, USL Championship
++637
+FC Tulsa
+Colorado Springs
+26.10. 02:00
+ki 1
+2.15
+ki X
+3.25
+ki 2
+3.00
+manje 2.5
+1.93
+više 2.5
+1.75
++637
+San Antonio
+EL Paso
+26.10. 02:00
+ki 1
+2.10
+ki X
+3.20
+ki 2
+3.10
+manje 2.5
+1.85
+više 2.5
+1.82
+ 
+Bolivia, Copa Pacena
++639
+Aurora
+Always Ready
+26.10. 02:00
+ki 1
+3.05
+ki X
+3.60
+ki 2
+2.00
+manje 2.5
+2.41
+više 2.5
+1.48
  Tiket
 TIKET
 
@@ -669,7 +667,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-00:08:16
+00:33:56
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
