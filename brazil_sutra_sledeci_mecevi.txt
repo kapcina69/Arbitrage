@@ -56,15 +56,15 @@ CHINA, Super League
 07:30
 Shandong Taishan
 Shanghai Port
-847
+848
 1
-2.45
+2.65
 X
 4.05
 2
-2.30
+2.15
 0-2
-3.75
+3.80
 2+
 1.04
 3+
@@ -339,19 +339,19 @@ X
 10:00
 Zhenis
 Kaisar Kyzylorda
-824
+825
 1
-1.93
+1.89
 X
-3.15
+3.20
 2
-3.60
+3.75
 0-2
-1.63
+1.65
 2+
 1.34
 3+
-2.12
+2.10
 731
 10:00
 Zhetysu Taldykorgan
@@ -409,7 +409,7 @@ RUSSIA, Premier League
 10:00
 Akron Togliatti
 Lokomotiv Moscow
-840
+839
 1
 3.90
 X
@@ -1100,19 +1100,19 @@ IRAN, Persian Gulf Pro League
 11:30
 Fajr Sepasi
 Esteghlal F.C.
-644
+645
 1
-4.35
+3.65
 X
-3.00
+2.80
 2
-1.84
+2.08
 0-2
-1.42
+1.38
 2+
-1.46
+1.51
 3+
-2.45
+2.70
 ITALY, Serie C - Group C
 901
 11:30
@@ -1723,7 +1723,7 @@ X
 12:30
 Kaiserslautern
 Nurnberg
-934
+975
 1
 2.10
 X
@@ -2005,7 +2005,7 @@ SPAIN, LaLiga2
 13:00
 Malaga
 FC Andorra
-966
+925
 1
 2.25
 X
@@ -2534,15 +2534,15 @@ ENGLAND, Premier League
 14:00
 Arsenal
 Crystal Palace
-945
+944
 1
-1.42
+1.43
 X
-4.50
+4.45
 2
-8.00
+7.80
 0-2
-2.08
+2.07
 2+
 1.25
 3+
@@ -2568,7 +2568,7 @@ X
 14:00
 Bournemouth
 Nottingham
-1028
+1030
 1
 1.84
 X
@@ -2576,16 +2576,16 @@ X
 2
 4.33
 0-2
-1.92
+1.93
 2+
 1.29
 3+
-1.90
+1.89
 84
 14:00
 Wolves
 Burnley
-1013
+932
 1
 1.95
 X
@@ -2836,17 +2836,17 @@ SWEDEN, Superettan
 14:00
 Orebro
 Landskrona
-833
+835
 1
-2.03
+1.95
 X
-3.45
+3.50
 2
-3.25
+3.40
 0-2
-2.07
+2.10
 2+
-1.20
+1.19
 3+
 1.66
 TURKEY, Super Lig
@@ -2907,7 +2907,7 @@ GERMANY, Bundesliga
 14:30
 Bayer Leverkusen
 Freiburg
-1027
+1029
 1
 1.87
 X
@@ -3193,13 +3193,13 @@ FINLAND, Veikkausliiga - Championship Group
 15:00
 HJK
 Inter Turku
-838
+837
 1
-2.65
+2.75
 X
-3.65
+3.60
 2
-2.40
+2.35
 0-2
 2.35
 2+
@@ -3564,13 +3564,13 @@ SPAIN, LaLiga
 15:15
 Real Madrid
 Barcelona
-1017
+1013
 1
-1.96
+1.99
 X
-4.20
+4.15
 2
-3.35
+3.25
 0-2
 3.65
 2+
