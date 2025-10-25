@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1578
+1495
   
   
 DNEVNI SPECIJAL
@@ -44,39 +44,39 @@ DNEVNI SPECIJAL
   
   
 GOLOVI PO LIGAMA
-124
+114
   
   
 KOŠARKA
-260
+243
   
   
 SP. KOŠARKA
-309
+299
   
   
 TENIS
-75
+72
   
   
 RUKOMET
-168
+158
   
   
 SP. RUKOMET
-75
+69
   
   
 ODBOJKA
-152
+149
   
   
 HOKEJ
-193
+186
   
   
 SP. HOKEJ
-959
+791
   
   
 AM.FUDBAL
@@ -96,15 +96,15 @@ RAGBI UNIJA
   
   
 STONI TENIS
-137
+134
   
   
 VATERPOLO
-19
+18
   
   
 FUTSAL
-20
+17
   
   
 BADMINTON
@@ -116,7 +116,7 @@ MMA
   
   
 BOKS
-17
+18
   
   
 SNUKER
@@ -124,23 +124,19 @@ SNUKER
   
   
 PIKADO
-26
-  
-  
-FORMULA 1
-20
+25
   
   
 KONJSKE TRKE
-301
+259
   
   
 ESPORT
-40
+38
   
   
 SP. FUDBAL
-3144
+3050
   
   
 VIR. FUDBAL
@@ -152,7 +148,7 @@ VIR. TENIS
   
   
 OUTRIGHT
-540
+520
 
 This is a modal window.
 
@@ -166,459 +162,455 @@ Top
 Specijali
 KONAČAN ISHOD
  
-Italy, Serie A
-+961
-Parma
-Como
-25.10. 15:00
+Germany, Bundesliga
++972
+Augsburg
+RB Leipzig
+25.10. 15:30
 ki 1
-4.05
+3.10
 ki X
-3.15
+3.85
 ki 2
-2.05
-manje 2.5
-1.63
-više 2.5
-2.27
-+1050
-Udinese
-Lecce
-25.10. 15:00
-ki 1
-2.00
-ki X
-3.35
-ki 2
-4.00
-manje 2.5
-1.65
-više 2.5
-2.25
- 
-Serbia, Super Liga
-+816
-IMT Novi Beograd
-OFK Beograd
-25.10. 15:00
-ki 1
-2.60
-ki X
-3.45
-ki 2
-2.41
-manje 2.5
-2.22
-više 2.5
-1.57
-+810
-Radnicki 1923
-TSC
-25.10. 15:00
-ki 1
-1.70
-ki X
-3.65
-ki 2
-4.45
-manje 2.5
-2.05
-više 2.5
-1.67
- 
-Romania, Superliga
-+803
-Otelul
-U. Cluj
-25.10. 15:00
-ki 1
-2.37
-ki X
-3.00
-ki 2
-3.00
-manje 2.5
-1.57
-više 2.5
-2.25
- 
-Slovenia, Prva Liga
-+816
-Radomlje
-Koper
-25.10. 15:00
-ki 1
-3.70
-ki X
-3.70
-ki 2
-1.82
-manje 2.5
-2.22
-više 2.5
-1.57
- 
-Sweden, Allsvenskan
-+964
-Djurgarden
-Varnamo
-25.10. 15:00
-ki 1
-1.24
-ki X
-6.20
-ki 2
-9.50
-manje 2.5
-3.50
-više 2.5
-1.27
- 
-Italy, Serie B
-+893
-Avellino
-Spezia
-25.10. 15:00
-ki 1
-2.73
-ki X
-3.00
-ki 2
-2.70
-manje 2.5
-1.51
-više 2.5
-2.40
-+895
-Entella
-Pescara
-25.10. 15:00
-ki 1
-1.71
-ki X
-3.35
-ki 2
-5.40
-manje 2.5
-1.65
-više 2.5
 2.12
-+937
-Monza
-Reggiana
-25.10. 15:00
-ki 1
-1.48
-ki X
-3.90
-ki 2
-7.10
 manje 2.5
-1.73
+2.77
 više 2.5
-2.00
-+905
-Sampdoria
-Frosinone
-25.10. 15:00
+1.45
++970
+B.M.gladbach
+Bayern Munich
+25.10. 15:30
 ki 1
-2.25
+9.75
 ki X
-3.15
+6.40
 ki 2
-3.25
+1.27
 manje 2.5
-1.71
+4.05
 više 2.5
-2.03
-+903
-Sudtirol
-Cesena
-25.10. 15:00
+1.25
++987
+Eintracht Frankfurt
+St. Pauli
+25.10. 15:30
 ki 1
-2.85
-ki X
-3.15
-ki 2
-2.50
-manje 2.5
-1.67
-više 2.5
-2.10
- 
-International, Friendly Women
-+632
-Wales Wom.
-Australia Wom.
-25.10. 15:00
-ki 1
-4.40
-ki X
-3.65
-ki 2
 1.65
+ki X
+4.45
+ki 2
+4.60
 manje 2.5
-2.07
+2.65
 više 2.5
-1.67
- 
-Algeria, Ligue 2
-+628
-Khroub
-MO Constantine
-25.10. 15:00
+1.48
++1076
+Hamburger SV
+Wolfsburg
+25.10. 15:30
 ki 1
-1.83
+2.20
+ki X
+3.70
+ki 2
+3.10
+manje 2.5
+2.57
+više 2.5
+1.51
++981
+Hoffenheim
+Heidenheim
+25.10. 15:30
+ki 1
+1.63
+ki X
+4.20
+ki 2
+5.10
+manje 2.5
+2.60
+više 2.5
+1.50
+ 
+Russia, Premier League
++793
+FK Rostov
+Dynamo Makhachkala
+25.10. 15:30
+ki 1
+1.87
 ki X
 3.20
 ki 2
-4.05
+4.70
 manje 2.5
-1.57
+1.50
 više 2.5
-2.12
- 
-Armenia, Premier League
-+803
-Pyunik Yerevan
-FC Gandzasar
-25.10. 15:00
-ki 1
-1.24
-ki X
-5.30
-ki 2
-8.75
-manje 2.5
 2.45
-više 2.5
-1.47
  
-Austria, Regionalliga Central
-+636
-Dietach
-Wolfsberger AC (Am)
-25.10. 15:00
+Slovakia, Nike liga
++813
+AS Trencin
+Komarno
+25.10. 15:30
 ki 1
-3.03
+2.30
 ki X
-3.35
+3.30
 ki 2
-2.07
+2.85
 manje 2.5
-2.03
+1.95
+više 2.5
+1.77
++814
+Michalovce
+Dun. Streda
+25.10. 15:30
+ki 1
+3.95
+ki X
+3.70
+ki 2
+1.77
+manje 2.5
+2.15
+više 2.5
+1.62
++810
+Zilina
+Skalica
+25.10. 15:30
+ki 1
+1.60
+ki X
+3.85
+ki 2
+4.85
+manje 2.5
+2.10
 više 2.5
 1.65
  
-Austria, Burgenland
-+39
-Horitschon
-Deutschlandsberger
-25.10. 15:00
+Austria, Regionalliga East
++630
+Wiener Viktoria
+TWL Elektra
+25.10. 15:30
 ki 1
-2.27
+1.25
 ki X
-3.65
+5.40
 ki 2
-2.40
+7.90
 manje 2.5
-2.88
-više 2.5
-1.32
- 
-Austria, Wien
-+39
-.1980 Wien
-Simmeringer SC
-25.10. 15:00
-ki 1
-1.29
-ki X
-4.90
-ki 2
-6.70
-manje 2.5
-2.97
+3.00
 više 2.5
 1.30
  
-Belarus, Vysshaya Liga
-+805
-Slavia-Mozyr
-Neman
-25.10. 15:00
+Austria, Tirol
++39
+Innsbrucker AC
+Telfs
+25.10. 15:30
 ki 1
-2.10
+1.83
 ki X
-3.00
+3.80
 ki 2
-3.60
-manje 2.5
-1.67
-više 2.5
-2.05
- 
-Brazil, Campeonato Carioca U20 - Taca Guanabara - Play Offs
-+38
-Botafogo U20
-Bangu U20
-25.10. 15:00
-ki 1
-1.21
-ki X
-5.45
-ki 2
-10.5
-manje 2.5
-2.40
-više 2.5
-1.50
-+36
-Vasco da Gama AC U20
-Portuguesa RJ U20
-25.10. 15:00
-ki 1
-1.11
-ki X
-6.75
-ki 2
-16.0
-manje 2.5
-2.55
-više 2.5
-1.43
- 
-Bulgaria, Vtora Liga
-+623
-Belasitsa
-Marek
-25.10. 15:00
-ki 1
-3.70
-ki X
-2.88
-ki 2
-2.03
-manje 2.5
-1.37
-više 2.5
-2.70
-+633
-Chernomorets 1919
-Hebar
-25.10. 15:00
-ki 1
-1.97
-ki X
 3.15
-ki 2
-3.50
 manje 2.5
-1.62
+2.67
 više 2.5
-2.07
-+618
-Lok. Gorna
-Minyor Pernik
-25.10. 15:00
-ki 1
-1.22
-ki X
-4.80
-ki 2
-12.0
-manje 2.5
-1.77
-više 2.5
-1.85
-+625
-Vihren
-Sevlievo
-25.10. 15:00
-ki 1
-1.55
-ki X
-3.50
-ki 2
-5.70
-manje 2.5
-1.62
-više 2.5
-2.07
+1.37
  
-Croatia, Prva NL
-+631
-Jarun
-Karlovac
-25.10. 15:00
+Faroe Island, Premier League
++635
+07 Vestur Sorvagur
+Streymur
+25.10. 15:30
 ki 1
-3.70
+1.41
 ki X
-3.10
+4.60
 ki 2
-1.95
+5.40
 manje 2.5
-1.53
+2.70
 više 2.5
-2.22
- 
-Czech, Chance Liga
-+804
-Dukla Prague
-Slovacko
-25.10. 15:00
+1.40
++620
+B36 Torshavn
+FC Suduroy
+25.10. 15:30
 ki 1
-2.57
+1.12
 ki X
-3.05
+7.20
 ki 2
-2.80
+12.5
 manje 2.5
-1.61
-više 2.5
-2.20
-+804
-Hradec Kralove
-Teplice
-25.10. 15:00
-ki 1
-1.85
-ki X
-3.35
-ki 2
-4.30
-manje 2.5
-1.63
-više 2.5
-2.15
-+819
-Mlada Boleslav
-Karvina
-25.10. 15:00
-ki 1
-2.40
-ki X
 3.75
+više 2.5
+1.21
++640
+NSI Runavik
+Klaksvik
+25.10. 15:30
+ki 1
+3.35
+ki X
+3.85
 ki 2
-2.60
+1.81
+manje 2.5
+2.62
+više 2.5
+1.42
++640
+Vikingur
+HB Torshavn
+25.10. 15:30
+ki 1
+2.20
+ki X
+3.60
+ki 2
+2.65
 manje 2.5
 2.47
 više 2.5
-1.48
-+807
-Zlin
-FK Pardubice
-25.10. 15:00
+1.47
++639
+TB Tvoroyri
+Toftir
+25.10. 15:30
 ki 1
-2.20
+4.00
 ki X
-3.10
+4.40
 ki 2
-3.45
+1.57
+manje 2.5
+3.15
+više 2.5
+1.30
+ 
+Germany, Oberliga Rheinland-Pfalz/Saar
++82
+Diefflen
+Dudenhofen
+25.10. 15:30
+ki 1
+1.65
+ki X
+4.15
+ki 2
+3.85
+manje 2.5
+2.97
+više 2.5
+1.31
++79
+Eppelborn
+Emmelshausen-Karbach
+25.10. 15:30
+ki 1
+9.50
+ki X
+5.80
+ki 2
+1.20
+manje 2.5
+3.05
+više 2.5
+1.29
++82
+Kaiserslautern II
+Engers
+25.10. 15:30
+ki 1
+2.02
+ki X
+3.90
+ki 2
+2.80
+manje 2.5
+3.05
+više 2.5
+1.29
++82
+Auersmacher
+TSV 1881 Gau-Odernheim
+25.10. 15:30
+ki 1
+2.65
+ki X
+3.65
+ki 2
+2.20
+manje 2.5
+2.50
+više 2.5
+1.43
+ 
+Germany, Regionalliga North
++822
+Hamburger SV II
+St. Pauli II
+25.10. 15:30
+ki 1
+1.82
+ki X
+4.00
+ki 2
+3.20
+manje 2.5
+3.05
+više 2.5
+1.32
+ 
+Netherlands, Tweede Divisie
++638
+Katwijk
+Barendrecht
+25.10. 15:30
+ki 1
+1.88
+ki X
+3.80
+ki 2
+3.20
+manje 2.5
+2.35
+više 2.5
+1.52
+ 
+International Clubs, CAF Confederation Cup - Qualification
++781
+USM Alger
+Academie de FAD
+25.10. 15:30
+ki 1
+1.26
+ki X
+4.40
+ki 2
+11.5
+manje 2.5
+1.65
+više 2.5
+2.08
+ 
+Iran, Persian Gulf Pro League
++615
+Gol Gohar
+Tractor
+25.10. 15:30
+ki 1
+3.75
+ki X
+2.62
+ki 2
+2.15
+manje 2.5
+1.25
+više 2.5
+3.30
+ 
+South Africa, GladAfrica Championship
++83
+Cape Town City
+The Bees
+25.10. 15:30
+ki 1
+1.83
+ki X
+3.25
+ki 2
+3.95
 manje 2.5
 1.67
 više 2.5
-2.10
+2.00
++81
+Pretoria U.
+Upington City
+25.10. 15:30
+ki 1
+2.22
+ki X
+2.70
+ki 2
+3.50
+manje 2.5
+1.32
+više 2.5
+2.93
++82
+Hungry Lions
+Baroka
+25.10. 15:30
+ki 1
+2.47
+ki X
+2.85
+ki 2
+2.80
+manje 2.5
+1.43
+više 2.5
+2.47
+ 
+Spain, Tercera RFEF - Group 4
++633
+Zamudio
+Derio
+25.10. 15:30
+ki 1
+2.12
+ki X
+3.00
+ki 2
+3.10
+manje 2.5
+1.67
+više 2.5
+1.97
+ 
+Switzerland, Promotion League
++640
+Basel II
+Cham
+25.10. 15:30
+ki 1
+2.03
+ki X
+3.80
+ki 2
+2.83
+manje 2.5
+2.83
+više 2.5
+1.36
+ 
+Tunisia, Ligue Professionnelle 1
++618
+Metlaoui
+Gabes
+25.10. 15:30
+ki 1
+1.67
+ki X
+3.00
+ki 2
+5.50
+manje 2.5
+1.36
+više 2.5
+2.83
  Tiket
 TIKET
 
@@ -677,7 +669,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-15:00:44
+15:27:22
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.

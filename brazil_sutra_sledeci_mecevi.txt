@@ -32,7 +32,7 @@ ENGLAND, Premier League
 15:00
 Arsenal
 Crystal Palace
-941
+1029
 1
 1.43
 X
@@ -49,7 +49,7 @@ X
 15:00
 Aston Villa
 Manchester City
-1035
+1031
 1
 4.55
 X
@@ -118,7 +118,7 @@ X
 15:00
 Verona
 Cagliari
-1019
+1017
 1
 2.25
 X
@@ -172,19 +172,19 @@ CZECH REPUBLIC, 3. CFL - Group B
 15:00
 Mlada Boleslav B
 Varnsdorf
-659
+657
 1
-1.65
+1.64
 X
 3.75
 2
-3.90
+4.00
 0-2
-2.45
+2.38
 2+
-1.11
+1.12
 3+
-1.44
+1.47
 EGYPT, Premier League
 765
 15:00
