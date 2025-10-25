@@ -21,39 +21,12 @@ Sutra
 22:00 - 23:59
 FUDBAL
 STRELCI FUDBAL
-TENIS
 HOKEJ
 SPECIJAL HOKEJ
 ODBOJKA
 STONI TENIS
-PIKADO
 BOKS
-GOLOVI PO LIGAMA
 FUDBAL
-PERU, Liga 1 - Clausura
-535
-22:15
-Alianza Atl.
-Cienciano
-829
-BRAZIL, Serie A
-454
-22:30
-Fluminense
-Internacional
-933
-CHILE, Primera Division
-70
-22:30
-Huachipato
-Deportes Iquique
-838
-PARAGUAY, Copa de Primera - Clausura
-619
-22:30
-Atl. Tembetary
-Sp. Luqueno
-828
 BRAZIL, Copa FGF
 34441
 23:00
@@ -117,7 +90,7 @@ COLOMBIA, Primera A - Clausura
 23:10
 Bucaramanga
 Llaneros
-815
+816
 BOLIVIA, Copa Pacena
 1366
 23:30
@@ -169,7 +142,7 @@ URUGUAY, Liga AUF Uruguaya - Clausura
 23:30
 Cerro Largo
 Racing Montevideo
-818
+819
 VENEZUELA, Liga FUTVE - Clausura - Quadrangular
 1359
 23:30
