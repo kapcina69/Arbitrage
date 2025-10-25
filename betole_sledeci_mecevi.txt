@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1371
+1361
   
   
 DNEVNI SPECIJAL
@@ -56,7 +56,7 @@ SP. KOŠARKA
   
   
 TENIS
-120
+119
   
   
 RUKOMET
@@ -68,11 +68,11 @@ ODBOJKA
   
   
 HOKEJ
-131
+128
   
   
 SP. HOKEJ
-399
+326
   
   
 AM.FUDBAL
@@ -92,7 +92,7 @@ RAGBI UNIJA
   
   
 STONI TENIS
-304
+300
   
   
 FUTSAL
@@ -108,15 +108,11 @@ MMA
   
   
 BOKS
-15
+14
   
   
 PIKADO
 17
-  
-  
-FORMULA 1
-19
   
   
 ESPORT
@@ -124,7 +120,7 @@ ESPORT
   
   
 SP. FUDBAL
-1845
+1691
   
   
 VIR. FUDBAL
@@ -148,163 +144,6 @@ Takmičenja
 Vremenska
 Top
 Specijali
-KONAČAN ISHOD
- 
-Brazil, Copa FGF
-+633
-Esportivo
-Gaucho
-25.10. 23:00
-ki 1
-2.02
-ki X
-3.05
-ki 2
-3.50
-manje 2.5
-1.57
-više 2.5
-2.20
- 
-Colombia, Primera B - Clausura
-+41
-Barranquilla
-Tigres
-25.10. 23:00
-ki 1
-1.81
-ki X
-3.15
-ki 2
-4.15
-manje 2.5
-1.61
-više 2.5
-2.15
-+39
-Cucuta
-Orsomarso
-25.10. 23:00
-ki 1
-1.61
-ki X
-3.35
-ki 2
-5.25
-manje 2.5
-1.60
-više 2.5
-2.20
- 
-El Salvador, Primera Division - Apertura
-+801
-Zacatecoluca
-Aguila
-25.10. 23:00
-ki 1
-3.40
-ki X
-3.05
-ki 2
-2.05
-manje 2.5
-1.57
-više 2.5
-2.15
- 
-Guatemala, Liga Nacional - Apertura
-+795
-Deportivo Mixco
-Mictlan
-25.10. 23:00
-ki 1
-1.47
-ki X
-3.65
-ki 2
-6.50
-manje 2.5
-1.65
-više 2.5
-2.07
- 
-Honduras, Liga Nacional - Apertura
-+809
-CD Marathon
-Motagua
-25.10. 23:00
-ki 1
-1.92
-ki X
-3.35
-ki 2
-3.45
-manje 2.5
-1.90
-više 2.5
-1.77
- 
-Nicaragua, Liga Primera - Apertura
-+630
-Sport Sebaco
-Rancho Santana
-25.10. 23:00
-ki 1
-1.33
-ki X
-4.80
-ki 2
-6.70
-manje 2.5
-2.45
-više 2.5
-1.45
- 
-USA, USL Championship
-+632
-Charleston
-Birmingham Legion FC
-25.10. 23:00
-ki 1
-1.35
-ki X
-4.65
-ki 2
-6.50
-manje 2.5
-2.50
-više 2.5
-1.45
-+637
-Loudoun
-North Carolina FC
-25.10. 23:00
-ki 1
-1.91
-ki X
-3.50
-ki 2
-3.35
-manje 2.5
-2.07
-više 2.5
-1.65
- 
-USA, USL League One
-+82
-Portland Hearts of Pine
-AV Alta
-25.10. 23:00
-ki 1
-1.82
-ki X
-3.75
-ki 2
-3.45
-manje 2.5
-2.35
-više 2.5
-1.51
  
 Colombia, Primera A - Clausura
 +796
@@ -312,47 +151,47 @@ Bucaramanga
 Llaneros
 25.10. 23:10
 ki 1
-1.51
+1.55
 ki X
-3.70
+3.65
 ki 2
-6.30
+5.90
 manje 2.5
-1.63
+1.62
 više 2.5
 2.15
  
 Brazil, Serie A
-+987
++909
 Sport Recife
 Mirassol
 25.10. 23:30
 ki 1
-2.97
+2.77
 ki X
 3.25
 ki 2
-2.35
+2.47
 manje 2.5
 1.83
 više 2.5
 1.88
  
 Brazil, Serie B
-+808
++806
 Paysandu PA
 Avai
 25.10. 23:30
 ki 1
-2.60
+2.55
 ki X
 3.10
 ki 2
-2.77
+2.80
 manje 2.5
-1.62
+1.63
 više 2.5
-2.20
+2.15
  
 Mexico, Liga Premier Serie A
 +633
@@ -404,15 +243,15 @@ Uruapan
 Poza Rica
 25.10. 23:30
 ki 1
-1.81
+1.80
 ki X
-3.65
+3.70
 ki 2
-3.55
+3.50
 manje 2.5
-2.25
+2.30
 više 2.5
-1.55
+1.52
  
 Venezuela, Liga FUTVE 2 - Play Offs
 +624
@@ -431,16 +270,16 @@ više 2.5
 2.75
  
 Venezuela, Liga FUTVE - Clausura - Quadrangular
-+634
++635
 Monagas
 La Guaira
 25.10. 23:30
 ki 1
-3.20
+3.05
 ki X
-3.03
+3.00
 ki 2
-2.15
+2.22
 manje 2.5
 1.62
 više 2.5
@@ -452,11 +291,11 @@ Guabira
 Blooming
 25.10. 23:30
 ki 1
-2.30
+2.50
 ki X
 3.60
 ki 2
-2.50
+2.30
 manje 2.5
 2.55
 više 2.5
@@ -503,8 +342,8 @@ Molimo odigrajte neku igru.
 Prihvatam promene
 FREEBET
 UPLATI
-DOBITAK DO: 10,000.00 din
-din
+DOBITAK DO: 10,000.00 RSD
+RSD
 RSD
 1
 0
@@ -551,10 +390,11 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-22:34:25
+23:09:31
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
 Betole priredjuje igre na sreću u skladu sa rešenjem izdatim od Ministarstva Finansija Srbije – Uprava za igre na sreću.
 
 LIVE CHAT
+ 

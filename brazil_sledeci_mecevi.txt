@@ -16,81 +16,14 @@ Bonus tip
 Danas
 Sutra
 27.10.
-22:00
+23:00
 23:59
-22:00 - 23:59
+23:00 - 23:59
 FUDBAL
 STRELCI FUDBAL
-HOKEJ
-SPECIJAL HOKEJ
 ODBOJKA
 STONI TENIS
-BOKS
 FUDBAL
-BRAZIL, Copa FGF
-34441
-23:00
-Esportivo
-Gaucho
-654
-COLOMBIA, Primera B - Clausura
-33565
-23:00
-Barranquilla
-Tigres
-654
-33566
-23:00
-Cucuta
-Orsomarso
-650
-EL SALVADOR, Primera Division
-33304
-23:00
-Zacatecoluca
-Aguila
-822
-GUATEMALA, Liga Nacional - Apertura
-873
-23:00
-Deportivo Mixco
-Mictlan
-815
-HONDURAS, Liga Nacional - Apertura
-1255
-23:00
-CD Marathon
-Motagua
-829
-NICARAGUA, Liga Primera - Apertura
-34389
-23:00
-Sport Sebaco
-Rancho Santana
-651
-USA, USL League One
-1080
-23:00
-Portland Hearts of Pine
-AV Alta
-102
-USA, USL
-825
-23:00
-Charleston
-Birmingham Legion FC
-653
-826
-23:00
-Loudoun
-North Carolina FC
-658
-COLOMBIA, Primera A - Clausura
-573
-23:10
-Bucaramanga
-Llaneros
-816
 BOLIVIA, Copa Pacena
 1366
 23:30
@@ -102,7 +35,7 @@ BRAZIL, Serie A
 23:30
 Sport Recife
 Mirassol
-1007
+929
 BRAZIL, Serie B
 849
 23:30
@@ -148,7 +81,7 @@ VENEZUELA, Liga FUTVE - Clausura - Quadrangular
 23:30
 Monagas
 La Guaira
-654
+655
 VENEZUELA, Liga FUTVE 2 - Play Offs
 1303
 23:30
