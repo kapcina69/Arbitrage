@@ -1,7 +1,27 @@
+11:00   26.10.   [Kazahstan 1]
+Ulytau  vs  Tobol K.
+
+- BalkanBet  1=4.9  |  X=3.35  |  2=1.73  |  0-2=1.83  |  2+=1.28  |  3+=1.87  |  GG=1.8  |  IGG=4.85  |  GG&3+=2.35  |  GG&4+=3.6  |  4+=3.2
+- Brazil_d   1=4.8  |  X=3.3  |  2=1.68  |  0-2=1.78  |  2+=1.28  |  3+=1.92
+- Mozzart    1=5.3  |  X=3.6  |  2=1.63  |  0-2=1.8  |  2+=1.29  |  3+=1.9
+- OktagonBet 1=5.95  |  X=3.7  |  2=1.49  |  0-2=1.88  |  3+=1.8  |  GG=1.99  |  GG&3+=2.5  |  4+=3.15
+- Soccer     1=5.0  |  X=3.6  |  2=1.65  |  0-2=1.8  |  2+=1.29  |  3+=1.9  |  GG=1.87  |  IGG=4.85  |  GG&3+=2.25
+- Topbet     1=5.2  |  X=3.95  |  2=1.55
+
+Najveća 1  : 5.95  [OktagonBet]
+Najveća X  : 3.95  [Topbet]
+Najveća 2  : 1.73  [BalkanBet]
+Najveća 0-2: 1.88  [OktagonBet]
+Najveća 3+ : 1.92  [Brazil_d]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9993   profit≈0.07%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0527   profit≈-5.27%
+
 12:30   26.10.   [Italija 1]
 Torino  vs  Genoa
 
 - BalkanBet  1=2.35  |  X=3.25  |  2=3.25  |  0-2=1.5  |  2+=1.55  |  3+=2.7  |  GG=2.3  |  IGG=6.75  |  GG&3+=3.4  |  GG&4+=5.95  |  4+=5.65
+- Brazil_d   1=2.35  |  X=2.85  |  2=3.65  |  0-2=1.46  |  2+=1.56  |  3+=2.75
 - Mozzart    1=2.35  |  X=2.95  |  2=3.6  |  0-2=1.41  |  2+=1.6  |  3+=2.75
 - OktagonBet 1=2.35  |  X=2.85  |  2=3.65  |  0-2=1.47  |  3+=2.7  |  GG=2.28  |  GG&3+=3.35  |  4+=5.7
 - Soccer     1=2.4  |  X=2.95  |  2=3.5  |  0-2=1.48  |  2+=1.55  |  3+=2.7  |  GG=2.1  |  IGG=6.55  |  GG&3+=3.0
@@ -9,9 +29,9 @@ Torino  vs  Genoa
 
 Najveća 1  : 2.40  [Soccer]
 Najveća X  : 3.25  [BalkanBet]
-Najveća 2  : 3.65  [OktagonBet]
+Najveća 2  : 3.65  [Brazil_d, OktagonBet]
 Najveća 0-2: 1.50  [BalkanBet]
-Najveća 3+ : 2.75  [Mozzart]
+Najveća 3+ : 2.75  [Brazil_d, Mozzart]
 
 Arbitraža (1-X-2): DA   inv_sum=0.9983   profit≈0.17%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0303   profit≈-3.03%
@@ -20,24 +40,26 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0303   profit≈-3.03%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1230
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 712
-Grupa sa veličinom ≥3: 501
-Grupa sa veličinom ≥4: 368
-Grupa sa veličinom ≥5: 197
-Grupa sa veličinom ≥6: 3
-Grupa sa veličinom ≥7: 0
+Ukupno mečeva (grupa): 1223
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 842
+Grupa sa veličinom ≥3: 568
+Grupa sa veličinom ≥4: 440
+Grupa sa veličinom ≥5: 293
+Grupa sa veličinom ≥6: 117
+Grupa sa veličinom ≥7: 13
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  473   spojeno (u grupama >1):  444
-  - Brazil_d   ukupno zapisa:    2   spojeno (u grupama >1):    0
-  - Brazil_p   ukupno zapisa:    1   spojeno (u grupama >1):    1
-  - Mozzart    ukupno zapisa:  366   spojeno (u grupama >1):  323
-  - OktagonBet ukupno zapisa: 1038   spojeno (u grupama >1):  641
-  - Soccer     ukupno zapisa:  640   spojeno (u grupama >1):  615
-  - Topbet     ukupno zapisa:  491   spojeno (u grupama >1):  469
+  - BalkanBet  ukupno zapisa:  468   spojeno (u grupama >1):  440
+  - BetOle     ukupno zapisa:   29   spojeno (u grupama >1):   29
+  - Brazil_d   ukupno zapisa:  357   spojeno (u grupama >1):  354
+  - Brazil_p   ukupno zapisa:   58   spojeno (u grupama >1):   58
+  - Brazil_s   ukupno zapisa:   56   spojeno (u grupama >1):   56
+  - Mozzart    ukupno zapisa:  365   spojeno (u grupama >1):  332
+  - OktagonBet ukupno zapisa: 1038   spojeno (u grupama >1):  767
+  - Soccer     ukupno zapisa:  637   spojeno (u grupama >1):  613
+  - Topbet     ukupno zapisa:  488   spojeno (u grupama >1):  466
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 1
+  - 1-X-2: 2
   - 0-2 / 3+: 0
-  - Barem jedna arbitraža: 1
+  - Barem jedna arbitraža: 2

@@ -15,13 +15,1103 @@ Vremenska ponuda
 Bonus tip
 Danas
 Sutra
-27.10.
-23:00
+28.10.
+0:00
 23:59
-23:00 - 23:59
-Trenutno nema mečeva za odabrani filter
+0:00 - 23:59
+FUDBAL
+KOŠARKA
+STRELCI FUDBAL
+TENIS
+HOKEJ
+RUKOMET
+ODBOJKA
+STONI TENIS
+AMERIČKI FUDBAL
+SPECIJAL NFL
+PIKADO
+ESPORT
+FUDBAL VIRTUAL
+GOLOVI PO LIGAMA
+FUDBAL
+KONAČAN ISHOD
+UKUPNO GOLOVA
+CHILE, Primera B
+798
+00:00
+Rangers de Talca
+D. Concepcion
+832
+1
+2.30
+X
+3.10
+2
+2.80
+0-2
+1.80
+2+
+1.27
+3+
+1.90
+COSTA RICA, Primera Division - Apertura
+1062
+00:00
+Alajuelense
+Zeledon
+819
+1
+1.41
+X
+3.95
+2
+6.75
+0-2
+1.90
+2+
+1.24
+3+
+1.80
+ECUADOR, Liga Pro - Placement Group
+1397
+00:00
+Emelec
+Delfin
+649
+1
+1.65
+X
+3.25
+2
+5.10
+0-2
+1.55
+2+
+1.38
+3+
+2.25
+GUATEMALA, Liga Nacional - Apertura
+35089
+00:00
+Guastatoya
+Xelaju
+822
+1
+2.15
+X
+2.95
+2
+3.30
+0-2
+1.55
+2+
+1.40
+3+
+2.30
+MEXICO, Liga MX - Apertura
+547
+00:00
+Santos Laguna
+Queretaro
+834
+1
+2.02
+X
+3.50
+2
+3.45
+0-2
+2.05
+2+
+1.21
+3+
+1.72
+MEXICO, Liga de Expansion MX - Apertura
+1121
+00:00
+Atl. Morelia
+Leones Negros
+832
+1
+1.82
+X
+3.45
+2
+3.95
+0-2
+2.00
+2+
+1.22
+3+
+1.72
+NICARAGUA, Liga Primera - Apertura
+35123
+00:00
+UNAN-Managua
+Real Madriz
+650
+1
+1.48
+X
+3.95
+2
+5.50
+0-2
+2.00
+2+
+1.19
+3+
+1.68
+PARAGUAY, Copa de Primera - Clausura
+622
+00:00
+Recoleta Asuncion
+Libertad Asuncion
+830
+1
+3.95
+X
+3.40
+2
+1.85
+0-2
+1.90
+2+
+1.25
+3+
+1.82
+PERU, Liga 1 - Clausura
+540
+00:00
+FBC Melgar
+Sport Huancayo
+829
+1
+1.43
+X
+4.30
+2
+6.40
+0-2
+2.18
+2+
+1.18
+3+
+1.61
+USA, MLS Next Pro - Play Offs
+1246
+00:00
+New York Red Bulls 2
+Chicago Fire II
+659
+1
+1.68
+X
+3.95
+2
+3.85
+0-2
+2.75
+2+
+1.09
+3+
+1.39
+HONDURAS, Liga Nacional - Apertura
+1259
+00:15
+CD Olimpia
+Real Espana
+826
+1
+1.83
+X
+3.30
+2
+3.80
+0-2
+1.80
+2+
+1.27
+3+
+1.90
+PANAMA, LPF - Clausura
+1126
+00:15
+Independiente de la Chorrera
+Veraguas
+648
+1
+1.41
+X
+3.95
+2
+6.90
+0-2
+1.85
+2+
+1.25
+3+
+1.82
+BRAZIL, Serie A
+461
+00:30
+Palmeiras
+Cruzeiro
+937
+1
+1.75
+X
+3.45
+2
+4.70
+0-2
+1.75
+2+
+1.31
+3+
+2.00
+COLOMBIA, Primera A - Clausura
+575
+00:30
+Atl. Nacional
+Ind. Medellin
+828
+1
+2.15
+X
+3.15
+2
+3.25
+0-2
+1.72
+2+
+1.31
+3+
+2.02
+USA, MLS - Play Offs
+530
+00:30
+Vancouver Whitecaps
+FC Dallas
+837
+1
+1.44
+X
+4.75
+2
+6.00
+0-2
+2.85
+2+
+1.09
+3+
+1.38
+VENEZUELA, Liga FUTVE - Clausura - Quadrangular
+1362
+00:30
+Metropolitanos
+Caracas
+658
+1
+2.50
+X
+3.05
+2
+2.60
+0-2
+1.72
+2+
+1.30
+3+
+1.99
+URUGUAY, Liga AUF Uruguaya - Clausura
+1383
+01:00
+Miramar
+Boston River
+826
+1
+3.15
+X
+3.05
+2
+2.25
+0-2
+1.65
+2+
+1.34
+3+
+2.10
+MEXICO, Liga MX - Apertura
+548
+02:00
+Atl. San Luis
+Necaxa
+836
+1
+2.40
+X
+3.60
+2
+2.65
+0-2
+2.25
+2+
+1.17
+3+
+1.58
+549
+02:00
+Toluca
+Pachuca
+835
+1
+1.57
+X
+4.40
+2
+4.85
+0-2
+2.60
+2+
+1.12
+3+
+1.45
+USA, MLS Next Pro - Play Offs
+1247
+02:00
+Town FC
+Colorado Rapids 2
+660
+1
+1.81
+X
+3.80
+2
+3.45
+0-2
+2.60
+2+
+1.11
+3+
+1.43
+USA, MLS - Play Offs
+1077
+02:30
+San Diego FC
+Portland Timbers
+836
+1
+1.61
+X
+4.15
+2
+4.75
+0-2
+2.50
+2+
+1.13
+3+
+1.47
+NICARAGUA, Liga Primera - Apertura
+35124
+03:00
+Ferretti
+Managua FC
+657
+1
+2.55
+X
+3.15
+2
+2.50
+0-2
+1.80
+2+
+1.24
+3+
+1.82
+AUSTRALIA, A-League
+16
+09:00
+Macarthur FC
+Adelaide United
+839
+1
+2.30
+X
+3.65
+2
+2.75
+0-2
+2.45
+2+
+1.14
+3+
+1.50
+INDONESIA, Super League
+784
+09:30
+FC Bhayangkara
+Persijap Jepara
+812
+1
+2.15
+X
+2.85
+2
+3.40
+0-2
+1.45
+2+
+1.47
+3+
+2.45
+SINGAPORE, S-league
+37549
+12:30
+Hougang
+Tampines
+656
+1
+5.35
+X
+4.55
+2
+1.43
+0-2
+2.95
+2+
+1.07
+3+
+1.33
+INDONESIA, Super League
+785
+13:00
+Persib Bandung
+Persis Solo
+821
+1
+1.37
+X
+4.15
+2
+7.20
+0-2
+2.00
+2+
+1.21
+3+
+1.72
+EGYPT, Premier League
+768
+15:00
+Smouha
+El Gouna
+646
+1
+2.15
+X
+2.75
+2
+3.65
+0-2
+1.36
+2+
+1.57
+3+
+2.85
+ROMANIA, Superliga
+589
+15:30
+FC Botosani
+FC Hermannstadt
+826
+1
+2.20
+X
+3.05
+2
+3.30
+0-2
+1.65
+2+
+1.35
+3+
+2.12
+BULGARIA, Parva Liga
+242
+16:30
+CSKA 1948 Sofia
+Ludogorets
+828
+1
+3.50
+X
+3.25
+2
+2.03
+0-2
+1.78
+2+
+1.28
+3+
+1.92
+FINLAND, Veikkausliiga - Championship Group
+558
+17:00
+SJK
+KuPS
+840
+1
+2.75
+X
+3.75
+2
+2.28
+0-2
+2.60
+2+
+1.12
+3+
+1.44
+RUSSIA, Premier League
+225
+17:30
+Akhmat Grozny
+Sochi
+825
+1
+1.65
+X
+3.65
+2
+5.45
+0-2
+1.80
+2+
+1.29
+3+
+1.92
+BOSNIA AND HERZEGOVINA, Premijer Liga BiH
+606
+18:00
+Zrinjski
+Borac Banja Luka
+820
+1
+2.22
+X
+2.95
+2
+3.10
+0-2
+1.49
+2+
+1.43
+3+
+2.40
+CROATIA, HNL
+133
+18:00
+Vukovar 1991
+D. Zagreb
+819
+1
+11.2
+X
+6.00
+2
+1.21
+0-2
+2.75
+2+
+1.10
+3+
+1.39
+CYPRUS, Cyprus League
+320
+18:00
+AEK Larnaca
+APOEL
+825
+1
+2.18
+X
+3.05
+2
+3.30
+0-2
+1.65
+2+
+1.35
+3+
+2.12
+321
+18:00
+Omonia
+Pafos
+835
+1
+2.45
+X
+3.25
+2
+2.70
+0-2
+1.88
+2+
+1.25
+3+
+1.82
+EGYPT, Premier League
+769
+18:00
+Al Ittihad Al Sakandary
+Wadi Degla
+641
+1
+2.95
+X
+2.60
+2
+2.62
+0-2
+1.26
+2+
+1.74
+3+
+3.40
+ESTONIA, Esiliiga
+642
+18:00
+Tartu Welco
+Elva
+660
+1
+2.05
+X
+3.60
+2
+2.90
+0-2
+2.50
+2+
+1.10
+3+
+1.42
+LITHUANIA, A Lyga
+789
+18:00
+Dainava Alytus
+Hegelmann
+823
+1
+5.50
+X
+4.05
+2
+1.48
+0-2
+1.88
+2+
+1.24
+3+
+1.82
+790
+18:00
+Suduva
+Kauno Zalgiris
+826
+1
+2.80
+X
+3.10
+2
+2.35
+0-2
+1.80
+2+
+1.27
+3+
+1.89
+TURKEY, Super Lig
+274
+18:00
+Gaziantep
+Fenerbahce
+930
+1
+4.50
+X
+3.85
+2
+1.71
+0-2
+2.05
+2+
+1.21
+3+
+1.69
+275
+18:00
+Samsunspor
+Rizespor
+925
+1
+1.94
+X
+3.35
+2
+3.90
+0-2
+1.78
+2+
+1.29
+3+
+1.95
+DENMARK, Superliga
+53
+19:00
+Odense
+Brondby
+836
+1
+3.40
+X
+3.65
+2
+2.00
+0-2
+2.15
+2+
+1.19
+3+
+1.63
+ISRAEL, Ligat ha'Al
+649
+19:00
+Maccabi Tel Aviv
+Kiryat Shmona
+811
+1
+1.20
+X
+5.75
+2
+13.0
+0-2
+2.38
+2+
+1.14
+3+
+1.51
+POLAND, Ekstraklasa
+168
+19:00
+Radomiak Radom
+Wisla Plock
+832
+1
+2.25
+X
+3.20
+2
+3.15
+0-2
+1.82
+2+
+1.28
+3+
+1.90
+POLAND, Division 1
+385
+19:00
+KS Wieczysta Krakow
+Grodzisk M.
+835
+1
+1.59
+X
+4.30
+2
+4.40
+0-2
+2.45
+2+
+1.13
+3+
+1.49
+SWEDEN, Allsvenskan
+303
+19:00
+Brommapojkarna
+GAIS
+930
+1
+3.25
+X
+3.35
+2
+2.15
+0-2
+1.98
+2+
+1.23
+3+
+1.77
+SWEDEN, Allsvenskan
+304
+19:10
+Malmo FF
+Hammarby
+930
+1
+2.20
+X
+3.30
+2
+3.20
+0-2
+1.90
+2+
+1.25
+3+
+1.82
+ROMANIA, Superliga
+590
+19:30
+FC Rapid Bucuresti
+Unirea Slobozia
+824
+1
+1.51
+X
+3.80
+2
+6.00
+0-2
+1.87
+2+
+1.25
+3+
+1.84
+ARGENTINA, Torneo Betano - Clausura
+618
+20:00
+Barracas Central
+Boca Juniors
+812
+1
+4.10
+X
+2.95
+2
+2.05
+0-2
+1.39
+2+
+1.56
+3+
+2.80
+HUNGARY, NB II.
+1375
+20:00
+Budafoki
+Soroksar
+657
+1
+2.45
+X
+3.20
+2
+2.55
+0-2
+1.90
+2+
+1.24
+3+
+1.80
+ITALY, Serie C - Group A
+885
+20:30
+Dolomiti Bellunesi
+Triestina
+823
+1
+3.05
+X
+2.95
+2
+2.25
+0-2
+1.57
+2+
+1.38
+3+
+2.22
+886
+20:30
+Inter U23
+Cittadella
+823
+1
+2.50
+X
+2.90
+2
+2.75
+0-2
+1.55
+2+
+1.40
+3+
+2.30
+ITALY, Serie C - Group B
+896
+20:30
+Perugia
+Livorno
+817
+1
+2.12
+X
+2.95
+2
+3.35
+0-2
+1.55
+2+
+1.38
+3+
+2.25
+SPAIN, LaLiga
+451
+21:00
+Betis
+Atl. Madrid
+997
+1
+3.30
+X
+3.40
+2
+2.20
+0-2
+2.05
+2+
+1.25
+3+
+1.77
+ENGLAND, League One
+193
+21:00
+Port Vale
+Stockport
+829
+1
+2.65
+X
+3.20
+2
+2.62
+0-2
+1.68
+2+
+1.34
+3+
+2.08
+PORTUGAL, Liga Portugal
+108
+21:15
+Moreirense
+FC Porto
+913
+1
+9.25
+X
+4.75
+2
+1.33
+0-2
+2.00
+2+
+1.23
+3+
+1.75
+PARAGUAY, Copa de Primera - Clausura
+623
+21:30
+Ameliano
+General Caballero JLM
+823
+1
+2.15
+X
+3.00
+2
+3.40
+0-2
+1.60
+2+
+1.37
+3+
+2.18
+USA, MLS - Play Offs
+531
+22:45
+FC Cincinnati
+Columbus Crew
+839
+1
+2.35
+X
+3.65
+2
+2.70
+0-2
+2.40
+2+
+1.15
+3+
+1.51
+BRAZIL, Serie B
+853
+23:00
+Chapecoense-SC
+Operario
+820
+1
+2.02
+X
+3.10
+2
+3.95
+0-2
+1.50
+2+
+1.46
+3+
+2.40
 Odigrani tiketi
-Klikni na kvotu i pokreni
+1397
+Emelec - Delfin
+27.10. 00:00
+KONAČAN ISHOD 
+1
+  1.65  
+Običan
+Sistem
+Kvota:
+1.65
+Uplata:
+20.00 RSD
+Dobitak:
+33.00 RSD
+Prihvatam sve promene kvota.
+FREEBET
+Express
+Prijavi se
 Srpski
 O nama
 Odgovorno klađenje
