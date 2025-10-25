@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 27.10.
-8:00
+9:00
 23:59
-8:00 - 23:59
+9:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -32,42 +32,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-AUSTRALIA, A-League
-16
-08:00
-Macarthur FC
-Adelaide United
-839
-1
-2.35
-X
-3.70
-2
-2.65
-0-2
-2.45
-2+
-1.14
-3+
-1.49
-INDONESIA, Super League
-784
-08:30
-FC Bhayangkara
-Persijap Jepara
-812
-1
-2.15
-X
-2.85
-2
-3.40
-0-2
-1.45
-2+
-1.47
-3+
-2.45
 INDONESIA, Super League
 785
 12:00
@@ -340,7 +304,7 @@ X
 17:00
 Samsunspor
 Rizespor
-981
+925
 1
 1.94
 X
@@ -484,19 +448,19 @@ ARGENTINA, Torneo Betano - Clausura
 19:00
 Barracas Central
 Boca Juniors
-811
+812
 1
-4.15
+4.10
 X
 2.95
 2
-2.05
+2.04
 0-2
-1.38
+1.39
 2+
-1.58
+1.56
 3+
-2.85
+2.80
 HUNGARY, NB II.
 1375
 19:00
@@ -677,20 +641,20 @@ X
 3+
 2.40
 Odigrani tiketi
-768
-Smouha - El Gouna
-27.10. 14:00
+242
+CSKA 1948 Sofia - Ludogorets
+27.10. 15:30
 KONAČAN ISHOD 
 1
-  2.15  
+  3.50  
 Običan
 Sistem
 Kvota:
-2.15
+3.50
 Uplata:
 20.00 RSD
 Dobitak:
-43.00 RSD
+70.00 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express

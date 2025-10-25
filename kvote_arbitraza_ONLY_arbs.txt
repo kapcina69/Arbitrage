@@ -1,36 +1,52 @@
-10:00   25.10.   [Turska 3 - Kirmizi]
-Yeni Malatya  vs  H.Trabzon
+11:30   25.10.   [Kina 2]
+Qingdao RL  vs  Nanjing C.
 
-- BalkanBet  1=16.65  |  X=8  |  2=1.08  |  0-2=2.65  |  2+=1.12  |  3+=1.4  |  GG=2.65  |  IGG=6.1  |  GG&3+=3.1  |  GG&4+=3.25  |  4+=2
-- Brazil_d   1=21  |  X=7.9  |  2=1.07  |  0-2=2.55  |  2+=1.09  |  3+=1.4
-- Soccer     1=15.5  |  X=7.1  |  2=1.1  |  0-2=3.55  |  2+=1.04  |  3+=1.25  |  GG=2.0  |  IGG=None  |  GG&3+=None
-- Topbet     1=25  |  X=9.25  |  2=1.09
+- BalkanBet  1=3.5  |  X=3.35  |  2=1.9  |  0-2=1.9  |  2+=1.28  |  3+=1.8  |  GG=1.65  |  IGG=4.35  |  GG&3+=2.05  |  GG&4+=3.4  |  4+=3
+- Brazil_d   1=3.15  |  X=3.2  |  2=2.1  |  0-2=1.85  |  2+=1.25  |  3+=1.85
+- Soccer     1=4.5  |  X=3.6  |  2=1.7  |  0-2=1.95  |  2+=1.24  |  3+=1.77  |  GG=1.73  |  IGG=4.35  |  GG&3+=2.05
+- Topbet     1=3  |  X=3.45  |  2=2.05
 
-Najveća 1  : 25.00  [Topbet]
-Najveća X  : 9.25  [Topbet]
-Najveća 2  : 1.10  [Soccer]
-Najveća 0-2: 3.55  [Soccer]
-Najveća 3+ : 1.40  [BalkanBet, Brazil_d]
+Najveća 1  : 4.50  [Soccer]
+Najveća X  : 3.60  [Soccer]
+Najveća 2  : 2.10  [Brazil_d]
+Najveća 0-2: 1.95  [Soccer]
+Najveća 3+ : 1.85  [Brazil_d]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0572   profit≈-5.72%
-Arbitraža (0-2 / 3+): DA   inv_sum=0.9960   profit≈0.40%
+Arbitraža (1-X-2): DA   inv_sum=0.9762   profit≈2.38%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0534   profit≈-5.34%
 
-13:00   25.10.   [Bugarska 2]
-Gorna  vs  Minyor Pernik
+12:00   25.10.   [Grčka 2]
+Ilioupoli  vs  PAE Chania
 
-- BalkanBet  1=1.57  |  X=3.75  |  2=4.8  |  0-2=1.76  |  2+=1.32  |  3+=1.95  |  GG=2.05  |  IGG=5.55  |  GG&3+=2.6  |  GG&4+=4  |  4+=3.45
-- Brazil_d   1=1.64  |  X=3.35  |  2=4.95  |  0-2=1.65  |  2+=1.3  |  3+=2.02
-- Soccer     1=1.65  |  X=3.6  |  2=5.0  |  0-2=1.65  |  2+=1.35  |  3+=2.1  |  GG=2.07  |  IGG=5.45  |  GG&3+=2.6
-- Topbet     1=1.4  |  X=4.25  |  2=7.3
+- BalkanBet  1=2.75  |  X=3  |  2=2.4  |  0-2=1.53  |  2+=1.45  |  3+=2.3  |  GG=1.9  |  IGG=5.15  |  GG&3+=2.7  |  GG&4+=4.75  |  4+=4.35
+- Brazil_d   1=2.38  |  X=2.95  |  2=2.88  |  0-2=1.53  |  2+=1.41  |  3+=2.3
+- Soccer     1=2.75  |  X=3.1  |  2=2.5  |  0-2=1.55  |  2+=1.42  |  3+=2.25  |  GG=1.95  |  IGG=5.3  |  GG&3+=2.5
+- Topbet     1=3  |  X=3.15  |  2=2.2
 
-Najveća 1  : 1.65  [Soccer]
-Najveća X  : 4.25  [Topbet]
-Najveća 2  : 7.30  [Topbet]
-Najveća 0-2: 1.76  [BalkanBet]
-Najveća 3+ : 2.10  [Soccer]
+Najveća 1  : 3.00  [Topbet]
+Najveća X  : 3.15  [Topbet]
+Najveća 2  : 2.88  [Brazil_d]
+Najveća 0-2: 1.55  [Soccer]
+Najveća 3+ : 2.30  [BalkanBet, Brazil_d]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9783   profit≈2.17%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0444   profit≈-4.44%
+Arbitraža (1-X-2): DA   inv_sum=0.9980   profit≈0.20%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0799   profit≈-7.99%
+
+14:15   25.10.   [Španija 2]
+Albacete  vs  Cordoba
+
+- BalkanBet  1=2.25  |  X=3.35  |  2=3.1  |  0-2=2.12  |  2+=1.24  |  3+=1.7  |  GG=1.6  |  IGG=4.2  |  GG&3+=2  |  GG&4+=3.1  |  4+=2.75
+- Soccer     1=2.2  |  X=3.65  |  2=3.0  |  0-2=1.97  |  2+=1.25  |  3+=1.83  |  GG=1.68  |  IGG=4.15  |  GG&3+=2.1
+- Topbet     1=1.8  |  X=3.4  |  2=3.7
+
+Najveća 1  : 2.25  [BalkanBet]
+Najveća X  : 3.65  [Soccer]
+Najveća 2  : 3.70  [Topbet]
+Najveća 0-2: 2.12  [BalkanBet]
+Najveća 3+ : 1.83  [Soccer]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9887   profit≈1.13%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0181   profit≈-1.81%
 
 15:15   26.10.   [Španija 1]
 Real Madrid  vs  Barcelona
@@ -98,25 +114,25 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0795   profit≈-7.95%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1731
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1221
-Grupa sa veličinom ≥3: 810
-Grupa sa veličinom ≥4: 362
-Grupa sa veličinom ≥5: 48
+Ukupno mečeva (grupa): 1737
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1222
+Grupa sa veličinom ≥3: 795
+Grupa sa veličinom ≥4: 363
+Grupa sa veličinom ≥5: 45
 Grupa sa veličinom ≥6: 2
 Grupa sa veličinom ≥7: 0
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1290   spojeno (u grupama >1): 1103
-  - BetOle     ukupno zapisa:   24   spojeno (u grupama >1):   24
-  - Brazil_d   ukupno zapisa:  377   spojeno (u grupama >1):  307
-  - Brazil_p   ukupno zapisa:   33   spojeno (u grupama >1):   28
+  - BalkanBet  ukupno zapisa: 1324   spojeno (u grupama >1): 1111
+  - BetOle     ukupno zapisa:   21   spojeno (u grupama >1):   21
+  - Brazil_d   ukupno zapisa:  377   spojeno (u grupama >1):  322
+  - Brazil_p   ukupno zapisa:   31   spojeno (u grupama >1):   26
   - Brazil_s   ukupno zapisa:  223   spojeno (u grupama >1):  155
   - Mozzart    ukupno zapisa:  369   spojeno (u grupama >1):  298
-  - Soccer     ukupno zapisa:  675   spojeno (u grupama >1):  637
-  - Topbet     ukupno zapisa: 1183   spojeno (u grupama >1): 1112
+  - Soccer     ukupno zapisa:  650   spojeno (u grupama >1):  617
+  - Topbet     ukupno zapisa: 1169   spojeno (u grupama >1): 1099
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 4
-  - 0-2 / 3+: 2
-  - Barem jedna arbitraža: 6
+  - 1-X-2: 6
+  - 0-2 / 3+: 1
+  - Barem jedna arbitraža: 7

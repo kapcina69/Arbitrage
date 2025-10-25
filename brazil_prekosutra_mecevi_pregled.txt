@@ -1,16 +1,4 @@
 ======================================================================
-08:00
-Macarthur FC  vs  Adelaide United   (ID: 839)
-1=2.35   X=3.7   2=2.65
-0-2=2.45   2+=1.14   3+=1.49
-GG=-   IGG=-   GG&3+=-
-======================================================================
-08:30
-FC Bhayangkara  vs  Persijap Jepara   (ID: 812)
-1=2.15   X=2.85   2=3.4
-0-2=1.45   2+=1.47   3+=2.45
-GG=-   IGG=-   GG&3+=-
-======================================================================
 12:00
 Persib Bandung  vs  Persis Solo   (ID: 821)
 1=1.37   X=4.15   2=7.2
@@ -102,7 +90,7 @@ Gaziantep  vs  Fenerbahce   (ID: 983)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 17:00  [FINLAND, Veikkausliiga - Championship Group]
-Samsunspor  vs  Rizespor   (ID: 981)
+Samsunspor  vs  Rizespor   (ID: 925)
 1=1.94   X=3.35   2=3.9
 0-2=1.78   2+=1.29   3+=1.95
 GG=-   IGG=-   GG&3+=-
@@ -150,9 +138,9 @@ FC Rapid Bucuresti  vs  Unirea Slobozia   (ID: 824)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 19:00  [ARGENTINA, Torneo Betano - Clausura]
-Barracas Central  vs  Boca Juniors   (ID: 811)
-1=4.15   X=2.95   2=2.05
-0-2=1.38   2+=1.58   3+=2.85
+Barracas Central  vs  Boca Juniors   (ID: 812)
+1=4.1   X=2.95   2=2.04
+0-2=1.39   2+=1.56   3+=2.8
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 19:00  [ARGENTINA, Torneo Betano - Clausura]

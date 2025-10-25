@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1907
+1892
   
   
 DNEVNI SPECIJAL
@@ -52,11 +52,11 @@ KOŠARKA
   
   
 SP. KOŠARKA
-311
+323
   
   
 TENIS
-96
+88
   
   
 RUKOMET
@@ -72,7 +72,7 @@ ODBOJKA
   
   
 HOKEJ
-194
+193
   
   
 AM.FUDBAL
@@ -80,7 +80,7 @@ AM.FUDBAL
   
   
 SP. AM. FUDBAL
-202
+205
   
   
 BEJZBOL
@@ -92,7 +92,7 @@ RAGBI UNIJA
   
   
 STONI TENIS
-193
+182
   
   
 VATERPOLO
@@ -104,7 +104,7 @@ FUTSAL
   
   
 BADMINTON
-4
+3
   
   
 MMA
@@ -127,16 +127,20 @@ FORMULA 1
 20
   
   
+KONJSKE TRKE
+365
+  
+  
 ESPORT
-49
+47
   
   
 SP. FUDBAL
-3106
+3073
   
   
 VIR. FUDBAL
-79
+78
   
   
 VIR. TENIS
@@ -158,216 +162,6 @@ Top
 Specijali
 KONAČAN ISHOD
  
-Czech Republic, 3. CFL - Group B
-+637
-Velke Hamry
-Pardubice B
-25.10. 08:30
-ki 1
-2.15
-ki X
-3.45
-ki 2
-2.67
-manje 2.5
-2.30
-više 2.5
-1.50
- 
-Indonesia, Super League
-+807
-Persik Kediri
-PSM Makassar
-25.10. 08:30
-ki 1
-2.08
-ki X
-3.10
-ki 2
-3.25
-manje 2.5
-1.71
-više 2.5
-2.00
- 
-Spain, Youth League
-+82
-Real Murcia U19
-Academico Murcia U19
-25.10. 08:30
-ki 1
-3.25
-ki X
-3.35
-ki 2
-1.92
-manje 2.5
-1.97
-više 2.5
-1.67
- 
-Thailand, Thai League 3
-+83
-Chamchuri Utd
-North Bangkok Univ.
-25.10. 08:30
-ki 1
-3.60
-ki X
-3.20
-ki 2
-1.91
-manje 2.5
-1.70
-više 2.5
-1.97
-+81
-Kasem Bundit Univ.
-Royal Thai Air Force FC
-25.10. 08:30
-ki 1
-1.75
-ki X
-3.30
-ki 2
-4.25
-manje 2.5
-1.73
-više 2.5
-1.91
-+81
-Pluak Daeng United
-BFB Pattaya City
-25.10. 08:30
-ki 1
-1.62
-ki X
-3.60
-ki 2
-4.70
-manje 2.5
-1.87
-više 2.5
-1.77
-+79
-Roi-Et PB United
-Surin City FC
-25.10. 08:30
-ki 1
-1.22
-ki X
-5.60
-ki 2
-9.25
-manje 2.5
-2.77
-više 2.5
-1.35
-+82
-Saraburi
-Ang Thong FC
-25.10. 08:30
-ki 1
-2.57
-ki X
-3.30
-ki 2
-2.40
-manje 2.5
-2.00
-više 2.5
-1.67
-+82
-Singburi Warriors
-Lopburi City FC
-25.10. 08:30
-ki 1
-2.77
-ki X
-3.50
-ki 2
-2.15
-manje 2.5
-2.20
-više 2.5
-1.55
-+82
-Suphanburi
-Assumption United
-25.10. 08:30
-ki 1
-2.08
-ki X
-3.15
-ki 2
-3.20
-manje 2.5
-1.75
-više 2.5
-1.88
-+82
-Uttaradit
-Khelang United
-25.10. 08:30
-ki 1
-1.63
-ki X
-3.65
-ki 2
-4.45
-manje 2.5
-1.87
-više 2.5
-1.77
- 
-Indonesia, Championship
-+636
-Persela Lamongan
-PSS Sleman
-25.10. 08:30
-ki 1
-3.25
-ki X
-3.30
-ki 2
-2.10
-manje 2.5
-1.75
-više 2.5
-1.97
- 
-Australia, A-League
-+815
-Sydney FC
-Central Coast Mariners
-25.10. 08:35
-ki 1
-1.51
-ki X
-4.55
-ki 2
-5.35
-manje 2.5
-2.47
-više 2.5
-1.48
- 
-Cambodia - CPL
-+636
-Kirivong Sok Sen Chey
-Tiffy Army
-25.10. 08:45
-ki 1
-5.00
-ki X
-4.20
-ki 2
-1.50
-manje 2.5
-2.47
-više 2.5
-1.47
- 
 International, Friendly Women
 +630
 Andorra Wom.
@@ -385,34 +179,34 @@ više 2.5
 1.38
  
 International Youth, Friendly International Women U19
-+633
++630
 Slovenia U19 Wom.
 Poland U19 Wom.
 25.10. 09:00
 ki 1
-4.20
+5.50
 ki X
-3.40
+3.85
 ki 2
-1.73
+1.50
 manje 2.5
-1.90
+1.97
 više 2.5
-1.80
+1.72
 +633
 Spain U19 Wom.
 France U19 Wom.
 25.10. 09:00
 ki 1
-1.57
+1.48
 ki X
-3.90
+4.15
 ki 2
-4.55
+5.25
 manje 2.5
-2.25
+2.30
 više 2.5
-1.57
+1.53
  
 Czech Republic, U19 League
 +82
@@ -471,36 +265,22 @@ manje 2.5
 2.35
 više 2.5
 1.48
-+82
-Slovan Liberec U19
-Plzen U19
-25.10. 09:00
-ki 1
-3.75
-ki X
-4.10
-ki 2
-1.61
-manje 2.5
-3.25
-više 2.5
-1.26
  
 Italy, Primavera 2
-+621
++617
 Como U19
 Renate U19
 25.10. 09:00
 ki 1
-1.11
+1.09
 ki X
-6.90
+7.50
 ki 2
-15.0
+17.5
 manje 2.5
-2.63
+2.80
 više 2.5
-1.41
+1.36
 +637
 Pisa U19
 Salernitana U19
@@ -522,15 +302,15 @@ Ispe FC
 Thitsar Arman
 25.10. 09:00
 ki 1
-2.10
+2.00
 ki X
 3.80
 ki 2
-2.70
+2.90
 manje 2.5
-2.70
+2.55
 više 2.5
-1.40
+1.45
 +80
 Yangon Utd
 Hantharwady Utd.
@@ -568,15 +348,15 @@ Maejo United
 Nakon Sawan See Khwae City
 25.10. 09:00
 ki 1
-1.16
+1.15
 ki X
-5.90
+6.10
 ki 2
-12.5
+13.0
 manje 2.5
-2.15
+2.20
 više 2.5
-1.57
+1.55
 +82
 Raj Pracha
 Royal Thai Army
@@ -607,6 +387,244 @@ manje 2.5
 1.40
 više 2.5
 2.60
+ 
+Vietnam, V.League 2
++633
+Van Hien
+Xuan Thien Phu Tho
+25.10. 09:00
+ki 1
+2.25
+ki X
+2.95
+ki 2
+3.05
+manje 2.5
+1.57
+više 2.5
+2.22
+ 
+International Clubs, AFC Challenge League
++638
+Altyn Asyr
+Abdish-Ata
+25.10. 09:00
+ki 1
+2.93
+ki X
+3.60
+ki 2
+2.03
+manje 2.5
+2.27
+više 2.5
+1.55
+ 
+Italy, Primavera 1
++632
+Cremonese U20
+Inter U20
+25.10. 09:00
+ki 1
+4.30
+ki X
+3.55
+ki 2
+1.67
+manje 2.5
+2.00
+više 2.5
+1.65
+ 
+Italy, Primavera 2
++632
+Benevento U19
+Crotone U19
+25.10. 09:30
+ki 1
+1.47
+ki X
+4.10
+ki 2
+5.35
+manje 2.5
+2.22
+više 2.5
+1.57
++636
+Sampdoria U19
+Brescia U19
+25.10. 09:30
+ki 1
+1.80
+ki X
+3.55
+ki 2
+3.70
+manje 2.5
+1.97
+više 2.5
+1.72
+ 
+Philippines, PFL
++615
+Maharlika
+Mendiola FC 1991
+25.10. 09:45
+ki 1
+1.09
+ki X
+8.50
+ki 2
+14.0
+manje 2.5
+5.80
+više 2.5
+1.09
+ 
+Ukraine, Premier League
++792
+Metalist 1925
+LNZ Cherkasy
+25.10. 10:00
+ki 1
+2.57
+ki X
+2.88
+ki 2
+2.83
+manje 2.5
+1.45
+više 2.5
+2.55
+ 
+International, Friendly Women
++614
+Hong Kong Wom.
+Malaysia Wom.
+25.10. 10:00
+ki 1
+1.48
+ki X
+3.85
+ki 2
+5.75
+manje 2.5
+1.91
+više 2.5
+1.77
+ 
+Bulgaria, Parva Liga
++802
+Botev Vratsa
+Septemvri Sofia
+25.10. 10:00
+ki 1
+1.83
+ki X
+3.25
+ki 2
+4.20
+manje 2.5
+1.65
+više 2.5
+2.10
+ 
+Czech Republic, U19 League
++82
+FK Pardubice U19
+Ostrava U19
+25.10. 10:00
+ki 1
+2.80
+ki X
+3.50
+ki 2
+2.05
+manje 2.5
+2.37
+više 2.5
+1.47
+ 
+England, Premier League 2
++639
+Blackburn U21
+Manchester City U21
+25.10. 10:00
+ki 1
+5.60
+ki X
+4.95
+ki 2
+1.41
+manje 2.5
+3.60
+više 2.5
+1.25
+ 
+Greece, Super League 2
++633
+Ellas Syrou
+PAE Egaleo
+25.10. 10:00
+ki 1
+2.12
+ki X
+3.00
+ki 2
+3.30
+manje 2.5
+1.57
+više 2.5
+2.20
+ 
+International Youth, Euro U19 Women - Qualification - Round 1 - League A
++588
+England U19 Wom.
+Greece U19 Wom.
+25.10. 10:00
+ki 1
+-
+ki X
+17.5
+ki 2
+40.0
+manje 2.5
+5.70
+više 2.5
+1.10
+ 
+Latvia, 1. Liga 2020
++627
+Alberts JDFS
+Tukums 2000 2
+25.10. 10:00
+ki 1
+1.19
+ki X
+6.00
+ki 2
+9.75
+manje 2.5
+2.73
+više 2.5
+1.36
+ 
+Poland, III Liga - Group I
++82
+Jagiellonia II
+Mlawa
+25.10. 10:00
+ki 1
+1.87
+ki X
+3.55
+ki 2
+3.20
+manje 2.5
+2.22
+više 2.5
+1.53
  Tiket
 TIKET
 
@@ -665,7 +683,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-08:22:35
+08:54:29
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
