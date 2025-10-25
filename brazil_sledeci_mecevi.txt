@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 27.10.
-5:00
+6:00
 23:59
-5:00 - 23:59
+6:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -44,180 +44,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-AUSTRALIA, A-League
-13
-06:00
-Melbourne City
-Perth Glory
-833
-1
-1.50
-X
-4.55
-2
-5.50
-0-2
-2.30
-2+
-1.16
-3+
-1.56
-JAPAN, J1 League
-374
-06:00
-Cerezo Osaka
-Kawasaki Frontale
-942
-1
-2.55
-X
-3.95
-2
-2.35
-0-2
-3.10
-2+
-1.08
-3+
-1.33
-CHINA, Yi League - Relegation Group
-1230
-06:30
-Hubei Istar FC
-Guangdong Mingtu
-656
-1
-2.22
-X
-3.00
-2
-3.05
-0-2
-1.68
-2+
-1.32
-3+
-2.02
-1231
-06:30
-Jiangxi Beidamen
-Wuhan Three Towns B
-654
-1
-2.03
-X
-3.05
-2
-3.45
-0-2
-1.60
-2+
-1.36
-3+
-2.18
-1233
-06:30
-Shanghai Port B
-Wenzhou Professional
-654
-1
-2.38
-X
-2.90
-2
-2.90
-0-2
-1.55
-2+
-1.40
-3+
-2.30
-33569
-06:30
-Ganzhou Ruishi
-Taian Tiankuang
-656
-1
-2.95
-X
-3.05
-2
-2.28
-0-2
-1.70
-2+
-1.31
-3+
-2.02
-33570
-06:30
-Guangzhou Dandelion
-Hangzhou Lingping
-654
-1
-2.03
-X
-3.00
-2
-3.50
-0-2
-1.57
-2+
-1.38
-3+
-2.22
-33571
-06:30
-Kunming City Star
-Beijing Technology
-656
-1
-3.10
-X
-3.05
-2
-2.18
-0-2
-1.70
-2+
-1.31
-3+
-2.02
-33572
-06:30
-Shanxi Chongde Ronghai
-Guangxi Lanhang
-640
-1
-1.10
-X
-7.30
-2
-16.0
-0-2
-3.05
-2+
-1.06
-3+
-1.31
-INDONESIA, Championship
-34461
-06:30
-Persipura Jayapura
-Barito Putera
-656
-1
-3.05
-X
-3.00
-2
-2.35
-0-2
-1.70
-2+
-1.32
-3+
-2.05
 HONG KONG, Premier League
 34351
 07:00
@@ -259,55 +85,55 @@ CHINA, Jia League
 07:30
 Shenzhen Juniors
 Suzhou Dongwu
-826
+828
 1
-1.92
+1.72
 X
-3.25
+3.35
 2
-3.55
+4.35
 0-2
-1.75
+1.83
 2+
-1.28
+1.26
 3+
-1.92
+1.87
 CHINA, Super League
 123
 07:30
 Tianjin Jinmen Tiger
 Changchun Yatai
-826
+831
 1
-1.85
+2.12
 X
-3.35
+3.20
 2
-4.00
+3.25
 0-2
-1.80
+1.83
 2+
-1.28
+1.27
 3+
-1.92
+1.87
 INDONESIA, Championship
 34462
 07:30
 Persipal BU
 Tornado FC Pekanbaru
-656
+655
 1
-3.45
+4.30
 X
-3.25
+3.40
 2
-2.04
+1.79
 0-2
-1.78
+1.85
 2+
-1.29
+1.26
 3+
-1.92
+1.87
 SOUTH KOREA, K League 2
 975
 07:30
@@ -385,23 +211,23 @@ Kolin
 Neratovice
 657
 1
-1.80
+1.74
 X
-3.60
+3.65
 2
-3.40
+3.55
 0-2
-2.38
+2.40
 2+
-1.12
+1.11
 3+
-1.47
+1.46
 JAPAN, J2 League
 700
 08:00
 V-Varen Nagasaki
 Imabari
-834
+835
 1
 1.76
 X
@@ -411,9 +237,9 @@ X
 0-2
 2.22
 2+
-1.18
+1.17
 3+
-1.61
+1.59
 ROMANIA, Liga 2
 803
 08:00
@@ -470,15 +296,15 @@ X
 08:00
 CSM Satu Mare
 Steaua Bucuresti
-650
+649
 1
-6.60
+6.75
 X
-4.00
+4.05
 2
-1.42
+1.41
 0-2
-1.97
+1.98
 2+
 1.21
 3+
@@ -523,11 +349,11 @@ FC ASA Tg. Mures
 CSM Slatina
 657
 1
-2.22
+2.12
 X
 3.15
 2
-2.90
+3.10
 0-2
 1.85
 2+
@@ -644,37 +470,37 @@ CZECH REPUBLIC, MSFL
 08:15
 Trinec
 Vitkovice
-649
+650
 1
-1.19
+1.21
 X
-5.90
+5.60
 2
-8.25
+8.00
 0-2
-3.55
+3.05
 2+
-1.02
+1.05
 3+
-1.22
+1.29
 CZECH REPUBLIC, 3. CFL - Group B
 34440
 08:30
 Velke Hamry
 Pardubice B
-658
+656
 1
-2.15
+2.20
 X
-3.45
+3.30
 2
-2.65
+2.70
 0-2
-2.35
+2.10
 2+
-1.12
+1.16
 3+
-1.48
+1.61
 INDONESIA, Championship
 34463
 08:30
@@ -700,17 +526,17 @@ Persik Kediri
 PSM Makassar
 821
 1
-2.25
+2.10
 X
-3.00
-2
 3.05
+2
+3.25
 0-2
-1.65
+1.68
 2+
-1.33
+1.32
 3+
-2.07
+2.04
 SPAIN, Youth League
 33389
 08:30
@@ -768,15 +594,15 @@ X
 08:30
 Pluak Daeng United
 BFB Pattaya City
-101
+102
 1
-1.57
+1.62
 X
-3.65
+3.55
 2
-5.10
+4.75
 0-2
-1.90
+1.85
 2+
 1.22
 3+
@@ -787,13 +613,13 @@ Roi-Et PB United
 Surin City FC
 102
 1
-1.62
+1.58
 X
-3.80
+3.85
 2
-4.35
+4.60
 0-2
-2.18
+2.20
 2+
 1.15
 3+
@@ -844,11 +670,11 @@ X
 2
 3.20
 0-2
-1.80
+1.75
 2+
-1.25
+1.26
 3+
-1.87
+1.90
 33580
 08:30
 Uttaradit
@@ -943,17 +769,17 @@ Sparta Prague U19
 Dukla Prague U19
 102
 1
-1.49
+1.45
 X
-4.65
+4.70
 2
-4.15
+4.40
 0-2
-3.55
+3.65
 2+
 1.02
 3+
-1.22
+1.21
 33615
 09:00
 Zlin U19
@@ -994,36 +820,36 @@ ITALY, Primavera 2
 09:00
 Como U19
 Renate U19
-644
+641
 1
-1.19
+1.15
 X
-5.30
+6.00
 2
-12.0
+14.0
 0-2
-2.12
+2.28
 2+
-1.18
+1.15
 3+
-1.61
+1.56
 33420
 09:00
 Pisa U19
 Salernitana U19
-656
+657
 1
-1.63
+1.61
 X
-3.80
+3.95
 2
-4.25
+4.30
 0-2
-2.30
+2.45
 2+
-1.15
+1.12
 3+
-1.53
+1.47
 MYANMAR, National League
 33523
 09:00
@@ -1031,17 +857,17 @@ Ispe FC
 Thitsar Arman
 102
 1
-2.08
+2.10
 X
-3.80
+3.75
 2
 2.75
 0-2
-2.75
+2.70
 2+
-1.09
+1.10
 3+
-1.38
+1.40
 33524
 09:00
 Yangon Utd
@@ -1313,19 +1139,19 @@ EUROPE, Euro U19 Women-Qualification-Round 1-League A
 10:00
 England U19 Wom.
 Greece U19 Wom.
-603
+611
 1
 -
 X
-19.0
+17.0
 2
 40.0
 0-2
-8.25
+6.50
 2+
 1.01
 3+
-1.04
+1.07
 GREECE, Super League 2
 1090
 10:00
@@ -1475,17 +1301,17 @@ Estoril U23
 Benfica U23
 652
 1
-6.00
+5.75
 X
-4.55
+4.50
 2
-1.39
+1.41
 0-2
-2.35
+2.30
 2+
-1.14
+1.15
 3+
-1.51
+1.53
 RUSSIA, FNL - Division A Gold - Fall Season
 1307
 10:00
@@ -1564,11 +1390,11 @@ CF Juventud Laguna U19
 Puertos Las Palmas U19
 102
 1
-2.20
+2.30
 X
 3.20
 2
-2.75
+2.62
 0-2
 1.95
 2+
@@ -1648,19 +1474,19 @@ X
 10:00
 Samut Sakhon City
 Samut Songkhram
-101
+100
 1
-1.42
+1.37
 X
-4.20
+4.40
 2
-5.90
+6.60
 0-2
-2.22
+2.25
 2+
 1.14
 3+
-1.54
+1.53
 TURKEY, 2. Lig Red Group
 1071
 10:00
@@ -1684,19 +1510,19 @@ TURKEY, 3. Lig Group 3
 10:00
 Fatsa Belediyespor
 Giresunspor
-650
+649
 1
-1.64
+1.56
 X
-3.35
+3.45
 2
-4.50
+4.95
 0-2
-1.75
+1.80
 2+
-1.24
+1.23
 3+
-1.85
+1.82
 UKRAINE, Premier League
 245
 10:00
@@ -1810,19 +1636,19 @@ TURKEY, TFF 1. Lig
 10:30
 Adana Demirspor
 Vanspor FK
-56
+57
 1
-25.0
+27.0
 X
 11.0
 2
 1.05
 0-2
-4.70
+4.00
 2+
-1.01
+1.03
 3+
-1.15
+1.20
 290
 10:30
 Sariyer
@@ -1881,15 +1707,15 @@ CHINA, Super League
 11:00
 Henan Songshan Longmen
 Zhejiang Professional
-844
+847
 1
-1.83
+1.89
 X
-4.15
+4.10
 2
-3.35
+3.20
 0-2
-3.45
+3.40
 2+
 1.05
 3+
@@ -2023,19 +1849,19 @@ GREECE, Super League 2
 11:00
 Asteras Tripolis B
 Giannina
-650
+649
 1
-1.82
+1.74
 X
-3.05
+3.10
 2
-4.30
+4.70
 0-2
-1.49
+1.50
 2+
-1.44
+1.43
 3+
-2.40
+2.38
 1089
 11:00
 Iraklis 1908
@@ -2060,17 +1886,17 @@ East Bengal
 Dempo
 799
 1
-1.16
+1.15
 X
-5.60
+5.80
 2
-14.0
+15.0
 0-2
-2.08
+2.10
 2+
 1.18
 3+
-1.65
+1.63
 ITALY, Primavera 1
 1009
 11:00
@@ -2078,11 +1904,11 @@ AC Milan U20
 Cesena U20
 659
 1
-1.90
+1.85
 X
-3.70
+3.75
 2
-3.20
+3.30
 0-2
 2.45
 2+
@@ -2165,19 +1991,19 @@ MOLDOVA, Super Liga
 11:00
 Sparta Selemet
 Balti
-647
+649
 1
-9.00
+9.75
 X
-5.20
+5.70
 2
-1.24
+1.21
 0-2
-2.35
+2.65
 2+
-1.12
+1.08
 3+
-1.48
+1.38
 NORWAY, Division 2-Group 1
 33340
 11:00
@@ -2253,11 +2079,11 @@ Sandviken
 Brattvag
 838
 1
-5.75
+5.70
 X
-4.80
+4.75
 2
-1.38
+1.39
 0-2
 3.25
 2+
@@ -2591,7 +2417,7 @@ X
 0-2
 1.55
 2+
-1.40
+1.41
 3+
 2.30
 675
@@ -2846,19 +2672,19 @@ X
 11:00
 PVF-CAND
 TTBD Phu Dong
-823
+824
 1
-4.35
+4.10
 X
-3.20
+3.15
 2
-1.77
+1.84
 0-2
-1.65
+1.57
 2+
-1.33
+1.38
 3+
-2.07
+2.22
 VIETNAM, V.League 2
 33418
 11:00
@@ -2920,17 +2746,17 @@ Thalgau
 TSU Bramberg
 59
 1
-3.00
+2.95
 X
 3.75
 2
-1.89
+1.93
 0-2
-2.80
+2.85
 2+
-1.07
+1.06
 3+
-1.34
+1.33
 CHINA, Jia League
 33301
 11:30
@@ -2938,49 +2764,49 @@ Foshan Nanshi
 Shanghai Jiading Huilong
 826
 1
-1.90
+1.88
 X
-3.20
+3.25
 2
-3.70
+3.75
 0-2
 1.72
 2+
 1.30
 3+
-1.99
+1.97
 33302
 11:30
 Heilongjiang Ice City
 Dalian Kuncheng
 830
 1
-2.25
+2.18
 X
 3.05
 2
-3.00
+3.05
 0-2
-1.70
+1.75
 2+
-1.31
+1.29
 3+
-2.02
+1.97
 33303
 11:30
 Qingdao Red Lions
 Nanjing City
 828
 1
-3.55
+3.70
 X
-3.30
+3.35
 2
-1.91
-0-2
 1.85
+0-2
+1.88
 2+
-1.25
+1.24
 3+
 1.82
 CROATIA, Prva NL
@@ -3042,13 +2868,13 @@ ENGLAND, Championship
 11:30
 Coventry
 Watford
-931
+932
 1
-1.47
+1.49
 X
-4.55
+4.50
 2
-6.60
+6.30
 0-2
 2.25
 2+
@@ -3059,7 +2885,7 @@ X
 11:30
 Ipswich
 West Bromwich
-1000
+928
 1
 1.80
 X
@@ -3111,19 +2937,19 @@ X
 11:30
 Mansfield
 Wigan
-826
+825
 1
-2.45
+2.40
 X
 3.05
 2
-3.00
+3.05
 0-2
-1.62
+1.60
 2+
-1.37
+1.38
 3+
-2.18
+2.22
 ENGLAND, League Two
 194
 11:30
@@ -3482,54 +3308,54 @@ SPAIN, LaLiga
 12:00
 Girona
 Real Oviedo
-967
+971
 1
 1.80
 X
 3.40
 2
-4.95
+4.90
 0-2
 1.75
 2+
-1.36
+1.35
 3+
-2.08
+2.07
 ALBANIA, First Division
 33608
 12:00
 Kukesi
 AF Luftetari
-654
+651
 1
-3.30
+3.45
 X
-3.00
+2.85
 2
-2.12
+2.15
 0-2
-1.60
+1.43
 2+
-1.36
+1.49
 3+
-2.18
+2.55
 33609
 12:00
 Laci
 Burreli
-647
+652
 1
-1.79
+1.77
 X
-2.88
+3.00
 2
-4.85
+4.65
 0-2
-1.44
+1.63
 2+
-1.49
+1.35
 3+
-2.50
+2.12
 34415
 12:00
 Pogradeci
@@ -3589,13 +3415,13 @@ Kitzbuhel
 Kufstein
 658
 1
-1.93
+1.84
 X
-3.55
+3.60
 2
-3.25
+3.45
 0-2
-2.18
+2.20
 2+
 1.15
 3+
@@ -3642,17 +3468,17 @@ Kagran
 Dinamo Helfort
 59
 1
-4.90
+5.00
 X
 4.20
 2
-1.46
+1.45
 0-2
-2.75
+2.65
 2+
-1.07
+1.08
 3+
-1.36
+1.38
 AZERBAIJAN, Premier League
 772
 12:00
@@ -3713,103 +3539,103 @@ Drina Zvornik
 Romanija Pale
 60
 1
-1.71
+1.46
 X
-3.15
+3.60
 2
-4.80
+6.70
 0-2
-1.58
+1.63
 2+
-1.37
+1.34
 3+
-2.22
+2.12
 34433
 12:00
 Famos Vojkovici
 Kozara
 59
 1
-1.82
+1.50
 X
-3.35
-2
 3.80
+2
+5.60
 0-2
-1.90
+1.98
 2+
-1.24
+1.21
 3+
-1.82
+1.72
 34434
 12:00
 Laktasi
 BSK Banja Luka
 59
 1
-1.70
+1.47
 X
-3.45
+3.95
 2
-4.25
+5.70
 0-2
-2.00
+2.08
 2+
-1.21
+1.19
 3+
-1.72
+1.66
 34435
 12:00
 Vlasenica
 Slavija Sarajevo
 60
 1
-2.10
+2.38
 X
-3.10
+3.00
 2
-3.25
+2.80
 0-2
-1.72
+1.70
 2+
-1.30
+1.32
 3+
-1.99
+2.02
 CYPRUS, Division 2
 909
 12:00
 Iraklis Yerolakkou
 Digenis Akritas
-649
+651
 1
-6.75
+5.30
 X
-4.20
+3.55
 2
-1.39
+1.57
 0-2
-2.00
+1.70
 2+
-1.21
+1.31
 3+
-1.72
+2.02
 910
 12:00
 Nea Salamis
 Halkanoras Idaliou
-649
+642
 1
-1.22
-X
-5.30
-2
-10.0
-0-2
-2.40
-2+
 1.13
+X
+6.40
+2
+15.0
+0-2
+2.50
+2+
+1.12
 3+
-1.48
+1.45
 33354
 12:00
 Ayia Napa
@@ -3831,19 +3657,19 @@ X
 12:00
 Doxa
 Achyronas-Onisilos
-647
+644
 1
-1.27
+1.23
 X
-4.55
+4.95
 2
-9.25
+10.5
 0-2
-2.00
+2.10
 2+
-1.21
+1.19
 3+
-1.72
+1.64
 CZECH REPUBLIC, 3. CFL - Group B
 33654
 12:00
@@ -3884,13 +3710,13 @@ X
 12:00
 Aarhus Fremad
 Esbjerg
-836
+835
 1
-1.82
+1.75
 X
-3.65
-2
 3.70
+2
+4.05
 0-2
 2.25
 2+
@@ -4409,17 +4235,17 @@ Hankofen-Hailing
 Aubstadt
 834
 1
-4.05
+3.80
 X
-3.65
+3.55
 2
-1.71
+1.77
 0-2
-2.22
+2.20
 2+
-1.16
+1.17
 3+
-1.56
+1.59
 640
 12:00
 Memmingen
@@ -4476,19 +4302,19 @@ X
 12:00
 Schoningen
 Lohne
-847
+848
 1
 2.38
 X
-3.85
+3.95
 2
 2.30
 0-2
-3.40
+3.70
 2+
-1.05
+1.03
 3+
-1.27
+1.23
 GERMANY, Regionalliga Northeast
 661
 12:00
@@ -4567,15 +4393,15 @@ Walldorf
 1
 2.30
 X
-3.75
+3.80
 2
-2.45
+2.40
 0-2
-3.00
+3.10
 2+
-1.07
+1.06
 3+
-1.33
+1.31
 692
 12:00
 Grossaspach
@@ -4614,36 +4440,36 @@ X
 12:00
 Steinbach Haiger
 FSV Frankfurt
-659
+660
 1
-1.71
+1.75
 X
-3.85
-2
 3.80
+2
+3.65
 0-2
 2.60
 2+
 1.11
 3+
-1.42
+1.43
 695
 12:00
 Stuttgarter Kickers
 Schott Mainz
-653
+654
 1
-1.34
+1.37
 X
-4.90
+4.75
 2
-6.25
+6.00
 0-2
-2.85
+2.80
 2+
 1.08
 3+
-1.35
+1.36
 GERMANY, Regionalliga West
 650
 12:00
@@ -4666,19 +4492,19 @@ X
 12:00
 Bocholt
 Bochum II
-835
+838
 1
-1.57
+1.50
 X
-4.05
+4.15
 2
-4.50
+4.90
 0-2
-2.55
+2.60
 2+
-1.12
+1.11
 3+
-1.44
+1.43
 652
 12:00
 Bonner
@@ -4734,19 +4560,19 @@ X
 12:00
 Oberhausen
 Lotte
-834
+836
 1
-2.15
+2.12
 X
-3.30
+3.40
 2
 2.90
 0-2
-2.12
+2.22
 2+
-1.18
+1.16
 3+
-1.61
+1.56
 656
 12:00
 SC Velbert
@@ -4769,13 +4595,13 @@ GREECE, Super League 2
 12:00
 Ilioupoli
 PAE Chania
-655
+656
 1
-2.45
+2.75
 X
 3.00
 2
-2.75
+2.45
 0-2
 1.55
 2+
@@ -4949,17 +4775,17 @@ Fgura
 Melita
 657
 1
-2.45
+2.55
 X
 3.65
 2
-2.35
+2.28
 0-2
-2.05
+2.02
 2+
-1.19
+1.20
 3+
-1.66
+1.69
 NORWAY, OBOS Ligaen
 607
 12:00
@@ -5091,11 +4917,11 @@ Maykop
 Legion Dynamo
 60
 1
-1.70
+1.67
 X
 3.15
 2
-4.90
+5.10
 0-2
 1.85
 2+
@@ -5177,13 +5003,13 @@ SPAIN, LaLiga2
 12:00
 Cultural Leonesa
 Ceuta
-922
+961
 1
-2.30
+2.28
 X
 3.05
 2
-3.25
+3.35
 0-2
 1.60
 2+
@@ -5337,70 +5163,70 @@ TURKEY, 3. Lig Group 1
 12:00
 Bulvarspor
 Edirnespor
-647
+650
 1
-1.36
+1.48
 X
-4.15
+3.90
 2
-6.60
+5.10
 0-2
-2.08
+2.15
 2+
-1.15
+1.14
 3+
-1.59
+1.56
 33517
 12:00
 Bursa Nilufer
 .1923 Mustafakemalpasa
-657
+656
 1
-2.50
+2.60
 X
 2.95
 2
-2.55
+2.50
 0-2
-1.68
+1.67
 2+
 1.28
 3+
-1.95
+1.97
 33518
 12:00
 Kucukcekmece
 Yesil Yalova FK
 652
 1
-2.20
+2.10
 X
-2.95
-2
 3.00
+2
+3.15
 0-2
 1.65
 2+
 1.29
 3+
-2.02
+2.00
 33519
 12:00
 Silivrispor
 Cankaya FK
 652
 1
-2.12
+2.10
 X
 2.95
 2
-3.10
+3.15
 0-2
-1.65
+1.62
 2+
-1.29
+1.30
 3+
-2.02
+2.04
 TURKEY, 3. Lig Group 4
 33534
 12:00
@@ -5408,70 +5234,70 @@ Ayvalikgucu
 Soke 1970
 656
 1
-2.62
+2.12
 X
-3.10
+3.15
 2
-2.35
+2.95
 0-2
-1.85
+1.90
 2+
-1.21
+1.20
 3+
-1.77
+1.72
 33535
 12:00
 Usakspor
 Tire 2021 FK
-651
+654
 1
-1.72
+2.05
 X
-3.30
+3.15
 2
-4.05
+3.10
 0-2
-1.85
+1.82
 2+
-1.21
+1.22
 3+
-1.77
+1.79
 WORLD, AFC Challenge League
 33676
 12:00
 Al Shabab Seeb
 Paro FC
-659
+660
 1
-1.60
+1.69
 X
-4.20
+4.10
 2
-4.05
+3.65
 0-2
-2.50
+2.55
 2+
-1.12
+1.11
 3+
-1.45
+1.44
 MALAYSIA, Super League
 34356
 12:15
 Johor DT
 DPMM
-758
+750
 1
 -
 X
-17.0
+18.0
 2
 40.0
 0-2
-5.70
+6.50
 2+
 1.01
 3+
-1.10
+1.07
 AUSTRIA, 2. Liga
 180
 12:30
@@ -5689,17 +5515,17 @@ Hlubina
 Polanka nad Odrou
 657
 1
-1.74
+1.71
 X
-3.90
+4.00
 2
-3.40
+3.45
 0-2
-2.38
+2.40
 2+
-1.12
+1.11
 3+
-1.47
+1.46
 33591
 12:30
 Hodonin
@@ -5776,17 +5602,17 @@ Saipa
 Shenavarsazi Qeshm
 101
 1
-1.87
+1.90
 X
-2.95
+2.90
 2
-3.90
+3.85
 0-2
-1.26
+1.23
 2+
-1.67
+1.73
 3+
-3.20
+3.40
 ITALY, Primavera 2
 33424
 12:30
@@ -5896,7 +5722,7 @@ X
 12:30
 Juventus U23
 Pontedera
-825
+826
 1
 1.69
 X
@@ -5904,11 +5730,11 @@ X
 2
 4.40
 0-2
-1.72
+1.73
 2+
 1.30
 3+
-1.99
+1.97
 889
 12:30
 Ternana
@@ -5931,13 +5757,13 @@ ITALY, Serie C - Group C
 12:30
 Atalanta U23
 Picerno
-830
+832
 1
 1.57
 X
 3.80
 2
-4.80
+4.75
 0-2
 2.12
 2+
@@ -6336,13 +6162,13 @@ ITALY, Serie A
 13:00
 Parma
 Como
-1037
+1052
 1
-4.25
+4.20
 X
 3.25
 2
-1.98
+1.99
 0-2
 1.70
 2+
@@ -6353,7 +6179,7 @@ X
 13:00
 Udinese
 Lecce
-938
+1034
 1
 2.03
 X
@@ -6365,7 +6191,7 @@ X
 2+
 1.44
 3+
-2.45
+2.40
 SERBIA, Superliga
 57
 13:00
@@ -6401,6 +6227,24 @@ X
 1.21
 3+
 1.69
+ALGERIA, Division 2
+34364
+13:00
+Khroub
+MO Constantine
+643
+1
+1.91
+X
+2.95
+2
+4.00
+0-2
+1.37
+2+
+1.52
+3+
+2.70
 ARMENIA, Premier League
 33305
 13:00
@@ -6515,17 +6359,17 @@ Guarani U20
 Sao Paulo U20
 59
 1
-3.05
+3.10
 X
-3.25
+3.20
 2
-2.10
+2.12
 0-2
-2.05
+1.93
 2+
-1.20
+1.23
 3+
-1.68
+1.77
 BULGARIA, Vtora Liga
 933
 13:00
@@ -6705,19 +6549,19 @@ ENGLAND, Premier League 2
 13:00
 Chelsea U21
 Arsenal U21
-659
+660
 1
-1.71
+2.02
 X
-4.05
+3.95
 2
-3.60
+2.75
 0-2
-3.10
+3.60
 2+
-1.06
+1.04
 3+
-1.31
+1.24
 ETHIOPIA, Premier League
 33545
 13:00
@@ -6847,19 +6691,19 @@ ITALY, Serie B
 13:00
 Avellino
 Spezia
-914
+917
 1
-2.70
+2.85
 X
 2.95
 2
-2.75
+2.62
 0-2
-1.49
+1.50
 2+
-1.47
+1.45
 3+
-2.45
+2.40
 307
 13:00
 Entella
@@ -7071,21 +6915,529 @@ X
 1.13
 3+
 1.51
+1043
+13:00
+Swinoujscie
+Rewal
+57
+1
+1.17
+X
+5.45
+2
+11.0
+0-2
+2.22
+2+
+1.14
+3+
+1.54
+1044
+13:00
+Victoria Wrzesnia
+Unia Swarzedz
+59
+1
+3.20
+X
+3.35
+2
+1.92
+0-2
+2.05
+2+
+1.17
+3+
+1.64
+1045
+13:00
+WDA Swiecie
+Zawisza
+59
+1
+4.50
+X
+3.70
+2
+1.58
+0-2
+2.10
+2+
+1.16
+3+
+1.59
+POLAND, III Liga - Group IV
+1025
+13:00
+Cracovia Krakow II
+Wisla II
+59
+1
+1.51
+X
+4.15
+2
+4.40
+0-2
+2.95
+2+
+1.06
+3+
+1.31
+1026
+13:00
+Siarka Tarnobrzeg
+Stal Krasnik
+59
+1
+1.80
+X
+3.40
+2
+3.55
+0-2
+2.05
+2+
+1.17
+3+
+1.63
+PORTUGAL, Liga Portugal 2
+563
+13:00
+Pacos Ferreira
+Portimonense
+832
+1
+2.60
+X
+3.10
+2
+2.62
+0-2
+1.72
+2+
+1.31
+3+
+2.02
+ROMANIA, Superliga
+585
+13:00
+Otelul
+U. Cluj
+824
+1
+2.60
+X
+3.00
+2
+2.70
+0-2
+1.57
+2+
+1.39
+3+
+2.25
+RUSSIA, FNL 2 - Division B - Group 1 - Promotion Group
+1343
+13:00
+FC Sevastopol
+Rostov 2
+60
+1
+1.53
+X
+3.65
+2
+5.50
+0-2
+1.85
+2+
+1.26
+3+
+1.85
+RWANDA, Premier League
+33540
+13:00
+Bugesera
+Muhanga
+101
+1
+1.52
+X
+3.40
+2
+6.25
+0-2
+1.60
+2+
+1.35
+3+
+2.15
+33541
+13:00
+Etincelles
+Gorilla
+102
+1
+2.60
+X
+2.65
+2
+2.88
+0-2
+1.32
+2+
+1.63
+3+
+3.05
+33542
+13:00
+Mukura Victory Sports
+AS Kigali
+101
+1
+2.30
+X
+2.60
+2
+3.45
+0-2
+1.24
+2+
+1.77
+3+
+3.50
+33543
+13:00
+Musanze
+Rutsiro
+102
+1
+2.12
+X
+2.80
+2
+3.60
+0-2
+1.36
+2+
+1.57
+3+
+2.85
+SAN MARINO, Campionato Sammarinese
+33380
+13:00
+Folgore
+Pennarossa
+644
+1
+1.18
+X
+5.45
+2
+10.5
+0-2
+2.40
+2+
+1.11
+3+
+1.45
+34370
+13:00
+Murata
+Domagnano
+653
+1
+3.20
+X
+2.90
+2
+2.12
+0-2
+1.55
+2+
+1.35
+3+
+2.18
+SLOVENIA, Prva Liga
+422
+13:00
+Radomlje
+Koper
+834
+1
+4.05
+X
+3.60
+2
+1.78
+0-2
+2.10
+2+
+1.19
+3+
+1.66
+SLOVENIA, 2. SNL
+924
+13:00
+Ilirija
+Dravinja
+657
+1
+2.18
+X
+3.20
+2
+2.80
+0-2
+1.80
+2+
+1.24
+3+
+1.82
+925
+13:00
+Jadran Dekani
+Triglav
+647
+1
+6.50
+X
+4.25
+2
+1.36
+0-2
+2.20
+2+
+1.14
+3+
+1.56
+926
+13:00
+NK Bistrica
+Beltinci
+656
+1
+2.38
+X
+3.30
+2
+2.50
+0-2
+2.10
+2+
+1.16
+3+
+1.61
+927
+13:00
+NK Jesenice
+Slovan Ljubljana
+657
+1
+3.10
+X
+3.30
+2
+2.00
+0-2
+2.00
+2+
+1.18
+3+
+1.66
+SOUTH AFRICA, Carling Knockout
+33649
+13:00
+Richards Bay
+Durban City
+829
+1
+2.45
+X
+3.00
+2
+2.70
+0-2
+1.65
+2+
+1.33
+3+
+2.07
+SWEDEN, Allsvenskan
+297
+13:00
+Djurgarden
+Varnamo
+987
+1
+1.27
+X
+5.80
+2
+8.75
+0-2
+3.20
+2+
+1.07
+3+
+1.31
+SWEDEN, Superettan
+388
+13:00
+Brage
+Helsingborg
+836
+1
+2.40
+X
+3.55
+2
+2.60
+0-2
+2.30
+2+
+1.16
+3+
+1.56
+389
+13:00
+Oddevold
+Ostersund
+831
+1
+2.05
+X
+3.35
+2
+3.30
+0-2
+1.95
+2+
+1.23
+3+
+1.77
+390
+13:00
+Sandviken
+Utsikten
+836
+1
+1.88
+X
+3.60
+2
+3.60
+0-2
+2.12
+2+
+1.19
+3+
+1.64
+391
+13:00
+Sundsvall
+Kalmar
+826
+1
+6.10
+X
+4.05
+2
+1.48
+0-2
+2.07
+2+
+1.20
+3+
+1.68
+SWITZERLAND, 1.Liga Promotion
+33410
+13:00
+Paradiso
+Kreuzlingen
+660
+1
+1.74
+X
+3.95
+2
+3.55
+0-2
+2.90
+2+
+1.08
+3+
+1.35
+TURKEY, TFF 1. Lig
+291
+13:00
+Pendikspor
+Serik Belediyespor
+825
+1
+1.55
+X
+3.85
+2
+5.40
+0-2
+2.05
+2+
+1.20
+3+
+1.68
+URUGUAY, Segunda Division
+864
+13:00
+Uruguay Montevideo
+Tacuarembo
+654
+1
+3.05
+X
+2.90
+2
+2.28
+0-2
+1.55
+2+
+1.40
+3+
+2.30
+WALES, Cymru Premier
+476
+13:00
+Connahs Q.
+Haverfordwest
+824
+1
+1.44
+X
+3.95
+2
+6.10
+0-2
+2.00
+2+
+1.21
+3+
+1.72
 Odigrani tiketi
-1230
-Hubei Istar FC - Guangdong Mingtu
-25.10. 06:30
+33300
+Shenzhen Juniors - Suzhou Dongwu
+25.10. 07:30
 KONAČAN ISHOD 
 1
-  2.22  
+  1.72  
 Običan
 Sistem
 Kvota:
-2.22
+1.72
 Uplata:
 20.00 RSD
 Dobitak:
-44.40 RSD
+34.40 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express

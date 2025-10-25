@@ -150,8 +150,8 @@ FC Rapid Bucuresti  vs  Unirea Slobozia   (ID: 824)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 19:00  [ARGENTINA, Torneo Betano - Clausura]
-Barracas Central  vs  Boca Juniors   (ID: 809)
-1=4.2   X=3   2=2.02
+Barracas Central  vs  Boca Juniors   (ID: 811)
+1=4.15   X=2.95   2=2.04
 0-2=1.39   2+=1.57   3+=2.8
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -180,7 +180,7 @@ Perugia  vs  Livorno   (ID: 817)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:00  [ITALY, Serie C - Group B]
-Betis  vs  Atl. Madrid   (ID: 1004)
+Betis  vs  Atl. Madrid   (ID: 1000)
 1=3.25   X=3.4   2=2.22
 0-2=2.07   2+=1.25   3+=1.77
 GG=-   IGG=-   GG&3+=-
