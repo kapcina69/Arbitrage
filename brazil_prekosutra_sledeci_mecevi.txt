@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 27.10.
-1:00
+2:00
 23:59
-1:00 - 23:59
+2:00 - 23:59
 FUDBAL
 STRELCI FUDBAL
 HOKEJ
@@ -29,77 +29,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-MEXICO, Liga MX - Apertura
-548
-01:00
-Atl. San Luis
-Necaxa
-836
-1
-2.40
-X
-3.60
-2
-2.65
-0-2
-2.25
-2+
-1.17
-3+
-1.58
-549
-01:00
-Toluca
-Pachuca
-835
-1
-1.58
-X
-4.40
-2
-4.75
-0-2
-2.60
-2+
-1.12
-3+
-1.45
-USA, MLS Next Pro - Play Offs
-1247
-01:00
-Town FC
-Colorado Rapids 2
-660
-1
-1.81
-X
-3.80
-2
-3.45
-0-2
-2.60
-2+
-1.11
-3+
-1.43
-USA, MLS - Play Offs
-1077
-01:30
-San Diego FC
-Portland Timbers
-837
-1
-1.67
-X
-4.00
-2
-4.50
-0-2
-2.40
-2+
-1.15
-3+
-1.51
 AUSTRALIA, A-League
 16
 08:00
@@ -745,7 +674,24 @@ X
 3+
 2.40
 Odigrani tiketi
-Klikni na kvotu i pokreni
+785
+Persib Bandung - Persis Solo
+27.10. 12:00
+KONAČAN ISHOD 
+1
+  1.37  
+Običan
+Sistem
+Kvota:
+1.37
+Uplata:
+20.00 RSD
+Dobitak:
+27.40 RSD
+Prihvatam sve promene kvota.
+FREEBET
+Express
+Prijavi se
 Srpski
 O nama
 Odgovorno klađenje
