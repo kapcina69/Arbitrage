@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 27.10.
-6:00
+7:00
 23:59
-6:00 - 23:59
+7:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -33,24 +33,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-RUSSIA, FNL 2 - Division B - Group 2
-1311
-06:00
-Irkutsk
-Vladimir
-59
-1
-2.05
-X
-3.20
-2
-3.25
-0-2
-1.90
-2+
-1.23
-3+
-1.79
 JAPAN, J2 League
 708
 07:00
@@ -112,11 +94,11 @@ Daejeon
 Pohang
 833
 1
-2.35
+2.30
 X
 3.20
 2
-2.85
+2.90
 0-2
 1.95
 2+
@@ -306,19 +288,19 @@ X
 10:00
 Okzhetpes
 Turan
-828
+829
 1
-1.89
+1.94
 X
-3.35
+3.30
 2
-3.55
+3.45
 0-2
-1.90
+1.85
 2+
-1.24
+1.26
 3+
-1.82
+1.85
 728
 10:00
 Ulytau
@@ -340,19 +322,19 @@ X
 10:00
 Yelimay Semey
 Atyrau
-818
+823
 1
-1.58
+1.56
 X
 3.55
 2
-5.10
+5.30
 0-2
-1.92
+1.88
 2+
-1.23
+1.24
 3+
-1.77
+1.82
 730
 10:00
 Zhenis
@@ -483,35 +465,35 @@ Mardin BB
 Isparta 32 Spor
 658
 1
-2.08
+2.18
 X
-3.55
+3.50
 2
-2.90
+2.75
 0-2
-2.30
+2.25
 2+
-1.13
+1.14
 3+
-1.50
+1.53
 TURKEY, 2. Lig White Group
 33456
 10:00
 Erbaaspor
 1928 Bucaspor
-650
+649
 1
-1.33
+1.32
 X
-4.55
+4.60
 2
-7.10
+7.50
 0-2
-2.30
+2.25
 2+
-1.13
+1.14
 3+
-1.50
+1.53
 CHINA, Super League
 126
 10:30
@@ -1046,19 +1028,19 @@ TURKEY, 2. Lig White Group
 11:00
 .24 Erzincanspor
 Ankaraspor
-655
+658
 1
-2.35
+2.40
 X
-3.00
+3.05
 2
-2.85
+2.75
 0-2
-1.63
+1.67
 2+
-1.32
+1.29
 3+
-2.07
+1.99
 UKRAINE, Premier League
 248
 11:00
@@ -1088,9 +1070,9 @@ Ajax
 X
 3.55
 2
-3.05
+3.00
 0-2
-2.22
+2.25
 2+
 1.17
 3+
@@ -1296,19 +1278,19 @@ BELARUS, Vysshaya Liga
 12:00
 Molodechno
 Arsenal Dzyarzhynsk
-824
+823
 1
-4.55
+4.70
 X
-3.20
+3.25
 2
-1.80
+1.76
 0-2
-1.65
+1.67
 2+
-1.35
+1.33
 3+
-2.12
+2.07
 CROATIA, Prva NL
 1265
 12:00
@@ -1352,17 +1334,17 @@ BVSC-Zuglo
 Vasas
 653
 1
-4.55
+4.75
 X
 3.55
 2
-1.65
+1.62
 0-2
 1.90
 2+
 1.23
 3+
-1.77
+1.79
 1370
 12:00
 Szentlorinc
@@ -1601,17 +1583,17 @@ Soma Spor
 Arnavutkoy Bl.
 658
 1
-2.40
+2.45
 X
-3.50
+3.45
 2
 2.45
 0-2
-2.30
+2.25
 2+
-1.13
+1.14
 3+
-1.50
+1.53
 TURKEY, 2. Lig White Group
 33459
 12:00
@@ -1730,7 +1712,7 @@ Hannover
 X
 3.75
 2
-1.94
+1.93
 0-2
 2.25
 2+
@@ -1812,7 +1794,7 @@ SPAIN, LaLiga
 13:00
 Mallorca
 Levante
-999
+959
 1
 2.18
 X
@@ -2023,7 +2005,7 @@ SPAIN, LaLiga2
 13:00
 Malaga
 FC Andorra
-925
+966
 1
 2.25
 X
@@ -2217,37 +2199,37 @@ X
 13:30
 Sturm Graz
 Wolfsberger AC
-928
+929
 1
-1.93
+1.98
 X
-3.50
+3.45
 2
-3.90
+3.75
 0-2
 1.95
 2+
 1.27
 3+
-1.84
+1.85
 GREECE, Super League 2
 1094
 13:30
 Makedonikos
 Kampaniakos
-652
+654
 1
-1.98
+2.03
 X
-3.00
+3.05
 2
-3.70
+3.45
 0-2
-1.50
+1.62
 2+
-1.43
+1.35
 3+
-2.38
+2.12
 1095
 13:30
 Marko
@@ -2569,7 +2551,7 @@ X
 14:00
 Aston Villa
 Manchester City
-1050
+1033
 1
 4.55
 X
@@ -2586,7 +2568,7 @@ X
 14:00
 Bournemouth
 Nottingham
-1030
+1028
 1
 1.84
 X
@@ -2603,7 +2585,7 @@ X
 14:00
 Wolves
 Burnley
-932
+1013
 1
 1.95
 X
@@ -2925,7 +2907,7 @@ GERMANY, Bundesliga
 14:30
 Bayer Leverkusen
 Freiburg
-1031
+1027
 1
 1.87
 X
@@ -3582,7 +3564,7 @@ SPAIN, LaLiga
 15:15
 Real Madrid
 Barcelona
-1034
+1017
 1
 1.96
 X
@@ -3813,7 +3795,7 @@ NETHERLANDS, Eredivisie
 15:45
 AZ Alkmaar
 Utrecht
-932
+988
 1
 1.65
 X
@@ -3827,20 +3809,20 @@ X
 3+
 1.56
 Odigrani tiketi
-125
-Shandong Taishan - Shanghai Port
+979
+Seoul E-Land - Asan
 26.10. 07:30
 KONAČAN ISHOD 
 1
-  2.45  
+  2.03  
 Običan
 Sistem
 Kvota:
-2.45
+2.03
 Uplata:
 20.00 RSD
 Dobitak:
-49.00 RSD
+40.60 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express
