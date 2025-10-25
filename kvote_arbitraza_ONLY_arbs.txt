@@ -3,11 +3,11 @@
 
 - BalkanBet  1=2.7  |  X=3  |  2=2.4  |  0-2=1.64  |  2+=1.35  |  3+=2  |  4+=3.6
 - BetOle     1=3  |  X=3.1  |  2=2.2  |  0-2=1.73  |  3+=1.97
-- Brazil_d   1=3  |  X=3.05  |  2=2.22  |  0-2=1.72  |  2+=1.3  |  3+=1.97
+- Brazil_d   -
 - OktagonBet 1=3  |  X=3.1  |  2=2.2  |  0-2=1.73  |  3+=1.97  |  GG=1.78  |  GG&3+=2.38  |  4+=3.6
 - Topbet     1=2.05  |  X=2.85  |  2=3.6
 
-Najveća 1  : 3.00  [BetOle, Brazil_d, OktagonBet]
+Najveća 1  : 3.00  [BetOle, OktagonBet]
 Najveća X  : 3.10  [BetOle, OktagonBet]
 Najveća 2  : 3.60  [Topbet]
 Najveća 0-2: 1.73  [BetOle, OktagonBet]
@@ -16,45 +16,29 @@ Najveća 3+ : 2.00  [BalkanBet]
 Arbitraža (1-X-2): DA   inv_sum=0.9337   profit≈6.63%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0780   profit≈-7.80%
 
-21:00   25.10.   [Mineiro, Segunda Divisao]
-Essube MG  vs  AE Paracatu
-
-- BalkanBet  1=2.25  |  X=3.35  |  2=2.65  |  0-2=1.58  |  2+=1.37  |  3+=2.1  |  GG=1.8  |  GG&3+=2.35  |  4+=3.8
-- Brazil_d   1=3.75  |  X=3.15  |  2=1.91  |  0-2=1.62  |  2+=1.35  |  3+=2.15
-- OktagonBet 1=3.75  |  X=3.15  |  2=1.89  |  0-2=1.63  |  3+=2.12  |  GG=1.97  |  GG&3+=2.62  |  4+=4.05
-
-Najveća 1  : 3.75  [Brazil_d, OktagonBet]
-Najveća X  : 3.35  [BalkanBet]
-Najveća 2  : 2.65  [BalkanBet]
-Najveća 0-2: 1.63  [OktagonBet]
-Najveća 3+ : 2.15  [Brazil_d]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9425   profit≈5.75%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0786   profit≈-7.86%
-
 
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 927
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 655
-Grupa sa veličinom ≥3: 537
-Grupa sa veličinom ≥4: 431
-Grupa sa veličinom ≥5: 228
-Grupa sa veličinom ≥6: 75
-Grupa sa veličinom ≥7: 34
+Ukupno mečeva (grupa): 921
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 692
+Grupa sa veličinom ≥3: 529
+Grupa sa veličinom ≥4: 424
+Grupa sa veličinom ≥5: 215
+Grupa sa veličinom ≥6: 71
+Grupa sa veličinom ≥7: 27
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  594   spojeno (u grupama >1):  549
-  - BetOle     ukupno zapisa:   99   spojeno (u grupama >1):   98
-  - Brazil_d   ukupno zapisa:   97   spojeno (u grupama >1):   96
+  - BalkanBet  ukupno zapisa:  571   spojeno (u grupama >1):  529
+  - BetOle     ukupno zapisa:   83   spojeno (u grupama >1):   83
+  - Brazil_d   ukupno zapisa:   89   spojeno (u grupama >1):   88
   - Brazil_p   ukupno zapisa:   15   spojeno (u grupama >1):   15
-  - Mozzart    ukupno zapisa:  366   spojeno (u grupama >1):  273
-  - OktagonBet ukupno zapisa:  541   spojeno (u grupama >1):  480
-  - Soccer     ukupno zapisa:  600   spojeno (u grupama >1):  562
-  - Topbet     ukupno zapisa:  576   spojeno (u grupama >1):  543
+  - Mozzart    ukupno zapisa:  367   spojeno (u grupama >1):  313
+  - OktagonBet ukupno zapisa:  541   spojeno (u grupama >1):  489
+  - Soccer     ukupno zapisa:  649   spojeno (u grupama >1):  598
+  - Topbet     ukupno zapisa:  567   spojeno (u grupama >1):  538
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 2
+  - 1-X-2: 1
   - 0-2 / 3+: 0
-  - Barem jedna arbitraža: 2
+  - Barem jedna arbitraža: 1

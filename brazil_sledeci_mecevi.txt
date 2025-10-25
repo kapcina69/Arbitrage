@@ -41,1790 +41,588 @@ BOKS
 POBEDNICI
 GOLOVI PO LIGAMA
 FUDBAL
-KONAČAN ISHOD
-UKUPNO GOLOVA
 HUNGARY, NB I
 136
 19:30
 Nyiregyhaza
 Kazincbarcikai
-826
-1
-1.74
-X
-3.30
-2
-4.70
-0-2
-1.70
-2+
-1.32
-3+
-2.04
+825
 IRAQ, Stars League
 34438
 19:30
 Al Quwa Al Jawiya
 Al Gharraf
 653
-1
-1.99
-X
-3.00
-2
-3.65
-0-2
-1.50
-2+
-1.42
-3+
-2.38
 34439
 19:30
 Newroz
 Duhok
 658
-1
-2.50
-X
-2.95
-2
-2.70
-0-2
-1.63
-2+
-1.35
-3+
-2.12
 ITALY, Serie B
 312
 19:30
 Catanzaro
 Palermo
 923
-1
-3.30
-X
-3.15
-2
-2.22
-0-2
-1.65
-2+
-1.35
-3+
-2.12
 POLAND, Division 1
 379
 19:30
 Pogon Siedlce
 LKS Lodz
-834
-1
-3.45
-X
-3.55
-2
-1.93
-0-2
-2.10
-2+
-1.19
-3+
-1.66
+833
 380
 19:30
 Polonia Warszawa
 Polonia Bytom
 834
-1
-2.35
-X
-3.30
-2
-2.80
-0-2
-2.00
-2+
-1.22
-3+
-1.72
 381
 19:30
 Slask Wroclaw
 Leczna
-835
-1
-1.47
-X
-4.30
-2
-5.70
-0-2
-2.40
-2+
-1.14
-3+
-1.50
+833
 PORTUGAL, Liga 3
 1174
 19:30
 AD Marco 09
 Trofense
-653
-1
-3.65
-X
-3.00
-2
-1.99
-0-2
-1.50
-2+
-1.43
-3+
-2.38
+652
 SWITZERLAND, 1.Liga Promotion
 33414
 19:30
 Bulle
 Kriens
-659
-1
-4.20
-X
-4.55
-2
-1.54
-0-2
-2.85
-2+
-1.08
-3+
-1.36
+658
 NETHERLANDS, Eredivisie
 254
 20:00
 FC Volendam
 Heracles
-985
-1
-2.15
-X
-3.55
-2
-3.20
-0-2
-2.15
-2+
-1.19
-3+
-1.64
+987
 AUSTRIA, 2. Liga
 181
 20:00
 SK Rapid Wien (Am)
 A. Lustenau
-838
-1
-3.30
-X
-3.75
-2
-1.93
-0-2
-2.22
-2+
-1.17
-3+
-1.58
+837
 BELGIUM, 1B Pro League
 520
 20:00
 Beveren
 Patro Eisden
-825
-1
-1.61
-X
-3.60
-2
-5.20
-0-2
-1.78
-2+
-1.29
-3+
-1.92
+822
 521
 20:00
 Eupen
 Genk U23
 832
-1
-1.60
-X
-3.95
-2
-4.70
-0-2
-2.20
-2+
-1.18
-3+
-1.61
 522
 20:00
 RFC Liege
 RWDM
 833
-1
-2.88
-X
-3.25
-2
-2.30
-0-2
-2.00
-2+
-1.21
-3+
-1.72
 BELGIUM, National Division 1
 33650
 20:00
 Tubize-Braine
 Virton
 659
-1
-1.97
-X
-3.55
-2
-3.15
-0-2
-2.25
-2+
-1.16
-3+
-1.56
 33651
 20:00
 Union Rochefortoise
 Stockay-Warfusee
 657
-1
-2.75
-X
-3.20
-2
-2.30
-0-2
-1.93
-2+
-1.23
-3+
-1.77
 BOTSWANA, Premier League
 33627
 20:00
 Centre Chiefs
 Township Rollers
 102
-1
-2.65
-X
-2.90
-2
-2.45
-0-2
-1.52
-2+
-1.38
-3+
-2.28
 BRAZIL, Campeonato Carioca B1
 34447
 20:00
 Artsul
 AA Carapebus
 645
-1
-1.63
-X
-3.15
-2
-5.50
-0-2
-1.46
-2+
-1.47
-3+
-2.45
 34448
 20:00
 Bonsucesso
 Nova Cidade
 650
-1
-1.66
-X
-3.15
-2
-5.20
-0-2
-1.53
-2+
-1.41
-3+
-2.30
 34449
 20:00
 Duque de Caxias
 Paduano
 651
-1
-2.18
-X
-3.00
-2
-3.20
-0-2
-1.43
-2+
-1.49
-3+
-2.55
 34450
 20:00
 Sao Cristovao
 Friburguense
 643
-1
-2.00
-X
-2.75
-2
-3.95
-0-2
-1.30
-2+
-1.67
-3+
-3.15
 34451
 20:00
 Serrano
 Petropolis
 647
-1
-2.88
-X
-2.85
-2
-2.45
-0-2
-1.41
-2+
-1.51
-3+
-2.62
 BRAZIL, Campeonato Carioca Women
 34452
 20:00
 Fluminense Wom.
 Flamengo Wom.
 60
-1
-3.00
-X
-3.05
-2
-2.22
-0-2
-1.72
-2+
-1.30
-3+
-1.97
 BRAZIL, Campeonato Mineiro 3
 35150
 20:00
 Tupi-MG
 Novo Esporte
 60
-1
-2.08
-X
-3.05
-2
-3.30
-0-2
-1.70
-2+
-1.31
-3+
-2.02
 BRAZIL, Campeonato Pernambucano 2 - Play Offs
 35147
 20:00
 Academica Vitoria
 Centro Limoeirense
 647
-1
-1.46
-X
-3.65
-2
-6.60
-0-2
-1.68
-2+
-1.32
-3+
-2.04
 BRAZIL, Copa do Brasil U20
 34372
 20:00
 Gremio U20
 EC Sao Jose U20
 652
-1
-1.63
-X
-3.40
-2
-4.95
-0-2
-1.72
-2+
-1.30
-3+
-1.99
 CHILE, Primera Division
 69
 20:00
 Deportes La Serena
 A. Italiano
-833
-1
-2.30
-X
-3.25
-2
-2.90
-0-2
-1.92
-2+
-1.24
-3+
-1.80
+832
 FRANCE, Ligue 2
 330
 20:00
 Annecy
 St Etienne
-966
-1
-3.70
-X
-3.35
-2
-2.00
-0-2
-1.80
-2+
-1.28
-3+
-1.92
+969
 MEXICO, Liga Premier Serie B
 34399
 20:00
 Huracanes Izcalli
 Ayense
 659
-1
-2.75
-X
-3.50
-2
-2.20
-0-2
-2.30
-2+
-1.15
-3+
-1.53
 PERU, Liga 1 - Clausura
 534
 20:00
 Ayacucho
 Deportivo Garcilaso
 828
-1
-2.12
-X
-3.10
-2
-3.35
-0-2
-1.70
-2+
-1.33
-3+
-2.05
 ROMANIA, Superliga
 586
 20:00
 CFR Cluj
 Farul Constanta
 829
-1
-1.93
-X
-3.35
-2
-3.65
-0-2
-1.88
-2+
-1.25
-3+
-1.82
 SAUDI ARABIA, Professional League
 399
 20:00
 Al-Hazem
 Al-Nassr Riyadh
-816
-1
-11.5
-X
-6.80
-2
-1.15
-0-2
-3.70
-2+
-1.03
-3+
-1.22
+807
 WORLD, CAF Champions League - Qualification
 34368
 20:00
 Kabylie
 Monastir
 824
-1
-1.83
-X
-3.15
-2
-4.05
-0-2
-1.63
-2+
-1.34
-3+
-2.12
 POLAND, Ekstraklasa
 164
 20:15
 GKS Katowice
 Korona Kielce
-834
-1
-2.50
-X
-3.25
-2
-2.75
-0-2
-1.85
-2+
-1.27
-3+
-1.87
+835
 BRAZIL, Campeonato Maranhense 2 - Play Offs
 34454
 20:30
 Luminense
 ITZ Sport
 60
-1
-4.15
-X
-3.15
-2
-1.82
-0-2
-1.52
-2+
-1.42
-3+
-2.35
 GERMANY, 2. Bundesliga
 231
 20:30
 Hertha Berlin
 Dusseldorf
 974
-1
-1.86
-X
-3.75
-2
-3.85
-0-2
-2.25
-2+
-1.17
-3+
-1.59
 ITALY, Serie C - Group B
 892
 20:30
 Forli
 ASD Pineto Calcio
 823
-1
-2.18
-X
-2.95
-2
-3.25
-0-2
-1.55
-2+
-1.39
-3+
-2.28
 SPAIN, Segunda RFEF - Group 2
 1188
 20:30
 UD Logrones
 Tudelano
 650
-1
-1.66
-X
-3.35
-2
-4.75
-0-2
-1.70
-2+
-1.28
-3+
-1.94
 SWITZERLAND, Super League
 278
 20:30
 Winterthur
 Luzern
 837
-1
-3.20
-X
-3.65
-2
-2.00
-0-2
-2.25
-2+
-1.15
-3+
-1.55
 URUGUAY, Segunda Division
 864
 20:30
 Uruguay Montevideo
 Tacuarembo
 654
-1
-3.05
-X
-2.90
-2
-2.28
-0-2
-1.55
-2+
-1.40
-3+
-2.30
 ITALY, Serie A
 21
 20:45
 Cremonese
 Atalanta
 1065
-1
-5.75
-X
-4.05
-2
-1.60
-0-2
-2.07
-2+
-1.25
-3+
-1.77
 BELGIUM, Jupiler Pro League
 484
 20:45
 Gent
 St. Liege
 976
-1
-2.12
-X
-3.25
-2
-3.40
-0-2
-1.85
-2+
-1.27
-3+
-1.87
 BOSNIA AND HERZEGOVINA, Premijer Liga BiH
 604
 20:45
 Velez Mostar
 Siroki Brijeg
 825
-1
-1.93
-X
-3.15
-2
-3.60
-0-2
-1.70
-2+
-1.32
-3+
-2.02
 IRELAND, Premier Division
 351
 20:45
 Sligo Rovers
 Cork City
 827
-1
-1.54
-X
-3.95
-2
-6.10
-0-2
-1.95
-2+
-1.24
-3+
-1.77
 ENGLAND, Premier League
 80
 21:00
 Brentford
 Liverpool
-1069
-1
-4.00
-X
-4.10
-2
-1.81
-0-2
-2.45
-2+
-1.17
-3+
-1.56
+1085
 SPAIN, LaLiga
 446
 21:00
 Valencia
 Villarreal
 1087
-1
-3.45
-X
-3.45
-2
-2.12
-0-2
-2.05
-2+
-1.26
-3+
-1.79
 NETHERLANDS, Eredivisie
 255
 21:00
 Zwolle
 Nijmegen
 935
-1
-3.55
-X
-3.80
-2
-1.94
-0-2
-2.30
-2+
-1.16
-3+
-1.56
 BOLIVIA, Copa Pacena
 1365
 21:00
 Academia del Balompie
 Universitario de Vinto
-655
-1
-1.92
-X
-3.40
-2
-3.40
-0-2
-1.93
-2+
-1.22
-3+
-1.75
+656
 BRAZIL, Campeonato Mineiro 3
 35151
 21:00
 Essube
 Paracatu
 60
-1
-3.75
-X
-3.15
-2
-1.91
-0-2
-1.62
-2+
-1.35
-3+
-2.15
 BRAZIL, Campeonato Sergipano 2
 35158
 21:00
 Desportiva Aracaju
 Atletica Gloriense
 657
-1
-2.00
-X
-3.30
-2
-3.25
-0-2
-1.93
-2+
-1.23
-3+
-1.77
 BRAZIL, Copa Santa Catarina - Play Offs
 34436
 21:00
 Santa Catarina
 Marcilio Dias
 656
-1
-2.22
-X
-3.05
-2
-3.05
-0-2
-1.70
-2+
-1.31
-3+
-2.02
 BRAZIL, Serie A
 452
 21:00
 Atletico-MG
 Ceara
-995
-1
-1.92
-X
-3.25
-2
-4.10
-0-2
-1.55
-2+
-1.42
-3+
-2.30
+998
 453
 21:00
 Vitoria
 Corinthians
 995
-1
-2.60
-X
-2.95
-2
-2.88
-0-2
-1.48
-2+
-1.47
-3+
-2.45
 BRAZIL, Serie B
 847
 21:00
 Athletic Club
 America MG
 823
-1
-2.55
-X
-3.05
-2
-2.88
-0-2
-1.58
-2+
-1.40
-3+
-2.28
 848
 21:00
 Volta Redonda
 Coritiba
 823
-1
-3.35
-X
-3.05
-2
-2.25
-0-2
-1.60
-2+
-1.39
-3+
-2.22
 COLOMBIA, Primera A - Clausura
 570
 21:00
 Envigado
 Chico
 822
-1
-2.15
-X
-3.00
-2
-3.45
-0-2
-1.55
-2+
-1.41
-3+
-2.30
 COSTA RICA, Liga de Ascenso - Apertura
 33533
 21:00
 Escorpiones
 Pitbulls
 656
-1
-1.72
-X
-3.55
-2
-4.05
-0-2
-2.10
-2+
-1.19
-3+
-1.64
 ECUADOR, Liga Pro - Relegation Group
 1406
 21:00
 Mushuc Runa
 Manta
 923
-1
-1.50
-X
-3.80
-2
-5.60
-0-2
-1.95
-2+
-1.21
-3+
-1.75
 PORTUGAL, Liga 3
 1175
 21:00
 AD Fafe
 Vitoria Guimaraes B
 653
-1
-1.67
-X
-3.35
-2
-4.65
-0-2
-1.70
-2+
-1.31
-3+
-2.02
 SPAIN, LaLiga2
 432
 21:00
 Mirandes
 Racing Santander
 926
-1
-3.70
-X
-3.35
-2
-2.00
-0-2
-1.85
-2+
-1.27
-3+
-1.87
 SPAIN, Primera RFEF - Group 1
 1159
 21:00
 Real Madrid B
 Real Aviles
 654
-1
-1.87
-X
-3.25
-2
-3.75
-0-2
-1.75
-2+
-1.29
-3+
-1.97
 SPAIN, Segunda RFEF - Group 4
 1204
 21:00
 Jaen
 Almeria B
 646
-1
-1.54
-X
-3.55
-2
-5.60
-0-2
-1.60
-2+
-1.33
-3+
-2.08
 SPAIN, Segunda RFEF - Group 5
 1212
 21:00
 Rayo Majadahonda
 Ilicitano
 648
-1
-1.67
-X
-3.25
-2
-4.90
-0-2
-1.55
-2+
-1.37
-3+
-2.22
 URUGUAY, Liga AUF Uruguaya - Clausura
 1378
 21:00
 CA Cerro
 Penarol
 813
-1
-8.25
-X
-4.00
-2
-1.39
-0-2
-1.70
-2+
-1.31
-3+
-2.00
 WORLD, CAF Champions League - Qualification
 34369
 21:00
 FAR Rabat
 Horoya
-800
-1
-1.20
-X
-4.85
-2
-14.0
-0-2
-1.75
-2+
-1.29
-3+
-1.97
+799
 FRANCE, Ligue 1
 42
 21:05
 Lens
 Marseille
 1092
-1
-2.70
-X
-3.45
-2
-2.60
-0-2
-2.12
-2+
-1.24
-3+
-1.72
 PORTUGAL, Liga Portugal
 102
 21:30
 Benfica
 Arouca
-961
-1
-1.17
-X
-6.70
-2
-14.0
-0-2
-2.80
-2+
-1.09
-3+
-1.38
+907
 103
 21:30
 Estrela
 Rio Ave
 978
-1
-2.50
-X
-3.10
-2
-2.88
-0-2
-1.65
-2+
-1.35
-3+
-2.12
 BRAZIL, Serie C - Play Offs
 1332
 22:00
 Ponte Preta
 Londrina
 821
-1
-1.87
-X
-3.10
-2
-4.25
-0-2
-1.50
-2+
-1.44
-3+
-2.40
 CHILE, Chile Segunda
 940
 22:00
 Santiago City
 D. Puerto Montt
 652
-1
-6.60
-X
-4.60
-2
-1.36
-0-2
-2.50
-2+
-1.12
-3+
-1.45
 34366
 22:00
 Trasandino
 Dep. Linares
 657
-1
-2.75
-X
-3.30
-2
-2.25
-0-2
-2.07
-2+
-1.19
-3+
-1.66
 COLOMBIA, Primera A - Clausura
 571
 22:00
 Deportes Tolima
 Dep. Cali
 824
-1
-2.02
-X
-3.15
-2
-3.60
-0-2
-1.62
-2+
-1.36
-3+
-2.18
 COLOMBIA, Primera B - Clausura
 33564
 22:00
 Bogota
 Leones
 653
-1
-1.72
-X
-3.50
-2
-4.20
-0-2
-2.02
-2+
-1.20
-3+
-1.69
 DOMINICAN REPUBLIC, LDF
 34408
 22:00
 Jarabacoa
 Moca
 652
-1
-5.00
-X
-3.60
-2
-1.59
-0-2
-1.87
-2+
-1.24
-3+
-1.82
 PERU, Liga 1 - Clausura
 535
 22:15
 Alianza Atl.
 Cienciano
 828
-1
-1.97
-X
-3.30
-2
-3.60
-0-2
-1.80
-2+
-1.28
-3+
-1.92
 BRAZIL, Serie A
 454
 22:30
 Fluminense
 Internacional
 921
-1
-1.86
-X
-3.25
-2
-4.50
-0-2
-1.60
-2+
-1.38
-3+
-2.22
 CHILE, Primera Division
 70
 22:30
 Huachipato
 Deportes Iquique
-837
-1
-1.75
-X
-3.80
-2
-3.90
-0-2
-2.35
-2+
-1.14
-3+
-1.50
+838
 PARAGUAY, Copa de Primera - Clausura
 619
 22:30
 Atl. Tembetary
 Sp. Luqueno
 828
-1
-3.30
-X
-3.15
-2
-2.12
-0-2
-1.75
-2+
-1.30
-3+
-1.97
 BRAZIL, Copa FGF
 34441
 23:00
 Esportivo
 Gaucho
 654
-1
-2.02
-X
-3.10
-2
-3.45
-0-2
-1.65
-2+
-1.34
-3+
-2.12
 COLOMBIA, Primera B - Clausura
 33565
 23:00
 Barranquilla
 Tigres
 654
-1
-2.18
-X
-2.95
-2
-3.25
-0-2
-1.55
-2+
-1.39
-3+
-2.28
 33566
 23:00
 Cucuta
 Orsomarso
 650
-1
-1.62
-X
-3.30
-2
-5.30
-0-2
-1.58
-2+
-1.37
-3+
-2.20
 EL SALVADOR, Primera Division
 33304
 23:00
 Zacatecoluca
 Aguila
 822
-1
-3.40
-X
-3.05
-2
-2.07
-0-2
-1.57
-2+
-1.35
-3+
-2.18
 GUATEMALA, Liga Nacional - Apertura
 873
 23:00
 Deportivo Mixco
 Mictlan
 815
-1
-1.45
-X
-3.65
-2
-6.80
-0-2
-1.65
-2+
-1.33
-3+
-2.08
 HONDURAS, Liga Nacional - Apertura
 1255
 23:00
 CD Marathon
 Motagua
 829
-1
-1.92
-X
-3.35
-2
-3.45
-0-2
-1.90
-2+
-1.24
-3+
-1.80
 NICARAGUA, Liga Primera - Apertura
 34389
 23:00
 Sport Sebaco
 Rancho Santana
 652
-1
-1.35
-X
-4.65
-2
-6.40
-0-2
-2.40
-2+
-1.11
-3+
-1.46
 USA, USL League One
 1080
 23:00
 Portland Hearts of Pine
 AV Alta
 102
-1
-1.82
-X
-3.70
-2
-3.50
-0-2
-2.35
-2+
-1.14
-3+
-1.51
 USA, USL
 825
 23:00
 Charleston
 Birmingham Legion FC
 653
-1
-1.38
-X
-4.50
-2
-6.25
-0-2
-2.50
-2+
-1.12
-3+
-1.45
 826
 23:00
 Loudoun
 North Carolina FC
 656
-1
-1.87
-X
-3.40
-2
-3.55
-0-2
-1.95
-2+
-1.22
-3+
-1.74
 COLOMBIA, Primera A - Clausura
 573
 23:10
 Bucaramanga
 Llaneros
 815
-1
-1.46
-X
-3.80
-2
-7.00
-0-2
-1.65
-2+
-1.35
-3+
-2.12
 BOLIVIA, Copa Pacena
 1366
 23:30
 Guabira
 Blooming
 660
-1
-2.15
-X
-3.65
-2
-2.70
-0-2
-2.50
-2+
-1.11
-3+
-1.44
 BRAZIL, Serie A
 455
 23:30
 Sport Recife
 Mirassol
-1007
-1
-2.75
-X
-3.25
-2
-2.50
-0-2
-1.82
-2+
-1.28
-3+
-1.92
+929
 BRAZIL, Serie B
 849
 23:30
 Paysandu PA
 Avai
 828
-1
-2.60
-X
-3.05
-2
-2.80
-0-2
-1.60
-2+
-1.38
-3+
-2.20
 ECUADOR, Liga Pro - Championship Group
 1394
 23:30
 Barcelona SC
 Libertad Loja
 653
-1
-1.57
-X
-3.65
-2
-5.10
-0-2
-1.92
-2+
-1.23
-3+
-1.77
 MEXICO, Liga Premier Serie A
 34393
 23:30
 Chapulineros
 Inter Playa Del Carmen
 654
-1
-4.40
-X
-3.35
-2
-1.72
-0-2
-1.83
-2+
-1.26
-3+
-1.87
 34394
 23:30
 Ciervos
 Canamy
 653
-1
-4.30
-X
-3.40
-2
-1.72
-0-2
-1.90
-2+
-1.23
-3+
-1.77
 34395
 23:30
 Cordobes FC
 Lobos ULMX
 654
-1
-1.82
-X
-3.20
-2
-4.05
-0-2
-1.65
-2+
-1.33
-3+
-2.07
 MEXICO, Liga Premier Serie B
 34400
 23:30
 Uruapan
 Poza Rica
 656
-1
-1.84
-X
-3.40
-2
-3.70
-0-2
-1.95
-2+
-1.22
-3+
-1.75
 URUGUAY, Liga AUF Uruguaya - Clausura
 1379
 23:30
 Cerro Largo
 Racing Montevideo
 818
-1
-2.55
-X
-3.00
-2
-2.75
-0-2
-1.50
-2+
-1.42
-3+
-2.35
 VENEZUELA, Liga FUTVE - Clausura - Quadrangular
 1359
 23:30
 Monagas
 La Guaira
 654
-1
-3.20
-X
-3.00
-2
-2.15
-0-2
-1.60
-2+
-1.35
-3+
-2.15
 VENEZUELA, Liga FUTVE 2 - Play Offs
 1303
 23:30
 Dynamo Puerto
 Trujillanos
 644
-1
-2.20
-X
-2.80
-2
-3.35
-0-2
-1.35
-2+
-1.58
-3+
-2.88
 Odigrani tiketi
 Klikni na kvotu i pokreni
 Srpski

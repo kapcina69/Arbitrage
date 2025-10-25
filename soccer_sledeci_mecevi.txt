@@ -1,4 +1,4 @@
-25.10.2025. 18:53:41
+25.10.2025. 19:20:48
 Prijava
 Registracija
 Srpski
@@ -16,33 +16,29 @@ PROMO
 Sve
  
 FUDBAL
-725
+778
 KOŠARKA
-186
+175
 TENIS
 63
 HOKEJ
 115
 RUKOMET
-74
+70
 AM.FUDBAL
-32
+36
 ODBOJKA
-52
+49
 BEJZBOL
 4
-ODBOJKA NA PESKU
-3
 FUTSAL
 9
 RAGBI
 8
-BASKET 3X3
-1
 STONI TENIS
-95
+94
 VATERPOLO
-8
+6
 MMA
 5
 BOKS
@@ -63,29 +59,31 @@ SQUASH
 1
 EFUDBAL
 2
+EKOŠARKA
+2
 COUNTER STRIKE
 8
 DOTA 2
 2
 GOLOVI PO LIGAMA
-37
+36
 Sportsko klađenje - FUDBAL
 Sve
  
-(701)
+(755)
   
 Uživo
  
-(100)
+(101)
 Naredni
  
-(601)
+(654)
 Igrači
  
-(4437)
+(4310)
 Antepost
  
-(24)
+(23)
  Naredni
  
 1
@@ -98,262 +96,6 @@ GG
 IGG
 GG&3+
  
-19:00
-Sub
-25.10.
-FRA1
-Monaco
-Toulouse
-2.05
-3.70
-3.50
-2.22
-1.23
-1.65
-1.60
-4.00
-1.93
-+3071
-19:00
-Sub
-25.10.
-POR1
-Santa Clara
-AVS
-1.53
-3.90
-6.50
-1.65
-1.40
-2.25
-2.30
-6.20
-3.05
-+2941
-19:00
-Sub
-25.10.
-TUR1
-Trabzonspor
-Eyupspor
-1.63
-4.10
-4.90
-2.07
-1.22
-1.75
-1.75
-4.30
-2.15
-+2811
-19:00
-Sub
-25.10.
-ALŽ1
-Rouisset
-Ben Aknoun
-1.70
-3.30
-5.05
-1.47
-1.50
-2.48
-2.35
-6.55
-3.10
-+498
-19:00
-Sub
-25.10.
-BLR1
-BATE
-Zhodino
-4.55
-3.35
-1.77
-1.63
-1.38
-2.13
-2.00
-5.40
-2.50
-+500
-19:00
-Sub
-25.10.
-BOC1
-Extension Gunners
-Morupule
-2.95
-2.90
-2.35
-1.50
-1.45
-2.37
-2.00
--
-2.60
-+63
-19:00
-Sub
-25.10.
-CAFLŠ
-Al Ahly Cairo
-Aigle Noir CS
-1.04
-10.0
-40.0
-3.55
-1.04
-1.25
-2.80
-6.50
-2.95
-+491
-19:00
-Sub
-25.10.
-EGI1
-Modern Sport
-Arab Contractors
-2.30
-2.70
-3.60
-1.38
-1.60
-2.80
-2.22
-6.65
-3.15
-+497
-19:00
-Sub
-25.10.
-GRČ1
-OFI Crete
-Atromitos
-2.05
-3.30
-3.65
-1.75
-1.32
-1.97
-1.80
-4.70
-2.28
-+2565
-19:00
-Sub
-25.10.
-IZR1
-Netanya
-Hapoel Tel Aviv
-2.95
-3.65
-2.10
-2.20
-1.17
-1.60
-1.53
-3.60
-1.78
-+530
-19:00
-Sub
-25.10.
-KRK2
-ADR Jicaral
-Cofutpa
-1.55
-4.05
-4.70
-2.32
-1.15
-1.53
-1.62
--
-1.85
-+61
-19:00
-Sub
-25.10.
-MLT1
-Floriana
-Birkirkara
-2.17
-2.95
-3.50
-1.50
-1.48
-2.42
-2.05
-5.75
-2.70
-+500
-19:00
-Sub
-25.10.
-MAR1
-Raja Casablanca
-Dcheira
-1.35
-4.35
-8.70
-1.75
-1.31
-1.95
-2.40
-6.30
-2.90
-+500
-19:00
-Sub
-25.10.
-MAR2
-Mouloudia Oujda
-Jeunesse Massira
-2.20
-2.70
-3.50
-1.37
-1.62
-2.85
-2.28
-6.75
-3.10
-+496
-19:00
-Sub
-25.10.
-ŠPA4
-Eibar B
-R. Union
-2.65
-2.75
-2.70
-1.50
-1.48
-2.42
-2.00
-5.65
-2.60
-+501
-19:00
-Sub
-25.10.
-ŠPA4
-UE Sant Andreu
-Torrent
-1.68
-3.30
-4.70
-1.55
-1.43
-2.30
-2.20
-5.95
-2.80
-+499
 19:30
 Sub
 25.10.
@@ -401,22 +143,22 @@ Palermo
 1.85
 5.00
 2.42
-+1296
++1215
 19:30
 Sub
 25.10.
 MAĐ1
 Nyiregyhaza
 Kazincbarcikai
-1.73
-3.35
-4.80
-1.75
+1.68
+3.55
+4.75
+1.77
 1.31
 1.95
-1.85
+1.90
 4.90
-2.27
+2.30
 +529
 19:30
 Sub
@@ -456,31 +198,31 @@ Sub
 POL2
 Slask Wroclaw
 Gornik Leczna
-1.50
-4.40
-5.35
+1.52
+4.35
+5.00
 2.30
 1.15
 1.55
-1.70
-3.95
-1.92
-+500
+1.65
+3.85
+1.90
++501
 19:30
 Sub
 25.10.
 POR3
 AD Marco 09
 Trofense
-4.00
-2.95
-2.00
+3.80
+2.85
+2.12
 1.48
 1.50
 2.47
-2.10
-6.00
-2.75
+2.05
+5.95
+2.70
 +499
 19:30
 Sub
@@ -488,15 +230,15 @@ Sub
 ŠVA3
 Bulle
 Kriens
-4.20
-4.30
-1.57
-2.80
-1.09
-1.38
-1.47
-3.25
-1.63
+4.45
+4.15
+1.55
+2.95
+1.08
+1.35
+1.43
+3.15
+1.58
 +502
 20:00
 Sub
@@ -504,9 +246,9 @@ Sub
 HOL1
 Volendam
 Heracles
-2.15
-3.60
-3.15
+2.10
+3.65
+3.20
 2.17
 1.20
 1.70
@@ -536,15 +278,15 @@ Sub
 BEL2
 Beveren
 Patro Eisden
-1.62
-3.70
-5.00
-1.75
-1.32
-1.97
-1.98
-5.15
-2.43
+1.58
+3.80
+5.30
+1.77
+1.30
+1.93
+2.00
+5.10
+2.42
 +501
 20:00
 Sub
@@ -568,16 +310,16 @@ Sub
 BEL2
 RFC Liege
 RWDM Brussels
-2.70
-3.40
-2.35
-2.00
+2.85
+3.35
+2.27
+1.98
 1.23
 1.73
 1.60
-3.95
+4.00
 1.92
-+499
++500
 20:00
 Sub
 25.10.
@@ -872,15 +614,15 @@ Sub
 ITA1
 Cremonese
 Atalanta
-6.05
-4.05
-1.58
-2.07
+5.75
+4.25
+1.60
+2.08
 1.26
 1.75
-1.80
+1.83
 4.70
-2.20
+2.23
 +3642
 20:45
 Sub
@@ -891,12 +633,12 @@ Standard Liege
 2.05
 3.45
 3.55
-1.93
-1.26
-1.87
-1.70
-4.30
-2.10
+1.90
+1.27
+1.90
+1.72
+4.35
+2.15
 +3066
 20:45
 Sub
@@ -1592,16 +1334,16 @@ Sub
 BOLLK
 Guabira
 Blooming
-2.20
+2.23
 3.80
-2.70
-2.60
-1.11
+2.65
+2.55
+1.12
 1.45
-1.40
+1.42
 3.20
 1.60
-+503
++502
 23:30
 Sub
 25.10.
@@ -1688,15 +1430,15 @@ Sub
 VEN2
 Dynamo Puerto
 Trujillanos
-2.25
-2.70
-3.40
+2.20
+2.85
+3.25
 1.40
 1.60
 2.75
-2.20
+2.25
 6.50
-2.95
+3.10
 +496
 00:00
 Ned
@@ -1800,15 +1542,15 @@ Ned
 MEX1
 U.A.N.L.- Tigres
 Club Tijuana
+1.58
+4.45
+4.90
+2.50
+1.14
+1.53
 1.60
-4.20
-5.05
-2.60
-1.13
-1.50
-1.55
-3.55
-1.80
+3.65
+1.85
 +595
 01:00
 Ned
@@ -2184,15 +1926,15 @@ Ned
 GVA1
 Antigua
 Aurora FC
-1.45
-4.05
-6.50
-2.05
-1.21
+1.43
+4.35
+6.45
+2.07
+1.20
 1.67
-1.80
-4.45
-2.08
+1.85
+4.55
+2.15
 +499
 02:00
 Ned
@@ -2392,15 +2134,15 @@ Ned
 MEX1
 Guadalajara Chivas
 Atlas
-1.58
-4.15
-5.35
+1.57
+4.05
+5.55
 2.03
 1.23
 1.78
-1.82
+1.80
 4.50
-2.22
+2.20
 +593
 02:15
 Ned
@@ -2648,15 +2390,15 @@ Ned
 JAP2
 Blaublitz
 Chiba
-3.00
-3.35
-2.22
-1.75
-1.31
-1.95
-1.78
-4.55
+3.05
+3.30
 2.20
+1.75
+1.32
+1.98
+1.80
+4.65
+2.22
 +501
 06:00
 Ned
@@ -2809,13 +2551,13 @@ JKOR2
 Incheon
 Gyeongnam
 1.45
-4.10
-6.60
+4.30
+6.40
+1.98
+1.23
+1.73
 1.95
-1.24
-1.77
-1.93
-4.90
+4.80
 2.27
 +499
 06:00
@@ -3269,6 +3011,22 @@ Zizkov
 10:30
 Ned
 26.10.
+ČEŠ3
+Zlin B
+Vsetin
+1.75
+3.95
+3.55
+2.50
+1.13
+1.47
+1.50
+3.40
+1.70
++490
+10:30
+Ned
+26.10.
 RUM2
 FC Bihor
 Afumati
@@ -3330,6 +3088,22 @@ North District
 3.55
 1.75
 +501
+11:00
+Ned
+26.10.
+JKOR3
+Daejeon Korail
+Pocheon
+2.95
+3.30
+2.25
+1.87
+1.26
+1.83
+1.68
+4.25
+2.10
++490
 11:00
 Ned
 26.10.
@@ -3490,6 +3264,38 @@ CF Intercity
 5.40
 2.48
 +501
+11:00
+Ned
+26.10.
+TUR3
+Erbaaspor
+Bucaspor 1928
+1.33
+4.40
+7.60
+2.30
+1.16
+1.55
+1.80
+4.35
+2.03
++488
+11:00
+Ned
+26.10.
+TUR3
+Mardin 1969
+Isparta 32 Spor
+1.82
+3.55
+3.60
+1.95
+1.24
+1.75
+1.70
+4.20
+2.03
++490
 11:00
 Ned
 26.10.
@@ -3941,6 +3747,54 @@ Rayong FC
 12:00
 Ned
 26.10.
+TAJ2
+Pattaya United
+Rasi Salai United
+2.27
+3.30
+2.75
+1.95
+1.24
+1.75
+1.63
+4.05
+1.95
++488
+12:00
+Ned
+26.10.
+TUR3
+24Erzincanspor
+Ankaraspor
+2.75
+3.10
+2.35
+1.83
+1.28
+1.87
+1.70
+4.35
+2.05
++489
+12:00
+Ned
+26.10.
+TUR3
+K. Istiklalspor
+Aksaray
+1.47
+3.95
+5.65
+1.90
+1.25
+1.80
+1.93
+4.85
+2.30
++489
+12:00
+Ned
+26.10.
 UKR1
 SC Poltava
 Kolos Kovalivka
@@ -4130,6 +3984,38 @@ Pathum United
 4.00
 1.93
 +501
+12:30
+Ned
+26.10.
+TUR3
+Iskenderunspor
+Beykoz
+1.73
+3.40
+4.25
+1.75
+1.31
+1.95
+1.87
+4.85
+2.30
++491
+12:30
+Ned
+26.10.
+UZB1
+OKMK
+Nasaf Qarshi
+2.85
+3.25
+2.22
+1.80
+1.29
+1.90
+1.75
+4.45
+2.13
++490
 12:35
 Ned
 26.10.
@@ -4152,15 +4038,15 @@ Ned
 KIN1
 Shanghai Shenhua
 Dalian Yingbo
-1.20
-6.10
-11.7
+1.19
+6.20
+12.1
 2.75
 1.10
 1.40
-1.93
-4.45
-2.10
+1.95
+4.55
+2.13
 +575
 12:45
 Ned
@@ -4184,15 +4070,15 @@ Ned
 AFCCL
 Dewa United
 Phnom Penh Crown
-1.72
+2.10
+3.65
+2.95
+2.05
+1.21
+1.68
+1.60
 3.85
-4.10
-2.07
-1.20
-1.67
-1.67
-4.05
-1.95
+1.90
 +501
 13:00
 Ned
@@ -4434,6 +4320,54 @@ Ratchaburi
 3.80
 1.85
 +500
+13:00
+Ned
+26.10.
+TUR3
+Beyoglu Yeni Carsi
+Karaman
+1.37
+4.05
+7.40
+2.03
+1.21
+1.70
+1.92
+4.80
+2.20
++499
+13:00
+Ned
+26.10.
+TUR3
+Guzide Gebzespor
+Menemen
+2.10
+3.35
+2.95
+1.83
+1.28
+1.87
+1.73
+4.35
+2.10
++489
+13:00
+Ned
+26.10.
+TUR3
+Soma Spor
+Arnavutkoy
+2.55
+3.50
+2.33
+2.05
+1.21
+1.67
+1.60
+3.80
+1.88
++489
 13:15
 Ned
 26.10.
@@ -4546,6 +4480,38 @@ Aue
 3.50
 1.72
 +530
+13:50
+Ned
+26.10.
+OMNK
+Jaalan
+Al Ittihad Salalah
+1.85
+3.35
+3.65
+1.67
+1.35
+2.07
+1.95
+5.05
+2.43
++503
+13:55
+Ned
+26.10.
+OMNK
+Samail
+Muscat
+1.65
+3.30
+5.00
+1.58
+1.40
+2.23
+2.15
+5.85
+2.75
++490
 13:55
 Ned
 26.10.
@@ -4597,6 +4563,38 @@ Young Boys
 14:00
 Ned
 26.10.
+CG1
+Jedinstvo
+Bokelj
+2.03
+3.45
+3.30
+1.80
+1.30
+1.90
+1.78
+4.50
+2.18
++491
+14:00
+Ned
+26.10.
+CG1
+Sutjeska
+Jezero
+1.77
+3.50
+4.25
+1.77
+1.31
+1.95
+1.85
+4.80
+2.27
++491
+14:00
+Ned
+26.10.
 ČEŠ3
 Benatky n. Jiz.
 Zapy
@@ -4610,6 +4608,22 @@ Zapy
 3.80
 1.85
 +490
+14:00
+Ned
+26.10.
+ČEŠ3
+Mlada Boleslav B
+Varnsdorf
+1.62
+4.00
+4.15
+2.50
+1.13
+1.47
+1.52
+3.50
+1.73
++501
 14:00
 Ned
 26.10.
@@ -4920,16 +4934,16 @@ Ned
 URU2
 Fenix
 Atenas
-3.20
-3.00
-2.27
-1.47
-1.50
-2.50
-2.12
-5.90
-2.80
-+500
+3.25
+2.95
+2.28
+1.45
+1.52
+2.55
+2.13
+6.05
+2.85
++499
 14:00
 Ned
 26.10.
@@ -5173,6 +5187,38 @@ JS Omrane
 14:30
 Ned
 26.10.
+TUN2
+Korba
+Kalaa
+1.72
+3.30
+4.45
+1.57
+1.42
+2.25
+2.13
+-
+2.75
++63
+14:30
+Ned
+26.10.
+TUN2
+Sidi Bouzid
+Stade Gabesien
+2.65
+2.65
+2.85
+1.40
+1.57
+2.70
+2.13
+-
+2.90
++61
+14:30
+Ned
+26.10.
 UKR1
 Shakhtar Donetsk
 Kudrivka
@@ -5288,15 +5334,15 @@ Ned
 ITA1
 Verona
 Cagliari
-2.27
-3.15
+2.28
+3.10
 3.55
 1.55
 1.50
 2.43
-2.07
+2.05
 6.30
-2.85
+2.80
 +3228
 15:00
 Ned
@@ -5349,19 +5395,35 @@ Konyaspor
 15:00
 Ned
 26.10.
+CG1
+Arsenal Tivat
+OFK Petrovac
+2.70
+3.20
+2.47
+1.65
+1.37
+2.12
+1.88
+4.95
+2.38
++490
+15:00
+Ned
+26.10.
 ALŽ1
 Paradou
 Mostaganem
-2.35
-3.05
+2.42
 3.00
-1.47
-1.50
-2.48
-2.12
-5.85
-2.80
-+500
+2.95
+1.45
+1.52
+2.55
+2.13
+5.95
+2.85
++499
 15:00
 Ned
 26.10.
@@ -5378,22 +5440,6 @@ MO Constantine
 -
 2.55
 +63
-15:00
-Ned
-26.10.
-ČEŠ3
-Mlada Boleslav B
-Varnsdorf
-1.62
-4.00
-4.15
-2.50
-1.13
-1.47
-1.52
-3.50
-1.73
-+490
 15:00
 Ned
 26.10.
@@ -5989,6 +6035,38 @@ Differdange
 16:00
 Ned
 26.10.
+LUK1
+Union Titus Petange
+Jeunesse Canach
+2.25
+3.20
+2.80
+1.87
+1.26
+1.83
+1.67
+4.25
+2.02
++489
+16:00
+Ned
+26.10.
+MLT1
+Sliema
+Marsaxlokk
+2.35
+3.25
+2.85
+1.65
+1.35
+2.08
+1.85
+4.85
+2.35
++490
+16:00
+Ned
+26.10.
 MAR1
 Union Touarga
 US Yacoub Mansour
@@ -6181,6 +6259,22 @@ Conquense
 16:00
 Ned
 26.10.
+ŠVA3
+Zurich II
+Breitenrain
+2.00
+3.70
+2.90
+2.65
+1.11
+1.42
+1.40
+3.15
+1.60
++492
+16:00
+Ned
+26.10.
 ŠVE3
 Angelholm
 Eskilsminne
@@ -6249,13 +6343,13 @@ BUG1
 CSKA Sofia
 Beroe
 1.23
-5.20
-12.5
-2.20
-1.17
-1.60
-2.10
 5.25
+12.5
+2.22
+1.17
+1.58
+2.10
+5.20
 2.35
 +522
 16:30
@@ -6344,15 +6438,15 @@ Ned
 ČIL1
 U. Catolica
 U. De Chile
-2.02
-3.30
-3.45
+2.08
+3.50
+3.15
 1.80
 1.29
-1.90
+1.88
 1.75
-4.50
-2.13
+4.45
+2.15
 +2980
 16:30
 Ned
@@ -6725,6 +6819,22 @@ Igdir
 17:00
 Ned
 26.10.
+TUR3
+Elazigspor
+Kastamonuspor
+1.47
+3.85
+5.90
+1.88
+1.26
+1.82
+1.95
+5.00
+2.32
++489
+17:00
+Ned
+26.10.
 UKR1
 Dynamo Kyiv
 Kryvbas
@@ -7000,15 +7110,15 @@ Ned
 ŠPA4
 Sestao
 Ebro
-1.70
+1.75
 3.20
-4.70
+4.50
 1.48
 1.50
-2.47
-2.32
-6.45
-3.05
+2.45
+2.30
+6.35
+3.00
 +498
 17:30
 Ned
@@ -7073,23 +7183,39 @@ Bologna
 1.85
 5.35
 2.48
-+3461
++3477
 18:00
 Ned
 26.10.
 TUR1
 Kasimpasa
 Besiktas
-3.85
-3.65
+3.80
+3.70
 1.90
 2.03
 1.23
 1.78
-1.67
+1.68
 4.15
 2.05
 +2853
+18:00
+Ned
+26.10.
+CG1
+Mladost DG
+Mornar Bar
+2.40
+3.40
+2.65
+1.82
+1.28
+1.88
+1.72
+4.35
+2.10
++489
 18:00
 Ned
 26.10.
@@ -7201,22 +7327,22 @@ Kawkab Marrakech
 2.10
 5.80
 2.75
-+490
++501
 18:00
 Ned
 26.10.
 SVK1
 Slovan Bratislava
 Tatran Presov
-1.29
-5.35
+1.31
+5.05
 8.20
-2.60
-1.11
+2.55
+1.12
 1.45
-1.80
-4.15
-1.98
+1.75
+4.05
+1.92
 +527
 18:15
 Ned
@@ -7224,14 +7350,14 @@ Ned
 BLR1
 Vitebsk
 Maxline Vitebsk
-5.60
+5.95
 3.50
-1.60
+1.58
 1.65
 1.37
 2.12
-2.10
-5.65
+2.12
+5.75
 2.60
 +500
 18:15
@@ -7313,7 +7439,7 @@ Ostrava
 1.67
 3.85
 1.90
-+2856
++2867
 18:30
 Ned
 26.10.
@@ -7445,6 +7571,22 @@ Atl. Ottawa
 19:00
 Ned
 26.10.
+MLT1
+Naxxar Lions
+Hamrun
+7.90
+4.55
+1.35
+1.95
+1.24
+1.77
+2.13
+5.35
+2.50
++487
+19:00
+Ned
+26.10.
 ŠPA4
 Xerez CD
 Deportiva Minera
@@ -7480,15 +7622,15 @@ Ned
 URU2
 Colon FC
 Cerrito
-1.78
-3.20
-4.75
+1.82
+3.45
+4.10
 1.65
 1.37
 2.10
-1.95
+2.00
 5.25
-2.40
+2.50
 +500
 19:15
 Ned
@@ -7621,19 +7763,35 @@ Excelsior
 20:00
 Ned
 26.10.
+CG1
+Decic
+Buducnost
+3.05
+3.30
+2.20
+1.70
+1.34
+2.03
+1.85
+4.80
+2.30
++490
+20:00
+Ned
+26.10.
 BRA1
 Botafogo RJ
 Santos
-1.88
-3.40
-4.25
-1.68
+1.90
+3.45
+4.05
+1.70
 1.37
-2.18
+2.17
 1.95
-5.20
+5.15
 2.55
-+3460
++3461
 20:00
 Ned
 26.10.
@@ -8456,14 +8614,14 @@ Pon
 VEN1
 Metropolitanos
 Caracas
-2.90
-3.30
-2.28
+2.80
+3.35
+2.35
 1.75
-1.31
-1.95
-1.78
-4.55
+1.32
+1.97
+1.80
+4.60
 2.20
 +501
 01:00
@@ -9186,6 +9344,22 @@ Tauro
 5.50
 2.65
 +501
+18:30
+Uto
+28.10.
+ITA1
+Lecce
+Napoli
+7.00
+4.25
+1.45
+1.75
+1.32
+1.97
+2.17
+5.65
+2.70
++516
 20:30
 Uto
 28.10.
@@ -9298,6 +9472,214 @@ Amiens
 4.85
 2.35
 +516
+20:30
+Uto
+28.10.
+ITA2
+Cesena
+Carrarese
+1.97
+3.30
+3.95
+1.70
+1.33
+2.00
+1.82
+4.85
+2.30
++521
+20:30
+Uto
+28.10.
+ITA2
+Empoli
+Sampdoria
+2.40
+3.05
+3.15
+1.53
+1.45
+2.35
+2.00
+5.50
+2.65
++519
+20:30
+Uto
+28.10.
+ITA2
+Frosinone
+Virtus Entella
+2.17
+3.05
+3.65
+1.58
+1.40
+2.22
+1.92
+5.30
+2.50
++519
+20:30
+Uto
+28.10.
+ITA2
+Palermo
+Monza
+2.07
+3.55
+3.35
+1.80
+1.29
+1.88
+1.75
+4.45
+2.20
++521
+20:30
+Uto
+28.10.
+ITA2
+Pescara
+Avellino
+2.75
+3.25
+2.55
+1.70
+1.35
+2.05
+1.80
+4.75
+2.32
++519
+20:30
+Uto
+28.10.
+ITA2
+Reggiana
+Modena
+3.80
+3.30
+2.02
+1.70
+1.33
+2.00
+1.82
+4.80
+2.30
++520
+20:45
+Uto
+28.10.
+ELK
+Grimsby
+Brentford
+7.30
+5.15
+1.37
+2.33
+1.15
+1.53
+1.78
+4.20
+2.05
++528
+20:45
+Uto
+28.10.
+ELK
+Wycombe
+Fulham
+6.05
+4.35
+1.50
+2.00
+1.22
+1.72
+1.85
+4.55
+2.20
++528
+20:45
+Uto
+28.10.
+ITA1
+Atalanta
+Milan
+2.60
+3.35
+2.60
+1.92
+1.25
+1.78
+1.63
+4.10
+2.00
++518
+20:45
+Uto
+28.10.
+ENG3
+Bradford City
+Lincoln
+2.25
+3.25
+3.00
+1.75
+1.32
+1.97
+1.78
+4.60
+2.20
++519
+20:45
+Uto
+28.10.
+ENG3
+Mansfield
+Plymouth
+2.12
+3.50
+3.05
+2.02
+1.22
+1.70
+1.60
+3.95
+1.90
++519
+20:45
+Uto
+28.10.
+ENG4
+Accrington
+Tranmere
+2.43
+3.25
+2.75
+1.80
+1.29
+1.90
+1.72
+4.40
+2.10
++519
+21:00
+Uto
+28.10.
+ELK
+Wrexham
+Cardiff
+2.25
+3.30
+3.20
+1.80
+1.29
+1.90
+1.72
+4.40
+2.15
++530
 23:45
 Uto
 28.10.
@@ -9346,6 +9728,342 @@ Al Ahly Cairo
 5.80
 2.60
 +498
+18:30
+Sre
+29.10.
+ITA1
+Como
+Verona
+1.60
+3.80
+5.80
+1.70
+1.35
+2.05
+2.05
+5.45
+2.60
++517
+18:30
+Sre
+29.10.
+ITA1
+Juventus
+Udinese
+1.45
+4.15
+7.40
+1.83
+1.28
+1.87
+2.00
+5.20
+2.45
++517
+18:30
+Sre
+29.10.
+ITA1
+Roma
+Parma
+1.48
+4.25
+6.65
+1.80
+1.29
+1.88
+2.05
+5.25
+2.50
++517
+19:00
+Sre
+29.10.
+FRA1
+Le Havre
+Brest
+2.65
+3.30
+2.60
+1.80
+1.29
+1.90
+1.70
+4.40
+2.13
++519
+19:00
+Sre
+29.10.
+FRA1
+Lorient
+Paris SG
+8.20
+5.50
+1.32
+2.55
+1.12
+1.45
+1.73
+4.00
+1.95
++517
+19:00
+Sre
+29.10.
+FRA1
+Metz
+Lens
+4.60
+3.75
+1.73
+1.85
+1.27
+1.85
+1.80
+4.55
+2.22
++521
+19:00
+Sre
+29.10.
+FRA1
+Nice
+Lille
+2.43
+3.45
+2.75
+1.97
+1.23
+1.75
+1.60
+4.00
+1.97
++518
+20:30
+Sre
+29.10.
+ITA2
+Venezia
+Sudtirol
+1.72
+3.90
+4.45
+1.87
+1.26
+1.83
+1.82
+4.55
+2.23
++521
+20:45
+Sre
+29.10.
+ELK
+Arsenal
+Brighton
+1.37
+4.90
+7.90
+2.30
+1.16
+1.55
+1.77
+4.25
+2.05
++528
+20:45
+Sre
+29.10.
+ELK
+Liverpool
+Crystal Palace
+1.57
+4.40
+5.05
+2.30
+1.16
+1.55
+1.63
+3.80
+1.90
++531
+20:45
+Sre
+29.10.
+ELK
+Newcastle
+Tottenham
+1.77
+3.80
+4.25
+1.95
+1.24
+1.75
+1.73
+4.30
+2.10
++531
+20:45
+Sre
+29.10.
+ELK
+Swansea
+Manchester City
+12.8
+6.70
+1.20
+2.55
+1.12
+1.45
+2.00
+4.65
+2.23
++526
+20:45
+Sre
+29.10.
+ELK
+Wolves
+Chelsea
+4.55
+4.05
+1.68
+2.22
+1.17
+1.58
+1.60
+3.80
+1.88
++531
+20:45
+Sre
+29.10.
+ITA1
+Bologna
+Torino
+1.77
+3.55
+4.65
+1.60
+1.40
+2.17
+2.05
+5.50
+2.70
++518
+20:45
+Sre
+29.10.
+ITA1
+Genoa
+Cremonese
+1.83
+3.40
+4.50
+1.55
+1.45
+2.30
+2.15
+5.85
+2.85
++516
+20:45
+Sre
+29.10.
+ITA1
+Inter Milan
+Fiorentina
+1.37
+4.90
+7.90
+2.05
+1.21
+1.70
+1.98
+4.85
+2.35
++516
+21:05
+Sre
+29.10.
+FRA1
+Marseille
+Angers
+1.21
+6.20
+13.6
+2.25
+1.17
+1.58
+2.17
+5.30
+2.50
++514
+21:05
+Sre
+29.10.
+FRA1
+Nantes
+Monaco
+4.75
+4.20
+1.63
+2.18
+1.18
+1.60
+1.65
+3.95
+1.95
++520
+21:05
+Sre
+29.10.
+FRA1
+Paris FC
+Lyon
+2.60
+3.50
+2.55
+2.12
+1.19
+1.65
+1.55
+3.70
+1.85
++521
+21:05
+Sre
+29.10.
+FRA1
+Strasbourg
+Auxerre
+1.72
+3.85
+4.55
+1.95
+1.24
+1.77
+1.75
+4.35
+2.13
++520
+21:05
+Sre
+29.10.
+FRA1
+Toulouse
+Rennes
+2.12
+3.50
+3.30
+1.88
+1.26
+1.82
+1.70
+4.25
+2.10
++521
 01:30
 Čet
 30.10.
@@ -9378,22 +10096,102 @@ Austin FC
 4.40
 2.12
 +2243
+16:15
+Čet
+30.10.
+SAR1
+Damac
+Al-Fateh
+3.05
+3.80
+2.02
+2.20
+1.17
+1.60
+1.55
+3.65
+1.80
++519
 18:00
 Čet
 30.10.
 EGI1
 National Bank Egypt
 Zamalek
-3.60
+3.40
 2.90
-2.15
+2.25
 1.45
-1.55
-2.60
-2.15
-6.20
+1.53
+2.55
+2.13
+6.10
+2.85
++497
+18:30
+Čet
+30.10.
+ITA1
+Cagliari
+Sassuolo
+2.45
+3.25
 2.90
-+486
+1.70
+1.34
+2.02
+1.80
+4.70
+2.30
++519
+18:30
+Čet
+30.10.
+SAR1
+Al Ahli Jeddah
+Al Riyadh
+1.34
+4.65
+8.20
+2.13
+1.19
+1.63
+1.95
+4.75
+2.20
++514
+18:30
+Čet
+30.10.
+SAR1
+Al Kholood
+Neom SC
+3.70
+3.55
+1.87
+1.93
+1.24
+1.77
+1.70
+4.25
+2.05
++519
+20:45
+Čet
+30.10.
+ITA1
+Pisa
+Lazio
+3.80
+3.30
+2.00
+1.63
+1.38
+2.13
+1.92
+5.15
+2.50
++519
 23:00
 Čet
 30.10.
@@ -9416,16 +10214,64 @@ Pet
 LIBK
 Palmeiras
 LDU Quito
-1.18
-6.40
-17.7
-2.33
 1.17
+6.55
+18.6
+2.35
+1.16
 1.60
-2.40
-6.00
-2.75
+2.48
+6.15
+2.85
 +523
+14:40
+Pet
+31.10.
+SAR1
+Al Akhdoud
+Al Najma
+2.02
+3.30
+3.45
+1.85
+1.28
+1.85
+1.72
+4.40
+2.08
++519
+15:50
+Pet
+31.10.
+SAR1
+Al Hilal
+Al-Shabab Riyadh
+1.37
+4.90
+6.60
+2.75
+1.10
+1.40
+1.60
+3.60
+1.77
++519
+18:30
+Pet
+31.10.
+SAR1
+Al-Ettifaq
+Al-Hazem
+2.05
+3.45
+3.25
+1.75
+1.32
+1.97
+1.82
+4.65
+2.25
++519
 18:45
 Uto
 04.11.
@@ -9650,194 +10496,14 @@ Barcelona
 3.10
 1.60
 +520
-21:00
-Sre
-05.11.
-LŠ
-Inter Milan
-Kairat Almaty
-1.05
-11.5
-33.0
-4.35
-1.02
-1.22
-2.55
-5.70
-2.70
-+518
-21:00
-Sre
-05.11.
-LŠ
-Manchester City
-Dortmund
-1.45
-4.50
-6.40
-2.80
-1.10
-1.45
-1.53
-3.50
-1.75
-+520
-21:00
-Sre
-05.11.
-LŠ
-Marseille
-Atalanta
-2.00
-3.75
-3.40
-2.28
-1.17
-1.63
-1.55
-3.65
-1.85
-+521
-21:00
-Sre
-05.11.
-LŠ
-Newcastle
-Ath Bilbao
-1.55
-3.90
-6.10
-1.93
-1.26
-1.87
-1.87
-4.80
-2.30
-+529
 
 
 
 
-
-Dobrodošli na najbolju online kladionicu za fudbalsko klađenje – SoccerBet! Na ovoj stranici možete pronaći sve što vam je potrebno za klađenje na fudbalske utakmice širom sveta. Bez obzira da li ste strastveni navijač Partizana ili Crvene Zvezde, Premier League, La Lige, Serie A, Bundeslige ili lokalnih liga, ovde ćete naći najbolje kvote, detaljne analize i širok spektar opcija za klađenje.
-
-
-Industrija odgovorne zabave svake godine privlači veliki broj zaljubljenika u igre na sreću. U ekskluzivnim ambijentima SoccerBet poslovnica igrači imaju priliku da uživaju u osećaju vrhunske igre, sjajne sportske ponude i odlične podrške.
-U kladionici su svi jednaki. I oni “veliki” igrači, ali i oni uslovno rečeno “mali”. Svi imaju isti status i to je možda i jedino mesto u kojem dolazi do pravog značenja reči jednakost među svima.
-Pored standardne ponude “pre match” klađenja, tu je i uvek uzbudljivo “uživo klađenje”. Strast igre u kojoj brza reakcija i osećaj donose novi nivo zabave igračima koji se klade.
-Kladionica ujedinjuje i sve boje. Nije važno da li navijate za onaj i ili ovaj klub, da li igrate po osećaju ili navijački, svi imaju iste šanse i iste uslove za dobitak.
-SoccerBet je već decenijama prepoznat kao jedan od lidera u sportskom klađenju i odgovornoj zabavi. Naši igrači su uvek cenjeni i znaju da u našim kladionicama ili putem sajta/aplikacije mogu da pronađu verovatno najbolje kvote na tržištu.
-Koliko industrija sportskog klađenja napreduje vidi se i po ponudi. Nekada davno nije bilo moguće zamisliti klađenje na neke daleke lige, a sada gotovo da nema sporta koji se ne nalazi u ponudi.
-SoccerBet ide u korak sa svetskim trendovima. Svakodnevno ulažemo trud da dodatno obogatimo našu ponudu sportskog klađenja novim igrama, ligama i antepostovima.
-Veliki događaji su uvek poseban doživljaj za sve igrače kladionice SoccerBet. Sportsko klađenje na osvajača Evropskog prvenstva u fudbalu, košarci, rukometu, odbojci, zatim mundijalska groznica u tim sportovima, kao i neverovatna antepost ponuda i specijali, pravi su užitak za sve igrače kladionice.
-
-Naša platforma je osmišljena tako da zadovolji sve vaše kladioničarske potrebe, pružajući vam iskustvo koje je zabavno, uzbudljivo i može biti vrlo profitabilno!
-
-Najbolje kvote na fudbalske utakmice – SoccerBet
-
-Kada je u pitanju fudbalsko klađenje, kvote su od ključne važnosti. Na SoccerBet, ponosimo se time što nudimo najkonkurentnije kvote na tržištu. Bilo da se kladite na pobednika utakmice, broj golova, hendikep ili specijalne opklade, naše kvote su dizajnirane da vam pruže maksimalnu vrednost za vaš novac. Naša platforma omogućava jednostavan pregled kvota, što vam pomaže da donesete najbolje odluke prilikom klađenja. Redovno ažuriramo naše kvote kako bi reflektovale trenutna dešavanja i formu timova, osiguravajući vam najbolje moguće opcije za klađenje.
-
-Klađenje uživo na fudbal
-
-
-Jedna od najuzbudljivijih opcija koju nudimo je klađenje uživo. Dok pratite svoje omiljene fudbalske mečeve u realnom vremenu, možete se kladiti na različite ishode tokom same utakmice. Klađenje uživo donosi dodatnu dozu adrenalina i omogućava vam da iskoristite promene u igri kako biste ostvarili najbolje moguće rezultate. Naš interfejs za klađenje uživo je intuitivan i brz, omogućavajući vam da se brzo prilagodite promenama na terenu. Bilo da se radi o promeni rezultata, crvenom kartonu ili povredi ključnog igrača, klađenje uživo vam pruža šansu da reagujete i iskoristite svaku priliku.
-
-Široka ponuda liga i takmičenja
-
-
-Naša ponuda fudbalskih utakmica obuhvata sve glavne lige i takmičenja širom sveta. Od engleske Premier League, španske La Lige, italijanske Serie A, nemačke Bundeslige, do manje poznatih liga kao što su japanska J1 League, brazilska Serie A ili američka MLS – sve to možete pronaći na SoccerBet. Pored toga, pokrivamo i sve glavne internacionalne turnire, uključujući Ligu šampiona, Ligu Evrope, Copa America i Svetsko prvenstvo. Naša detaljna ponuda omogućava vam da se kladite na različite aspekte igre, uključujući i specijalne opklade. Tu su i lige koje su za prave sladokusce klađenja – igrače koji bolje poznaju geografiju Zimbabvea i arapskih zemalja od pravih putologa.
-
-Specijalne opklade i bonusi
-
-Kladionica SoccerBet nudi širok spektar specijala koje dodatno obogaćuju vaše iskustvo klađenja. Pored toga, redovno nudimo atraktivne bonuse i promocije kako bismo nagradili naše lojalne korisnike. Pratite naše promocije kako biste iskoristili najbolje ponude i dodatne bonuse koji mogu povećati vaše šanse za dobitak. Naša sekcija sa specijalnim opkladama omogućava vam da istražite različite strategije klađenja i pronađete one koje vam najviše odgovaraju.
-
-Sigurna i laka registracija
-
-Registracija na SoccerBet je brza i jednostavna. Naš korisnički interfejs je intuitivan i prilagođen svim tipovima korisnika, od početnika do iskusnih kladioničara. Vaša sigurnost nam je na prvom mestu, tako da smo uložili u najmodernije sigurnosne protokole kako bismo osigurali bezbednost vaših podataka i transakcija. Proces registracije je jednostavan i traje svega nekoliko minuta, omogućavajući vam da brzo započnete svoje kladioničarsko putovanje. Pored toga, naš tim za korisničku podršku je uvek tu da vam pomogne u slučaju bilo kakvih pitanja ili nedoumica.
-
-Status tiketa i praćenje klađenja
-
-Na našem sajtu možete lako pratiti status svojih tiketa i biti u toku sa svim promenama. Naša napredna tehnologija vam omogućava da u svakom trenutku znate koliko ste blizu dobitka i koje su vam preostale opcije za klađenje. Na taj način, uvek imate kontrolu nad svojim aktivnostima. Naš sistem za praćenje tiketa je dizajniran da bude jednostavan za korišćenje, omogućavajući vam da se fokusirate na strategiju i donošenje informisanih odluka. Bilo da ste kod kuće ili u pokretu, uvek možete pratiti svoje opklade i prilagođavati ih u skladu sa dešavanjima na terenu.
-
-Promocije i bonusi
-
-Na SoccerBet, redovno nudimo razne promocije i bonuse kako bismo unapredili vaše iskustvo klađenja. Posetite našu stranicu sa promocijama kako biste videli sve trenutne ponude. Bilo da se radi o bonusima za nove korisnike, besplatnim opkladama, povratima novca ili posebnim promocijama za određene utakmice, naša ponuda je dizajnirana da vam pruži dodatne vrednosti i poveća vaše šanse za dobitak. Redovno ažuriramo naše promocije kako bismo osigurali da uvek imate nešto novo i uzbudljivo na raspolaganju. Iskoristite ove ponude kako biste maksimizovali svoju zaradu i učinili klađenje još uzbudljivijim.
-
-Zašto izabrati SoccerBet?
-Najbolje kvote: Naše kvote su među najkonkurentnijima na tržištu.
-Široka ponuda: Pokrivamo sve glavne i manje poznate lige i takmičenja.
-Klađenje uživo: Klađenje u realnom vremenu za maksimalno uzbuđenje.
-Specijalne opklade i bonusi: Raznovrsne opcije za klađenje i atraktivne promocije.
-Sigurnost i pouzdanost: Najmoderniji sigurnosni protokoli za zaštitu vaših podataka.
-Ekspertize i analize: Saveti stručnjaka za informisano klađenje.
-Promocije i bonusi: Redovne promocije i bonusi za sve korisnike.
-SoccerBet online klađenje
-Za igrače koji nemaju vremena da stignu do poslovnica SoccerBet kladionice, tu je online klađenje. Masovnu popularnost ovaj vid klađenja doživljava sa digitalizacijom društva i informatičkom pismenosti. Bilo da ste na poslu, kod kuće, treningu, ne propuštate nijedan bitan događaj.
-Novac se lako uplaćuje i ne morate svaki put ići do uplatnog mesta. Načina uplate i isplate novca ima sve više i prilagođeni su mogućnostima igrača.
-Takođe tu su i brojni strimovi na sajtu SoccerBet kladionice gde možete i online pratiti i kladiti se na mečeve koje želite. Niste vezani za televizor i ne jurite neke problematične strimove putem pretraživača.
-
-
-Bilo da ste iskusni kladioničar ili tek započinjete svoje kladioničarsko putovanje, na SoccerBet online platformi, ćete pronaći sve što vam je potrebno za uspešno i uzbudljivo klađenje na fudbalske utakmice. Pridružite nam se danas i iskusite najbolje što fudbalsko klađenje može da ponudi!
-
-Prednosti koje online kladionice donose:
-
-• Nije važno gde se nalaziš, možeš da uplatiš tiket
-• Uživo pratiš promene kvota
-• Strimovi su tu za veliki broj sportskih događaja na koje se kladiš
-
-ISPLATA ONLINE DOBITAKA
-
-Isplatu dobitaka koje si ostvario igrajući sportsku kladonicu online možeš da uradiš na nekoliko načina:
-• Isplatom na tekući račun u banci
-• Isplatom preko neke od tebi najbližih kladionica
-
-Kako se kladiti online?
-Nikada nije bilo lakše kladiti se online.
-Kod online klađenja najbitnija stvar je da na sajtu/aplikaciji SoccerBet kladionice otvoriš svoj nalog. Na sajtu SoccerBet kladionice to možeš uraditi u desnom uglu klikom na polje „Registracija“.
-Proces registracije je veoma lak i ne zahteva više od nekoliko minuta. Nakon što si popunio sva potrebna polja zvanično si napravio nalog i ušao u svet online klađenja.
-Nakog kompletiranja registracije potrebno je da uplatiš svoj novac.
-
-
-Kladionica SoccerBet nudi veliki broj načina uplate:
-
-Direktna uplata preko kartice
-U poslovnici
-Platnim karticama
-Uplata putem naloga u banci
-Altapay
-Moj kiosk
-V cash
-
-Nakon što si napravio nalog i verifikovao ga, uplatio svoj prvi depozit spreman si za sportsko klađenje i svoj prvi web tiket.
-
-
-Online ponuda je ista kao i u poslovnici SoccerBet kladionice, odnosno čeka te pregršt događaja iz sveta sporta svakodnevno. Tu su i posebni bonusi za klađenje. Na svom profilu možeš pronaći istoriju svojih tiketa i istoriju svojih uplata.
-
-SAVETI ZA USPEŠNO KLAĐENJE – BETTING TIPS
-
-Svako ima neku svoju tehniku i strategiju klađenja. Bilo da ste početnik ili iskusan igrač ona je Vaše pravo. Ovo je nekoliko saveta kako da lakše sastavite potencijalno dobitan tiket.
-
-* Postavite budžet za klađenje koji će biti takav da uživate u odgovornoj zabavi. Ne preterujte i uživajte u igri.
-* Odabertite sportske događaje na koje ćete se fokusirate i timove i igrače koje ćete pratiti.
-* Iskoristite statistiku: Praćenje statistike je može biti veoma bitno za uspešno klađenje. Analizirajte timove i igrače, njihovu formu, povrede i istorijske podatke.
-* Isključite emocije prilikom sastavljanja tiketa. Za koga navijate i ko vam je simpatičan uopšte nije bitno prilikom sastavljanja tiketa. Nije važno ni koga ne volite. Racionalna glava je najbolja ka dobitnom tiketu.
-* Iskoristite bonuse: Kladionica SoccerBet nudi mnoge bonus ponude i promocije koje mogu povećati vaše šanse za dobitak. Iskoristite ove ponude, ali pažljivo proučite uslove i zahteve koji su vezani za njih.
-* Informišite se. Pratite sportske vesti, analize stručnjaka i promene u timovima. Prilagodite svoje strategije i taktike kako biste bili korak ispred ostalih igrača.
-
-
-Sportska kladionica SoccerBet zajedno sa svojim igračima predstavlja veliku porodicu i zajednički pomeramo granice sjajnih šansi i zabave. Kladionica SoccerBet je mesto gde se okupljaju prijatelji i oni koji to ubrzo postanu. Mesto gde se mogu naći pravi znalci sportskog klađenja, kao i oni miljenici sportske sreće, ljubitelji slot-igara i gamblinga.
-
-
-SoccerBet je vaša destinacija broj jedan za fudbalsko klađenje. Bilo da ste iskusni kladioničar ili tek započinjete svoje kladioničarsko putovanje, ovde ćete pronaći sve što vam je potrebno za uspešno i uzbudljivo klađenje na fudbalske utakmice. Ne zaboravite da redovno proveravate našu stranicu sa promocijama kako biste iskoristili sve pogodnosti koje vam nudimo.
-
-
-Pravi igrači na pravom mestu – Vaša SoccerBet sportska kladionica!
-
-Prikaži više
 GOLD
-978,116.64 RSD
+979,623.73 RSD
 SILVER
-2,267.64 RSD
+2,418.27 RSD
 TIKET
  
 1
@@ -9847,17 +10513,17 @@ SIMULACIJA
 NOVO!
 25/10
 •
-19:00
-Extension Gunners - Morupule
+19:30
+Polonia Warszawa - Polonia Bytom
 Konačni Ishod 
  2 
-  2.35
+  2.75
 Br. parova
 1
 Max. kvota
-2.35
+2.75
 Max. isplata (RSD)
-47.00
+55.00
  Prihvatam promene
  Bonus
 Uplata:
