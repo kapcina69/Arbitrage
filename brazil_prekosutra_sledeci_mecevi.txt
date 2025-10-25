@@ -16,56 +16,16 @@ Bonus tip
 Danas
 Sutra
 27.10.
-17:00
+18:00
 23:59
-17:00 - 23:59
+18:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
-HOKEJ
-ODBOJKA
-ESPORT
-FUDBAL VIRTUAL
 GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-FINLAND, Veikkausliiga - Championship Group
-558
-17:00
-SJK
-KuPS
-840
-1
-2.85
-X
-3.75
-2
-2.22
-0-2
-2.60
-2+
-1.12
-3+
-1.44
-RUSSIA, Premier League
-225
-17:30
-Akhmat Grozny
-Sochi
-825
-1
-1.65
-X
-3.65
-2
-5.45
-0-2
-1.80
-2+
-1.29
-3+
-1.92
 BOSNIA AND HERZEGOVINA, Premijer Liga BiH
 606
 18:00
@@ -89,19 +49,19 @@ CROATIA, HNL
 18:00
 Vukovar 1991
 D. Zagreb
-817
+819
 1
 11.2
 X
-5.75
+6.00
 2
-1.22
+1.21
 0-2
-2.50
+2.75
 2+
-1.12
+1.10
 3+
-1.46
+1.39
 CYPRUS, Cyprus League
 320
 18:00
@@ -567,21 +527,20 @@ X
 3+
 2.40
 Odigrani tiketi
-606
-Zrinjski - Borac Banja Luka
+320
+AEK Larnaca - APOEL
 27.10. 18:00
-+3
 KONAČAN ISHOD 
 1
-  2.22  
+  2.18  
 Običan
 Sistem
 Kvota:
-2.22
+2.18
 Uplata:
 20.00 RSD
 Dobitak:
-44.40 RSD
+43.60 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express

@@ -14,16 +14,6 @@ Srbija 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Železničar Pančevo - Čukarički
-2.25
-3.40
-2.80
-+37
 NED. 26.10.
 1
 X
@@ -180,12 +170,6 @@ SUB. 25.10.
 1
 X
 2
-18:00
-Napoli - Inter
-3.50
-3.30
-2.30
-+58
 20:45
 Cremonese - Atalanta
 5.45
@@ -301,14 +285,14 @@ Sparta R. - Telstar
 20:00
 Volendam - Heracles
 2.15
-3.60
+3.55
 3.25
 +53
 21:00
 Zwolle - NEC
-3.45
-3.85
-2.00
+3.65
+3.75
+1.95
 +53
 NED. 26.10.
 1
@@ -348,8 +332,8 @@ X
 2
 19:00
 Santa Clara - Avs Futebol Sad
-1.48
-4.10
+1.50
+3.95
 8.25
 +53
 21:30
@@ -410,12 +394,6 @@ SUB. 25.10.
 1
 X
 2
-18:00
-CS Constantine - Olympique Akbou
-1.90
-3.10
-4.00
-+37
 19:00
 MB Rouisset - Ben Aknoun
 1.75
@@ -456,9 +434,9 @@ X
 2
 03:00
 Wellington Phoenix - Brisbane
-2.92
-3.25
-2.35
+2.70
+3.45
+2.40
 +53
 PON. 27.10.
 1
@@ -540,32 +518,6 @@ Qarabag - Shamakhi
 6.60
 11.60
 +39
-Bahrein 2
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-AL Hala - Bouri
-1.40
-4.40
-6.90
-+11
-18:00
-Al Ittifaq BHR - Al Ittihad BHR
-3.00
-3.15
-2.15
-+11
-18:00
-Busaiteen - Isa Town
-3.40
-3.25
-2.00
-+11
 Belgija 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -960,16 +912,6 @@ Pirin - Etar
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Liberec - Jablonec
-2.25
-3.25
-3.30
-+37
 NED. 26.10.
 1
 X
@@ -1086,9 +1028,9 @@ X
 2
 20:00
 Dep. La Serena - Audax Italiano
-2.15
-3.30
-2.95
+2.25
+3.25
+2.80
 +40
 22:30
 Huachipato - Iquique
@@ -1144,9 +1086,9 @@ X
 2
 16:30
 Magallanes - Antofagasta
-2.20
-3.15
-2.95
+2.05
+3.20
+3.30
 +41
 19:00
 Cobreloa - Santiago Wanderers
@@ -1294,9 +1236,9 @@ Mushuc Runa - Manta
 +37
 23:30
 Barcelona SC - Libertad Loja
-1.55
-4.00
-5.10
+1.58
+4.05
+4.70
 +37
 NED. 26.10.
 1
@@ -1347,14 +1289,14 @@ X
 23:00
 Guayaquil City - Independiente Juniors
 1.60
-3.65
-5.20
+3.70
+5.00
 +36
 23:00
 San Antonio FC - Gualaceo
 2.45
-2.90
-3.00
+2.85
+2.80
 +36
 El Salvador 1
 KONAČAN ISHOD
@@ -1366,9 +1308,9 @@ X
 2
 23:00
 Zacatecoluca FC - Aguila
-3.90
-3.15
-1.95
+3.50
+3.10
+2.00
 +39
 NED. 26.10.
 1
@@ -1588,7 +1530,7 @@ FC Iberia 1999 - Dila Gori
 +39
 17:00
 Gagra - Dinamo Batumi
-2.30
+2.35
 3.15
 2.80
 +39
@@ -1618,8 +1560,8 @@ Municipal - Malacateco
 +39
 02:00
 Antigua - Aurora
-1.42
-4.55
+1.45
+4.20
 5.90
 +39
 04:00
@@ -1658,20 +1600,6 @@ Willem II - Maastricht
 4.35
 4.30
 +41
-Holandija 3
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-De Treffers - Rijnsburgse Boys
-2.25
-3.70
-2.70
-+39
 Honduras 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -1748,16 +1676,6 @@ Hrvatska 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Varazdin - Slaven
-2.35
-3.15
-2.80
-+41
 PON. 27.10.
 1
 X
@@ -1770,8 +1688,8 @@ Rijeka - Osijek
 +41
 19:00
 HNK Vukovar 1991 - Dinamo Z.
-11.60
-6.40
+11.20
+6.50
 1.20
 +41
 Hrvatska 2
@@ -2066,13 +1984,13 @@ X
 2
 18:15
 Hap. Haifa - Beitar Jerusalem
-3.95
-3.75
-1.80
+3.60
+3.80
+1.75
 +41
 18:15
 Ashdod - Hap. Petah Tikva
-2.80
+2.90
 3.25
 2.20
 +41
@@ -2181,8 +2099,8 @@ Sapporo - Mito
 05:00
 Montedio Yamagata - Omiya Ardija
 2.60
-3.60
-2.40
+3.50
+2.45
 +41
 05:05
 Tokushima - Iwaki FC
@@ -2266,20 +2184,6 @@ Al Hussein - Sama AL Sarhan
 8.50
 25.50
 +37
-Jordan 2
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Al Aqaba - Ittihad AL Ramtha
-3.00
-3.45
-2.05
-+6
 Kanada 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -2304,9 +2208,9 @@ X
 2
 18:30
 Al Sadd - Al Arabi
-1.65
-4.55
-3.60
+1.60
+4.50
+3.90
 +41
 NED. 26.10.
 1
@@ -2396,9 +2300,9 @@ Shandong Taishan - Shanghai SIPG
 +41
 11:30
 Qingdao Youth Island - Chengdu Q.
-5.40
+5.90
 4.45
-1.48
+1.45
 +41
 12:35
 Beijing G. - Qingdao Jonoon
@@ -2448,16 +2352,6 @@ Kipar 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Olympiakos Nicosia - Apollon L.
-4.30
-3.55
-1.70
-+41
 NED. 26.10.
 1
 X
@@ -2740,16 +2634,6 @@ Luksemburg 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Niederkorn - Racing Lux.
-1.95
-3.55
-3.30
-+39
 NED. 26.10.
 1
 X
@@ -2842,9 +2726,9 @@ Debreceni - Ujpest
 +41
 17:30
 Ferencvarosi - Zalaegerszeg
-1.35
-4.95
-6.60
+1.40
+4.80
+6.10
 +41
 Mađarska 2
 KONAČAN ISHOD
@@ -2984,9 +2868,9 @@ X
 2
 01:00
 Tigres - Tijuana
-1.55
-4.15
-5.08
+1.58
+4.35
+4.64
 +37
 02:00
 Leon - Pumas
@@ -3084,9 +2968,9 @@ X
 2
 13:30
 Kaiserslautern - Nurnberg
-2.05
+2.10
 3.50
-3.00
+2.90
 +53
 13:30
 Magdeburg - Munster
@@ -3246,22 +3130,6 @@ CAF Kup Konfederacije
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Singida BS - Flambeau Du Centre
-1.40
-4.30
-6.90
-+39
-18:00
-Stade Tunisien - Olympique de Safi
-2.00
-3.15
-3.60
-+39
 NED. 26.10.
 1
 X
@@ -3322,16 +3190,6 @@ Norveška 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Sarpsborg - KFUM Oslo
-2.70
-3.30
-2.45
-+53
 NED. 26.10.
 1
 X
@@ -3403,29 +3261,19 @@ Auckland City - Auckland FC Reserves
 03:00
 Birkenhead United AFC - Wellington Olympic
 2.30
-3.75
+3.65
 2.60
 +36
 05:00
 Western Springs AFC - Auckland United FC
-2.30
+2.25
 3.60
-2.60
+2.70
 +36
 Oman Sultan Kup
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Ibri - Sur
-2.80
-3.15
-2.35
-+22
 NED. 26.10.
 1
 X
@@ -3458,9 +3306,9 @@ Miguelito - Arabe Unido
 +36
 02:15
 Plaza Amador - Alianza
-1.65
-3.80
-4.30
+1.80
+3.50
+3.70
 +36
 22:00
 SD Atletico Nacional - Universitario
@@ -3776,9 +3624,9 @@ X
 2
 19:30
 AD Marco 09 - Trofense
-3.90
-3.10
-1.90
+3.70
+3.05
+1.95
 +36
 21:00
 Fafe - Guimaraes B
@@ -3900,7 +3748,7 @@ X
 Incheon - Gyeongnam
 1.45
 4.30
-6.00
+6.10
 +41
 08:30
 Seoul E-Land - Chungnam Asan
@@ -3957,8 +3805,8 @@ X
 20:00
 CFR Cluj - Farul C.
 1.90
-3.56
-3.90
+3.55
+3.78
 +52
 NED. 26.10.
 1
@@ -4010,16 +3858,6 @@ Rusija 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-CSKA M. - Krylia Sovetov
-1.42
-4.55
-6.10
-+53
 NED. 26.10.
 1
 X
@@ -4062,16 +3900,6 @@ Rusija 2
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Torpedo M. - Chayka
-1.38
-4.35
-7.50
-+40
 NED. 26.10.
 1
 X
@@ -4112,9 +3940,9 @@ X
 2
 18:30
 Larne - Bangor FC
-1.38
-4.65
-6.70
+1.35
+4.80
+7.30
 +37
 SAD 1 MLS
 KONAČAN ISHOD
@@ -4217,7 +4045,7 @@ Louisville City - Hartford
 01:30
 Tampa Bay - Detroit City FC
 2.30
-3.30
+3.25
 2.80
 +39
 02:00
@@ -4266,8 +4094,8 @@ X
 2
 23:00
 Portland Hearts of Pine - Av Alta FC
-1.80
-3.85
+1.85
+3.75
 3.50
 +39
 NED. 26.10.
@@ -4307,8 +4135,8 @@ South Georgia Tormenta - Texoma FC
 01:00
 Union Omaha - Spokane Velocity FC
 1.68
-3.70
-4.10
+3.75
+4.20
 +39
 San Marino 1
 KONAČAN ISHOD
@@ -4353,23 +4181,13 @@ Aberdeen - Hibernian
 16:00
 Rangers - Kilmarnock
 1.35
-5.40
-8.50
+5.45
+8.75
 +37
 Slovačka 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Kosice - Podbrezova
-2.20
-3.60
-2.80
-+52
 NED. 26.10.
 1
 X
@@ -4510,15 +4328,15 @@ X
 2
 18:30
 Talavera - Osasuna B
-2.05
-3.15
-3.30
+2.00
+3.25
+3.50
 +37
 18:30
 Atl.Sanluqueno - Juventud Torremolinos CF
-1.95
-3.15
-3.50
+1.85
+3.25
+3.90
 +37
 18:30
 Sabadell - Gimnastic
@@ -4598,42 +4416,6 @@ SUB. 25.10.
 1
 X
 2
-18:00
-Real Avila - Samano
-1.48
-3.75
-6.90
-+12
-18:00
-Langreo - Atl. Astorga
-1.90
-3.10
-3.90
-+13
-18:00
-Gernika - Ejea
-2.25
-3.10
-2.90
-+12
-18:00
-CD Extremadura - Xerez Deportivo
-1.95
-3.00
-3.70
-+12
-18:00
-Yeclano - Linares
-2.00
-2.90
-3.60
-+12
-18:00
-RSD Alcala - Tenerife B
-2.10
-3.10
-3.20
-+13
 18:30
 Utebo - Amorebieta
 1.78
@@ -4648,15 +4430,15 @@ SD Eibar B - Real Union
 +13
 19:00
 Sant Andreu - Torrent CF
-1.65
-3.55
-4.80
+1.68
+3.40
+4.70
 +12
 20:30
 UD Logrones - Tudelano
-1.65
-3.60
-4.60
+1.68
+3.55
+4.40
 +12
 21:00
 Jaen - Almeria B
@@ -4826,18 +4608,6 @@ SUB. 25.10.
 1
 X
 2
-18:00
-Sion - Thun
-2.15
-3.60
-3.20
-+37
-18:00
-St.Gallen - Grasshopper
-1.85
-3.80
-4.00
-+37
 20:30
 Winterthur - Luzern
 3.30
@@ -4856,24 +4626,14 @@ Zurich - Young Boys
 +37
 16:30
 Lausanne - Basel
-3.35
-3.95
-2.00
+3.20
+3.90
+2.05
 +37
 Švajcarska 2
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Bellinzona - Lausanne Ouchy
-3.90
-3.70
-1.72
-+41
 NED. 26.10.
 1
 X
@@ -4966,7 +4726,7 @@ X
 2
 13:00
 Trelleborgs - Falkenbergs
-2.40
+2.35
 3.55
 2.60
 +41
@@ -5068,20 +4828,6 @@ Pattaya Dolphins United - Rasisalai United
 3.40
 2.70
 +36
-Tanzanija 1
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Dodoma - Pamba Sc
-1.90
-3.25
-3.60
-+10
 Tunis 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -5113,8 +4859,8 @@ X
 19:00
 Trabzon - Eyup
 1.58
-4.15
-5.85
+4.10
+5.95
 +53
 NED. 26.10.
 1
@@ -5164,16 +4910,6 @@ Turska 2
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Sakarya - Keciorengucu
-2.25
-3.45
-2.80
-+41
 NED. 26.10.
 1
 X
@@ -5202,68 +4938,10 @@ Bodrum - 76 Igdir Belediyespor
 3.65
 3.50
 +41
-Turska 3
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Ankaragucu - Sanliurfa
-2.35
-3.35
-2.70
-+22
-18:00
-Bursa - Mus 1984 Musspor
-1.45
-4.35
-5.80
-+22
-Turska 4 G4
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Denizli Idman Yurdu - Viven Bornova FK
-1.35
-4.65
-7.70
-+22
-Turska 4 G3
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Orduspor 1967 - Zonguldak
-2.35
-3.05
-2.80
-+22
 UAE Kup
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Al Nasr Dubai - Bani Yas
-2.00
-3.20
-3.50
-+36
 NED. 26.10.
 1
 X
@@ -5430,9 +5108,9 @@ X
 2
 18:15
 Cardiff - Flint
-2.35
-3.50
-2.70
+2.25
+3.40
+2.80
 +41
 Venecuela 1
 KONAČAN ISHOD
@@ -5470,9 +5148,9 @@ X
 2
 00:30
 Metropolitanos - Caracas
-2.65
+2.75
 3.30
-2.50
+2.40
 +37
 Venecuela 2
 KONAČAN ISHOD
@@ -5508,9 +5186,9 @@ X
 2
 11:00
 Gia Lai - Viettel
-6.00
+5.40
 3.95
-1.50
+1.52
 +41
 12:00
 Hai Phong - Hong Linh Ha Tinh
@@ -5579,8 +5257,8 @@ Academia del Balompie - FC Universitario de Vinto
 23:30
 Guabira Montero - Blooming
 2.20
-3.50
-2.80
+3.80
+2.70
 +36
 NED. 26.10.
 1
@@ -5614,9 +5292,9 @@ Bonsucesso FC RJ - EC Nova Cidade RJ
 +40
 20:00
 Duque de Caxias FC RJ - Paduano EC RJ
-2.35
+2.30
 2.95
-2.90
+3.00
 +40
 20:00
 Sao Cristovao FR RJ - Friburguense RJ
@@ -5641,14 +5319,14 @@ X
 22:00
 CD Trasandino de Los Andes - Deportes Linares
 2.70
-3.35
+3.40
 2.30
 +36
 22:00
 Santiago City FC - Puerto Montt
-7.00
-4.80
-1.35
+7.40
+5.05
+1.32
 +36
 Međunarodne Prijateljske (W)
 KONAČAN ISHOD
@@ -5660,24 +5338,14 @@ X
 2
 18:30
 (W) Engleska - (W) Brazil
-1.85
-3.60
-3.50
+1.80
+3.65
+3.75
 +22
 AFC Challenge League
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-18:00
-Al Ansar - Al Kuwait
-2.45
-3.30
-2.70
-+36
 NED. 26.10.
 1
 X
