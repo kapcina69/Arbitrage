@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 27.10.
-10:00
+11:00
 23:59
-10:00 - 23:59
+11:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -32,412 +32,24 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-BELARUS, Vysshaya Liga
-405
-10:00
-Isloch
-Dynamo Brest
-829
-1
-2.62
-X
-2.80
-2
-2.85
-0-2
-1.65
-2+
-1.35
-3+
-2.12
-HONG KONG, Premier League
-35069
-10:00
-Kitchee
-North District
-657
-1
-1.71
-X
-3.70
-2
-3.90
-0-2
-2.30
-2+
-1.13
-3+
-1.51
-KAZAKHSTAN, Premier League
-725
-10:00
-Aktobe
-Ordabasy
-826
-1
-1.84
-X
-3.25
-2
-3.85
-0-2
-1.75
-2+
-1.29
-3+
-1.95
-726
-10:00
-K. Almaty
-FC Astana
-826
-1
-2.12
-X
-3.10
-2
-3.20
-0-2
-1.95
-2+
-1.22
-3+
-1.74
-727
-10:00
-Okzhetpes
-Turan
-828
-1
-1.75
-X
-3.40
-2
-4.10
-0-2
-1.90
-2+
-1.23
-3+
-1.77
-728
-10:00
-Ulytau
-Tobol
-823
-1
-5.20
-X
-3.55
-2
-1.58
-0-2
-1.92
-2+
-1.23
-3+
-1.77
-729
-10:00
-Yelimay Semey
-Atyrau
-823
-1
-1.48
-X
-3.75
-2
-5.90
-0-2
-1.98
-2+
-1.21
-3+
-1.72
-730
-10:00
-Zhenis
-Kaisar Kyzylorda
-824
-1
-1.65
-X
-3.45
-2
-4.65
-0-2
-1.70
-2+
-1.30
-3+
-2.00
-731
-10:00
-Zhetysu Taldykorgan
-Kyzylzhar
-820
-1
-2.85
-X
-2.95
-2
-2.38
-0-2
-1.60
-2+
-1.36
-3+
-2.18
-RUSSIA, FNL 2 - Division B - Group 2
-33617
-10:00
-Spartak Moscow 2
-Zvezda St. Peterburg
-58
-1
-1.82
-X
-3.65
-2
-3.50
-0-2
-2.28
-2+
-1.15
-3+
-1.54
-33618
-10:00
-Zenit 2
-Saturn Ramenskoye
-56
-1
-1.09
-X
-7.40
-2
-18.0
-0-2
-2.70
-2+
-1.09
-3+
-1.39
-RUSSIA, Premier League
-221
-10:00
-Akron Togliatti
-Lokomotiv Moscow
-839
-1
-3.90
-X
-3.85
-2
-1.84
-0-2
-2.40
-2+
-1.14
-3+
-1.51
-SLOVAKIA, 2. Liga
-844
-10:00
-Petrzalka
-Z. Moravce-Vrable
-833
-1
-2.95
-X
-3.30
-2
-2.15
-0-2
-2.00
-2+
-1.19
-3+
-1.66
-SPAIN, Segunda RFEF - Group 5
-1213
-10:00
-Real Madrid C
-CF Intercity
-651
-1
-2.65
-X
-2.90
-2
-2.55
-0-2
-1.53
-2+
-1.38
-3+
-2.25
-TURKEY, 2. Lig Red Group
-33461
-10:00
-Mardin BB
-Isparta 32 Spor
-654
-1
-1.92
-X
-3.35
-2
-3.45
-0-2
-1.90
-2+
-1.21
-3+
-1.77
-TURKEY, 2. Lig White Group
-33456
-10:00
-Erbaaspor
-1928 Bucaspor
-645
-1
-1.30
-X
-4.45
-2
-8.75
-0-2
-1.97
-2+
-1.19
-3+
-1.69
-CHINA, Super League
-126
-10:30
-Qingdao West Coast
-Chengdu Rongcheng
-831
-1
-6.00
-X
-4.30
-2
-1.46
-0-2
-2.28
-2+
-1.16
-3+
-1.56
-SPAIN, Segunda RFEF - Group 2
-1189
-10:30
-Basconia
-Naxara
-653
-1
-2.05
-X
-3.05
-2
-3.35
-0-2
-1.80
-2+
-1.24
-3+
-1.84
-SPAIN, Segunda RFEF - Group 4
-1205
-10:30
-Antoniano
-Melilla
-645
-1
-2.55
-X
-2.80
-2
-2.80
-0-2
-1.40
-2+
-1.49
-3+
-2.55
-1206
-10:30
-La Union
-Recreativo Huelva
-645
-1
-2.62
-X
-2.80
-2
-2.70
-0-2
-1.40
-2+
-1.48
-3+
-2.55
-SPAIN, Segunda RFEF - Group 5
-1214
-10:30
-Navalcarnero
-Las Palmas B
-652
-1
-2.10
-X
-2.95
-2
-3.40
-0-2
-1.53
-2+
-1.38
-3+
-2.25
-TURKEY, TFF 1. Lig
-293
-10:30
-Bandirmaspor
-Erokspor
-832
-1
-2.25
-X
-3.15
-2
-3.10
-0-2
-1.77
-2+
-1.29
-3+
-1.95
 INDIA, Super Cup
 35152
 11:00
 North East Utd
 Inter Kashi
-829
+828
 1
-1.35
+1.33
 X
-4.60
+4.70
 2
-6.70
+7.00
 0-2
-2.40
+2.45
 2+
 1.12
 3+
-1.48
+1.46
 ITALY, Primavera 1
 33415
 11:00
@@ -461,19 +73,19 @@ LATVIA, Virsliga
 11:00
 Metta/LU
 Auda
-834
+829
 1
-4.10
+4.30
 X
-3.70
+3.50
 2
-1.68
+1.69
 0-2
-2.22
+2.03
 2+
-1.16
+1.20
 3+
-1.56
+1.68
 POLAND, Division 1
 382
 11:00
@@ -571,11 +183,11 @@ Arenteiro
 Pontevedra
 650
 1
-2.45
+2.50
 X
 2.85
 2
-2.85
+2.80
 0-2
 1.46
 2+
@@ -846,19 +458,19 @@ THAILAND, Thai League 1
 11:00
 Buriram
 Rayong FC
-821
+820
 1
-1.20
+1.19
 X
-5.70
+5.75
 2
-10.0
+10.5
 0-2
-2.75
+2.80
 2+
-1.09
+1.08
 3+
-1.38
+1.36
 THAILAND, Thai League 2
 944
 11:00
@@ -972,7 +584,7 @@ ITALY, Serie A
 11:30
 Torino
 Genoa
-1016
+1029
 1
 2.30
 X
@@ -1028,17 +640,17 @@ Bangkok Utd
 Lamphun Warrior
 827
 1
-1.61
+1.64
 X
-3.65
+3.60
 2
-4.65
+4.50
 0-2
-2.02
+2.00
 2+
 1.20
 3+
-1.69
+1.72
 740
 11:30
 Sukhothai
@@ -1526,19 +1138,19 @@ THAILAND, Thai League 1
 12:00
 Uthai Thani
 Ratchaburi
-832
+834
 1
-2.75
+2.62
 X
-3.15
+3.20
 2
-2.35
+2.40
 0-2
-1.85
+1.93
 2+
-1.25
+1.23
 3+
-1.84
+1.77
 TURKEY, 2. Lig Red Group
 33463
 12:00
@@ -1653,13 +1265,13 @@ GOSK Gabela
 TOSK Tesanj
 59
 1
-2.08
+1.99
 X
-3.00
+3.05
 2
-3.15
+3.30
 0-2
-1.68
+1.70
 2+
 1.29
 3+
@@ -1794,17 +1406,17 @@ Hoffenheim II
 Aue
 840
 1
-1.86
+1.87
 X
 3.85
 2
-3.65
+3.60
 0-2
-2.38
+2.40
 2+
 1.15
 3+
-1.53
+1.51
 MACEDONIA, Prva Liga
 554
 12:30
@@ -1846,7 +1458,7 @@ SPAIN, LaLiga
 13:00
 Mallorca
 Levante
-944
+946
 1
 2.18
 X
@@ -1883,11 +1495,11 @@ Vejle
 Silkeborg
 835
 1
-2.75
+2.95
 X
-3.40
+3.35
 2
-2.45
+2.30
 0-2
 2.05
 2+
@@ -2163,19 +1775,19 @@ SWEDEN, Allsvenskan
 13:00
 Mjallby
 Norrkoping
-932
+987
 1
-1.64
+1.70
 X
-4.00
+3.90
 2
-4.70
+4.40
 0-2
-2.15
+2.10
 2+
-1.19
+1.20
 3+
-1.64
+1.66
 300
 13:00
 Sirius
@@ -2286,31 +1898,31 @@ X
 13:00
 Atletico Fenix Montevideo
 Atenas
-653
+652
 1
-3.10
+3.15
 X
-2.88
+2.85
 2
-2.25
+2.28
 0-2
-1.50
+1.46
 2+
-1.42
+1.47
 3+
-2.35
+2.45
 WORLD, Africa Cup of Nations Women - Qualification
 35144
 13:00
 Zambia Wom.
 Namibia Wom.
-829
+826
 1
-1.38
+1.33
 X
-4.33
+4.55
 2
-6.40
+7.20
 0-2
 2.28
 2+
@@ -2711,7 +2323,7 @@ ENGLAND, Premier League
 14:00
 Arsenal
 Crystal Palace
-1027
+1025
 1
 1.42
 X
@@ -2745,7 +2357,7 @@ X
 14:00
 Bournemouth
 Nottingham
-1028
+1024
 1
 1.84
 X
@@ -2762,7 +2374,7 @@ X
 14:00
 Wolves
 Burnley
-942
+1036
 1
 1.95
 X
@@ -2797,7 +2409,7 @@ X
 14:00
 Verona
 Cagliari
-934
+938
 1
 2.25
 X
@@ -2955,20 +2567,20 @@ X
 3+
 1.65
 Odigrani tiketi
-725
-Aktobe - Ordabasy
-26.10. 10:00
+440
+Metta/LU - Auda
+26.10. 11:00
 KONAČAN ISHOD 
 1
-  1.84  
+  4.30  
 Običan
 Sistem
 Kvota:
-1.84
+4.30
 Uplata:
 20.00 RSD
 Dobitak:
-36.80 RSD
+86.00 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express

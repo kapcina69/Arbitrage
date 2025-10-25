@@ -1,9 +1,154 @@
+  KLAĐENJE
+  UŽIVO KLAĐENJE
+  SLOT
+  IGRE UŽIVO
+  VIRTUALI
+  E-LUCKY 6
+  AVIATOR
+  ROCKETMAN
+  PROMO
+  TURNIRI
 Registracija
 Prijava
+Fudbal
+Košarka
+Slot
+Igre uživo
+e-Lucky Six
+e-Greek Keno
+Virtuali
+Ruleti
+Aviator
+Favoriti
+Najigraniji parovi
+USA, NBA
+Super Liga
+Premier Liga
+LaLiga
+Serie A
+Bundesliga
+Ligue 1
+Eredivisie
 1h
 3h
 Danas
 Sve
+  
+  
+FUDBAL
+1777
+  
+  
+DNEVNI SPECIJAL
+22
+  
+  
+GOLOVI PO LIGAMA
+136
+  
+  
+KOŠARKA
+247
+  
+  
+SP. KOŠARKA
+316
+  
+  
+TENIS
+75
+  
+  
+RUKOMET
+176
+  
+  
+SP. RUKOMET
+76
+  
+  
+ODBOJKA
+156
+  
+  
+HOKEJ
+192
+  
+  
+SP. HOKEJ
+977
+  
+  
+AM.FUDBAL
+47
+  
+  
+SP. AM. FUDBAL
+202
+  
+  
+BEJZBOL
+2
+  
+  
+RAGBI UNIJA
+17
+  
+  
+STONI TENIS
+139
+  
+  
+VATERPOLO
+19
+  
+  
+FUTSAL
+22
+  
+  
+BADMINTON
+2
+  
+  
+MMA
+16
+  
+  
+BOKS
+17
+  
+  
+SNUKER
+2
+  
+  
+PIKADO
+22
+  
+  
+FORMULA 1
+20
+  
+  
+KONJSKE TRKE
+363
+  
+  
+ESPORT
+43
+  
+  
+SP. FUDBAL
+3176
+  
+  
+VIR. FUDBAL
+75
+  
+  
+OUTRIGHT
+583
 
 This is a modal window.
 
@@ -15,11 +160,463 @@ Takmičenja
 Vremenska
 Top
 Specijali
+KONAČAN ISHOD
  
-Russia, Premier League
+Iran, Azadegan League
++82
+Shahrdari Noshahr
+Ario Eslamshahr
+25.10. 11:15
+ki 1
+2.77
+ki X
+2.63
+ki 2
+2.60
+manje 2.5
+1.26
+više 2.5
+3.25
+ 
+Poland, Division 2
++819
+Hutnik Krakow
+Zaglebie Sosnowiec SA
+25.10. 11:15
+ki 1
+3.25
+ki X
+3.65
+ki 2
+1.90
+manje 2.5
+2.37
+više 2.5
+1.51
+ 
+England, Championship
++983
+Coventry
+Watford
+25.10. 11:30
+ki 1
+1.55
+ki X
+4.40
+ki 2
+5.70
+manje 2.5
+2.22
+više 2.5
+1.67
++903
+Ipswich
+West Bromwich
+25.10. 11:30
+ki 1
+1.95
+ki X
+3.35
+ki 2
+4.15
+manje 2.5
+1.72
+više 2.5
+2.15
++906
+Portsmouth
+Stoke
+25.10. 11:30
+ki 1
+2.83
+ki X
+3.35
+ki 2
+2.50
+manje 2.5
+1.77
+više 2.5
+2.05
+ 
+England, League One
++817
+Bolton
+Cardiff
+25.10. 11:30
+ki 1
+1.92
+ki X
+3.70
+ki 2
+3.60
+manje 2.5
+2.15
+više 2.5
+1.62
++805
+Mansfield
+Wigan
+25.10. 11:30
+ki 1
+2.41
+ki X
+3.05
+ki 2
+3.03
+manje 2.5
+1.61
+više 2.5
+2.20
+ 
+England, League Two
++805
+Cheltenham
+Walsall
+25.10. 11:30
+ki 1
+4.00
+ki X
+3.35
+ki 2
+1.92
+manje 2.5
+1.73
+više 2.5
+2.00
++809
+Fleetwood
+Accrington
+25.10. 11:30
+ki 1
+2.12
+ki X
+3.35
+ki 2
+3.35
+manje 2.5
+1.83
+više 2.5
+1.88
+ 
+England, National League
++816
+FC Halifax
+York
+25.10. 11:30
+ki 1
+3.75
+ki X
+3.75
+ki 2
+1.80
+manje 2.5
+2.20
+više 2.5
+1.60
+ 
+Austria, Salzburg
++39
+Thalgau
+TSU Bramberg
+25.10. 11:30
+ki 1
+2.93
+ki X
+3.80
+ki 2
+1.91
+manje 2.5
+2.88
+više 2.5
+1.33
+ 
+China, Jia League
++805
+Foshan Nanshi
+Shanghai Jiading Huilong
+25.10. 11:30
+ki 1
+1.87
+ki X
+3.25
+ki 2
+3.80
+manje 2.5
+1.70
+više 2.5
+2.02
++796
+Heilongjiang Ice City
+Dalian Kuncheng
+25.10. 11:30
+ki 1
+2.57
+ki X
+2.93
+ki 2
+2.62
+manje 2.5
+1.57
+više 2.5
+2.25
++814
+Qingdao Red Lions
+Nanjing City
+25.10. 11:30
+ki 1
+2.50
+ki X
+3.20
+ki 2
+2.55
+manje 2.5
+1.87
+više 2.5
+1.81
+ 
+Croatia, Prva NL
++629
+Opatija
+Bijelo Brdo
+25.10. 11:30
+ki 1
+2.22
+ki X
+2.88
+ki 2
+3.20
+manje 2.5
+1.45
+više 2.5
+2.41
+ 
+Denmark, 2nd Division
++630
+VSK Aarhus
+Roskilde
+25.10. 11:30
+ki 1
+5.60
+ki X
+4.00
+ki 2
+1.47
+manje 2.5
+2.08
+više 2.5
+1.65
+ 
+Denmark, 3rd Division
++637
+Lyseng
+Sundby
+25.10. 11:30
+ki 1
+2.50
+ki X
+3.45
+ki 2
+2.35
+manje 2.5
+2.22
+više 2.5
+1.57
+ 
+England, Premier League 2
++641
+Sunderland U21
+Stoke City U21
+25.10. 11:30
+ki 1
+1.83
+ki X
+4.20
+ki 2
+3.30
+manje 2.5
+3.60
+više 2.5
+1.24
+ 
+Estonia, Meistriliiga
++820
+Harju JK Laagri
+Narva
+25.10. 11:30
+ki 1
+3.10
+ki X
+3.75
+ki 2
+1.92
+manje 2.5
+2.50
+više 2.5
+1.45
++813
+Kuressaare
+Kalju
+25.10. 11:30
+ki 1
+6.00
+ki X
+4.60
+ki 2
+1.38
+manje 2.5
+2.65
+više 2.5
+1.41
+ 
+Iran, Azadegan League
++81
+Damash Gilan
+Nassaji Mazandaran
+25.10. 11:30
+ki 1
+3.95
+ki X
+2.93
+ki 2
+1.88
+manje 2.5
+1.38
+više 2.5
+2.63
++80
+Mes Kerman
+Fard
+25.10. 11:30
+ki 1
+2.70
+ki X
+2.47
+ki 2
+2.85
+manje 2.5
+1.23
+više 2.5
+3.50
+ 
+Singapore, Premier League
++628
+Young Lions
+Geylang
+25.10. 11:30
+ki 1
+9.25
+ki X
+6.25
+ki 2
+1.19
+manje 2.5
+4.00
+više 2.5
+1.19
+ 
+Slovakia, 2. Liga
 +811
-Orenburg
-25.10. 11:00
+I. Bratislava
+Slavia TU Kosice
+25.10. 11:30
+ki 1
+1.42
+ki X
+4.33
+ki 2
+5.80
+manje 2.5
+2.35
+više 2.5
+1.48
++801
+Lehota p. V.
+Banska Bystrica
+25.10. 11:30
+ki 1
+6.70
+ki X
+4.33
+ki 2
+1.37
+manje 2.5
+2.12
+više 2.5
+1.60
++807
+Lubovna
+Slovan Bratislava B
+25.10. 11:30
+ki 1
+1.82
+ki X
+3.45
+ki 2
+3.70
+manje 2.5
+1.97
+više 2.5
+1.67
++812
+Puchov
+L. Mikulas
+25.10. 11:30
+ki 1
+2.83
+ki X
+3.55
+ki 2
+2.12
+manje 2.5
+2.10
+više 2.5
+1.60
++812
+Samorin
+Malzenice
+25.10. 11:30
+ki 1
+1.81
+ki X
+3.60
+ki 2
+3.60
+manje 2.5
+2.10
+više 2.5
+1.60
+ 
+Spain, Tercera RFEF - Group 12
++632
+Villa Santa Brigida
+San Miguel
+25.10. 11:30
+ki 1
+1.85
+ki X
+3.15
+ki 2
+3.65
+manje 2.5
+1.67
+više 2.5
+2.00
+ 
+Thailand, Thai Premier League
++808
+Chiangrai Utd
+Kanchanaburi City
+25.10. 11:30
+ki 1
+2.12
+ki X
+3.05
+ki 2
+3.20
+manje 2.5
+1.71
+više 2.5
+2.05
  Tiket
 TIKET
 
@@ -30,6 +627,16 @@ Molimo odigrajte neku igru.
 Prihvatam promene
 FREEBET
 UPLATI
+DOBITAK DO: 10,000.00 din
+din
+RSD
+1
+0
+0
+.
+0
+0
+ RSD
   500.000 RSD U SPINOVIMA 
 TRAJE JOŠ
 4 
@@ -43,12 +650,32 @@ Br.
 ID igrača
 Rezultat
 Nagrada
+1.
+Ivana M.
+200,503.96
+100.000
+2.
+Vladica M.
+152,109.00
+50.000
+3.
+Miljana J.
+112,875.05
+24.000
+4.
+Aleksandar J.
+91,274.60
+10.000
+5.
+Kristijan S.
+74,368.06
+10.000
 Pravila igre
 Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-10:36:51
+11:05:15
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
