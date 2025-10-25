@@ -74,14 +74,14 @@ Newcastle - Fulham
 +58
 16:30
 Man . Utd - Brighton
-2.00
+2.05
 3.90
-3.35
+3.30
 +58
 19:00
 Brentford - Liverpool
-3.95
-4.15
+3.90
+4.10
 1.80
 +58
 NED. 26.10.
@@ -96,9 +96,9 @@ Bournemouth - Nottingham Forest
 +53
 14:00
 Arsenal - Crystal Palace
-1.40
-4.75
-8.50
+1.38
+4.85
+8.75
 +53
 14:00
 Aston Villa - Man. City
@@ -128,9 +128,9 @@ X
 2
 15:00
 Brest - PSG
-7.70
-5.40
-1.38
+8.50
+5.35
+1.35
 +57
 17:00
 Monaco - Toulouse
@@ -157,8 +157,8 @@ Lille - Metz
 16:15
 Auxerre - Le Havre
 2.15
-3.40
 3.50
+3.40
 +53
 16:15
 Angers - Lorient
@@ -242,15 +242,15 @@ X
 2
 13:00
 Parma - Como
-4.20
-3.40
+4.15
+3.35
 1.95
 +58
 13:00
 Udinese - Lecce
 1.95
-3.25
-4.30
+3.20
+4.45
 +58
 16:00
 Napoli - Inter
@@ -337,8 +337,8 @@ X
 13:00
 Mallorca - Levante
 2.10
-3.25
-3.80
+3.20
+3.75
 +53
 15:15
 Real M. - Barcelona
@@ -384,9 +384,9 @@ Fortuna S. - Groningen
 +53
 16:45
 Sparta R. - Telstar
-1.95
-4.05
-3.50
+1.90
+3.95
+3.70
 +53
 18:00
 Volendam - Heracles
@@ -450,9 +450,9 @@ CF Estrela - Rio Ave
 +53
 19:30
 Benfica - Arouca
-1.18
-7.40
-18.50
+1.20
+7.20
+15.00
 +53
 NED. 26.10.
 1
@@ -564,63 +564,63 @@ CA Batna - HB Chelghoum Laid
 +10
 14:00
 Js Bordj Menaiel - Ib Khemis El Khechna
-1.30
-4.70
-9.20
+1.27
+4.75
+11.20
 +10
 14:00
 MO Bejaia - JS Djidjel
 1.65
 3.45
-4.90
+5.00
 +10
 14:00
 NC Magra - CR Beni Thour
 1.40
-4.15
-7.70
+4.30
+7.10
 +10
 14:00
 Nrb Beni Oulbene - US Biskra
-2.40
-2.90
-2.90
+2.30
+2.85
+3.00
 +10
 14:00
 Nrb Teleghma - US Chaouia
-1.55
-3.95
-5.10
+1.85
+3.05
+4.30
 +10
 14:00
 USM Annaba - MSP Batna
-1.42
-4.10
-6.70
+1.45
+3.95
+6.60
 +10
 14:00
 Bechar Djedid - GC Mascara
-1.45
+1.48
 3.85
-7.30
+6.50
 +10
 14:00
 Zr Temouchent - Crb Adrar
-1.30
-4.75
-10.00
+1.48
+3.65
+7.30
 +10
 14:00
 ESM Kolea - Wa Mostaganem
-2.10
-3.00
-3.40
+1.85
+3.25
+4.00
 +10
 14:00
 Js El Biar - JS Tixeraine
-1.20
-5.55
-14.40
+1.18
+5.85
+15.60
 +10
 14:00
 JSM Tiaret - ASM Oran
@@ -630,15 +630,15 @@ JSM Tiaret - ASM Oran
 +10
 14:00
 NA Hussein Dey - USM EL Harrach
-1.75
-3.30
-4.30
+2.00
+3.00
+3.60
 +10
 14:00
 RC Arbaa - RC Kouba
-5.00
+4.60
 3.50
-1.65
+1.68
 +10
 14:00
 WA Tlemcen - MC Saida
@@ -656,9 +656,9 @@ X
 2
 15:00
 Inter Escaldes - Ordino
-1.06
-10.00
-25.00
+1.05
+11.00
+27.30
 +23
 Argentina 1
 KONAČAN ISHOD
@@ -684,9 +684,9 @@ X
 2
 08:35
 FC Sydney - Central Coast
-1.52
-4.35
-5.08
+1.50
+4.40
+5.40
 +53
 NED. 26.10.
 1
@@ -719,8 +719,8 @@ X
 15:00
 LASK - Grazer
 1.58
-4.10
-6.10
+4.15
+5.85
 +53
 15:00
 Altach - Hartberg
@@ -904,15 +904,15 @@ Westerlo - Dender
 +37
 16:15
 Mechelen - Oud Heverlee
-2.40
-3.50
-2.90
+2.50
+3.45
+2.80
 +37
 18:45
 Gent - Standard Liege
-1.95
-3.60
-3.80
+2.00
+3.55
+3.65
 +37
 NED. 26.10.
 1
@@ -995,7 +995,7 @@ X
 11:00
 Naftan Novopolotsk - Dinamo Minsk
 6.00
-4.65
+4.60
 1.40
 +41
 13:00
@@ -1075,8 +1075,8 @@ X
 14:00
 FK Rudar Prijedor - Željezničar
 3.60
-3.30
-1.85
+3.20
+1.90
 +40
 18:45
 Velež - Široki Brijeg
@@ -1373,8 +1373,8 @@ PFC Chernomorets Burgas - Hebar Pazardzhik
 13:00
 PFC Vihren Sandanski - FK Sevlievo
 1.42
-4.30
-6.40
+4.15
+6.90
 +39
 NED. 26.10.
 1
@@ -1403,14 +1403,14 @@ Dukla P.. - Slovacko
 13:00
 Hradec - Teplice
 1.85
-3.65
-4.25
+3.50
+4.60
 +37
 13:00
 Zlin - Pardubice
 2.15
-3.40
-3.50
+3.45
+3.35
 +37
 13:00
 Mlada Boleslav - Karvina
@@ -1451,8 +1451,8 @@ X
 12:30
 Mas Taborsko - Slavia P. B
 1.75
-3.85
-3.60
+3.75
+3.70
 +39
 12:30
 Pribram - Chrudim
@@ -1478,9 +1478,9 @@ Sparta P. B - Zizkov
 +39
 15:30
 Vlasim - Brno
+4.10
 3.70
-3.75
-1.72
+1.70
 +39
 Češka 3 CFL
 KONAČAN ISHOD
@@ -1490,41 +1490,17 @@ SUB. 25.10.
 1
 X
 2
-08:00
-Kolin - N. Byskovice
-2.15
-3.55
-2.80
-+35
-08:15
-Motorlet P. - SK Slavia Prague C
-2.20
-3.50
-2.85
-+35
-08:15
-FK Loko Prague - Kladno
-7.80
-5.20
-1.30
-+35
-08:15
-Jablonec B - Teplice B
-2.25
-3.55
-2.70
-+35
 08:30
 Velke Hamry - Pardubice B
 2.25
 3.50
-2.75
+2.70
 +35
 12:00
 FK Ceska Lipa - Velvary
-1.20
-6.70
-8.80
+1.23
+6.20
+8.40
 +35
 12:00
 Domazlice - Dukla P. B
@@ -1540,12 +1516,6 @@ SUB. 25.10.
 1
 X
 2
-08:15
-Trinec - Vitkovice
-1.20
-6.50
-10.00
-+33
 12:30
 Blansko - Sigma O. B
 7.20
@@ -1587,14 +1557,14 @@ X
 09:00
 (U19) FC Slovan Liberec - (U19) Plzen
 3.80
-4.40
-1.62
+4.75
+1.58
 +35
 09:00
 (U19) Brno - (U19) Mlada Boleslav
-1.85
-4.05
-3.20
+1.75
+4.00
+3.50
 +35
 09:00
 (U19) Zlin - (U19) FC Vysocina Jihlava
@@ -1630,9 +1600,9 @@ Dep. La Serena - Audax Italiano
 +40
 20:30
 Huachipato - Iquique
-1.90
-3.65
-3.20
+1.85
+3.50
+3.60
 +40
 NED. 26.10.
 1
@@ -1748,9 +1718,9 @@ Randers - Sonderjyske
 +37
 17:00
 FC Copenhagen - Viborg
-1.50
+1.48
 4.60
-6.40
+7.00
 +37
 PON. 27.10.
 1
@@ -1773,7 +1743,7 @@ X
 12:00
 Aalborg - Lyngby
 2.40
-3.60
+3.65
 2.60
 +37
 12:00
@@ -1854,7 +1824,7 @@ FA 2000 - Vanloese
 +36
 13:00
 Nykoebing - Naesby
-1.70
+1.68
 3.90
 4.00
 +36
@@ -2055,8 +2025,8 @@ Coventry - Watford
 11:30
 Ipswich - WBA
 1.80
-3.70
-4.50
+3.75
+4.45
 +53
 11:30
 Portsmouth - Stoke
@@ -2066,8 +2036,8 @@ Portsmouth - Stoke
 +53
 14:00
 Blackburn - Southampton
-3.00
-3.35
+3.05
+3.30
 2.35
 +53
 14:00
@@ -2078,9 +2048,9 @@ Bristol City - Birmingham
 +53
 14:00
 Derby - QPR
-2.70
-3.30
-2.65
+2.90
+3.25
+2.50
 +53
 14:00
 Hull - Charlton
@@ -2134,9 +2104,9 @@ Mansfield - Wigan
 +52
 14:00
 AFC Wimbledon - Burton
-2.00
+2.05
 3.10
-3.78
+3.67
 +52
 14:00
 Barnsley - Rotherham
@@ -2153,13 +2123,13 @@ Leyton Orient - Lincoln
 14:00
 Northampton - Luton
 3.89
-3.30
-1.90
+3.20
+1.95
 +52
 14:00
 Peterborough - Blackpool
 2.25
-3.25
+3.30
 2.92
 +52
 14:00
@@ -2170,9 +2140,9 @@ Reading - Doncaster
 +52
 14:00
 Stevenage - Bradford
-2.45
-3.20
-2.92
+2.50
+3.10
+2.70
 +52
 14:00
 Wycombe - Huddersfield
@@ -2588,9 +2558,9 @@ Horsham - Enfield
 +40
 14:00
 Dorking - Torquay
-2.25
+2.15
 3.40
-2.80
+2.90
 +40
 14:00
 Ebbsfleet - Salisbury
@@ -2601,8 +2571,8 @@ Ebbsfleet - Salisbury
 14:00
 Worthing - Dover
 1.48
-4.50
-5.20
+4.70
+5.00
 +40
 14:00
 Chippenham - Dag & Red
@@ -2625,8 +2595,8 @@ Tonbridge - Weston Super Mare
 14:00
 Slough - Maidstone
 3.40
-3.65
-1.90
+3.75
+1.85
 +40
 Engleska 6 Sever
 KONAČAN ISHOD
@@ -2645,8 +2615,8 @@ Chester - Bedford Town Football Club
 14:00
 Chorley - Merthyr
 1.40
-4.85
-5.90
+4.90
+6.00
 +40
 14:00
 Macclesfield FC - South Shields
@@ -2669,20 +2639,20 @@ Oxford City - Leamington
 14:00
 Scarborough - Marine
 1.85
-3.65
-3.50
+3.75
+3.40
 +40
 14:00
 Buxton - Alfreton
-1.68
-3.85
-4.00
+1.65
+3.95
+4.10
 +40
 14:00
 Kidderminster - Spennymoor
 2.10
-3.40
-2.95
+3.35
+3.00
 +40
 14:00
 Curzon Ashton - Peterborough Sports
@@ -2730,9 +2700,9 @@ Hungerford - Weymouth
 +39
 14:00
 Sholing FC - Gosport Borough
-2.30
-3.35
-2.80
+2.70
+3.10
+2.45
 +39
 14:00
 Tiverton - Yate
@@ -2808,9 +2778,9 @@ Kettering Town - Needham Market
 +39
 14:00
 Stamford - Barwell
-2.15
-3.30
-2.95
+2.30
+3.45
+2.70
 +39
 Engleska U21
 KONAČAN ISHOD
@@ -2860,9 +2830,9 @@ X
 2
 11:30
 Kuressaare - Nomme Kalju
-5.70
-4.70
-1.42
+5.80
+4.85
+1.40
 +40
 11:30
 Harju JK Laagri - Narva Trans
@@ -3004,9 +2974,9 @@ Amiens - Rodez
 +52
 12:00
 Montpellier - Nancy
-2.05
-3.30
+2.10
 3.35
+3.24
 +52
 18:00
 Annecy - Saint Etienne
@@ -3024,9 +2994,9 @@ X
 2
 14:00
 AE Kifisia FC - Panaitolikos
-2.10
+2.05
+3.25
 3.20
-3.10
 +41
 16:30
 Panseraikos - AE Larissa
@@ -3037,7 +3007,7 @@ Panseraikos - AE Larissa
 17:00
 OFI Crete - Atromitos
 2.15
-3.25
+3.15
 3.00
 +41
 NED. 26.10.
@@ -3079,26 +3049,26 @@ X
 10:00
 Hellas Syrou - Egaleo
 2.10
-3.05
-3.50
+3.00
+3.40
 +36
 11:00
 Asteras Tripolis B - PAS Giannina
 1.90
-3.25
+3.30
 3.60
 +36
 11:00
 P.O.T Iraklis - Niki Volou
-2.10
-3.05
-3.30
+2.00
+3.15
+3.60
 +36
 12:00
 Kavala - Anagennisi Karditsas 1904
-5.80
-3.45
-1.55
+5.70
+3.40
+1.62
 +36
 12:00
 GS Ilioupoli - Chania
@@ -3139,7 +3109,7 @@ X
 01:00
 Antigua - Aurora
 1.40
-4.45
+4.55
 6.50
 +39
 03:00
@@ -3262,9 +3232,9 @@ Marathon - Motagua
 +39
 23:15
 CD Choloma - Juticalpa FC
-3.20
-3.75
-1.90
+3.00
+3.60
+2.00
 +39
 NED. 26.10.
 1
@@ -3358,8 +3328,8 @@ X
 2
 08:30
 Persik Kediri - PSM Makassar
-2.25
-3.05
+2.15
+3.20
 3.00
 +39
 12:00
@@ -3410,9 +3380,9 @@ X
 2
 15:00
 AL Karma - AL Kahraba
-1.72
-3.25
-4.90
+1.68
+3.45
+4.70
 +10
 17:30
 Al Quwa Al Jawiya - Al-Gharraf SC
@@ -3470,9 +3440,9 @@ X
 2
 12:00
 Vestmannaeyjar - Akureyri
-2.35
-3.75
-2.60
+2.40
+3.80
+2.50
 +37
 14:00
 Hafnarfjordur - Fram
@@ -3495,8 +3465,8 @@ Vestri - KR Reykjavik
 16:15
 Vikingur - Valur
 1.65
-4.35
-3.60
+4.15
+3.90
 +37
 NED. 26.10.
 1
@@ -3530,21 +3500,21 @@ Sudtirol - Cesena
 +52
 13:00
 Sampdoria - Frosinone
-2.30
+2.25
 3.15
-2.80
+2.90
 +52
 13:00
 Avellino - Spezia
 2.80
-2.95
-2.60
+3.00
+2.45
 +52
 13:00
 Entella - Pescara
 1.75
-3.45
-4.10
+3.40
+4.20
 +52
 15:15
 Carrarese - Venezia
@@ -3796,8 +3766,8 @@ X
 2
 09:00
 US Cremonese U20 - Inter Milano U20
-4.70
-3.85
+4.60
+3.95
 1.60
 +36
 11:00
@@ -3814,9 +3784,9 @@ AS Roma U20 - Torino FC U20
 +36
 13:00
 SSC Napoli U20 - AC Monza U20
-2.60
-3.60
-2.40
+2.45
+3.55
+2.55
 +36
 NED. 26.10.
 1
@@ -3844,9 +3814,9 @@ X
 2
 09:00
 (U19) Como 1907 - (U19) AC Renate
-1.12
-7.90
-16.50
+1.13
+7.70
+14.80
 +36
 09:00
 (U19) Pisa - (U19) Salernitana
@@ -3918,8 +3888,8 @@ X
 2
 16:15
 Hap. Haifa - Beitar Jerusalem
-3.60
-3.70
+3.50
+3.80
 1.78
 +41
 16:15
@@ -3990,16 +3960,6 @@ Japan 2
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 25.10.
-1
-X
-2
-08:00
-V-Varen - Imabari
-1.68
-4.00
-3.90
-+41
 NED. 26.10.
 1
 X
@@ -4174,9 +4134,9 @@ X
 2
 08:45
 Kirivong Soksen Chey - Tiffy Army
-5.10
-4.65
-1.48
+5.60
+4.60
+1.45
 +35
 Kanada 1
 KONAČAN ISHOD
@@ -4202,8 +4162,8 @@ X
 2
 14:30
 Al Ahli - Al Gharafa
-2.90
-3.80
+2.80
+3.90
 2.00
 +41
 14:30
@@ -4263,8 +4223,8 @@ Okzhetpes - FK Turan
 10:00
 Zhenis - Kaisar Kyzylorda
 1.68
-3.65
-4.30
+3.60
+4.50
 +41
 10:00
 Ulytau FC - Tobol
@@ -4294,9 +4254,9 @@ X
 2
 11:00
 Kakamega Homeboyz - Ulinzi Stars
-1.85
-2.90
-4.60
+1.90
+2.80
+4.40
 +10
 Kina 1
 KONAČAN ISHOD
@@ -4356,15 +4316,15 @@ Foshan Nanshi FC - Shanghai Jiading Huilong
 +39
 11:30
 Heilongjiang LS - Dalian Kuncheng City
-2.50
+2.75
 3.30
-2.60
+2.45
 +39
 11:30
 Qingdao Red Lions - Nanjing Fengfan
 3.60
-3.55
-1.85
+3.65
+1.80
 +39
 Kipar 1
 KONAČAN ISHOD
@@ -4454,9 +4414,9 @@ X
 2
 20:00
 Tolima - Dep.Cali
-1.85
-3.35
-3.80
+1.90
+3.40
+3.60
 +41
 21:10
 Bucaramanga - Llaneros
@@ -4496,9 +4456,9 @@ X
 2
 20:00
 Bogota - Leones
-1.80
-3.45
-3.70
+1.85
+3.50
+4.15
 +41
 21:00
 Barranquilla - Tigres
@@ -4610,9 +4570,9 @@ X
 2
 10:00
 JDFS Alberts - FK Tukums 2000/Tss II
-1.15
-7.70
-12.80
+1.16
+7.40
+12.40
 +36
 12:00
 Skanstes Sk - Jfk Ventspils
@@ -4623,8 +4583,8 @@ Skanstes Sk - Jfk Ventspils
 13:00
 FK Rfs II - Augsdaugavas
 1.18
-6.60
-11.60
+6.80
+13.20
 +36
 14:00
 Marupes Sc - AFA Olaine
@@ -4736,21 +4696,21 @@ X
 2
 11:00
 Babrungas Plunge - Hegelmann Litauen B
-1.30
-5.40
-7.30
+1.27
+5.65
+8.40
 +36
 11:00
 FK Tauras Taurage - BFA Vilnius
-1.27
-5.55
-8.10
+1.25
+5.80
+9.20
 +36
 11:00
 FK Transinvest - FA Siauliai B
 1.06
-11.00
-24.60
+11.50
+25.80
 +36
 Luksemburg 1
 KONAČAN ISHOD
@@ -4782,8 +4742,8 @@ Kuching - Penang
 +40
 13:00
 Negeri Sembilan - PDRM
-1.72
-3.90
+1.70
+4.00
 3.70
 +40
 Mađarska 1
@@ -4844,7 +4804,7 @@ X
 2
 15:00
 Fehervar - Szeged-Grosics A.
-2.50
+2.55
 3.20
 2.60
 +39
@@ -4866,15 +4826,15 @@ Szentlorinc SE - Bekescsaba
 +2
 16:00
 Csakvar - Tiszakecske
-2.15
-3.30
-2.95
+2.60
+3.55
+2.45
 +39
 16:00
 Honved - Mezokovesd SE
-2.10
-3.50
-3.05
+2.05
+3.25
+3.20
 +39
 16:00
 Ajka - Kozarmisleny SE
@@ -4884,9 +4844,9 @@ Ajka - Kozarmisleny SE
 +39
 16:00
 Kecskemeti TE - Karcag SE
-1.72
-3.75
-3.90
+1.85
+3.35
+3.60
 +39
 Malta 1
 KONAČAN ISHOD
@@ -4966,9 +4926,9 @@ Ittihad Tanger - Maghreb Fez
 +37
 17:00
 Raja Casablanca - Olympique Dcheira
-1.35
-4.45
-8.40
+1.32
+4.60
+8.80
 +37
 Maroko 2
 KONAČAN ISHOD
@@ -5004,11 +4964,11 @@ X
 2
 01:00
 Leon - Pumas
-2.65
-3.25
-2.55
+2.70
+3.35
+2.40
 +37
-01:05
+01:07
 Chivas - Atlas
 1.52
 4.15
@@ -5058,9 +5018,9 @@ Cancun - Correcaminos
 +39
 01:00
 Zacatecas Mineros - Atlante
-2.60
-3.10
-2.60
+2.65
+3.20
+2.55
 +39
 03:00
 Dorados Sinaloa - Tlaxcala
@@ -5104,9 +5064,9 @@ X
 2
 11:00
 CSF Spartanii Selemet - Fc Balti
-8.80
-6.30
-1.23
+13.20
+7.00
+1.15
 +36
 14:00
 Dacia Buiucani - Zimbru Chisinau
@@ -5178,9 +5138,9 @@ X
 2
 12:00
 Energie Cottbus - Havelse
-1.32
-5.45
-6.50
+1.35
+5.25
+6.40
 +41
 12:00
 Ingolstadt - Saarbrucken
@@ -5190,9 +5150,9 @@ Ingolstadt - Saarbrucken
 +41
 12:00
 Regensburg - Stuttgart II
-2.40
-3.60
-2.60
+2.35
+3.45
+2.70
 +41
 12:00
 Verl - Ulm
@@ -5219,8 +5179,8 @@ X
 12:30
 Hoffenheim II - Aue
 1.85
-3.90
-3.20
+3.95
+3.30
 +41
 15:30
 Viktoria Koln - Hansa
@@ -5230,9 +5190,9 @@ Viktoria Koln - Hansa
 +41
 18:30
 Duisburg - Essen
-2.20
-3.35
-2.80
+1.95
+3.65
+3.10
 +41
 Nemačka 4 Bavarija
 KONAČAN ISHOD
@@ -5262,9 +5222,9 @@ Greuther Furth II - Ansbach
 +40
 12:00
 Schwaben Augsburg - Vilzing
-3.40
-3.60
-1.90
+3.10
+3.70
+1.95
 +40
 12:00
 Hankofen Hailing - Aubstadt
@@ -5275,8 +5235,8 @@ Hankofen Hailing - Aubstadt
 12:00
 Aschaffenburg - Eichstatt
 3.00
-3.40
-2.10
+3.50
+2.05
 +40
 Nemačka 4 Jug / Zapad
 KONAČAN ISHOD
@@ -5300,15 +5260,15 @@ Freiburg II - Walldorf
 +40
 12:00
 Grossaspach - Bahlinger
-1.42
-4.85
-5.40
+1.38
+5.00
+6.20
 +40
 12:00
 Stuttgarter Kickers - TSV Schott Mainz
 1.40
-5.05
-5.70
+4.95
+6.10
 +40
 12:00
 Balingen - Hessen Kassel
@@ -5318,9 +5278,9 @@ Balingen - Hessen Kassel
 +40
 12:00
 Steinbach - FSV Frankfurt
-1.80
-3.85
-3.50
+1.78
+3.90
+3.60
 +40
 NED. 26.10.
 1
@@ -5354,9 +5314,9 @@ X
 2
 11:00
 Hannover II - Hannoverscher
-1.27
+1.25
 6.10
-6.70
+7.90
 +40
 12:00
 Norderstedt - Weiche 08
@@ -5366,15 +5326,15 @@ Norderstedt - Weiche 08
 +40
 12:00
 FSV Schoningen 2011 - Blau-Weiss Lohne
-2.60
-4.00
-2.25
+2.65
+4.05
+2.20
 +40
 14:00
 Jeddeloh II - Werder B. II
-1.80
-4.30
-3.20
+1.78
+4.05
+3.40
 +40
 NED. 26.10.
 1
@@ -5396,8 +5356,8 @@ X
 2
 12:00
 Chemie Leipzig - Hertha II
-2.20
-3.50
+2.25
+3.40
 2.80
 +40
 12:00
@@ -5408,9 +5368,9 @@ Chemnitzer - Hertha Zehlendorf
 +40
 12:00
 Greifswalder - Jena
-3.50
+3.60
 3.55
-1.90
+1.85
 +40
 NED. 26.10.
 1
@@ -5445,20 +5405,20 @@ X
 12:00
 Bocholt - VfL Bochum II
 1.55
-4.35
-4.40
+4.30
+4.50
 +40
 12:00
 Bonner - Wiedenbruck
-2.15
-3.35
-2.90
+2.10
+3.40
+2.95
 +40
 12:00
 B.Monchengladbach II - Wuppertaler
-1.95
-3.70
-3.10
+2.00
+3.50
+3.00
 +40
 12:00
 Fortuna Koln - Koln II
@@ -5468,9 +5428,9 @@ Fortuna Koln - Koln II
 +40
 12:00
 Fortuna D. II - Paderborn II
-2.45
+2.65
 3.70
-2.45
+2.30
 +40
 12:00
 Oberhausen - Lotte
@@ -5480,15 +5440,15 @@ Oberhausen - Lotte
 +40
 12:00
 Velbert - Schalke II
-4.70
-4.15
-1.55
+5.60
+4.60
+1.45
 +40
 14:30
 Rodinghausen - B.Dortmund II
-2.55
+2.80
 3.75
-2.35
+2.15
 +40
 NED. 26.10.
 1
@@ -5510,9 +5470,9 @@ X
 2
 13:00
 Orlando Pirates - FC Saint Eloi Lupopo
-1.15
-7.00
-14.80
+1.20
+6.20
+10.80
 +41
 14:00
 Young Africans - Silver Strikers
@@ -5534,9 +5494,9 @@ JS Kabylie - Monastir
 +41
 19:00
 FAR Rabat - Horoya
-1.30
-4.55
-11.60
+1.32
+4.35
+10.00
 +41
 Nigerija 1
 KONAČAN ISHOD
@@ -5669,7 +5629,7 @@ Bodo Glimt - Molde
 16:00
 Haugesund - Tromso
 7.80
-5.20
+5.35
 1.30
 +53
 16:00
@@ -5736,9 +5696,9 @@ Mjondalen - Odds
 +41
 14:00
 Moss - Aalesund
-3.80
-3.95
-1.70
+4.00
+4.05
+1.65
 +41
 14:00
 Sogndal - Egersunds
@@ -5756,26 +5716,26 @@ X
 2
 11:00
 Arendal - Jerv
-2.25
-4.05
+2.20
+3.95
 2.60
 +36
 11:00
 FK Eik-Toensberg - Sandnes
-4.60
-4.55
-1.52
+4.30
+4.45
+1.55
 +36
 11:00
 IL Sandviken - Brattvag
-4.80
-4.70
-1.48
+5.90
+5.60
+1.35
 +36
 11:00
 Pors Grenland - Notodden
 2.45
-3.55
+3.60
 2.55
 +36
 11:00
@@ -5786,15 +5746,15 @@ SK Brann 2 - SK Traeff
 +36
 11:00
 Sotra SK - Lysekloster
-1.55
-4.25
-4.70
+1.48
+4.50
+5.30
 +36
 11:00
 Vard Haugesund - Flekkeroy
-1.50
-4.45
-4.90
+1.42
+4.85
+5.40
 +36
 Norveška 3/2
 KONAČAN ISHOD
@@ -5812,15 +5772,15 @@ Eidsvold - Ullensaker Kisa
 +36
 11:00
 Follo - Strommen
-5.60
-5.15
-1.40
+6.00
+5.35
+1.35
 +36
 11:00
 Hoenefoss BK - Asker
-1.25
+1.23
 6.60
-7.10
+7.90
 +36
 11:00
 Kjelsas - Alta
@@ -5837,7 +5797,7 @@ Levanger - Strindheim TF
 11:00
 Rana Fk - Stjordals Blink
 2.80
-4.10
+3.90
 2.10
 +36
 11:00
@@ -6019,14 +5979,14 @@ Ayacucho - Deportivo Garcilaso
 20:15
 Alianza Atletico - Cienciano
 2.10
-3.20
-3.10
+3.30
+3.00
 +37
 23:00
 Cusco - Grau
-1.52
-3.85
-5.60
+1.50
+3.95
+5.90
 +37
 NED. 26.10.
 1
@@ -6137,8 +6097,8 @@ Polonia Warszawa - Polonia Bytom
 17:30
 Slask W. - Leczna
 1.55
-4.15
-4.80
+4.20
+4.60
 +39
 NED. 26.10.
 1
@@ -6188,8 +6148,8 @@ Hutnik Krakow - Zaglebie Sosnowiec
 +39
 12:00
 Jastrzebie - Podbeskidzie
-4.40
-3.75
+4.10
+3.90
 1.65
 +39
 12:30
@@ -6200,9 +6160,9 @@ Rekord Bielsko Biala - O.Grudziadz
 +39
 15:00
 Chojniczanka - Podhale
-2.35
+2.40
 3.25
-2.80
+2.70
 +39
 NED. 26.10.
 1
@@ -6236,15 +6196,15 @@ X
 2
 10:00
 Sporting Lisbon B - Lusitania
-2.15
-3.30
+2.20
+3.20
 2.90
 +41
 10:00
 Leiria - Leixoes
 2.05
-3.30
 3.20
+3.30
 +41
 13:00
 Ferreira - Portimonense
@@ -6284,9 +6244,9 @@ X
 2
 14:30
 SC Sao Joao de Ver - Braga B
-2.65
+2.75
 3.20
-2.55
+2.50
 +36
 17:30
 AD Marco 09 - Trofense
@@ -6370,8 +6330,8 @@ X
 2
 10:00
 (U23) Estoril - (U23) Benfica
-7.00
-4.90
+6.60
+5.00
 1.35
 +36
 15:00
@@ -6586,54 +6546,6 @@ SUB. 25.10.
 1
 X
 2
-08:00
-Sepsi - CS Gloria 2018 Bistrita-Nasaud
-1.30
-5.15
-8.00
-+36
-08:00
-CS Dinamo Bucuresti - CS Tunari
-2.10
-3.40
-3.00
-+36
-08:00
-CS Corvinul 1921 Hunedoara - ACS Fotbal Club Bacau 2023
-1.16
-6.70
-14.40
-+36
-08:00
-Csm Satu Mare - Csa Steaua Bucuresti
-6.10
-4.30
-1.45
-+36
-08:00
-CSC 1599 Selimbar - Ceahlaul Piatra Neamt
-1.80
-3.50
-3.60
-+36
-08:00
-CSM Resita - CSM Politehnica Iasi
-1.68
-3.65
-4.30
-+36
-08:00
-Concordia - AFC Metalul Buzau
-2.45
-3.20
-2.70
-+36
-08:00
-Asa Targu Mures - CSM Slatina
-2.15
-3.30
-2.95
-+36
 10:30
 Chindia - Voluntari
 2.15
@@ -6778,15 +6690,15 @@ X
 2
 14:40
 Al Qadisiya - AL Akhdood
-1.27
-5.55
-8.10
+1.30
+5.40
+7.70
 +39
 14:55
 Al Shabab - Damac
 1.58
-4.00
-4.90
+4.10
+4.50
 +39
 18:00
 Al Hazem - Al Nassr
@@ -6886,9 +6798,9 @@ X
 2
 12:30
 Struga Trim&Lum - Akademija Pandev Brera Strumica
-1.20
-6.00
-12.40
+1.23
+5.60
+10.80
 +39
 12:30
 Rabotnički - Makedonija GP
@@ -6975,7 +6887,7 @@ Loudoun - North Carolina
 21:00
 Charleston - Birmingham Legion
 1.35
-4.95
+5.00
 6.50
 +39
 23:00
@@ -6986,14 +6898,14 @@ Pittsburgh - Phoenix
 +39
 23:30
 Louisville City - Hartford
-1.58
-4.15
-4.40
+1.65
+4.00
+4.00
 +39
 23:30
 Tampa Bay - Detroit City FC
-2.30
-3.15
+2.35
+3.20
 2.80
 +39
 NED. 26.10.
@@ -7002,8 +6914,8 @@ X
 2
 00:00
 Tulsa - Colorado
-2.05
-3.30
+2.10
+3.40
 3.20
 +39
 00:30
@@ -7014,9 +6926,9 @@ San Antonio - El Paso Locomotive
 +39
 02:00
 Monterey Bay Fc - Las Vegas
-1.75
+1.80
+3.65
 3.60
-3.80
 +39
 02:00
 Oakland Roots Sc - Lexington SC
@@ -7076,8 +6988,8 @@ One Knoxville SC - Greenville Triumph
 +39
 23:00
 South Georgia Tormenta - Texoma FC
-1.40
-4.75
+1.42
+4.60
 6.10
 +39
 23:00
@@ -7190,9 +7102,9 @@ Queens Park - Ayr United
 +41
 14:00
 Raith - Partick
+2.65
+3.10
 2.60
-3.19
-2.70
 +41
 14:00
 Ross County - Dunfermline
@@ -7286,9 +7198,9 @@ Z.Michalovce - Dun.Streda
 +52
 13:30
 Zilina - Skalica
-1.60
+1.58
 4.10
-4.40
+4.50
 +52
 16:00
 Kosice - Podbrezova
@@ -7309,8 +7221,8 @@ Ruzomberok - Trnava
 17:00
 Slovan B. - 1. FC Tatran Presov
 1.27
-5.80
-8.00
+5.70
+7.90
 +52
 Slovačka 2
 KONAČAN ISHOD
@@ -7340,9 +7252,9 @@ MFK Goral Stara Lubovna - Slovan B. B
 +39
 11:30
 Puchov - L. Mikulas
-2.70
+2.80
 3.60
-2.20
+2.10
 +39
 11:30
 OFK Banik Lehota Pod Vtacnikom - Dukla B.B.
@@ -7392,9 +7304,9 @@ X
 2
 16:30
 Olimpija - Domzale
-1.30
-5.25
-7.90
+1.32
+5.20
+7.10
 +41
 19:15
 Mura - Celje
@@ -7412,9 +7324,9 @@ X
 2
 13:00
 NK Ilirija - Nd Dravinja
-2.25
-3.40
-2.80
+2.35
+3.35
+2.70
 +39
 13:00
 Bistrica - Beltinci
@@ -7440,9 +7352,9 @@ X
 2
 13:00
 Krsko - Rudar
-3.05
-4.05
-1.95
+2.85
+4.00
+2.05
 +39
 16:00
 Nafta - Bilje
@@ -7473,8 +7385,8 @@ Albacete - Cordoba
 14:15
 Eibar - Leganes
 2.15
-3.05
-3.20
+2.95
+3.30
 +53
 16:30
 Burgos - Sociedad B
@@ -7533,7 +7445,7 @@ X
 12:00
 Algeciras - Alcorcon
 2.35
-2.95
+3.00
 2.90
 +37
 14:15
@@ -7562,9 +7474,9 @@ Tarazona - Betis B
 +37
 16:30
 Talavera - Osasuna B
-2.05
+2.00
 3.15
-3.30
+3.75
 +37
 16:30
 Atl.Sanluqueno - Juventud Torremolinos CF
@@ -7574,9 +7486,9 @@ Atl.Sanluqueno - Juventud Torremolinos CF
 +37
 16:30
 Sabadell - Gimnastic
-2.10
-3.00
-3.50
+2.05
+2.95
+3.60
 +37
 19:00
 Real M. Castilla - Real Aviles CF
@@ -7706,8 +7618,8 @@ Real Avila - Samano
 +12
 16:00
 Langreo - Atl. Astorga
-1.90
-3.10
+1.85
+3.25
 3.90
 +12
 16:00
@@ -7762,13 +7674,13 @@ UD Logrones - Tudelano
 Jaen - Almeria B
 1.55
 3.65
-6.00
+5.80
 +13
 19:00
 CF Rayo Majadahonda - Elche B Ilicitano
-1.80
-3.30
-4.10
+1.75
+3.25
+4.50
 +12
 NED. 26.10.
 1
@@ -7818,8 +7730,8 @@ Salamanca - Gim.Segoviana
 +12
 11:00
 Alcoyano - Reus FC Reddis
-1.95
-3.30
+2.00
+3.25
 3.50
 +12
 11:00
@@ -7854,9 +7766,9 @@ Olot - Girona FC B
 +13
 11:00
 Valencia Mestalla - UE Porreres
-1.85
-3.40
-3.70
+1.78
+3.45
+4.00
 +12
 11:00
 Fuenlabrada - Socuellamos
@@ -7928,9 +7840,9 @@ X
 2
 12:00
 FK Dinamo Jug - Voždovac
-3.00
+3.10
 3.05
-2.25
+2.20
 +36
 12:00
 FK Fap - Zemun
@@ -8033,7 +7945,7 @@ Young Boys II - FC Lausanne Sports U21
 13:00
 FC Paradiso - FC Kreuzlingen
 1.72
-4.10
+4.15
 3.60
 +39
 13:30
@@ -8063,8 +7975,8 @@ Bruhl StGallen - FC Grand-Saconnex
 17:30
 FC Bulle - Kriens
 4.60
-4.55
-1.52
+4.75
+1.50
 +39
 Švedska 1
 KONAČAN ISHOD
@@ -8082,9 +7994,9 @@ Djurgardens - Varnamo
 +53
 15:30
 Osters - Degerfors
+2.65
+3.45
 2.60
-3.40
-2.70
 +53
 NED. 26.10.
 1
@@ -8146,9 +8058,9 @@ Umea - Varbergs
 +41
 13:00
 Sundsvall - Kalmar
-5.90
-4.25
-1.48
+6.00
+4.05
+1.50
 +41
 13:00
 Brage - Helsingborgs
@@ -8314,9 +8226,9 @@ Ayutthaya - Chonburi
 +41
 11:30
 Chiangrai U. - DP Kanchanaburi FC
-2.25
-3.10
-2.90
+2.15
+3.30
+2.95
 +41
 12:00
 Prachuap - Nakhon Ratchasima
@@ -8381,7 +8293,7 @@ Chiangmai U. - Nakhon SI United
 12:30
 Trat - Nakhon Pathom
 2.25
-3.20
+3.25
 2.80
 +36
 NED. 26.10.
@@ -8430,9 +8342,9 @@ Metlaoui - Gabes
 +37
 13:30
 Kairouan - Africain
-7.80
-3.75
-1.45
+7.20
+3.70
+1.48
 +37
 NED. 26.10.
 1
@@ -8460,15 +8372,15 @@ X
 2
 13:30
 Hammam Sousse - Bs Bouhajla
-2.35
-2.95
-2.90
+2.10
+3.00
+3.40
 +10
 13:30
 OC Kerkennah - AS Agareb
-2.10
-3.15
-3.20
+1.80
+3.30
+4.10
 +10
 13:30
 Tataouine - AS Megrine
@@ -8486,8 +8398,8 @@ X
 2
 14:00
 Kocaeli - Alanya
-2.40
-3.40
+2.45
+3.35
 2.90
 +53
 17:00
@@ -8556,9 +8468,9 @@ Sariyer - Manisa Kulubu
 +41
 10:30
 Adana Demir - Van
-42.50
-13.50
-1.03
+40.50
+13.00
+1.04
 +3
 13:00
 Pendik - Serik
@@ -8578,15 +8490,15 @@ X
 2
 10:30
 Bandirma - Esenler Erok
-2.20
+2.00
 3.50
-2.80
+3.00
 +41
 13:00
 Amed Faaliyetler - Istanbul
-1.52
-4.25
-5.10
+1.55
+4.15
+4.80
 +41
 13:00
 Yeni Corum - Bolu
@@ -8616,15 +8528,15 @@ Yeni Malatya - Hekimoglu Trabzon
 +22
 11:30
 Adana 1954 FK - Mugla
-2.45
+2.75
 3.10
-2.70
+2.55
 +22
 12:00
 Altinordu - Karacabey
-3.10
-3.25
-2.10
+3.50
+3.20
+2.00
 +22
 12:00
 Inegol - Antalya Kepezspor
@@ -8646,15 +8558,15 @@ Fethiye - Kirklareli
 +22
 16:00
 Ankaragucu - Sanliurfa
-2.50
+2.55
 3.35
-2.60
+2.55
 +22
 16:00
 Bursa - Mus 1984 Musspor
-1.35
-4.65
-7.30
+1.42
+4.45
+5.90
 +22
 Turska 4 G4
 KONAČAN ISHOD
@@ -8698,9 +8610,9 @@ Etimesgut - Galata SK
 +22
 12:00
 Bulvarspor - Edirnespor
-1.55
-4.20
-4.70
+1.48
+4.30
+5.50
 +22
 12:00
 Bursa Nilufer FK - Bursa Yildirim Spor
@@ -8719,8 +8631,8 @@ X
 10:00
 12 Bingol Spor - Mazidagi Fosfat Spor
 1.15
-6.80
-17.70
+6.50
+16.00
 +22
 11:30
 Kirikkale Buyuk Anadoluspor - Erciyes 38 FK
@@ -8744,9 +8656,9 @@ X
 2
 10:00
 Fatsa - Giresun
-1.50
-3.95
-6.00
+1.48
+4.05
+6.10
 +22
 11:00
 Artvin Hopa - Yeni Ordu
@@ -8778,13 +8690,13 @@ Al Bataeh (UAE) - Shabab Al Ahli
 Khorfakkan - Ittihad Kalba
 2.80
 3.35
-2.25
+2.20
 +36
 16:00
 Al Nasr Dubai - Bani Yas
-1.65
-3.80
-4.30
+1.68
+3.65
+4.20
 +36
 NED. 26.10.
 1
@@ -8824,9 +8736,9 @@ Karpaty - FC Rukh Lviv
 +40
 15:00
 Obolon Kiev - FC Polissya Zhytomyr
-5.40
-3.60
-1.60
+5.10
+3.50
+1.62
 +40
 NED. 26.10.
 1
@@ -8967,8 +8879,8 @@ PFC Shurtan - FK Neftchi Fargona
 14:00
 Kokand - Navbahor Namangan
 2.70
-3.25
-2.40
+3.05
+2.50
 +39
 Vels 1
 KONAČAN ISHOD
@@ -8986,14 +8898,14 @@ Connahs Q. - Haverfordwest
 +41
 13:30
 Briton Ferry - Colwyn Bay
-4.00
-3.78
-1.80
+3.50
+3.80
+1.78
 +41
 13:30
 Bala - Barry
 3.20
-3.60
+3.50
 1.95
 +41
 13:30
@@ -9045,7 +8957,7 @@ X
 13:30
 Brickfield Rangers - Gresford Athletic
 2.15
-4.05
+4.10
 2.60
 +36
 13:30
@@ -9138,9 +9050,9 @@ Binh Duong - Ha Noi
 +41
 11:00
 Pho Hien - Phu Dong FC
-4.00
-3.55
-1.75
+5.00
+3.75
+1.58
 +41
 Vijetnam 2
 KONAČAN ISHOD
@@ -9178,9 +9090,9 @@ Nkana - Mufulira
 +36
 13:00
 Nkwazi - Red Arrows
-3.30
+3.50
 2.65
-2.35
+2.30
 +36
 Australian Championship
 KONAČAN ISHOD
@@ -9266,9 +9178,9 @@ Lauterach - Schwaz
 +39
 15:30
 Pinzgau Saalfelden - SCR Altach
-2.55
-3.75
 2.35
+3.75
+2.55
 +39
 Bolivija Liga Kup
 KONAČAN ISHOD
@@ -9296,9 +9208,9 @@ X
 2
 00:00
 Aurora - Always Ready
-3.00
-3.75
-2.00
+2.80
+3.85
+2.05
 +36
 Carioca, Serie B1
 KONAČAN ISHOD
@@ -9354,9 +9266,9 @@ CD Concon National FC - Brujas de Salamanca
 +36
 20:00
 CD Trasandino de Los Andes - Deportes Linares
-2.80
-3.25
-2.40
+2.70
+3.40
+2.30
 +36
 20:00
 Santiago City FC - Puerto Montt
@@ -9397,12 +9309,6 @@ Persela Lamongan - PSS Sleman
 3.10
 3.20
 2.10
-+36
-08:30
-Persipal FC - Kendal Tornado FC
-4.70
-3.55
-1.65
 +36
 12:00
 PSMS Medan - Persiraja Banda
@@ -9472,8 +9378,8 @@ Altyn Asyr - FC Abdysh-Ata Kant
 +36
 10:00
 Safa SC - Al-Arabi (KW)
-4.80
-3.60
+5.00
+3.65
 1.62
 +36
 12:00
@@ -9491,7 +9397,7 @@ Al Seeb - Bashundhara Kings
 14:00
 Tadaz - Muras United FC
 3.70
-2.95
+3.00
 2.00
 +36
 16:00

@@ -1,26 +1,20 @@
 ======================================================================
-07:00
-Ehime  vs  Iwata   (ID: 832)
-1=4.25   X=3.55   2=1.81
-0-2=2.03   2+=1.22   3+=1.72
+08:30
+Deltras Sidoarjo  vs  PSIS Semarang   (ID: 646)
+1=1.19   X=5.8   2=12
+0-2=2.45   2+=1.13   3+=1.49
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-07:30
-Shandong Taishan  vs  Shanghai Port   (ID: 848)
-1=2.65   X=4.05   2=2.15
-0-2=3.8   2+=1.04   3+=1.23
+08:30
+Garudayaksa  vs  Persikad Depok   (ID: 631)
+1=1.3   X=4.65   2=9.75
+0-2=2   2+=1.22   3+=1.74
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-07:30
-Seoul E-Land  vs  Asan   (ID: 827)
-1=2.03   X=3.2   2=3.55
-0-2=1.72   2+=1.31   3+=2.02
-GG=-   IGG=-   GG&3+=-
-======================================================================
-07:30
-Daejeon  vs  Pohang   (ID: 833)
-1=2.3   X=3.2   2=2.9
-0-2=1.95   2+=1.23   3+=1.77
+08:30
+Sriwijaya  vs  Bekasi City   (ID: 654)
+1=3.75   X=3.2   2=1.97
+0-2=1.65   2+=1.34   3+=2.1
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 08:30
@@ -72,6 +66,12 @@ Isloch  vs  Dynamo Brest   (ID: 829)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 10:00
+Kitchee  vs  North District   (ID: 655)
+1=1.49   X=4.15   2=5
+0-2=2.5   2+=1.1   3+=1.43
+GG=-   IGG=-   GG&3+=-
+======================================================================
+10:00
 Aktobe  vs  Ordabasy   (ID: 823)
 1=1.5   X=3.65   2=5.8
 0-2=1.82   2+=1.26   3+=1.87
@@ -102,9 +102,9 @@ Yelimay Semey  vs  Atyrau   (ID: 823)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 10:00
-Zhenis  vs  Kaisar Kyzylorda   (ID: 825)
-1=1.89   X=3.2   2=3.75
-0-2=1.65   2+=1.34   3+=2.1
+Zhenis  vs  Kaisar Kyzylorda   (ID: 823)
+1=1.7   X=3.35   2=4.5
+0-2=1.7   2+=1.31   3+=2.02
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 10:00
@@ -186,9 +186,15 @@ Navalcarnero  vs  Las Palmas B   (ID: 652)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 10:30
-Bandirmaspor  vs  Erokspor   (ID: 833)
-1=2.22   X=3.2   2=3.05
-0-2=1.85   2+=1.26   3+=1.87
+Bandirmaspor  vs  Erokspor   (ID: 832)
+1=2.25   X=3.15   2=3.1
+0-2=1.77   2+=1.29   3+=1.95
+GG=-   IGG=-   GG&3+=-
+======================================================================
+11:00
+North East Utd  vs  Inter Kashi   (ID: 832)
+1=1.4   X=4.35   2=6
+0-2=2.35   2+=1.13   3+=1.5
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 11:00
@@ -215,151 +221,163 @@ Widzew Lodz II  vs  GKS Belchatow   (ID: 59)
 0-2=2.75   2+=1.07   3+=1.35
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
+Cartusia Kartuzy  vs  Luzino   (ID: 59)
+1=2.4   X=3.45   2=2.38
+0-2=2.4   2+=1.11   3+=1.45
+GG=-   IGG=-   GG&3+=-
+======================================================================
+11:00  [POLAND, III Liga - Group II]
 SC Farense  vs  Penafiel   (ID: 825)
 1=1.63   X=3.5   2=5.2
 0-2=1.75   2+=1.3   3+=1.97
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Dynamo Vologda  vs  Tver   (ID: 59)
 1=1.55   X=3.8   2=4.95
 0-2=2.18   2+=1.17   3+=1.59
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Arenteiro  vs  Pontevedra   (ID: 652)
 1=2.28   X=2.85   2=3.15
 0-2=1.46   2+=1.46   3+=2.45
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Eldense  vs  Murcia   (ID: 651)
 1=2.22   X=2.85   2=3.25
 0-2=1.44   2+=1.48   3+=2.5
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Marbella FC  vs  FC Cartagena SAD   (ID: 658)
 1=2.45   X=2.95   2=2.7
 0-2=1.63   2+=1.35   3+=2.12
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 UD Ibiza  vs  Teruel   (ID: 651)
 1=1.69   X=3.2   2=4.9
 0-2=1.58   2+=1.37   3+=2.2
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Villarreal B  vs  Antequera   (ID: 656)
 1=2.3   X=2.95   2=3
 0-2=1.6   2+=1.36   3+=2.18
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Salamanca  vs  Gimnastica Segoviana   (ID: 652)
 1=2.2   X=2.88   2=3.25
 0-2=1.47   2+=1.42   3+=2.38
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Valladolid Promesas  vs  Sarriana   (ID: 652)
 1=1.81   X=3.35   2=3.85
 0-2=1.83   2+=1.23   3+=1.82
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Andratx  vs  SD Ibiza   (ID: 649)
 1=2.3   X=2.85   2=3.1
 0-2=1.43   2+=1.46   3+=2.45
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Baleares  vs  Espanyol B   (ID: 649)
 1=1.71   X=3.15   2=4.75
 0-2=1.55   2+=1.36   3+=2.18
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Barbastro  vs  Atletic Lleida   (ID: 652)
 1=2.15   X=2.9   2=3.35
 0-2=1.47   2+=1.42   3+=2.4
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Barcelona B  vs  Poblense   (ID: 649)
 1=1.62   X=3.5   2=4.85
 0-2=1.7   2+=1.29   3+=1.97
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Olot  vs  Girona B   (ID: 651)
 1=2.12   X=2.9   2=3.4
 0-2=1.46   2+=1.43   3+=2.4
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Valencia B  vs  Porreres   (ID: 651)
 1=1.75   X=3.25   2=4.33
 0-2=1.62   2+=1.32   3+=2.07
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Colonia M.  vs  Getafe B   (ID: 657)
 1=2.6   X=2.95   2=2.55
 0-2=1.6   2+=1.33   3+=2.12
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Fuenlabrada  vs  Socuellamos   (ID: 652)
 1=2.12   X=2.95   2=3.35
 0-2=1.5   2+=1.39   3+=2.28
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Buriram  vs  Rayong FC   (ID: 821)
 1=1.2   X=5.7   2=10
 0-2=2.75   2+=1.09   3+=1.38
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 Pattaya United  vs  Rasi Salai United   (ID: 642)
 1=2.25   X=3.25   2=2.8
 0-2=1.95   2+=1.22   3+=1.75
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 K. Istiklalspor  vs  Aksaray Bld.   (ID: 652)
 1=1.55   X=3.7   2=5.1
 0-2=1.98   2+=1.19   3+=1.68
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
 .24 Erzincanspor  vs  Ankaraspor   (ID: 658)
 1=2.4   X=3.05   2=2.75
 0-2=1.67   2+=1.29   3+=1.99
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:00  [POLAND, III Liga - Group I]
+11:00  [POLAND, III Liga - Group II]
+Sebat Genclikspor  vs  Duzcespor   (ID: 653)
+1=2.07   X=3.05   2=3.15
+0-2=1.7   2+=1.26   3+=1.92
+GG=-   IGG=-   GG&3+=-
+======================================================================
+11:00  [POLAND, III Liga - Group II]
 SC Poltava  vs  Kolos Kovalivka   (ID: 813)
 1=8.5   X=4   2=1.4
 0-2=1.7   2+=1.32   3+=2.04
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:15  [POLAND, III Liga - Group I]
+11:15  [POLAND, III Liga - Group II]
 Twente  vs  Ajax   (ID: 987)
 1=2.22   X=3.55   2=3
 0-2=2.25   2+=1.17   3+=1.59
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:30  [POLAND, III Liga - Group I]
-Torino  vs  Genoa   (ID: 1018)
+11:30  [POLAND, III Liga - Group II]
+Torino  vs  Genoa   (ID: 1014)
 1=2.3   X=2.85   2=3.75
 0-2=1.46   2+=1.56   3+=2.75
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-11:30  [POLAND, III Liga - Group I]
+11:30  [POLAND, III Liga - Group II]
 Fajr Sepasi  vs  Esteghlal F.C.   (ID: 645)
 1=3.65   X=2.8   2=2.08
 0-2=1.38   2+=1.51   3+=2.7
@@ -393,6 +411,12 @@ GG=-   IGG=-   GG&3+=-
 Iskenderun  vs  Beykoz Anadolu   (ID: 654)
 1=1.94   X=3.15   2=3.65
 0-2=1.63   2+=1.32   3+=2.07
+GG=-   IGG=-   GG&3+=-
+======================================================================
+11:30  [ITALY, Serie C - Group C]
+Suvermez  vs  Diyarbekirspor   (ID: 644)
+1=2.55   X=2.8   2=2.6
+0-2=1.41   2+=1.45   3+=2.45
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 11:35  [ITALY, Serie C - Group C]
@@ -450,9 +474,27 @@ Szentlorinc  vs  Bekescsaba 1912   (ID: 654)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 12:00  [ITALY, Serie C - Group C]
+Persiba Balikpapan  vs  Persiku Kudus   (ID: 656)
+1=2.04   X=3.2   2=3.45
+0-2=1.75   2+=1.29   3+=1.97
+GG=-   IGG=-   GG&3+=-
+======================================================================
+12:00  [ITALY, Serie C - Group C]
 Malut United  vs  Semen Padang   (ID: 827)
 1=1.68   X=3.45   2=4.4
 0-2=1.95   2+=1.22   3+=1.77
+GG=-   IGG=-   GG&3+=-
+======================================================================
+12:00  [ITALY, Serie C - Group C]
+Murang'a  vs  Tusker   (ID: 650)
+1=2.3   X=2.85   2=3.1
+0-2=1.44   2+=1.45   3+=2.4
+GG=-   IGG=-   GG&3+=-
+======================================================================
+12:00  [ITALY, Serie C - Group C]
+Nairobi City  vs  Kibera   (ID: 102)
+1=2.1   X=2.88   2=3.5
+0-2=1.42   2+=1.46   3+=2.45
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 12:00  [ITALY, Serie C - Group C]
@@ -533,6 +575,12 @@ Beyoglu Yeni Carsi  vs  Karaman   (ID: 646)
 0-2=1.95   2+=1.2   3+=1.72
 GG=-   IGG=-   GG&3+=-
 ======================================================================
+12:00  [POLAND, III Liga - Group III]
+Livyi Bereg  vs  Ch. Odesa   (ID: 639)
+1=2.62   X=2.85   2=2.65
+0-2=1.55   2+=1.37   3+=2.22
+GG=-   IGG=-   GG&3+=-
+======================================================================
 12:15  [POLAND, III Liga - Group III]
 Nizhny Novgorod  vs  Baltika   (ID: 821)
 1=3.95   X=3.15   2=2.04
@@ -545,223 +593,277 @@ Antwerp  vs  Club Brugge KV   (ID: 932)
 0-2=2.35   2+=1.15   3+=1.53
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-12:30  [POLAND, III Liga - Group III]
+12:30  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
+GOSK Gabela  vs  TOSK Tesanj   (ID: 59)
+1=1.73   X=3.3   2=4.1
+0-2=1.83   2+=1.23   3+=1.82
+GG=-   IGG=-   GG&3+=-
+======================================================================
+12:30  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Pirin Blagoevgrad  vs  Etar   (ID: 653)
 1=2.1   X=3   2=3.3
 0-2=1.6   2+=1.33   3+=2.1
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-12:30  [POLAND, III Liga - Group III]
+12:30  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Karmiotissa  vs  Zakakiou   (ID: 634)
 1=1.3   X=4.65   2=8
 0-2=2.2   2+=1.16   3+=1.58
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-12:30  [POLAND, III Liga - Group III]
+12:30  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Kitiou  vs  Omonia 29th May   (ID: 639)
 1=4.35   X=3.3   2=1.73
 0-2=1.78   2+=1.27   3+=1.92
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-12:30  [POLAND, III Liga - Group III]
+12:30  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
+Paide  vs  Flora   (ID: 840)
+1=2.75   X=3.55   2=2.15
+0-2=2.4   2+=1.13   3+=1.48
+GG=-   IGG=-   GG&3+=-
+======================================================================
+12:30  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Braunschweig  vs  Hannover   (ID: 975)
 1=3.65   X=3.75   2=1.93
 0-2=2.25   2+=1.17   3+=1.59
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-12:30  [POLAND, III Liga - Group III]
+12:30  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Kaiserslautern  vs  Nurnberg   (ID: 975)
 1=2.1   X=3.65   2=3.2
 0-2=2.28   2+=1.17   3+=1.56
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-12:30  [POLAND, III Liga - Group III]
+12:30  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Magdeburg  vs  Preussen Munster   (ID: 978)
 1=1.93   X=3.85   2=3.55
 0-2=2.5   2+=1.13   3+=1.48
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-12:30  [POLAND, III Liga - Group III]
+12:30  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Hoffenheim II  vs  Aue   (ID: 840)
 1=1.86   X=3.85   2=3.65
 0-2=2.38   2+=1.15   3+=1.53
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-12:55  [POLAND, III Liga - Group III]
+12:55  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Dibba Al Fujairah  vs  Al Wasl   (ID: 652)
 1=5.6   X=4   2=1.48
 0-2=2.1   2+=1.18   3+=1.64
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
-Mallorca  vs  Levante   (ID: 959)
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
+Mallorca  vs  Levante   (ID: 946)
 1=2.18   X=3.2   2=3.6
 0-2=1.75   2+=1.37   3+=2.12
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Fredericia  vs  Midtjylland   (ID: 837)
 1=6.4   X=5   2=1.41
 0-2=2.85   2+=1.09   3+=1.38
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Vejle  vs  Silkeborg   (ID: 835)
 1=2.75   X=3.4   2=2.45
 0-2=2.05   2+=1.21   3+=1.72
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
+Nomme Kalju U21  vs  Tammeka U21   (ID: 628)
+1=1.16   X=6.4   2=10.5
+0-2=3.7   2+=1.02   3+=1.2
+GG=-   IGG=-   GG&3+=-
+======================================================================
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 BFC Dynamo  vs  Eilenburg   (ID: 833)
 1=1.81   X=3.5   2=3.65
 0-2=2.08   2+=1.19   3+=1.66
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 BFC Preussen  vs  Zwickau   (ID: 834)
 1=2.55   X=3.2   2=2.5
 0-2=1.9   2+=1.24   3+=1.8
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Erfurt  vs  Meuselwitz   (ID: 840)
 1=1.71   X=3.95   2=3.7
 0-2=2.55   2+=1.11   3+=1.44
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Fulda-Lehnerz  vs  FC 08 Homburg   (ID: 660)
 1=2.65   X=3.55   2=2.22
 0-2=2.45   2+=1.12   3+=1.46
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Offenbach  vs  Eintracht Trier   (ID: 660)
 1=2.04   X=3.75   2=2.85
 0-2=2.65   2+=1.1   3+=1.4
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Sandhausen  vs  Alzenau   (ID: 659)
 1=1.66   X=4.05   2=3.85
 0-2=2.9   2+=1.08   3+=1.35
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Gutersloh 2000  vs  Siegen   (ID: 840)
 1=1.95   X=3.65   2=3.1
 0-2=2.4   2+=1.13   3+=1.48
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
+Al-Arabi Irbid  vs  Doqarah FC   (ID: 654)
+1=2.95   X=2.9   2=2.35
+0-2=1.55   2+=1.39   3+=2.25
+GG=-   IGG=-   GG&3+=-
+======================================================================
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
+Amman FC  vs  Jerash SC   (ID: 656)
+1=2.35   X=3   2=2.88
+0-2=1.65   2+=1.34   3+=2.08
+GG=-   IGG=-   GG&3+=-
+======================================================================
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
+Sama Club  vs  Maan   (ID: 656)
+1=2.95   X=2.95   2=2.35
+0-2=1.6   2+=1.36   3+=2.18
+GG=-   IGG=-   GG&3+=-
+======================================================================
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
+Gor Mahia  vs  Posta Rangers   (ID: 649)
+1=1.71   X=3.2   2=4.7
+0-2=1.58   2+=1.35   3+=2.15
+GG=-   IGG=-   GG&3+=-
+======================================================================
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Rodina Moscow  vs  R. Volgograd   (ID: 812)
 1=2.15   X=2.8   2=3.75
 0-2=1.37   2+=1.58   3+=2.85
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Krsko  vs  Rudar Velenje   (ID: 656)
 1=2.88   X=3.4   2=2.05
 0-2=2.22   2+=1.14   3+=1.53
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Malaga  vs  FC Andorra   (ID: 925)
 1=2.25   X=3.15   2=3.3
 0-2=1.72   2+=1.32   3+=2.02
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Mjallby  vs  Norrkoping   (ID: 932)
 1=1.64   X=4   2=4.7
 0-2=2.15   2+=1.19   3+=1.64
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Sirius  vs  Elfsborg   (ID: 936)
 1=2.1   X=3.7   2=3.1
 0-2=2.45   2+=1.14   3+=1.5
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Zurich  vs  Young Boys   (ID: 839)
 1=2.5   X=3.65   2=2.4
 0-2=2.4   2+=1.13   3+=1.49
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Vaduz  vs  Etoile-Carouge   (ID: 834)
 1=1.66   X=3.85   2=4.4
 0-2=2.25   2+=1.17   3+=1.58
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Amedspor  vs  Istanbulspor AS   (ID: 833)
 1=1.51   X=4.1   2=5.45
 0-2=2.25   2+=1.17   3+=1.56
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Corum  vs  Boluspor   (ID: 828)
 1=1.65   X=3.7   2=4.75
 0-2=2.05   2+=1.21   3+=1.69
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Albion  vs  Central Esp.   (ID: 648)
 1=2.3   X=2.8   2=3.15
 0-2=1.41   2+=1.51   3+=2.62
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:00  [POLAND, III Liga - Group III]
+13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - FBiH]
 Atletico Fenix Montevideo  vs  Atenas   (ID: 653)
 1=3.1   X=2.88   2=2.25
 0-2=1.5   2+=1.42   3+=2.35
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:30  [POLAND, III Liga - Group III]
+13:00  [WORLD, Africa Cup of Nations Women - Qualification]
+Zambia Wom.  vs  Namibia Wom.   (ID: 832)
+1=1.47   X=4.1   2=5.4
+0-2=2.28   2+=1.15   3+=1.54
+GG=-   IGG=-   GG&3+=-
+======================================================================
+13:00  [WORLD, CAF Confederation Cup - Qualification]
+Kaizer Chiefs  vs  Simba   (ID: 824)
+1=1.38   X=4.3   2=6.6
+0-2=2.15   2+=1.17   3+=1.61
+GG=-   IGG=-   GG&3+=-
+======================================================================
+13:30  [WORLD, CAF Confederation Cup - Qualification]
 Feyenoord  vs  PSV   (ID: 939)
 1=2.38   X=4.05   2=2.55
 0-2=2.9   2+=1.09   3+=1.37
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:30  [POLAND, III Liga - Group III]
+13:30  [WORLD, CAF Confederation Cup - Qualification]
 Ried  vs  Rapid Vienna   (ID: 929)
 1=3.05   X=3.3   2=2.35
 0-2=1.87   2+=1.3   3+=1.92
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:30  [POLAND, III Liga - Group III]
+13:30  [WORLD, CAF Confederation Cup - Qualification]
 Sturm Graz  vs  Wolfsberger AC   (ID: 929)
 1=1.98   X=3.45   2=3.75
 0-2=1.95   2+=1.27   3+=1.85
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:30  [POLAND, III Liga - Group III]
+13:30  [WORLD, CAF Confederation Cup - Qualification]
 Makedonikos  vs  Kampaniakos   (ID: 654)
 1=2.03   X=3.05   2=3.45
 0-2=1.62   2+=1.35   3+=2.12
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:30  [POLAND, III Liga - Group III]
+13:30  [WORLD, CAF Confederation Cup - Qualification]
 Marko  vs  Olympiacos Piraeus B   (ID: 654)
 1=2.1   X=3   2=3.35
 0-2=1.58   2+=1.37   3+=2.22
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:30  [POLAND, III Liga - Group III]
+13:30  [WORLD, CAF Confederation Cup - Qualification]
 PAOK B  vs  Chrisoupolis   (ID: 654)
 1=1.92   X=3.1   2=3.75
 0-2=1.58   2+=1.37   3+=2.22
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:30  [POLAND, III Liga - Group III]
+13:30  [WORLD, CAF Confederation Cup - Qualification]
 Panionios  vs  Kalamata   (ID: 656)
 1=2.55   X=2.88   2=2.7
 0-2=1.53   2+=1.41   3+=2.3
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:30  [POLAND, III Liga - Group III]
+13:30  [WORLD, CAF Confederation Cup - Qualification]
 Sepahan  vs  Paykan   (ID: 642)
 1=1.44   X=3.55   2=7.5
 0-2=1.47   2+=1.42   3+=2.38
@@ -803,109 +905,115 @@ Cosenza  vs  Potenza   (ID: 826)
 0-2=1.75   2+=1.29   3+=1.97
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:30  [ITALY, Serie C - Group C]
+13:30  [ITALY, Serie D - Group C]
+Adriese  vs  Mestre   (ID: 644)
+1=2.02   X=2.85   2=3.6
+0-2=1.37   2+=1.49   3+=2.55
+GG=-   IGG=-   GG&3+=-
+======================================================================
+13:30  [ITALY, Serie D - Group C]
 Willem II  vs  Maastricht   (ID: 835)
 1=1.55   X=4.25   2=4.8
 0-2=2.5   2+=1.12   3+=1.46
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:30  [ITALY, Serie C - Group C]
+13:30  [ITALY, Serie D - Group C]
 Rosenborg  vs  Brann   (ID: 839)
 1=2.62   X=3.65   2=2.4
 0-2=2.4   2+=1.15   3+=1.51
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:30  [ITALY, Serie C - Group C]
+13:30  [ITALY, Serie D - Group C]
 Wisla  vs  S. Rzeszow   (ID: 829)
 1=1.23   X=5.9   2=9.25
 0-2=3.4   2+=1.05   3+=1.27
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:30  [ITALY, Serie C - Group C]
+13:30  [ITALY, Serie D - Group C]
 Olympique Beja  vs  Zarzis   (ID: 655)
 1=2.65   X=2.88   2=2.6
 0-2=1.52   2+=1.42   3+=2.35
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:30  [ITALY, Serie C - Group C]
+13:30  [ITALY, Serie D - Group C]
 Soliman  vs  JS Omrane   (ID: 648)
 1=2.35   X=2.8   2=3.05
 0-2=1.42   2+=1.5   3+=2.55
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:30  [ITALY, Serie C - Group C]
+13:30  [ITALY, Serie D - Group C]
 Shakhtar Donetsk  vs  Kudrivka   (ID: 808)
 1=1.14   X=6.9   2=15
 0-2=2.75   2+=1.09   3+=1.39
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-13:45  [ITALY, Serie C - Group C]
+13:45  [ITALY, Serie D - Group C]
 Rakow  vs  Lechia Gdansk   (ID: 826)
-1=1.68   X=3.55   2=5.1
-0-2=1.8   2+=1.29   3+=1.92
+1=1.68   X=3.6   2=5.1
+0-2=1.85   2+=1.27   3+=1.87
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:00  [ITALY, Serie C - Group C]
-Arsenal  vs  Crystal Palace   (ID: 944)
-1=1.43   X=4.45   2=7.8
-0-2=2.07   2+=1.25   3+=1.77
+14:00  [ITALY, Serie D - Group C]
+Arsenal  vs  Crystal Palace   (ID: 947)
+1=1.42   X=4.5   2=8
+0-2=2.08   2+=1.25   3+=1.77
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:00  [ITALY, Serie C - Group C]
-Aston Villa  vs  Manchester City   (ID: 1033)
+14:00  [ITALY, Serie D - Group C]
+Aston Villa  vs  Manchester City   (ID: 1037)
 1=4.55   X=3.55   2=1.82
 0-2=2.08   2+=1.25   3+=1.77
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:00  [ITALY, Serie C - Group C]
-Bournemouth  vs  Nottingham   (ID: 1030)
+14:00  [ITALY, Serie D - Group C]
+Bournemouth  vs  Nottingham   (ID: 1034)
 1=1.84   X=3.65   2=4.33
-0-2=1.93   2+=1.29   3+=1.89
+0-2=1.92   2+=1.29   3+=1.9
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:00  [ITALY, Serie C - Group C]
-Wolves  vs  Burnley   (ID: 932)
+14:00  [ITALY, Serie D - Group C]
+Wolves  vs  Burnley   (ID: 936)
 1=1.95   X=3.25   2=4.35
 0-2=1.63   2+=1.42   3+=2.3
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:00  [ITALY, Serie C - Group C]
+14:00  [ITALY, Serie D - Group C]
 Sassuolo  vs  AS Roma   (ID: 940)
 1=4.33   X=3.35   2=1.93
 0-2=1.75   2+=1.36   3+=2.1
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:00  [ITALY, Serie C - Group C]
-Verona  vs  Cagliari   (ID: 1019)
+14:00  [ITALY, Serie D - Group C]
+Verona  vs  Cagliari   (ID: 1021)
 1=2.25   X=2.95   2=3.7
 0-2=1.6   2+=1.45   3+=2.38
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:00  [ITALY, Serie C - Group C]
+14:00  [ITALY, Serie D - Group C]
 Lille  vs  Metz   (ID: 935)
 1=1.36   X=4.95   2=9
 0-2=2.38   2+=1.19   3+=1.61
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:00  [ITALY, Serie C - Group C]
+14:00  [ITALY, Serie D - Group C]
 Mlada Boleslav B  vs  Varnsdorf   (ID: 659)
 1=1.63   X=3.8   2=4
 0-2=2.45   2+=1.11   3+=1.44
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:00  [ITALY, Serie C - Group C]
+14:00  [ITALY, Serie D - Group C]
 Kahraba Ismailia  vs  Ceramica Cleopatra   (ID: 651)
 1=4.8   X=3.25   2=1.7
 0-2=1.65   2+=1.33   3+=2.08
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:00  [ITALY, Serie C - Group C]
+14:00  [ITALY, Serie D - Group C]
 VfB Oldenburg  vs  Bremer   (ID: 833)
 1=1.26   X=5.45   2=7.75
 0-2=3.45   2+=1.05   3+=1.26
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-14:00  [ITALY, Serie C - Group C]
+14:00  [ITALY, Serie D - Group C]
 Debrecen  vs  Ujpest   (ID: 835)
 1=2.5   X=3.4   2=2.55
 0-2=2.1   2+=1.19   3+=1.66
@@ -915,6 +1023,12 @@ GG=-   IGG=-   GG&3+=-
 Stjarnan  vs  Breidablik   (ID: 847)
 1=2.45   X=4.05   2=2.3
 0-2=3.7   2+=1.04   3+=1.24
+GG=-   IGG=-   GG&3+=-
+======================================================================
+14:00  [ICELAND, Besta-deild karla - Championship Group]
+Goa  vs  Jamshedpur   (ID: 834)
+1=1.84   X=3.5   2=3.55
+0-2=2.05   2+=1.18   3+=1.65
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:00  [ICELAND, Besta-deild karla - Championship Group]
@@ -984,9 +1098,9 @@ Qarabag  vs  Shamakhi   (ID: 813)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:30  [ICELAND, Besta-deild karla - Championship Group]
-Posusje  vs  Radnik Bijeljina   (ID: 820)
-1=2.3   X=2.88   2=3.05
-0-2=1.5   2+=1.43   3+=2.38
+Posusje  vs  Radnik Bijeljina   (ID: 813)
+1=2.3   X=2.8   2=3.1
+0-2=1.43   2+=1.49   3+=2.55
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:30  [ICELAND, Besta-deild karla - Championship Group]
@@ -1218,43 +1332,7 @@ U. Catolica  vs  U. De Chile   (ID: 828)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:30  [MALTA, Premier League - First stage - Main]
-Vlasim  vs  Brno   (ID: 829)
-1=4.1   X=3.55   2=1.71
-0-2=1.98   2+=1.21   3+=1.72
-GG=-   IGG=-   GG&3+=-
-======================================================================
-15:30  [MALTA, Premier League - First stage - Main]
-Viktoria Koln  vs  Hansa Rostock   (ID: 835)
-1=2.7   X=3.35   2=2.5
-0-2=1.95   2+=1.23   3+=1.77
-GG=-   IGG=-   GG&3+=-
-======================================================================
-15:30  [MALTA, Premier League - First stage - Main]
-Panathinaikos  vs  Asteras Tripolis   (ID: 813)
-1=1.21   X=5.5   2=12
-0-2=2.25   2+=1.16   3+=1.56
-GG=-   IGG=-   GG&3+=-
-======================================================================
-15:30  [MALTA, Premier League - First stage - Main]
-Estoril  vs  Nacional   (ID: 925)
-1=2.25   X=3.15   2=3.25
-0-2=1.73   2+=1.32   3+=2.02
-GG=-   IGG=-   GG&3+=-
-======================================================================
-15:30  [MALTA, Premier League - First stage - Main]
-Famalicao  vs  Vitoria Guimaraes   (ID: 921)
-1=1.92   X=3.25   2=4.15
-0-2=1.63   2+=1.37   3+=2.18
-GG=-   IGG=-   GG&3+=-
-======================================================================
-15:30  [MALTA, Premier League - First stage - Main]
-AIK  vs  Hacken   (ID: 928)
-1=2.15   X=3.25   2=3.3
-0-2=1.85   2+=1.27   3+=1.87
-GG=-   IGG=-   GG&3+=-
-======================================================================
-15:30  [MALTA, Premier League - First stage - Main]
-Halmstad  vs  Goteborg   (ID: 981)
-1=3.65   X=3.45   2=1.98
-0-2=1.93   2+=1.24   3+=1.8
+Vlasim  vs  Brno   (ID: 828)
+1=4.25   X=3.65   2=1.67
+0-2=2   2+=1.21   3+=1.72
 GG=-   IGG=-   GG&3+=-
