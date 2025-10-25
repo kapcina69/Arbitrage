@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1746
+1739
   
   
 DNEVNI SPECIJAL
@@ -44,7 +44,7 @@ DNEVNI SPECIJAL
   
   
 GOLOVI PO LIGAMA
-124
+122
   
   
 KOŠARKA
@@ -56,7 +56,7 @@ SP. KOŠARKA
   
   
 TENIS
-97
+91
   
   
 RUKOMET
@@ -68,7 +68,7 @@ ODBOJKA
   
   
 HOKEJ
-134
+129
   
   
 AM.FUDBAL
@@ -84,7 +84,7 @@ RAGBI UNIJA
   
   
 STONI TENIS
-234
+230
   
   
 VATERPOLO
@@ -116,7 +116,7 @@ ESPORT
   
   
 SP. FUDBAL
-3406
+3407
   
   
 VIR. FUDBAL
@@ -140,117 +140,6 @@ Takmičenja
 Vremenska
 Top
 Specijali
-KONAČAN ISHOD
- 
-Costa Rica, Primera Division - Apertura
-+808
-San Carlos
-Guadalupe
-25.10. 01:00
-ki 1
-2.05
-ki X
-3.20
-ki 2
-3.45
-manje 2.5
-1.73
-više 2.5
-1.97
- 
-Mexico, Liga MX - Apertura
-+804
-Juarez
-Puebla
-25.10. 01:00
-ki 1
-1.55
-ki X
-3.95
-ki 2
-5.75
-manje 2.5
-1.97
-više 2.5
-1.75
- 
-Mexico, Liga de Expansion MX - Apertura
-+814
-Alebrijes Oaxaca
-Tepatitlan de Morelos
-25.10. 01:00
-ki 1
-2.97
-ki X
-3.45
-ki 2
-2.15
-manje 2.5
-2.12
-više 2.5
-1.63
- 
-USA, USL Championship
-+638
-New Mexico
-Rhode Island
-25.10. 01:00
-ki 1
-2.15
-ki X
-3.15
-ki 2
-3.00
-manje 2.5
-1.80
-više 2.5
-1.88
- 
-Argentina, Copa Argentina
-+786
-Ind. Rivadavia
-River Plate
-25.10. 01:10
-ki 1
-4.40
-ki X
-3.10
-ki 2
-1.85
-manje 2.5
-1.38
-više 2.5
-2.77
- 
-Colombia, Primera A - Clausura
-+811
-Pereira
-Aguilas
-25.10. 01:10
-ki 1
-3.85
-ki X
-3.45
-ki 2
-1.85
-manje 2.5
-1.90
-više 2.5
-1.80
-+801
-America De Cali
-Junior
-25.10. 01:10
-ki 1
-2.15
-ki X
-3.03
-ki 2
-3.40
-manje 2.5
-1.60
-više 2.5
-2.22
  
 Mexico, Liga Premier Serie B
 +622
@@ -285,20 +174,20 @@ više 2.5
 1.95
  
 Mexico, Liga Premier Serie A
-+606
++605
 Alacranes de Durango
 ACF Zapotlanejo
 25.10. 02:00
 ki 1
 1.03
 ki X
-10.5
+11.0
 ki 2
-20.0
+21.0
 manje 2.5
-5.80
+6.00
 više 2.5
-1.09
+1.08
  
 Mexico, Liga Premier Serie B
 +619
@@ -365,20 +254,20 @@ više 2.5
 1.75
  
 Mexico, Liga MX - Apertura
-+815
++814
 Mazatlan FC
 Club America
 25.10. 03:00
 ki 1
-4.90
+4.85
 ki X
 4.25
 ki 2
-1.57
+1.60
 manje 2.5
-2.30
+2.27
 više 2.5
-1.55
+1.57
  
 Mexico, Liga de Expansion MX - Apertura
 +817
@@ -429,7 +318,7 @@ više 2.5
 2.30
  
 Australia, A-League
-+812
++811
 Auckland FC
 WS Wanderers
 25.10. 04:00
@@ -438,7 +327,7 @@ ki 1
 ki X
 3.60
 ki 2
-3.85
+3.80
 manje 2.5
 2.00
 više 2.5
@@ -519,16 +408,16 @@ više 2.5
 1.77
  
 Japan, J1 League
-+951
++949
 FC Tokyo
 Okayama
 25.10. 05:00
 ki 1
-2.15
+2.12
 ki X
 3.15
 ki 2
-3.45
+3.55
 manje 2.5
 1.65
 više 2.5
@@ -1153,20 +1042,20 @@ manje 2.5
 1.77
 više 2.5
 1.90
-+627
++628
 Sepsi Sf. Gheorghe
 Gloria 2018 Bistrita
 25.10. 08:00
 ki 1
-1.31
+1.28
 ki X
-4.55
+4.90
 ki 2
 8.10
 manje 2.5
-2.02
+2.22
 više 2.5
-1.70
+1.57
  
 +3 
 Serbia, U19 League
@@ -1186,20 +1075,20 @@ više 2.5
 1.42
  
 Czech Republic, MSFL
-+629
++628
 Trinec
 Vitkovice
 25.10. 08:15
 ki 1
-1.21
+1.19
 ki X
-5.70
+6.00
 ki 2
-8.05
+8.15
 manje 2.5
-3.15
+3.55
 više 2.5
-1.27
+1.22
  
 Czech Republic, CFL - Group A
 +626
@@ -1216,20 +1105,20 @@ manje 2.5
 2.30
 više 2.5
 1.50
-+637
++636
 Motorlet Prague
 Slavia Prague U20
 25.10. 08:15
 ki 1
 2.35
 ki X
-3.50
+3.45
 ki 2
-2.41
+2.45
 manje 2.5
-2.30
+2.15
 više 2.5
-1.50
+1.57
  
 Czech Republic, 3. CFL - Group B
 +636
@@ -1415,15 +1304,15 @@ Brno U19
 Mlada Boleslav U19
 25.10. 09:00
 ki 1
-1.81
+1.80
 ki X
-3.80
+3.85
 ki 2
 3.20
 manje 2.5
-2.67
+2.90
 više 2.5
-1.37
+1.32
 +82
 Slovacko U19
 Karvina U19
@@ -1475,13 +1364,13 @@ Renate U19
 ki 1
 1.19
 ki X
-5.50
+5.40
 ki 2
 11.5
 manje 2.5
-2.25
+2.20
 više 2.5
-1.55
+1.57
 +631
 Pisa U19
 Salernitana U19
@@ -1574,20 +1463,20 @@ više 2.5
 1.81
  
 Vietnam, V.League 2
-+634
++633
 Van Hien
 Xuan Thien Phu Tho
 25.10. 09:00
 ki 1
-2.03
+2.10
 ki X
-3.05
+3.00
 ki 2
-3.40
+3.30
 manje 2.5
-1.61
+1.57
 više 2.5
-2.15
+2.20
  
 International Clubs, AFC Challenge League
 +638
@@ -1849,7 +1738,7 @@ ki 1
 ki X
 3.05
 ki 2
-3.25
+3.30
 manje 2.5
 1.65
 više 2.5
@@ -1981,15 +1870,15 @@ Tenerife U19
 Las Palmas U19
 25.10. 10:00
 ki 1
-2.93
+2.85
 ki X
-3.25
+3.35
 ki 2
-2.10
+2.08
 manje 2.5
-2.10
+2.30
 više 2.5
-1.57
+1.48
  
 Thailand, Thai League 3
 +82
@@ -2102,18 +1991,18 @@ više 2.5
 1.81
  
 Romania, Liga 2
-+636
++635
 Chindia Targoviste
 Voluntari
 25.10. 10:30
 ki 1
-2.12
+2.08
 ki X
 3.10
 ki 2
-3.20
+3.25
 manje 2.5
-1.70
+1.71
 više 2.5
 2.00
  
@@ -2178,16 +2067,16 @@ manje 2.5
 2.55
 više 2.5
 1.45
-+956
++915
 Holstein Kiel
 Bochum
 25.10. 11:00
 ki 1
-1.93
+1.90
 ki X
-3.80
+3.85
 ki 2
-3.55
+3.65
 manje 2.5
 2.30
 više 2.5
@@ -2245,15 +2134,15 @@ Ishoj IF
 Naestved
 25.10. 11:00
 ki 1
-3.00
+3.10
 ki X
 3.25
 ki 2
-2.12
+2.10
 manje 2.5
-1.85
-više 2.5
 1.83
+više 2.5
+1.85
  
 Denmark, 3rd Division
 +623
@@ -3057,11 +2946,11 @@ Mansfield
 Wigan
 25.10. 11:30
 ki 1
-2.50
+2.45
 ki X
-3.10
+3.05
 ki 2
-2.88
+2.97
 manje 2.5
 1.62
 više 2.5
@@ -3340,20 +3229,20 @@ manje 2.5
 2.03
 više 2.5
 1.65
-+810
++812
 Samorin
 Malzenice
 25.10. 11:30
 ki 1
 1.81
 ki X
-3.55
+3.60
 ki 2
-3.65
+3.60
 manje 2.5
-2.07
+2.10
 više 2.5
-1.62
+1.60
  
 Thailand, Thai Premier League
 +801
@@ -3466,7 +3355,7 @@ više 2.5
 1.77
  
 Spain, LaLiga
-+1019
++935
 Girona
 Real Oviedo
 25.10. 12:00
@@ -3656,13 +3545,13 @@ SV Pachern
 ki 1
 1.40
 ki X
-4.50
+4.55
 ki 2
-5.20
+5.10
 manje 2.5
-3.10
+3.25
 više 2.5
-1.28
+1.26
 +39
 SV Wildon
 Lebring
@@ -3684,15 +3573,15 @@ Kagran
 Dinamo Helfort
 25.10. 12:00
 ki 1
-5.00
+4.90
 ki X
-4.20
+4.05
 ki 2
-1.45
+1.48
 manje 2.5
-2.60
+2.37
 više 2.5
-1.40
+1.47
  
 Azerbaijan, Premier League
 +802
@@ -3940,15 +3829,15 @@ B71 Sandur
 IF Fuglafjordur
 25.10. 12:00
 ki 1
-1.55
+1.52
 ki X
-4.15
+4.20
 ki 2
-4.50
+4.65
 manje 2.5
-2.90
+2.95
 više 2.5
-1.35
+1.33
  
 Germany, 3. Liga
 +812
@@ -4023,18 +3912,18 @@ više 2.5
 1.48
  
 Germany, Regionalliga Bayern
-+812
++811
 Aschaffenburg
 Eichstatt
 25.10. 12:00
 ki 1
-3.30
+3.20
 ki X
 3.50
 ki 2
-1.92
+1.97
 manje 2.5
-2.05
+2.03
 više 2.5
 1.67
 +821
@@ -4153,20 +4042,20 @@ manje 2.5
 2.70
 više 2.5
 1.40
-+824
++827
 Schoningen
 Lohne
 25.10. 12:00
 ki 1
-2.35
+2.30
 ki X
-3.80
+3.85
 ki 2
-2.37
+2.40
 manje 2.5
-2.95
+3.20
 više 2.5
-1.33
+1.29
  
 Germany, Regionalliga Nordost
 +812
@@ -4227,20 +4116,20 @@ manje 2.5
 2.25
 više 2.5
 1.57
-+817
++816
 Bocholt
 Bochum II
 25.10. 12:00
 ki 1
-1.70
+1.71
 ki X
-3.90
+3.80
 ki 2
 3.85
 manje 2.5
-2.55
+2.40
 više 2.5
-1.45
+1.50
 +813
 Bonner
 Wiedenbruck
@@ -4248,27 +4137,27 @@ Wiedenbruck
 ki 1
 2.22
 ki X
-3.30
+3.35
 ki 2
-2.80
+2.77
 manje 2.5
-2.00
+2.08
 više 2.5
-1.71
-+814
+1.65
++815
 Dusseldorf II
 Paderborn II
 25.10. 12:00
 ki 1
-2.25
-ki X
-3.40
-ki 2
-2.70
-manje 2.5
 2.15
+ki X
+3.45
+ki 2
+2.83
+manje 2.5
+2.22
 više 2.5
-1.61
+1.57
 +812
 Fortuna Koln
 Koln II
@@ -4288,29 +4177,29 @@ Oberhausen
 Lotte
 25.10. 12:00
 ki 1
-2.07
+2.00
 ki X
-3.40
+3.45
 ki 2
-3.00
+3.10
 manje 2.5
 2.15
 više 2.5
 1.61
-+814
++815
 SC Velbert
 Schalke II
 25.10. 12:00
 ki 1
-5.50
+5.20
 ki X
-4.65
+4.55
 ki 2
-1.40
+1.43
 manje 2.5
 2.55
 više 2.5
-1.43
+1.45
  
 Germany, Regionalliga Sudwest
 +639
@@ -4318,15 +4207,15 @@ Balingen
 Kassel
 25.10. 12:00
 ki 1
-3.75
+3.95
 ki X
-4.05
+4.10
 ki 2
-1.67
+1.63
 manje 2.5
 2.55
 više 2.5
-1.45
+1.43
 +640
 Freiburg II
 Walldorf
@@ -4341,18 +4230,18 @@ manje 2.5
 2.67
 više 2.5
 1.40
-+630
++632
 Grossaspach
 Bahlinger
 25.10. 12:00
 ki 1
-1.31
+1.33
 ki X
-5.10
+5.00
 ki 2
-6.75
+6.30
 manje 2.5
-2.90
+2.88
 više 2.5
 1.35
 +639
@@ -4364,11 +4253,11 @@ ki 1
 ki X
 3.60
 ki 2
-2.40
+2.37
 manje 2.5
-2.45
+2.55
 više 2.5
-1.48
+1.45
 +640
 Steinbach Haiger
 FSV Frankfurt
@@ -4383,36 +4272,36 @@ manje 2.5
 2.55
 više 2.5
 1.43
-+632
++630
 Stuttgarter Kickers
 Schott Mainz
 25.10. 12:00
 ki 1
-1.33
+1.31
 ki X
-4.95
+5.10
 ki 2
-6.20
+6.75
 manje 2.5
 2.90
 više 2.5
 1.35
  
 Greece, Super League 2
-+632
++633
 Ilioupoli
 PAE Chania
 25.10. 12:00
 ki 1
-2.97
+3.00
 ki X
-2.97
+3.03
 ki 2
-2.30
+2.25
 manje 2.5
-1.51
+1.57
 više 2.5
-2.35
+2.20
 +629
 Kavala
 Karditsa
@@ -4990,15 +4879,15 @@ Bleiburg
 Kottmannsdorf
 25.10. 12:30
 ki 1
-1.77
+1.50
 ki X
-3.70
+4.15
 ki 2
-3.40
+4.65
 manje 2.5
-2.50
+2.67
 više 2.5
-1.42
+1.37
  
 Bulgaria, Parva Liga
 +808
@@ -5267,20 +5156,20 @@ više 2.5
 1.92
  
 Italy, Primavera 2
-+638
++637
 Bari U19
 Ascoli U19
 25.10. 12:30
 ki 1
-3.10
+2.83
 ki X
-3.60
+3.50
 ki 2
-1.97
+2.12
 manje 2.5
-2.25
+2.22
 više 2.5
-1.55
+1.57
 +637
 Cittadella U19
 Sudtirol U19
@@ -5483,7 +5372,7 @@ više 2.5
 1.71
  
 Italy, Serie A
-+1008
++1004
 Parma
 Como
 25.10. 13:00
@@ -5494,23 +5383,23 @@ ki X
 ki 2
 1.97
 manje 2.5
-1.75
+1.77
 više 2.5
-2.08
-+917
+2.07
++913
 Udinese
 Lecce
 25.10. 13:00
 ki 1
 1.95
 ki X
-3.35
+3.30
 ki 2
 4.20
 manje 2.5
-1.65
+1.62
 više 2.5
-2.27
+2.30
  
 Serbia, Super Liga
 +819
@@ -5527,20 +5416,20 @@ manje 2.5
 2.40
 više 2.5
 1.51
-+811
++812
 Radnicki 1923
 TSC
 25.10. 13:00
 ki 1
-1.71
+1.75
 ki X
-3.65
+3.55
 ki 2
-4.40
+4.15
 manje 2.5
-2.07
+2.05
 više 2.5
-1.67
+1.70
  
 Romania, Superliga
 +802
@@ -5548,7 +5437,7 @@ Otelul
 U. Cluj
 25.10. 13:00
 ki 1
-2.62
+2.60
 ki X
 3.00
 ki 2
@@ -5589,6 +5478,110 @@ manje 2.5
 3.10
 više 2.5
 1.32
+ 
+Italy, Serie B
++894
+Avellino
+Spezia
+25.10. 13:00
+ki 1
+2.75
+ki X
+3.00
+ki 2
+2.67
+manje 2.5
+1.52
+više 2.5
+2.40
++897
+Entella
+Pescara
+25.10. 13:00
+ki 1
+1.81
+ki X
+3.25
+ki 2
+4.80
+manje 2.5
+1.63
+više 2.5
+2.15
++898
+Monza
+Reggiana
+25.10. 13:00
+ki 1
+1.57
+ki X
+3.80
+ki 2
+6.00
+manje 2.5
+1.80
+više 2.5
+1.91
++900
+Sampdoria
+Frosinone
+25.10. 13:00
+ki 1
+2.35
+ki X
+3.05
+ki 2
+3.15
+manje 2.5
+1.60
+više 2.5
+2.25
++905
+Sudtirol
+Cesena
+25.10. 13:00
+ki 1
+2.83
+ki X
+3.10
+ki 2
+2.55
+manje 2.5
+1.65
+više 2.5
+2.12
+ 
+International, Friendly Women
++637
+Wales Wom.
+Australia Wom.
+25.10. 13:00
+ki 1
+3.20
+ki X
+3.50
+ki 2
+1.97
+manje 2.5
+2.10
+više 2.5
+1.65
+ 
+Armenia, Premier League
++794
+Pyunik Yerevan
+FC Gandzasar
+25.10. 13:00
+ki 1
+1.19
+ki X
+5.80
+ki 2
+10.5
+manje 2.5
+2.57
+više 2.5
+1.43
  Tiket
 TIKET
 
@@ -5647,7 +5640,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-00:44:10
+01:24:45
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
