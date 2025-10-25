@@ -3,6 +3,7 @@ name: Run all scripts every 5 minutes
 on:
   schedule:
     - cron: "*/5 * * * *"   # svakih 5 minuta
+    - cron: "0 * * * *"  # svakih sat vremena kao backup
   workflow_dispatch:
 
 jobs:
