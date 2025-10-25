@@ -373,6 +373,18 @@ def main_loop():
             else:
                 print(f"\n[*] Ciklus duži od intervala — pokrećem odmah...")
                 print(f"{'='*60}\n")
-
 if __name__ == "__main__":
-    main_loop()
+    print(f"[*] run_all.py — JEDNOKRATNI REŽIM (za GitHub Actions)")
+    print(f"[*] START-ovi sekvencijalno, pauza {START_DELAY_SEC}s (ne čeka se završetak)\n")
+
+    try:
+        one_cycle()
+    except KeyboardInterrupt:
+        print("\n\n[!] Prekid od korisnika. Izlazim.")
+    except Exception as e:
+        print(f"\n[!] NEOČEKIVANA GREŠKA: {e}")
+        import traceback
+        traceback.print_exc()
+
+    print("\n[OK] run_all.py završio jedan ciklus.")
+
