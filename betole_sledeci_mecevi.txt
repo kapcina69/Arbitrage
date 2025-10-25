@@ -56,7 +56,7 @@ SP. KOŠARKA
   
   
 TENIS
-79
+76
   
   
 RUKOMET
@@ -116,7 +116,7 @@ ESPORT
   
   
 SP. FUDBAL
-3403
+3402
   
   
 VIR. FUDBAL
@@ -128,7 +128,7 @@ VIR. TENIS
   
   
 OUTRIGHT
-398
+458
 
 This is a modal window.
 
@@ -148,15 +148,15 @@ Auckland FC
 WS Wanderers
 25.10. 04:00
 ki 1
-1.90
+1.87
 ki X
-3.55
+3.60
 ki 2
-3.80
+3.90
 manje 2.5
-1.97
+2.05
 više 2.5
-1.75
+1.70
  
 Japan, Football League
 +634
@@ -187,34 +187,34 @@ manje 2.5
 1.53
 više 2.5
 2.30
-+637
++635
 Minebea Mitsumi
 Criacao Shinjuku
 25.10. 04:00
 ki 1
-2.57
+2.50
 ki X
 2.95
 ki 2
-2.62
+2.70
 manje 2.5
 1.57
 više 2.5
 2.20
-+636
++635
 Okinawa SV
 Reilac Shiga
 25.10. 04:00
 ki 1
-3.03
+3.10
 ki X
-3.05
+3.03
 ki 2
-2.22
+2.20
 manje 2.5
-1.67
+1.63
 više 2.5
-2.03
+2.10
  
 Australia, Australian Championship
 +812
@@ -233,63 +233,63 @@ više 2.5
 1.77
  
 Japan, J1 League
-+949
++902
 FC Tokyo
 Okayama
 25.10. 05:00
 ki 1
-2.10
+1.92
 ki X
-3.15
+3.35
 ki 2
-3.60
+4.00
 manje 2.5
-1.65
+1.71
 više 2.5
-2.12
-+955
+2.03
++902
 Kashiwa Reysol
 Yokohama FC
 25.10. 05:00
 ki 1
-1.62
+1.70
 ki X
-3.70
+3.50
 ki 2
-5.40
+5.10
 manje 2.5
-1.85
+1.77
 više 2.5
-1.88
-+965
+1.95
++912
 Kyoto
 Kashima
 25.10. 05:00
 ki 1
-2.67
+2.62
 ki X
 3.40
 ki 2
-2.50
+2.55
 manje 2.5
 2.00
 više 2.5
 1.75
-+963
++962
 Nagoya Grampus
 Gamba Osaka
 25.10. 05:00
 ki 1
-2.67
+2.30
 ki X
-3.25
+3.20
 ki 2
-2.57
+3.05
 manje 2.5
-1.80
+1.77
 više 2.5
-1.92
-+951
+1.95
++949
 Shimizu S-Pulse
 Verdy
 25.10. 05:00
@@ -302,35 +302,35 @@ ki 2
 manje 2.5
 1.53
 više 2.5
-2.35
-+958
+2.37
++905
 Urawa Reds
 Machida
 25.10. 05:00
 ki 1
-3.20
-ki X
 3.25
+ki X
+3.20
 ki 2
 2.22
 manje 2.5
-1.81
+1.75
 više 2.5
-1.90
-+961
+2.00
++909
 Yokohama F. Marinos
 Sanfrecce Hiroshima
 25.10. 05:00
 ki 1
-3.65
+3.25
 ki X
-3.50
+3.30
 ki 2
-1.97
+2.20
 manje 2.5
-1.92
+1.87
 više 2.5
-1.80
+1.85
  
 Japan, J2 League
 +812
@@ -354,9 +354,9 @@ Gifu
 Kagoshima Utd
 25.10. 05:00
 ki 1
-3.30
-ki X
 3.35
+ki X
+3.40
 ki 2
 2.03
 manje 2.5
@@ -384,19 +384,19 @@ Nara Club
 ki 1
 2.22
 ki X
-3.30
+3.35
 ki 2
 2.97
 manje 2.5
-1.97
+2.00
 više 2.5
-1.73
+1.72
 +812
 Nagano
 Azul Claro Numazu
 25.10. 05:00
 ki 1
-2.20
+2.22
 ki X
 3.25
 ki 2
@@ -405,20 +405,20 @@ manje 2.5
 1.85
 više 2.5
 1.85
-+810
++809
 Tochigi City
 Vanraure
 25.10. 05:00
 ki 1
-2.27
+2.35
 ki X
 3.10
 ki 2
-3.05
+2.95
 manje 2.5
-1.72
+1.70
 više 2.5
-2.00
+2.03
  
 South Korea, K League 1 - Championship Group
 +820
@@ -499,20 +499,20 @@ više 2.5
 2.27
  
 Japan, J1 League
-+971
++919
 Cerezo Osaka
 Kawasaki Frontale
 25.10. 06:00
 ki 1
-2.57
+2.55
 ki X
-3.85
+3.90
 ki 2
 2.37
 manje 2.5
-2.73
+2.90
 više 2.5
-1.41
+1.37
  
 Australia, A-League
 +812
@@ -524,7 +524,7 @@ ki 1
 ki X
 4.65
 ki 2
-5.75
+5.70
 manje 2.5
 2.27
 više 2.5
@@ -645,7 +645,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-03:10:31
+03:50:18
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.

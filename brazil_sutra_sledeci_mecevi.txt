@@ -93,11 +93,11 @@ Orange County SC
 Indy Eleven
 659
 1
-1.95
+1.94
 X
 3.50
 2
-3.20
+3.25
 0-2
 2.15
 2+
@@ -706,13 +706,13 @@ SOUTH KOREA, K-League 1 - Championship Group
 07:30
 Daejeon
 Pohang
-834
+833
 1
-2.45
+2.35
 X
 3.20
 2
-2.70
+2.85
 0-2
 1.95
 2+
@@ -870,17 +870,17 @@ Aktobe
 Ordabasy
 823
 1
-1.53
+1.50
 X
 3.65
 2
-5.50
+5.80
 0-2
-1.85
+1.82
 2+
 1.26
 3+
-1.85
+1.87
 726
 10:00
 K. Almaty
@@ -906,15 +906,15 @@ Turan
 1
 1.88
 X
-3.70
+3.65
 2
-3.25
+3.30
 0-2
-2.45
+2.38
 2+
-1.13
+1.14
 3+
-1.47
+1.50
 728
 10:00
 Ulytau
@@ -1133,11 +1133,11 @@ Basconia
 Naxara
 653
 1
-1.96
+2.05
 X
-3.15
+3.05
 2
-3.55
+3.35
 0-2
 1.80
 2+
@@ -1769,17 +1769,17 @@ Sukhothai
 Pathum United
 832
 1
-3.20
+3.15
 X
 3.35
 2
-2.00
-0-2
 2.03
+0-2
+2.02
 2+
 1.20
 3+
-1.68
+1.69
 TURKEY, Super Lig
 270
 11:30
@@ -2269,17 +2269,17 @@ Pirin Blagoevgrad
 Etar
 653
 1
-2.25
+2.10
 X
 3.00
 2
-3.05
+3.30
 0-2
 1.60
 2+
 1.33
 3+
-2.12
+2.10
 CYPRUS, Division 2
 911
 12:30
@@ -2408,7 +2408,7 @@ SPAIN, LaLiga
 13:00
 Mallorca
 Levante
-942
+946
 1
 2.18
 X
@@ -2813,7 +2813,7 @@ X
 13:30
 Sturm Graz
 Wolfsberger AC
-929
+928
 1
 1.93
 X
@@ -2833,11 +2833,11 @@ Makedonikos
 Kampaniakos
 654
 1
-2.10
+1.98
 X
-2.95
+3.00
 2
-3.40
+3.65
 0-2
 1.53
 2+
@@ -3148,7 +3148,7 @@ ENGLAND, Premier League
 14:00
 Arsenal
 Crystal Palace
-1042
+1029
 1
 1.42
 X
@@ -3199,7 +3199,7 @@ X
 14:00
 Wolves
 Burnley
-1035
+941
 1
 1.98
 X
@@ -3290,15 +3290,15 @@ Kahraba Ismailia
 Ceramica Cleopatra
 651
 1
-4.75
+4.80
 X
-3.20
+3.25
 2
-1.71
+1.70
 0-2
 1.65
 2+
-1.34
+1.33
 3+
 2.08
 GERMANY, Regionalliga North
@@ -3346,7 +3346,7 @@ Breidablik
 1
 2.50
 X
-3.95
+4.00
 2
 2.30
 0-2
@@ -3468,7 +3468,7 @@ TURKEY, Super Lig
 14:00
 Galatasaray
 Goztepe
-982
+929
 1
 1.40
 X
@@ -3485,7 +3485,7 @@ X
 14:00
 Genclerbirligi
 Konyaspor
-982
+929
 1
 3.15
 X
@@ -3809,11 +3809,11 @@ HJK
 Inter Turku
 838
 1
-2.70
+2.65
 X
-3.60
+3.65
 2
-2.35
+2.40
 0-2
 2.35
 2+
@@ -4178,11 +4178,11 @@ SPAIN, LaLiga
 15:15
 Real Madrid
 Barcelona
-1015
+1027
 1
 1.96
 X
-4.15
+4.20
 2
 3.35
 0-2
@@ -4236,9 +4236,9 @@ U. De Chile
 1
 2.05
 X
-3.25
+3.20
 2
-3.45
+3.40
 0-2
 1.78
 2+
@@ -4445,13 +4445,13 @@ AUSTRIA, Bundesliga
 16:00
 Austria Vienna
 Salzburg
-974
+933
 1
-3.15
+3.25
 X
 3.50
 2
-2.20
+2.15
 0-2
 2.15
 2+

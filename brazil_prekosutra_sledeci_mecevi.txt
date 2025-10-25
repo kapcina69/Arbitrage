@@ -108,11 +108,11 @@ FC Botosani
 FC Hermannstadt
 826
 1
-2.20
+2.15
 X
 3.05
 2
-3.25
+3.35
 0-2
 1.65
 2+
@@ -570,7 +570,7 @@ SPAIN, LaLiga
 20:00
 Betis
 Atl. Madrid
-1014
+951
 1
 3.25
 X
