@@ -8,7 +8,7 @@ from datetime import datetime
 
 # === Podesivo ===
 PY = "python3"
-START_DELAY_SEC = 30       # ← pauza između STARTOVA (ne čekamo završetak prethodne)
+START_DELAY_SEC = 100       # ← pauza između STARTOVA (ne čekamo završetak prethodne)
 TIMEOUT_EACH = 10 * 60
 MIN_BYTES = 100
 STABILITY_CHECKS = 2
