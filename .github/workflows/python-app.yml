@@ -1,28 +1,28 @@
-name: Run all scripts periodically
+name: Run all scripts every 5 minutes
 
 on:
   schedule:
-    - cron: "*/30 * * * *" 
-  workflow_dispatch:
+    - cron: "*/5 * * * *"   # svakih 5 minuta
+  workflow_dispatch:          # omogućava ručno pokretanje
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 340 
+    timeout-minutes: 60       # do 1 sat po pokretanju
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run main loop
+      - name: Run single scraping cycle
         run: python run_all.py
 
       - name: Commit & push new results
