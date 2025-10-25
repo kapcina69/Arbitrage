@@ -1,9 +1,9 @@
-name: Run all scripts continuously (1min pause, auto-reset every 3h, silent git)
+name: Run all scripts continuously (1min pause, auto-reset every 3h, silent git, logs)
 
 on:
   schedule:
     - cron: "0 */3 * * *"  # automatski restart svakih 3h
-  workflow_dispatch:
+  workflow_dispatch:        # ručno pokretanje iz Actions taba
 
 jobs:
   run:
@@ -24,23 +24,30 @@ jobs:
           pip install -r requirements.txt
           playwright install chromium
 
-      - name: Continuous execution (run → commit → wait → repeat)
+      - name: Set timezone to Europe/Belgrade
+        run: sudo timedatectl set-timezone Europe/Belgrade
+
+      - name: Continuous execution with logs (run → commit → wait → repeat)
         run: |
+          mkdir -p logs
           git config --global user.name "GitHub Action" >/dev/null 2>&1
           git config --global user.email "actions@github.com" >/dev/null 2>&1
 
           while true; do
-            echo "=== [$(date)] Starting run_all.py ==="
-            python run_all.py
+            ts=$(date '+%Y-%m-%d_%H-%M')
+            log_file="logs/run_${ts}.txt"
 
-            echo "=== [$(date)] Finished run_all.py, committing changes... ==="
+            echo "=== [$(date)] Starting run_all.py ===" | tee -a "$log_file"
+            python run_all.py >>"$log_file" 2>&1
+
+            echo "=== [$(date)] Finished run_all.py, committing changes... ===" | tee -a "$log_file"
             git add . >/dev/null 2>&1
             git commit -m "auto: run_all update $(date '+%Y-%m-%d %H:%M')" >/dev/null 2>&1 || true
 
             # tiha sinhronizacija sa origin/main
             git pull --rebase origin main >/dev/null 2>&1 || true
-            git push origin main >/dev/null 2>&1 || echo "[git] Push skipped (no changes or race condition)"
+            git push origin main >/dev/null 2>&1 || echo "[git] Push skipped (no changes or race condition)" >>"$log_file"
 
-            echo "=== [$(date)] Sleeping 1 minute before next cycle... ==="
+            echo "=== [$(date)] Sleeping 1 minute before next cycle... ===" | tee -a "$log_file"
             sleep 60
           done
