@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 27.10.
-19:00
+20:00
 23:59
-19:00 - 23:59
+20:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -33,7 +33,6 @@ STONI TENIS
 RAGBI UNIJA
 AMERIČKI FUDBAL
 MMA
-SNUKER
 FUTSAL
 PIKADO
 ESPORT
@@ -41,200 +40,6 @@ BOKS
 POBEDNICI
 GOLOVI PO LIGAMA
 FUDBAL
-HUNGARY, NB I
-136
-19:30
-Nyiregyhaza
-Kazincbarcikai
-825
-IRAQ, Stars League
-34438
-19:30
-Al Quwa Al Jawiya
-Al Gharraf
-653
-34439
-19:30
-Newroz
-Duhok
-658
-ITALY, Serie B
-312
-19:30
-Catanzaro
-Palermo
-923
-POLAND, Division 1
-379
-19:30
-Pogon Siedlce
-LKS Lodz
-833
-380
-19:30
-Polonia Warszawa
-Polonia Bytom
-834
-381
-19:30
-Slask Wroclaw
-Leczna
-833
-PORTUGAL, Liga 3
-1174
-19:30
-AD Marco 09
-Trofense
-652
-SWITZERLAND, 1.Liga Promotion
-33414
-19:30
-Bulle
-Kriens
-658
-NETHERLANDS, Eredivisie
-254
-20:00
-FC Volendam
-Heracles
-987
-AUSTRIA, 2. Liga
-181
-20:00
-SK Rapid Wien (Am)
-A. Lustenau
-837
-BELGIUM, 1B Pro League
-520
-20:00
-Beveren
-Patro Eisden
-822
-521
-20:00
-Eupen
-Genk U23
-832
-522
-20:00
-RFC Liege
-RWDM
-833
-BELGIUM, National Division 1
-33650
-20:00
-Tubize-Braine
-Virton
-659
-33651
-20:00
-Union Rochefortoise
-Stockay-Warfusee
-657
-BOTSWANA, Premier League
-33627
-20:00
-Centre Chiefs
-Township Rollers
-102
-BRAZIL, Campeonato Carioca B1
-34447
-20:00
-Artsul
-AA Carapebus
-645
-34448
-20:00
-Bonsucesso
-Nova Cidade
-650
-34449
-20:00
-Duque de Caxias
-Paduano
-651
-34450
-20:00
-Sao Cristovao
-Friburguense
-643
-34451
-20:00
-Serrano
-Petropolis
-647
-BRAZIL, Campeonato Carioca Women
-34452
-20:00
-Fluminense Wom.
-Flamengo Wom.
-60
-BRAZIL, Campeonato Mineiro 3
-35150
-20:00
-Tupi-MG
-Novo Esporte
-60
-BRAZIL, Campeonato Pernambucano 2 - Play Offs
-35147
-20:00
-Academica Vitoria
-Centro Limoeirense
-647
-BRAZIL, Copa do Brasil U20
-34372
-20:00
-Gremio U20
-EC Sao Jose U20
-652
-CHILE, Primera Division
-69
-20:00
-Deportes La Serena
-A. Italiano
-832
-FRANCE, Ligue 2
-330
-20:00
-Annecy
-St Etienne
-969
-MEXICO, Liga Premier Serie B
-34399
-20:00
-Huracanes Izcalli
-Ayense
-659
-PERU, Liga 1 - Clausura
-534
-20:00
-Ayacucho
-Deportivo Garcilaso
-828
-ROMANIA, Superliga
-586
-20:00
-CFR Cluj
-Farul Constanta
-829
-SAUDI ARABIA, Professional League
-399
-20:00
-Al-Hazem
-Al-Nassr Riyadh
-807
-WORLD, CAF Champions League - Qualification
-34368
-20:00
-Kabylie
-Monastir
-824
-POLAND, Ekstraklasa
-164
-20:15
-GKS Katowice
-Korona Kielce
-835
 BRAZIL, Campeonato Maranhense 2 - Play Offs
 34454
 20:30
@@ -246,7 +51,7 @@ GERMANY, 2. Bundesliga
 20:30
 Hertha Berlin
 Dusseldorf
-974
+976
 ITALY, Serie C - Group B
 892
 20:30
@@ -264,25 +69,25 @@ SWITZERLAND, Super League
 20:30
 Winterthur
 Luzern
-837
+838
 URUGUAY, Segunda Division
 864
 20:30
 Uruguay Montevideo
 Tacuarembo
-654
+650
 ITALY, Serie A
 21
 20:45
 Cremonese
 Atalanta
-1065
+979
 BELGIUM, Jupiler Pro League
 484
 20:45
 Gent
 St. Liege
-976
+926
 BOSNIA AND HERZEGOVINA, Premijer Liga BiH
 604
 20:45
@@ -294,25 +99,25 @@ IRELAND, Premier Division
 20:45
 Sligo Rovers
 Cork City
-827
+826
 ENGLAND, Premier League
 80
 21:00
 Brentford
 Liverpool
-1085
+1086
 SPAIN, LaLiga
 446
 21:00
 Valencia
 Villarreal
-1087
+996
 NETHERLANDS, Eredivisie
 255
 21:00
 Zwolle
 Nijmegen
-935
+934
 BOLIVIA, Copa Pacena
 1365
 21:00
@@ -342,12 +147,12 @@ BRAZIL, Serie A
 21:00
 Atletico-MG
 Ceara
-998
+917
 453
 21:00
 Vitoria
 Corinthians
-995
+999
 BRAZIL, Serie B
 847
 21:00
@@ -358,7 +163,7 @@ America MG
 21:00
 Volta Redonda
 Coritiba
-823
+820
 COLOMBIA, Primera A - Clausura
 570
 21:00
@@ -370,13 +175,13 @@ COSTA RICA, Liga de Ascenso - Apertura
 21:00
 Escorpiones
 Pitbulls
-656
+657
 ECUADOR, Liga Pro - Relegation Group
 1406
 21:00
 Mushuc Runa
 Manta
-923
+957
 PORTUGAL, Liga 3
 1175
 21:00
@@ -388,7 +193,7 @@ SPAIN, LaLiga2
 21:00
 Mirandes
 Racing Santander
-926
+967
 SPAIN, Primera RFEF - Group 1
 1159
 21:00
@@ -424,13 +229,13 @@ FRANCE, Ligue 1
 21:05
 Lens
 Marseille
-1092
+1009
 PORTUGAL, Liga Portugal
 102
 21:30
 Benfica
 Arouca
-907
+955
 103
 21:30
 Estrela
@@ -482,13 +287,13 @@ BRAZIL, Serie A
 22:30
 Fluminense
 Internacional
-921
+919
 CHILE, Primera Division
 70
 22:30
 Huachipato
 Deportes Iquique
-838
+837
 PARAGUAY, Copa de Primera - Clausura
 619
 22:30
@@ -552,7 +357,7 @@ Birmingham Legion FC
 23:00
 Loudoun
 North Carolina FC
-656
+658
 COLOMBIA, Primera A - Clausura
 573
 23:10
@@ -599,12 +404,6 @@ Canamy
 Cordobes FC
 Lobos ULMX
 654
-MEXICO, Liga Premier Serie B
-34400
-23:30
-Uruapan
-Poza Rica
-656
 URUGUAY, Liga AUF Uruguaya - Clausura
 1379
 23:30
@@ -622,7 +421,7 @@ VENEZUELA, Liga FUTVE 2 - Play Offs
 23:30
 Dynamo Puerto
 Trujillanos
-644
+645
 Odigrani tiketi
 Klikni na kvotu i pokreni
 Srpski

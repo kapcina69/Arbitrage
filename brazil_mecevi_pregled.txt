@@ -1,222 +1,18 @@
 ======================================================================
-19:00
-19:00 - 23:59  vs  KOŠARKA IGRAČI
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-19:30
-Nyiregyhaza  vs  Kazincbarcikai   (ID: 825)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-19:30
-Al Quwa Al Jawiya  vs  Al Gharraf   (ID: 653)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-19:30
-Newroz  vs  Duhok   (ID: 658)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-19:30
-Catanzaro  vs  Palermo   (ID: 923)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-19:30
-Pogon Siedlce  vs  LKS Lodz   (ID: 833)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-19:30
-Polonia Warszawa  vs  Polonia Bytom   (ID: 834)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-19:30
-Slask Wroclaw  vs  Leczna   (ID: 833)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-19:30
-AD Marco 09  vs  Trofense   (ID: 652)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-19:30
-Bulle  vs  Kriens   (ID: 658)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
 20:00
-FC Volendam  vs  Heracles   (ID: 987)
+20:00 - 23:59  vs  KOŠARKA IGRAČI
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-20:00
-SK Rapid Wien (Am)  vs  A. Lustenau   (ID: 837)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Beveren  vs  Patro Eisden   (ID: 822)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Eupen  vs  Genk U23   (ID: 832)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-RFC Liege  vs  RWDM   (ID: 833)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Tubize-Braine  vs  Virton   (ID: 659)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Union Rochefortoise  vs  Stockay-Warfusee   (ID: 657)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Centre Chiefs  vs  Township Rollers   (ID: 102)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Artsul  vs  AA Carapebus   (ID: 645)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Bonsucesso  vs  Nova Cidade   (ID: 650)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Duque de Caxias  vs  Paduano   (ID: 651)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Sao Cristovao  vs  Friburguense   (ID: 643)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Serrano  vs  Petropolis   (ID: 647)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Fluminense Wom.  vs  Flamengo Wom.   (ID: 60)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Tupi-MG  vs  Novo Esporte   (ID: 60)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Academica Vitoria  vs  Centro Limoeirense   (ID: 647)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Gremio U20  vs  EC Sao Jose U20   (ID: 652)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Deportes La Serena  vs  A. Italiano   (ID: 832)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Annecy  vs  St Etienne   (ID: 969)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Huracanes Izcalli  vs  Ayense   (ID: 659)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Ayacucho  vs  Deportivo Garcilaso   (ID: 828)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-CFR Cluj  vs  Farul Constanta   (ID: 829)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00
-Al-Hazem  vs  Al-Nassr Riyadh   (ID: 807)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00  [WORLD, CAF Champions League - Qualification]
-Kabylie  vs  Monastir   (ID: 824)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:15  [WORLD, CAF Champions League - Qualification]
-GKS Katowice  vs  Korona Kielce   (ID: 835)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:30  [WORLD, CAF Champions League - Qualification]
+20:30
 Luminense  vs  ITZ Sport   (ID: 60)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
-20:30  [WORLD, CAF Champions League - Qualification]
-Hertha Berlin  vs  Dusseldorf   (ID: 974)
+20:30
+Hertha Berlin  vs  Dusseldorf   (ID: 976)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
@@ -234,25 +30,25 @@ UD Logrones  vs  Tudelano   (ID: 650)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:30  [ITALY, Serie C - Group B]
-Winterthur  vs  Luzern   (ID: 837)
+Winterthur  vs  Luzern   (ID: 838)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:30  [ITALY, Serie C - Group B]
-Uruguay Montevideo  vs  Tacuarembo   (ID: 654)
+Uruguay Montevideo  vs  Tacuarembo   (ID: 650)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:45  [ITALY, Serie C - Group B]
-Cremonese  vs  Atalanta   (ID: 1065)
+Cremonese  vs  Atalanta   (ID: 979)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:45  [ITALY, Serie C - Group B]
-Gent  vs  St. Liege   (ID: 976)
+Gent  vs  St. Liege   (ID: 926)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
@@ -264,25 +60,25 @@ Velez Mostar  vs  Siroki Brijeg   (ID: 825)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:45  [ITALY, Serie C - Group B]
-Sligo Rovers  vs  Cork City   (ID: 827)
+Sligo Rovers  vs  Cork City   (ID: 826)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:00  [ITALY, Serie C - Group B]
-Brentford  vs  Liverpool   (ID: 1085)
+Brentford  vs  Liverpool   (ID: 1086)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:00  [ITALY, Serie C - Group B]
-Valencia  vs  Villarreal   (ID: 1087)
+Valencia  vs  Villarreal   (ID: 996)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:00  [ITALY, Serie C - Group B]
-Zwolle  vs  Nijmegen   (ID: 935)
+Zwolle  vs  Nijmegen   (ID: 934)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
@@ -312,13 +108,13 @@ Santa Catarina  vs  Marcilio Dias   (ID: 656)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:00  [BRAZIL, Copa Santa Catarina - Play Offs]
-Atletico-MG  vs  Ceara   (ID: 998)
+Atletico-MG  vs  Ceara   (ID: 917)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:00  [BRAZIL, Copa Santa Catarina - Play Offs]
-Vitoria  vs  Corinthians   (ID: 995)
+Vitoria  vs  Corinthians   (ID: 999)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
@@ -330,7 +126,7 @@ Athletic Club  vs  America MG   (ID: 823)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:00  [BRAZIL, Copa Santa Catarina - Play Offs]
-Volta Redonda  vs  Coritiba   (ID: 823)
+Volta Redonda  vs  Coritiba   (ID: 820)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
@@ -342,13 +138,13 @@ Envigado  vs  Chico   (ID: 822)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:00  [COSTA RICA, Liga de Ascenso - Apertura]
-Escorpiones  vs  Pitbulls   (ID: 656)
+Escorpiones  vs  Pitbulls   (ID: 657)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:00  [ECUADOR, Liga Pro - Relegation Group]
-Mushuc Runa  vs  Manta   (ID: 923)
+Mushuc Runa  vs  Manta   (ID: 957)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
@@ -360,7 +156,7 @@ AD Fafe  vs  Vitoria Guimaraes B   (ID: 653)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:00  [ECUADOR, Liga Pro - Relegation Group]
-Mirandes  vs  Racing Santander   (ID: 926)
+Mirandes  vs  Racing Santander   (ID: 967)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
@@ -396,13 +192,13 @@ FAR Rabat  vs  Horoya   (ID: 799)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:05  [WORLD, CAF Champions League - Qualification]
-Lens  vs  Marseille   (ID: 1092)
+Lens  vs  Marseille   (ID: 1009)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:30  [WORLD, CAF Champions League - Qualification]
-Benfica  vs  Arouca   (ID: 907)
+Benfica  vs  Arouca   (ID: 955)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
@@ -456,13 +252,13 @@ Alianza Atl.  vs  Cienciano   (ID: 828)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 22:30  [COLOMBIA, Primera B - Clausura]
-Fluminense  vs  Internacional   (ID: 921)
+Fluminense  vs  Internacional   (ID: 919)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 22:30  [COLOMBIA, Primera B - Clausura]
-Huachipato  vs  Deportes Iquique   (ID: 838)
+Huachipato  vs  Deportes Iquique   (ID: 837)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
@@ -523,12 +319,6 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 23:00  [NICARAGUA, Liga Primera - Apertura]
 Charleston  vs  Birmingham Legion FC   (ID: 653)
-1=-   X=-   2=-
-0-2=-   2+=-   3+=-
-GG=-   IGG=-   GG&3+=-
-======================================================================
-23:00  [NICARAGUA, Liga Primera - Apertura]
-Loudoun  vs  North Carolina FC   (ID: 656)
 1=-   X=-   2=-
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-

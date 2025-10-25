@@ -15,7 +15,7 @@ Top Mečevi
  
 Top Lige
  
-Fudbal (221)
+Fudbal (215)
 Sve
 Fudbal Strelci
 12
@@ -26,37 +26,35 @@ Oktagon Duel
 Golovi Po Ligama
 1
 Tenis
-37
+36
 Košarka
-50
+48
 Košarka Specijal
-7
+5
 MMA
-6
+5
 Esport
-13
+12
 Hokej
-27
+24
 Rukomet
-28
+26
 Americki Fudbal
 2
 Rukomet Specijal
-3
+2
 Odbojka
-29
+26
 Am. Fudbal Specijal
 1
 Stoni Tenis
-3
+2
 Bejzbol
 5
 Futsal
 5
 Ragbi Unija
 2
-Snuker
-1
 Pikado
 2
 Boks
@@ -73,286 +71,36 @@ UG3+
 UG4+
 GG
 GG3+
-25.10. 20:00
-Deportes La Serena - A. Italiano
-2.28
-3.30
-2.88
-1.92
-1.79
-3.10
-1.66
-2.12
-25.10. 20:00
-SK Rapid Wien (Am) - A. Lustenau
-3.30
-3.80
-1.91
-2.22
-1.58
-2.50
-1.53
-1.84
-25.10. 20:00
-FC Volendam - Heracles
-2.12
-3.60
-3.20
-2.15
-1.63
-2.65
-1.56
-1.92
-25.10. 20:00
-Annecy - St Etienne
-4.00
-3.50
-1.87
-1.91
-1.81
-3.15
-1.73
-2.18
-25.10. 20:00
-Al-Hazem - Al-Nassr Riyadh
-13.5
-7.15
-1.12
-3.45
-1.25
-1.70
-1.92
-2.08
-25.10. 20:00
-Beveren - Patro Eisden
-1.53
-3.80
-5.80
-1.81
-1.89
-3.35
-2.03
-2.55
-25.10. 20:00
-Eupen - Genk U23
-1.60
-4.00
-4.65
-2.18
-1.60
-2.60
-1.66
-2.00
-25.10. 20:00
-RFC Liege - RWDM
-2.88
-3.30
-2.28
-2.00
-1.71
-2.88
-1.60
-2.02
-25.10. 20:00
-Ayacucho - Deportivo Garcilaso
-2.10
-3.15
-3.40
-1.70
-2.03
-3.75
-1.87
-2.50
-25.10. 20:00
-CFR Cluj - Farul Constanta
-1.93
-3.40
-3.60
-1.88
-1.82
-3.15
-1.72
-2.18
-25.10. 20:00
-Centre Chiefs - Township Rollers
-2.62
-2.90
-2.47
-1.52
-2.25
-4.40
-1.95
-2.70
-25.10. 20:00
-Tubize-Braine - Virton
-1.97
-3.60
-3.10
-2.25
-1.56
-2.47
-1.51
-1.83
-25.10. 20:00
-Union Rochefortoise - Stockay-Warfusee
-2.75
-3.25
-2.28
-1.93
-1.75
-3.00
-1.63
-2.08
-25.10. 20:00
-Kabylie - Monastir
-1.83
-3.20
-4.00
-1.64
-2.10
-3.95
-1.98
-2.62
-25.10. 20:00
-Gremio U20 - EC Sao Jose U20
-1.63
-3.40
-4.90
-1.72
-1.97
-3.60
-2.00
-2.60
-25.10. 20:00
-Huracanes Izcalli - Ayense
-2.75
-3.55
-2.18
-2.30
-1.53
-2.40
-1.47
-1.78
-25.10. 20:00
-Artsul - AA Carapebus
-1.63
-3.20
-5.40
-1.47
-2.47
-5.10
-2.47
-3.45
-25.10. 20:00
-Bonsucesso - Nova Cidade
-1.70
-3.15
-4.80
-1.55
-2.25
-4.45
-2.18
-2.95
-25.10. 20:00
-Duque de Caxias - Paduano
-2.22
-3.00
-3.10
-1.44
-2.55
-5.35
-2.18
-3.15
-25.10. 20:00
-Sao Cristovao - Friburguense
-2.00
-2.80
-3.95
-1.31
-3.10
-7.20
-2.62
-4.05
-25.10. 20:00
-Serrano - Petropolis
-2.88
-2.85
-2.40
-1.42
-2.60
-5.55
-2.20
-3.20
-25.10. 20:00
-Fluminense Wom. - Flamengo Wom.
-3.00
-3.10
-2.20
-1.73
-1.97
-3.60
-1.78
-2.38
-25.10. 20:00
-Academica Vitoria - Centro Limoeirense
-1.46
-3.70
-6.55
-1.69
-2.03
-3.75
-2.28
-2.95
-25.10. 20:00
-Tupi-MG - Novo Esporte
-2.08
-3.10
-3.25
-1.70
-2.00
-3.70
-1.84
-2.45
-25.10. 20:15
-GKS Katowice - Korona Kielce
-2.50
-3.35
-2.70
-1.92
-1.80
-3.10
-1.66
-2.12
 25.10. 20:30
 Hertha Berlin - Dusseldorf
-1.86
-3.80
-3.85
-2.25
-1.58
-2.55
-1.56
-1.87
+1.81
+3.90
+4.00
+2.38
+1.53
+2.38
+1.52
+1.81
 25.10. 20:30
 Winterthur - Luzern
-3.20
-3.65
-2.00
-2.25
-1.56
-2.50
+3.10
+3.70
+2.02
+2.35
 1.52
-1.84
+2.38
+1.48
+1.78
 25.10. 20:30
 Uruguay Montevideo - Tacuarembo
-3.05
-2.95
-2.25
-1.54
-2.28
-4.50
-2.00
-2.75
+3.40
+2.85
+2.15
+1.43
+2.60
+5.45
+2.22
+3.20
 25.10. 20:30
 Forli - ASD Pineto Calcio
 2.18
@@ -375,44 +123,44 @@ UD Logrones - Tudelano
 2.47
 25.10. 20:30
 Luminense - ITZ Sport
-4.33
-3.15
-1.78
-1.53
+4.65
+3.20
+1.71
+1.52
 2.32
-4.60
-2.18
-3.00
+4.65
+2.25
+3.05
 25.10. 20:45
 Cremonese - Atalanta
-5.75
-4.10
-1.58
-2.07
-1.76
-2.95
-1.87
-2.30
+6.95
+4.70
+1.44
+2.32
+1.61
+2.55
+1.83
+2.18
 25.10. 20:45
 Sligo Rovers - Cork City
-1.52
+1.54
 3.90
-5.75
-1.95
-1.76
-3.00
-1.91
-2.35
+5.50
+2.03
+1.70
+2.85
+1.81
+2.22
 25.10. 20:45
 Gent - St. Liege
-2.12
-3.30
+1.99
 3.40
-1.86
-1.85
-3.25
-1.73
-2.25
+3.65
+1.90
+1.82
+3.15
+1.71
+2.20
 25.10. 20:45
 +3
 Velez Mostar - Siroki Brijeg
@@ -426,73 +174,73 @@ Velez Mostar - Siroki Brijeg
 2.45
 25.10. 21:00
 Brentford - Liverpool
-4.05
-4.20
-1.78
-2.47
-1.55
-2.38
-1.55
-1.83
+3.65
+4.10
+1.88
+2.50
+1.53
+2.35
+1.51
+1.77
 25.10. 21:00
 Zwolle - Nijmegen
-3.50
-3.85
-1.94
-2.32
-1.55
-2.45
+3.70
+3.90
+1.88
+2.35
+1.54
+2.40
 1.51
 1.81
 25.10. 21:00
 Mirandes - Racing Santander
-3.70
-3.40
-1.98
-1.87
-1.85
-3.25
-1.74
-2.25
+3.65
+3.45
+1.97
+1.95
+1.78
+3.05
+1.68
+2.12
 25.10. 21:00
 Valencia - Villarreal
-3.40
+3.55
 3.50
-2.15
 2.07
-1.76
-2.95
-1.67
-2.10
+2.02
+1.80
+3.10
+1.71
+2.15
 25.10. 21:00
 Atletico-MG - Ceara
-1.93
+1.88
 3.30
-4.00
-1.56
-2.30
+4.25
+1.55
+2.32
 4.55
-2.10
-2.85
+2.12
+2.90
 25.10. 21:00
 Vitoria - Corinthians
 2.60
-2.95
-2.85
-1.49
-2.47
-5.05
-2.10
 3.00
+2.85
+1.53
+2.35
+4.70
+2.03
+2.85
 25.10. 21:00
 Envigado - Chico
-2.15
+2.18
 3.00
-3.45
+3.40
 1.55
-2.28
-4.50
-2.02
+2.30
+4.55
+2.03
 2.80
 25.10. 21:00
 Athletic Club - America MG
@@ -500,20 +248,20 @@ Athletic Club - America MG
 3.05
 2.85
 1.59
-2.25
-4.35
+2.22
+4.33
 1.96
 2.70
 25.10. 21:00
 Volta Redonda - Coritiba
-3.35
+3.50
 3.05
-2.25
-1.60
-2.22
-4.30
-1.96
-2.70
+2.18
+1.56
+2.28
+4.50
+2.02
+2.80
 25.10. 21:00
 Real Madrid B - Real Aviles
 1.86
@@ -556,14 +304,14 @@ Rayo Majadahonda - Ilicitano
 2.90
 25.10. 21:00
 Academia del Balompie - Universitario de Vinto
-1.92
-3.40
-3.40
-1.93
-1.76
-3.00
-1.67
-2.10
+1.83
+3.50
+3.60
+2.04
+1.68
+2.80
+1.63
+2.00
 25.10. 21:00
 CA Cerro - Penarol
 8.25
@@ -576,34 +324,34 @@ CA Cerro - Penarol
 3.20
 25.10. 21:00
 Mushuc Runa - Manta
-1.56
-3.65
-5.15
-1.87
-1.81
-3.15
-1.91
+1.61
+3.55
+4.85
+1.85
+1.83
+3.25
+1.89
 2.38
 25.10. 21:00
 Escorpiones - Pitbulls
-1.72
-3.60
-4.00
-2.10
-1.64
-2.70
-1.63
+2.07
+3.35
+3.05
+2.04
+1.68
+2.80
+1.59
 1.99
 25.10. 21:00
 FAR Rabat - Horoya
 1.20
-4.90
-14.3
-1.75
-1.94
-3.55
-3.40
-4.35
+4.85
+14.8
+1.70
+2.00
+3.70
+3.65
+4.70
 25.10. 21:00
 Santa Catarina - Marcilio Dias
 2.20
@@ -637,23 +385,23 @@ Desportiva Aracaju - Atletica Gloriense
 25.10. 21:05
 Lens - Marseille
 2.65
-3.50
+3.60
 2.55
-2.15
-1.70
-2.80
-1.60
-1.99
+2.25
+1.65
+2.65
+1.57
+1.92
 25.10. 21:30
 Benfica - Arouca
-1.17
-7.00
-14.5
+1.15
+7.35
+16.3
 2.90
 1.36
 1.95
-2.05
-2.30
+2.18
+2.40
 25.10. 21:30
 Estrela - Rio Ave
 2.50
@@ -666,9 +414,9 @@ Estrela - Rio Ave
 2.55
 25.10. 22:00
 Deportes Tolima - Dep. Cali
-2.02
+2.04
 3.20
-3.55
+3.50
 1.62
 2.15
 4.10
@@ -728,7 +476,7 @@ Jarabacoa - Moca
 Alianza Atl. - Cienciano
 1.97
 3.30
-3.60
+3.55
 1.79
 1.91
 3.45
@@ -736,23 +484,23 @@ Alianza Atl. - Cienciano
 2.35
 25.10. 22:30
 Huachipato - Deportes Iquique
-1.83
-3.75
-3.60
-2.32
-1.53
-2.40
+1.71
+3.85
+4.05
+2.38
 1.51
+2.35
+1.52
 1.81
 25.10. 22:30
 Fluminense - Internacional
 1.86
 3.25
 4.45
-1.61
-2.20
-4.25
-2.07
+1.59
+2.22
+4.33
+2.08
 2.80
 25.10. 22:30
 Atl. Tembetary - Sp. Luqueno
@@ -776,24 +524,24 @@ Charleston - Birmingham Legion FC
 1.94
 25.10. 23:00
 Loudoun - North Carolina FC
-1.87
-3.45
+1.91
 3.50
-1.96
-1.73
-2.95
-1.66
-2.07
+3.30
+2.10
+1.64
+2.70
+1.58
+1.94
 25.10. 23:00
 Deportivo Mixco - Mictlan
-1.45
+1.46
 3.65
-6.70
+6.55
 1.66
 2.07
-3.90
-2.35
-3.10
+3.85
+2.32
+3.05
 25.10. 23:00
 Portland Hearts of Pine - AV Alta
 1.82
@@ -888,20 +636,20 @@ Sport Recife - Mirassol
 Paysandu PA - Avai
 2.60
 3.10
-2.80
+2.75
 1.62
 2.18
-4.20
+4.15
 1.92
-2.65
+2.62
 25.10. 23:30
 Dynamo Puerto - Trujillanos
-2.20
+2.28
 2.80
-3.35
+3.15
 1.36
 2.85
-6.30
+6.35
 2.35
 3.55
 25.10. 23:30
@@ -916,14 +664,14 @@ Monagas - La Guaira
 2.60
 25.10. 23:30
 Guabira - Blooming
-2.12
-3.65
-2.75
+2.32
+3.60
+2.50
 2.55
-1.43
-2.15
-1.40
-1.65
+1.45
+2.18
+1.41
+1.66
 25.10. 23:30
 Cerro Largo - Racing Montevideo
 2.55
@@ -976,14 +724,14 @@ Cordobes FC - Lobos ULMX
 2.55
 25.10. 23:30
 Uruapan - Poza Rica
-1.84
-3.45
+1.81
 3.65
-1.96
-1.74
-2.95
-1.67
-2.08
+3.55
+2.25
+1.56
+2.47
+1.53
+1.85
 26.10. 00:00
 Philadelphia Union II - Huntsville
 2.10
@@ -1016,14 +764,14 @@ Colima FC - Cimarrones de Sonora
 2.60
 26.10. 00:00
 Deportiva Venados - Pioneros
-1.58
-3.85
-4.60
-2.18
-1.59
-2.55
-1.66
-2.00
+1.49
+4.05
+5.20
+2.22
+1.57
+2.50
+1.70
+2.03
 26.10. 00:00
 Tritones Vallarta - UA Zacatecas
 1.60
@@ -1056,14 +804,14 @@ Fortaleza - Flamengo RJ
 2.60
 26.10. 00:30
 Dakota - Bubali
+1.08
+8.55
+14.3
+5.30
 1.11
-7.60
-13.5
-4.05
-1.19
-1.55
-1.75
-1.88
+1.37
+1.61
+1.68
 26.10. 00:30
 Brasil de Pelotas - Internacional B
 1.30
@@ -1096,7 +844,7 @@ U.A.N.L.- Tigres - Club Tijuana
 1.78
 26.10. 01:00
 Sportivo Trinidense - .2 de Mayo
-2.15
+2.12
 3.10
 3.35
 1.65
@@ -1196,19 +944,19 @@ Auckland City - Auckland FC II
 1.91
 26.10. 01:15
 CD Choloma - Juticalpa
-3.15
-3.60
-1.94
-2.28
-1.55
-2.45
+3.30
+3.80
+1.84
+2.47
+1.46
+2.22
 -
 -
 26.10. 01:20
 Santa Fe - Millonarios
-2.65
+2.70
 3.00
-2.62
+2.60
 1.60
 2.18
 4.20
@@ -1236,9 +984,9 @@ Tampa Bay - Detroit
 2.02
 26.10. 01:30
 Criciuma - Goias
-1.93
+1.94
 3.20
-4.20
+4.15
 1.54
 2.35
 4.65
@@ -1287,23 +1035,23 @@ FAS - Alianza FC
 26.10. 02:00
 Metapan - Cacahuatique
 1.69
-3.30
-4.55
-1.61
-2.08
-3.95
-2.04
-2.70
+3.25
+4.75
+1.51
+2.28
+4.50
+2.20
+3.00
 26.10. 02:00
 FC Tulsa - Colorado Springs
 2.15
-3.20
+3.25
 3.00
-1.89
-1.79
-3.10
-1.67
-2.15
+1.93
+1.76
+3.05
+1.64
+2.10
 26.10. 02:00
 San Antonio - EL Paso
 2.10
@@ -1346,14 +1094,14 @@ Zacatecas Mineros - Atlante
 2.15
 26.10. 02:00
 Aurora - Always Ready
-2.95
-3.50
-2.05
+3.20
+3.65
+1.92
 2.40
-1.49
-2.30
+1.48
+2.28
 1.45
-1.74
+1.72
 26.10. 02:00
 Dep. Cuenca - Aucas
 2.18
@@ -1396,31 +1144,31 @@ Plaza Amador - Alianza FC Panama
 2.15
 26.10. 02:30
 Once Caldas - U. Magdalena
-1.49
-3.85
-6.30
-1.83
-1.87
+1.48
+3.90
+6.35
+1.84
+1.86
 3.30
 2.07
 2.60
 26.10. 03:00
 Wellington Phoenix - Brisbane Roar
-2.80
+3.00
 3.25
-2.47
+2.32
 1.82
 1.90
 3.40
 1.73
-2.25
+2.28
 26.10. 03:00
 Oakland Roots - Lexington
-2.62
+2.80
 3.25
-2.40
-1.91
-1.77
+2.25
+1.92
+1.76
 3.05
 1.64
 2.10
@@ -1446,13 +1194,13 @@ Orange County SC - Indy Eleven
 1.91
 26.10. 03:00
 Sacramento Republic - Miami FC
-1.54
-3.65
-5.35
-1.84
-1.84
-3.25
-1.96
+1.51
+3.75
+5.60
+1.86
+1.82
+3.20
+1.97
 2.47
 26.10. 03:00
 Antigua - Aurora
@@ -1466,14 +1214,14 @@ Antigua - Aurora
 2.28
 26.10. 03:00
 Herediano - Cartagines
-1.96
-3.20
-3.50
-1.72
-1.98
+2.08
+3.10
+3.25
+1.73
+1.97
 3.60
-1.83
-2.45
+1.81
+2.40
 26.10. 03:00
 Broadmeadow - South Melbourne
 5.00
@@ -1526,33 +1274,33 @@ CD Victoria - UPNFM
 2.02
 26.10. 04:00
 Marquense - CSD Comunicaciones
-2.12
-3.00
-3.30
-1.56
+2.08
+3.20
+3.15
+1.81
+1.87
+3.35
+1.73
 2.25
-4.35
-1.99
-2.75
 26.10. 04:00
 Dorados de Sinaloa - Tlaxcala
-2.28
-3.45
+2.38
+3.25
 2.62
-2.15
-1.58
-2.55
-1.50
-1.85
+1.93
+1.71
+2.90
+1.59
+2.03
 26.10. 04:05
 Cruz Azul - Monterrey
-1.89
+1.85
 3.75
-3.45
+3.55
 2.30
 1.55
 2.45
-1.51
+1.52
 1.82
 26.10. 05:00
 Hokkaido Consadole Sapporo - Mito
@@ -1606,9 +1354,9 @@ Maruyasu Okazaki - Honda FC
 2.40
 26.10. 05:05
 Tokushima - Iwaki
-2.55
+2.50
 3.00
-2.70
+2.80
 1.60
 2.20
 4.25
@@ -1876,12 +1624,12 @@ Tai Po - Eastern AA
 2.10
 26.10. 08:30
 Shandong Taishan - Shanghai Port
+2.32
+4.10
 2.40
-4.15
-2.30
-3.90
-1.21
-1.60
+3.85
+1.22
+1.61
 1.23
 1.35
 26.10. 08:30
@@ -2046,14 +1794,14 @@ K. Almaty - FC Astana
 2.32
 26.10. 11:00
 Okzhetpes - Turan
-1.85
+1.81
 3.20
-3.90
+4.10
 1.64
-2.10
+2.08
 3.95
-1.97
-2.60
+1.99
+2.62
 26.10. 11:00
 Ulytau - Tobol
 4.85
@@ -2066,14 +1814,14 @@ Ulytau - Tobol
 2.50
 26.10. 11:00
 Yelimay Semey - Atyrau
-1.63
-3.40
-4.95
-1.79
-1.89
-3.40
-1.94
-2.47
+1.60
+3.50
+5.05
+1.85
+1.83
+3.25
+1.91
+2.40
 26.10. 11:00
 Zhenis - Kaisar Kyzylorda
 1.79
@@ -2126,14 +1874,14 @@ Erbaaspor - 1928 Bucaspor
 2.35
 26.10. 11:00
 Mardin BB - Isparta 32 Spor
-1.92
-3.40
-3.40
 1.90
-1.74
-3.00
+3.45
+3.40
+2.00
 1.66
-2.08
+2.80
+1.59
+1.97
 26.10. 11:00
 Spartak Moscow 2 - Zvezda St. Peterburg
 1.93
@@ -2456,14 +2204,14 @@ Valladolid Promesas - Sarriana
 2.20
 26.10. 12:00
 Fiorentina U20 - Atalanta U20
-1.91
-3.65
-3.20
-2.25
-1.52
-2.40
-1.48
-1.78
+2.08
+3.35
+3.05
+2.02
+1.65
+2.75
+1.56
+1.96
 26.10. 12:00
 .24 Erzincanspor - Ankaraspor
 3.10
@@ -2476,14 +2224,14 @@ Fiorentina U20 - Atalanta U20
 2.40
 26.10. 12:00
 K. Istiklalspor - Aksaray Bld.
-1.43
-4.05
-6.20
-2.00
-1.66
-2.80
-1.89
-2.30
+1.34
+4.35
+7.35
+2.05
+1.63
+2.70
+1.98
+2.38
 26.10. 12:00
 Dynamo Vologda - Tver
 1.51
@@ -2506,14 +2254,14 @@ Cartusia Kartuzy - Luzino
 1.67
 26.10. 12:00
 Sebat Genclikspor - Duzcespor
-2.07
-3.05
+1.94
 3.15
-1.66
-1.97
-3.65
-1.81
-2.40
+3.40
+1.67
+1.96
+3.60
+1.82
+2.45
 26.10. 12:00
 North East Utd - Inter Kashi
 1.32
@@ -2596,13 +2344,13 @@ Trapani - Audace Cerignola
 2.70
 26.10. 12:30
 Iskenderun - Beykoz Anadolu
-1.75
-3.25
-4.35
 1.67
-2.00
-3.70
-1.94
+3.30
+4.75
+1.68
+1.98
+3.65
+1.96
 2.55
 26.10. 12:30
 Suvermez - Diyarbekirspor
@@ -2626,14 +2374,14 @@ Beijing Guoan - Qingdao Huanghai
 1.54
 26.10. 12:35
 Shanghai Greenland Shenhua - Dalian Yingbo
-1.18
-6.30
-11.7
-2.90
-1.36
-1.95
-1.93
-2.15
+1.21
+5.95
+10.6
+2.80
+1.38
+2.00
+1.89
+2.12
 26.10. 12:45
 Kisvarda - Gyor
 3.30
@@ -2736,13 +2484,13 @@ Malut United - Semen Padang
 2.15
 26.10. 13:00
 Riteriai - Banga
-2.40
+2.55
 3.15
-2.65
+2.50
 1.81
 1.87
 3.35
-1.71
+1.70
 2.22
 26.10. 13:00
 Polkowice - Pawlowice
@@ -2816,14 +2564,14 @@ Szentlorinc - Bekescsaba 1912
 2.45
 26.10. 13:00
 Beyoglu Yeni Carsi - Karaman
-1.35
-4.10
-8.15
-1.75
-1.89
-3.40
-2.38
-3.00
+1.29
+4.40
+9.30
+1.81
+1.82
+3.25
+2.45
+3.05
 26.10. 13:00
 Guzide Gebzespor - Menemenspor
 2.10
@@ -2836,14 +2584,14 @@ Guzide Gebzespor - Menemenspor
 2.50
 26.10. 13:00
 Soma Spor - Arnavutkoy Bl.
-3.05
 3.30
-2.10
-1.96
-1.69
-2.88
-1.59
-2.02
+3.40
+1.95
+1.94
+1.71
+2.90
+1.63
+2.07
 26.10. 13:00
 Spartak Tambov - Arsenal Tula 2
 1.86
@@ -2896,14 +2644,14 @@ Persiba Balikpapan - Persiku Kudus
 2.38
 26.10. 13:15
 Nizhny Novgorod - Baltika
-4.00
-3.20
-2.00
-1.58
-2.25
-4.40
-2.05
-2.80
+4.05
+3.25
+1.98
+1.60
+2.22
+4.30
+2.02
+2.70
 26.10. 13:30
 Hoffenheim II - Aue
 1.87
@@ -2946,13 +2694,13 @@ Magdeburg - Preussen Munster
 1.71
 26.10. 13:30
 Antwerp - Club Brugge KV
-4.55
-4.30
-1.62
-2.38
-1.53
-2.38
-1.58
+4.20
+4.20
+1.68
+2.32
+1.55
+2.45
+1.57
 1.87
 26.10. 13:30
 Sileks - Pelister
@@ -2996,14 +2744,14 @@ Pirin Blagoevgrad - Etar
 2.55
 26.10. 13:30
 Paide - Flora
-3.05
-3.75
-1.94
-2.55
-1.45
-2.18
-1.43
-1.68
+3.10
+3.60
+1.96
+2.30
+1.53
+2.40
+1.49
+1.80
 26.10. 13:55
 Dibba Al Fujairah - Al Wasl
 5.65
@@ -3097,25 +2845,25 @@ IK Sirius FK - IF Elfsborg
 26.10. 14:00
 +3
 Jedinstvo - Bokelj
-2.00
-3.15
-3.45
-1.66
-2.07
-3.85
-1.90
-2.55
+2.12
+3.00
+3.25
+1.61
+2.15
+4.10
+1.92
+2.62
 26.10. 14:00
 +3
 Sutjeska - Jezero
-1.70
-3.40
-4.40
-1.83
-1.85
-3.30
-1.82
-2.32
+1.69
+3.35
+4.60
+1.76
+1.92
+3.50
+1.91
+2.45
 26.10. 14:00
 Malaga - FC Andorra
 2.15
@@ -3250,13 +2998,13 @@ Krsko - Rudar Velenje
 26.10. 14:00
 Makedonikos - Kampaniakos
 2.08
-3.15
 3.20
-1.77
-1.91
-3.45
-1.76
-2.32
+3.15
+1.84
+1.84
+3.25
+1.71
+2.22
 26.10. 14:00
 Marko - Olympiacos Piraeus B
 2.10
@@ -3359,9 +3107,9 @@ Zambia Wom. - Namibia Wom.
 2.20
 26.10. 14:30
 Ried - Rapid Vienna
-3.15
+3.00
 3.35
-2.22
+2.30
 1.87
 1.87
 3.30
@@ -3660,14 +3408,14 @@ Orebro - Landskrona
 26.10. 15:00
 +3
 Arsenal Tivat - OFK Petrovac
-2.90
+3.30
 2.95
-2.35
-1.58
-2.20
-4.25
-1.94
-2.65
+2.12
+1.54
+2.28
+4.50
+2.02
+2.80
 26.10. 15:00
 RFS - Grobina
 1.25
@@ -3730,14 +3478,14 @@ Kahraba Ismailia - Ceramica Cleopatra
 2.70
 26.10. 15:00
 Dziugas Telsiai - FK Panevezys
-2.70
-3.05
-2.45
-1.69
-2.02
-3.75
-1.80
-2.45
+2.65
+3.00
+2.50
+1.64
+2.10
+3.95
+1.87
+2.55
 26.10. 15:00
 Maldonado - La Luz
 2.20
@@ -3901,13 +3649,13 @@ Rangers - Kilmarnock
 2.08
 26.10. 16:00
 Levadiakos - Aris
-2.70
+2.65
 3.05
-2.55
+2.60
 1.64
 2.12
-4.00
-1.88
+4.05
+1.89
 2.55
 26.10. 16:00
 Chloraka - Omonia Aradippou
@@ -4472,14 +4220,14 @@ Honved - Mezokovesd-Zsory
 2.15
 26.10. 17:00
 Elazigspor - Kastamonuspor
-1.47
-3.65
-6.45
-1.66
-2.00
-3.75
-2.25
-2.95
+1.41
+3.95
+6.70
+1.86
+1.78
+3.10
+2.05
+2.55
 26.10. 17:15
 Angers - Lorient
 2.65
@@ -4502,7 +4250,7 @@ Auxerre - Le Havre
 2.47
 26.10. 17:15
 Rennes - Nice
-2.22
+2.20
 3.50
 3.20
 2.15
@@ -4522,14 +4270,14 @@ Bari - Mantova
 2.25
 26.10. 17:25
 Zalgiris - Siauliai FA
-1.57
-3.90
-4.55
-2.25
-1.56
-2.47
-1.63
-1.95
+1.53
+4.15
+4.65
+2.55
+1.44
+2.18
+1.53
+1.79
 26.10. 17:30
 Everton - Tottenham
 2.38
@@ -4672,14 +4420,14 @@ Krasnodar - Rubin Kazan
 2.45
 26.10. 18:00
 Fiorentina - Bologna
-2.75
+2.70
 3.05
-2.80
+2.85
 1.70
-2.15
-4.05
-1.92
-2.60
+2.18
+4.10
+1.93
+2.62
 26.10. 18:00
 FC Copenhagen - Viborg
 1.47
@@ -4722,25 +4470,25 @@ Anorthosis - Aris Limassol
 2.32
 26.10. 18:00
 Slovan Bratislava - Presov
-1.26
-5.40
-9.00
-2.65
-1.42
-2.10
-1.81
-2.08
+1.30
+5.10
+8.00
+2.55
+1.44
+2.18
+1.78
+2.07
 26.10. 18:00
 +3
 Mladost DG - Mornar Bar
-2.28
-3.15
-2.85
-1.80
-1.88
-3.35
-1.72
-2.25
+2.55
+3.05
+2.60
+1.68
+2.03
+3.75
+1.81
+2.45
 26.10. 18:00
 El Gaish - ZED
 3.50
@@ -4843,14 +4591,14 @@ Almeria - Castellon
 1.80
 26.10. 18:30
 Gijon - Zaragoza
-1.77
-3.50
-4.50
-1.81
-1.91
+1.80
 3.40
-1.87
-2.38
+4.50
+1.74
+1.99
+3.65
+1.93
+2.50
 26.10. 18:30
 Osasuna - Celta Vigo
 2.60
@@ -4903,24 +4651,24 @@ Cobreloa - S. Wanderers
 2.20
 26.10. 19:00
 Colon FC - Cerrito
-1.65
-3.30
-4.95
-1.64
-2.08
-3.95
-2.10
-2.75
+1.70
+3.25
+4.65
+1.67
+2.05
+3.80
+2.02
+2.65
 26.10. 19:00
 Xerez CD - Deportiva Minera
-1.84
-3.05
-4.15
+2.02
+2.95
+3.60
 1.45
-2.40
-4.95
-2.22
-3.10
+2.45
+5.05
+2.15
+3.05
 26.10. 19:00
 Orihuela - Quintanar del Rey
 2.15
@@ -4933,13 +4681,13 @@ Orihuela - Quintanar del Rey
 3.40
 26.10. 19:00
 Forge - Atl. Ottawa
-2.10
-3.20
+1.79
+3.40
+3.90
+1.90
+1.78
 3.10
-1.85
-1.83
-3.25
-1.70
+1.74
 2.20
 26.10. 19:00
 Vinotinto - Tecnico U.
@@ -5064,14 +4812,14 @@ Olympiacos Piraeus - AEK Athens FC
 26.10. 20:00
 +3
 Decic - Buducnost
-3.15
-3.10
-2.15
-1.73
-1.96
-3.55
-1.78
-2.38
+3.30
+3.05
+2.10
+1.63
+2.12
+4.05
+1.92
+2.62
 26.10. 20:00
 Botafogo - Santos
 1.94
@@ -5424,13 +5172,13 @@ St Louis City II - Minnesota 2
 1.65
 26.10. 23:00
 Guayaquil City - Ind. Juniors
-1.60
-3.50
-5.05
-1.66
-2.07
-3.85
-2.12
+1.64
+3.45
+4.75
+1.65
+2.08
+3.90
+2.08
 2.75
 26.10. 23:00
 Nueve de Octubre - Leones Del Norte
@@ -5524,14 +5272,14 @@ Atl. Morelia - Leones Negros
 2.10
 27.10. 00:00
 New York Red Bulls 2 - Chicago Fire II
-1.62
-4.15
+1.68
 4.00
-2.88
-1.35
-1.94
-1.40
-1.60
+3.80
+2.75
+1.38
+2.02
+1.41
+1.63
 27.10. 00:00
 Emelec - Delfin
 1.65
@@ -5544,13 +5292,13 @@ Emelec - Delfin
 3.00
 27.10. 00:00
 Guastatoya - Xelaju
-2.20
+2.15
 2.95
-3.20
-1.53
-2.30
-4.55
-2.02
+3.30
+1.55
+2.28
+4.45
+2.00
 2.80
 27.10. 00:00
 UNAN-Managua - Real Madriz
@@ -5582,15 +5330,266 @@ CD Olimpia - Real Espana
 3.40
 1.79
 2.30
+27.10. 00:30
+Palmeiras - Cruzeiro
+1.80
+3.45
+4.45
+1.74
+1.99
+3.65
+1.93
+2.50
+27.10. 00:30
+Vancouver Whitecaps - FC Dallas
+1.43
+4.65
+5.70
+2.85
+1.37
+1.98
+1.52
+1.74
+27.10. 00:30
+Atl. Nacional - Ind. Medellin
+2.15
+3.20
+3.20
+1.72
+2.00
+3.65
+1.81
+2.40
+27.10. 00:30
+Metropolitanos - Caracas
+2.62
+3.10
+2.47
+1.73
+1.96
+3.55
+1.76
+2.35
+27.10. 01:00
+Miramar - Boston River
+3.25
+3.05
+2.20
+1.64
+2.12
+4.00
+1.90
+2.60
+27.10. 02:00
+Atl. San Luis - Necaxa
+2.38
+3.55
+2.60
+2.25
+1.57
+2.50
+1.50
+1.83
+27.10. 02:00
+Toluca - Pachuca
+1.56
+4.35
+4.60
+2.60
+1.44
+2.15
+1.51
+1.76
+27.10. 02:00
+San Jose Earthquakes II - Colorado Rapids 2
+1.84
+3.80
+3.30
+2.55
+1.43
+2.15
+1.42
+1.66
+27.10. 02:30
+San Diego FC - Portland Timbers
+1.60
+4.10
+4.55
+2.50
+1.46
+2.22
+1.53
+1.79
+27.10. 03:00
+Ferretti - Managua FC
+2.55
+3.20
+2.50
+1.82
+1.82
+3.20
+1.66
+2.15
+27.10. 09:00
+Macarthur FC - Adelaide United
+2.35
+3.75
+2.65
+2.47
+1.49
+2.30
+1.45
+1.72
+27.10. 09:30
+FC Bhayangkara - Persijap Jepara
+2.15
+2.88
+3.40
+1.46
+2.47
+5.15
+2.15
+3.10
+27.10. 13:00
+Persib Bandung - Persis Solo
+1.37
+4.20
+7.10
+1.99
+1.71
+2.88
+2.04
+2.50
+27.10. 15:00
+Smouha - El Gouna
+2.15
+2.70
+3.65
+1.32
+3.05
+7.00
+2.55
+3.95
+27.10. 15:30
+FC Botosani - FC Hermannstadt
+2.20
+3.05
+3.25
+1.65
+2.10
+3.95
+1.89
+2.55
+27.10. 16:30
+CSKA 1948 Sofia - Ludogorets Razgrad
+3.50
+3.30
+2.00
+1.79
+1.91
+3.45
+1.78
+2.35
+27.10. 17:00
+SJK - KuPS
+2.85
+3.80
+2.20
+2.62
+1.44
+2.15
+1.41
+1.65
+27.10. 17:30
+Akhmat Grozny - Sochi
+1.65
+3.70
+5.40
+1.81
+1.91
+3.40
+1.96
+2.50
+27.10. 18:00
+Vukovar 1991 - D. Zagreb
+11.2
+6.05
+1.20
+2.75
+1.39
+2.03
+1.95
+2.20
+27.10. 18:00
+Gaziantep - Fenerbahce
+4.50
+3.90
+1.69
+2.07
+1.69
+2.80
+1.70
+2.10
+27.10. 18:00
+Samsunspor - Rizespor
+1.94
+3.40
+3.85
+1.79
+1.93
+3.50
+1.81
+2.32
+27.10. 18:00
+AEK Larnaca - APOEL
+2.18
+3.05
+3.30
+1.64
+2.12
+4.00
+1.90
+2.60
+27.10. 18:00
+Omonia - Pafos
+2.45
+3.25
+2.70
+1.88
+1.82
+3.15
+1.67
+2.15
+27.10. 18:00
++3
+Zrinjski - Borac Banja Luka
+2.22
+3.00
+3.10
+1.50
+2.38
+4.80
+2.05
+2.90
+27.10. 18:00
+Tartu Welco - Elva
+2.05
+3.65
+2.88
+2.50
+1.42
+2.15
+1.40
+1.65
 
 
-Preostalo mečeva 451
+Preostalo mečeva 426
 
 
 Učitaj sledećih  
 50
 100
-451
+426
 PODRŠKA
 POMOĆ
 ČESTA PITANJA
@@ -5608,48 +5607,49 @@ UPLATNA MESTA
 PROMOCIJE
 ALPHAPEX DOO priređuje igre na sreću preko sredstava elektronske komunikacije – klađenje i ostale igre preko svog sajta www.oktagonbet.com u skladu sa odobrenjem izdatim od strane Ministarstva finansija Republike Srbije, Uprave za igre na sreću na osnovu Rešenja broj 424-01-00022/2020-02 od 30. aprila 2020. godine. Osobama mlađim od 18 godina, po Zakonu o igrama na sreću, nije dozvoljeno klađenje putem elektronske komunikacije na sajtu www.oktagonbet.com.
 TIKET (6)
-Malagueno - Aguilas FC
-26.10. 20:00
+Union La Calera - Nublense
+26.10. 22:30
 Konačan Ishod
 X
-2.88
+3.05
 X
-Servette - Lugano
-26.10. 16:30
+Angers - Lorient
+26.10. 17:15
 Konačan Ishod
 X
-3.50
+3.05
 X
-Rosenborg - Brann
-26.10. 14:30
-Konačan Ishod
-X
-3.70
-X
-Trapani - Audace Cerignola
-26.10. 12:30
++3
+Arsenal Tivat - OFK Petrovac
+26.10. 15:00
 Konačan Ishod
 X
 2.95
 X
-Changwon - Yeoju Citizen
-26.10. 06:00
+Soma Spor - Arnavutkoy Bl.
+26.10. 13:00
 Konačan Ishod
 X
-3.25
+3.40
 X
-Barcelona SC - Libertad Loja
-25.10. 23:30
+Akron Togliatti - Lokomotiv Moscow
+26.10. 11:00
 Konačan Ishod
 X
-3.70
+3.90
+X
+Auckland City - Auckland FC II
+26.10. 01:00
+Konačan Ishod
+X
+4.55
 X
 OBIČAN
 SISTEM
- Kvota:1.323,03
- Bonus: 7%  1.852,24
+ Kvota:1.655,68
+ Bonus: 7%  2.317,95
 Ukupan dobitak:
-28.313,00 RSD
+35.432,00 RSD
 UPLATI
 OKTAGON TIKET
 
