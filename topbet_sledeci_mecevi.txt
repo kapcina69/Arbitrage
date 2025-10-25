@@ -37,9 +37,9 @@ Arsenal - Crystal Palace
 +53
 15:00
 Aston Villa - Man. City
-4.20
-3.80
-1.80
+4.55
+3.75
+1.78
 +53
 15:00
 Wolverhampton - Burnley
@@ -139,8 +139,8 @@ Sassuolo - Roma
 +53
 18:00
 Fiorentina - Bologna
-2.85
-3.10
+2.70
+3.30
 2.65
 +53
 20:45
@@ -491,7 +491,7 @@ X
 Sao Paulo SP - Bahia BA
 2.00
 3.25
-3.50
+3.40
 +41
 20:00
 Botafogo RJ - Santos
@@ -531,9 +531,9 @@ X
 2
 01:30
 Criciuma SC - Goias GO
-1.95
-3.20
-3.50
+1.90
+3.25
+3.70
 +41
 20:00
 CRB - Atl. Goianiense GO
@@ -1123,12 +1123,6 @@ NED. 26.10.
 1
 X
 2
-01:00
-Municipal - Malacateco
-1.18
-6.20
-14.40
-+39
 02:00
 Antigua - Aurora
 1.45
@@ -1308,7 +1302,7 @@ X
 15:00
 Stjarnan - Breidablik
 2.60
-3.95
+4.00
 2.25
 +37
 Italija 2
@@ -1341,8 +1335,8 @@ X
 2
 14:30
 Trento - Vicenza
-4.80
-3.55
+4.60
+3.60
 1.65
 +40
 14:30
@@ -1432,7 +1426,7 @@ Trapani - Audace Cerignola
 14:30
 Catania - Benevento
 2.45
-3.00
+2.90
 2.80
 +40
 14:30
@@ -1456,8 +1450,8 @@ Monopoli - Giugliano
 20:30
 Salernitana - Casertana
 1.62
-3.75
-4.70
+3.65
+5.00
 +40
 Italija 1 (U19)
 KONAČAN ISHOD
@@ -1721,9 +1715,9 @@ Ulytau FC - Tobol
 +41
 11:00
 Zhetysu - Kyzyl-Zhar
-2.40
-3.20
-2.80
+2.35
+3.00
+2.90
 +41
 11:00
 Elimai FC - FK Atyrau
@@ -1897,9 +1891,9 @@ Sporting San Jose - Mun.Liberia
 +41
 03:00
 Herediano - Cartagines
-2.00
-3.40
-3.20
+2.05
+3.35
+3.56
 +41
 18:00
 Saprissa - Puntarenas
@@ -2105,8 +2099,8 @@ Debreceni - Ujpest
 +41
 17:30
 Ferencvarosi - Zalaegerszeg
-1.42
-4.70
+1.45
+4.55
 5.70
 +41
 Mađarska 2
@@ -2211,17 +2205,11 @@ NED. 26.10.
 1
 X
 2
-01:00
-Tigres - Tijuana
-1.50
-4.45
-5.51
-+37
 02:00
 Leon - Pumas
-2.92
-3.35
-2.30
+3.02
+3.40
+2.25
 +37
 02:07
 Chivas - Atlas
@@ -2268,8 +2256,8 @@ X
 02:00
 Cancun - Correcaminos
 1.42
-4.60
-6.00
+4.45
+5.90
 +39
 02:00
 Zacatecas Mineros - Atlante
@@ -2336,7 +2324,7 @@ Hoffenheim II - Aue
 16:30
 Viktoria Koln - Hansa
 2.75
-3.40
+3.30
 2.40
 +41
 19:30
@@ -2555,12 +2543,6 @@ NED. 26.10.
 1
 X
 2
-01:00
-Auckland City - Auckland FC Reserves
-1.32
-5.20
-7.10
-+36
 03:00
 Birkenhead United AFC - Wellington Olympic
 2.30
@@ -2601,12 +2583,6 @@ NED. 26.10.
 1
 X
 2
-01:00
-Miguelito - Arabe Unido
-2.70
-2.80
-2.55
-+36
 02:15
 Plaza Amador - Alianza
 1.80
@@ -2647,12 +2623,6 @@ NED. 26.10.
 1
 X
 2
-01:00
-Sportivo Trinidense - CS 2 de Mayo
-2.20
-3.15
-2.95
-+41
 21:30
 Olimpia Asuncion - Guarani
 2.40
@@ -2693,17 +2663,11 @@ NED. 26.10.
 1
 X
 2
-01:00
-Cusco - Grau
-1.48
-4.20
-6.00
-+37
 17:00
 Sporting Cristal - Los Chankas CYC
-1.13
-7.50
-15.80
+1.15
+7.10
+15.60
 +37
 19:15
 Cajamarca - Alianza Huanuco
@@ -2793,15 +2757,15 @@ X
 2
 12:00
 Tychy - Chrobry Glogow
-2.60
-3.60
-2.40
+2.55
+3.55
+2.45
 +39
 14:30
 Wisla K. - Stal Rzeszow
-1.23
-6.20
-8.40
+1.20
+6.80
+10.40
 +39
 17:00
 Stal Mielec - Legnica
@@ -3059,9 +3023,9 @@ X
 2
 10:30
 FC Bihor Oradea - CS Afumati
-1.58
-4.10
-4.50
+1.62
+4.00
+4.30
 +36
 Rusija 1
 KONAČAN ISHOD
@@ -3195,12 +3159,6 @@ NED. 26.10.
 1
 X
 2
-01:00
-Pittsburgh - Phoenix
-1.75
-3.55
-4.00
-+39
 01:30
 Louisville City - Hartford
 1.58
@@ -3210,7 +3168,7 @@ Louisville City - Hartford
 01:30
 Tampa Bay - Detroit City FC
 2.30
-3.25
+3.30
 2.80
 +39
 02:00
@@ -3247,44 +3205,6 @@ Orange County - Indy Eleven
 Sacramento - Miami
 1.50
 4.00
-6.10
-+39
-SAD 3 USL Liga 1
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-NED. 26.10.
-1
-X
-2
-01:00
-Chattanooga Red Wolves - Westchester SC
-1.72
-3.70
-3.90
-+39
-01:00
-FC Naples - Charlotte
-2.35
-3.30
-2.70
-+39
-01:00
-One Knoxville SC - Greenville Triumph
-2.05
-3.20
-3.30
-+39
-01:00
-South Georgia Tormenta - Texoma FC
-1.42
-4.60
-6.10
-+39
-01:00
-Union Omaha - Spokane Velocity FC
-1.42
-4.50
 6.10
 +39
 San Marino 1
@@ -3690,8 +3610,8 @@ X
 14:00
 Vaduz - Etoile Carouge
 1.62
-3.95
-4.30
+4.00
+4.20
 +41
 Švajcarska 3
 KONAČAN ISHOD
@@ -3735,8 +3655,8 @@ AIK - Hacken
 +53
 16:30
 Halmstads - Goteborg
-3.55
-3.65
+3.60
+3.70
 2.00
 +53
 PON. 27.10.
@@ -4155,14 +4075,14 @@ Gia Lai - Viettel
 +41
 12:00
 Hai Phong - Hong Linh Ha Tinh
-1.85
-3.40
-3.70
+1.90
+3.35
+3.60
 +41
 12:00
 Song Lam Nghe An - Thanh Hoa
-2.30
-3.10
+2.35
+3.20
 2.80
 +41
 Australian Championship
@@ -4176,8 +4096,8 @@ X
 03:00
 Heidelberg U - South Hobart
 1.10
-9.25
-22.00
+9.00
+21.50
 +41
 03:00
 Broadmeadow Magic - S.Melbourne

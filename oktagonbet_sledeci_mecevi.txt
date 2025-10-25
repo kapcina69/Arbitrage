@@ -15,7 +15,7 @@ Top Mečevi
  
 Top Lige
  
-Fudbal (294)
+Fudbal (293)
 Sve
 Fudbal Strelci
 12
@@ -28,7 +28,7 @@ Golovi Po Ligama
 Tenis
 33
 Košarka
-47
+46
 Košarka Specijal
 2
 MMA
@@ -42,7 +42,7 @@ Rukomet
 Americki Fudbal
 2
 Odbojka
-27
+26
 Am. Fudbal Specijal
 1
 Stoni Tenis
@@ -58,7 +58,7 @@ Pikado
 Boks
 9
 Pobednici
-10
+9
 Fudbal
 IGRE
 1
@@ -69,126 +69,6 @@ UG3+
 UG4+
 GG
 GG3+
-26.10. 01:00
-Cusco - Grau
-1.49
-3.95
-6.15
-1.93
-1.78
-3.05
-1.97
-2.45
-26.10. 01:00
-U.A.N.L.- Tigres - Club Tijuana
-1.49
-4.45
-5.15
-2.50
-1.47
-2.22
-1.58
-1.85
-26.10. 01:00
-Sportivo Trinidense - .2 de Mayo
-2.22
-3.05
-3.20
-1.64
-2.12
-4.00
-1.90
-2.60
-26.10. 01:00
-Pittsburgh - Phoenix Rising
-1.73
-3.30
-4.33
-1.76
-1.93
-3.50
-1.89
-2.45
-26.10. 01:00
-Municipal - Malacateco
-1.19
-5.35
-11.8
-2.12
-1.62
-2.65
-2.47
-2.95
-26.10. 01:00
-Miguelito - Arabe Unido
-2.60
-2.85
-2.70
-1.47
-2.47
-5.05
-2.10
-3.00
-26.10. 01:00
-Chattanooga Red Wolves - Westchester SC
-1.68
-3.55
-4.33
-2.00
-1.70
-2.88
-1.71
-2.12
-26.10. 01:00
-FC Naples - Charlotte Independ.
-2.38
-3.25
-2.62
-1.92
-1.77
-3.05
-1.64
-2.10
-26.10. 01:00
-One Knoxville - Greenville
-2.12
-3.15
-3.15
-1.76
-1.93
-3.50
-1.76
-2.32
-26.10. 01:00
-Tormenta - Texoma
-1.39
-4.50
-6.00
-2.55
-1.45
-2.18
-1.64
-1.91
-26.10. 01:00
-Union Omaha - Spokane Velocity
-1.43
-4.20
-5.75
-2.22
-1.57
-2.50
-1.75
-2.10
-26.10. 01:00
-Auckland City - Auckland FC II
-1.32
-4.85
-6.95
-2.62
-1.39
-2.07
-1.66
-1.91
 26.10. 01:15
 CD Choloma - Juticalpa
 3.10
@@ -211,34 +91,34 @@ Santa Fe - Millonarios
 2.55
 26.10. 01:30
 Louisville City - Hartford Athletic
-1.58
-3.90
-4.55
-2.25
-1.56
-2.50
-1.63
+1.53
+4.00
+4.85
+2.28
+1.54
+2.45
+1.64
 1.95
 26.10. 01:30
 Tampa Bay - Detroit
-2.25
-3.25
+2.32
+3.30
+2.65
+2.04
+1.67
 2.80
-1.95
-1.74
-2.95
-1.62
-2.07
+1.57
+1.97
 26.10. 01:30
 Criciuma - Goias
-1.96
-3.15
-4.05
-1.54
-2.35
-4.70
-2.12
-2.90
+1.88
+3.25
+4.33
+1.58
+2.25
+4.40
+2.10
+2.85
 26.10. 01:30
 Puerto Cabello - Zamora
 1.83
@@ -251,21 +131,21 @@ Puerto Cabello - Zamora
 2.75
 26.10. 02:00
 Sao Paulo - Bahia
-2.02
-3.25
-3.70
-1.62
-2.18
-4.15
-1.98
+1.99
+3.30
+3.80
+1.63
+2.15
+4.10
+1.97
 2.70
 26.10. 02:00
 Club Leon - U.N.A.M.- Pumas
 3.05
 3.30
 2.18
-1.91
-1.79
+1.90
+1.80
 3.10
 1.67
 2.15
@@ -321,14 +201,14 @@ Sporting San Jose - Liberia
 2.40
 26.10. 02:00
 Cancun - Correcaminos
-1.40
-4.33
-6.10
-2.25
-1.53
-2.40
-1.73
-2.07
+1.43
+4.20
+5.75
+2.22
+1.54
+2.45
+1.71
+2.05
 26.10. 02:00
 Zacatecas Mineros - Atlante
 2.50
@@ -371,14 +251,14 @@ Esteli - Diriangen
 2.12
 26.10. 02:00
 Celaya - Heroes de Zaci
-1.83
-3.55
-3.55
-2.08
-1.65
-2.70
-1.60
-1.96
+1.95
+3.40
+3.25
+2.03
+1.68
+2.80
+1.61
+2.02
 26.10. 02:07
 Guadalajara Chivas - Atlas
 1.51
@@ -551,9 +431,9 @@ Dorados de Sinaloa - Tlaxcala
 2.03
 26.10. 04:05
 Cruz Azul - Monterrey
-1.87
-3.75
-3.50
+1.90
+3.70
+3.40
 2.30
 1.55
 2.45
@@ -611,24 +491,24 @@ Maruyasu Okazaki - Honda FC
 2.40
 26.10. 05:00
 Hunters - Tuv Buganuud
-4.15
-4.65
-1.53
-2.88
-1.33
-1.90
-1.39
-1.58
+5.80
+5.20
+1.34
+3.05
+1.29
+1.82
+1.47
+1.65
 26.10. 05:00
 Western Springs AFC - Auckland United
-2.25
+2.18
 3.55
-2.60
+2.75
 2.30
-1.50
+1.51
 2.35
 1.45
-1.74
+1.75
 26.10. 05:05
 Tokushima - Iwaki
 2.32
@@ -811,13 +691,13 @@ Jeonbuk 2 - Gyeongju KHNP
 2.40
 26.10. 06:00
 Mokpo City - Gangneung
-3.50
-3.20
-1.96
-1.72
-1.98
+3.25
+3.10
+2.10
+1.71
+1.99
 3.65
-1.85
+1.81
 2.45
 26.10. 06:00
 C-Osaka Wom. - Nojima Stella Wom.
@@ -871,14 +751,14 @@ Irkutsk - Vladimir
 2.12
 26.10. 07:30
 Chengdu Rongcheng B - Changchun Xidu
-1.57
-3.60
-5.10
-1.82
+1.52
+3.70
+5.50
 1.86
-3.30
-1.94
-2.47
+1.82
+3.20
+1.96
+2.45
 26.10. 07:30
 Shandong Taishan B - Shenzhen
 2.45
@@ -2001,14 +1881,14 @@ Vag - Vindbjart
 1.14
 26.10. 12:00
 Vidar - Madla IL
-1.20
-6.15
-7.65
+1.28
+5.55
+6.05
 5.60
 1.07
 1.30
-1.30
-1.35
+1.23
+1.29
 26.10. 12:00
 Fredrikstad 2 - Fram Larvik
 2.38
@@ -2871,12 +2751,12 @@ Kaiserslautern - Nurnberg
 1.82
 26.10. 13:30
 Magdeburg - Preussen Munster
-1.90
-3.90
-3.60
+1.96
+3.85
+3.45
 2.50
-1.47
-2.25
+1.48
+2.28
 1.46
 1.71
 26.10. 13:30
@@ -3022,13 +2902,13 @@ Zurich - Young Boys
 26.10. 14:00
 Vaduz - Etoile-Carouge
 1.64
-3.80
-4.20
-2.20
-1.55
-2.47
-1.58
-1.90
+3.75
+4.30
+2.10
+1.60
+2.62
+1.63
+1.98
 26.10. 14:00
 Amedspor - Istanbulspor AS
 1.51
@@ -3485,13 +3365,13 @@ Rosenborg - Brann
 26.10. 14:30
 Wisla - S. Rzeszow
 1.23
-5.95
-9.10
+6.00
+9.20
 3.40
 1.27
 1.74
-1.61
-1.79
+1.62
+1.80
 26.10. 14:30
 Sepahan - Paykan
 1.70
@@ -4346,10 +4226,10 @@ Arsenal - Crystal Palace
 2.45
 26.10. 15:00
 Aston Villa - Manchester City
-4.45
+4.50
 3.65
-1.81
-2.12
+1.80
+2.15
 1.72
 2.85
 1.70
@@ -4868,14 +4748,14 @@ Posusje - Radnik Bijeljina
 3.15
 26.10. 15:30
 Qarabag - Shamakhi
-1.16
-6.00
-12.0
-2.55
-1.44
-2.15
-2.18
-2.50
+1.17
+5.95
+11.5
+2.65
+1.41
+2.08
+2.07
+2.35
 26.10. 15:30
 Al-Shahaniya - Al Sailiya
 2.38
@@ -5249,13 +5129,13 @@ Karela - Bechem United
 3.30
 26.10. 16:00
 Medeama - Swedru All Blacks
-1.43
-3.55
-7.70
-1.48
-2.45
-5.00
-2.88
+1.40
+3.65
+8.25
+1.50
+2.38
+4.80
+2.95
 4.00
 26.10. 16:00
 Nations FC - Eleven Wonders
@@ -5412,11 +5292,11 @@ Celoricense - Chaves B
 2.12
 3.30
 3.00
-2.00
-1.70
-2.85
-1.59
 2.02
+1.69
+2.80
+1.59
+2.00
 26.10. 16:00
 GD Braganca - Brito
 2.03
@@ -5539,14 +5419,14 @@ Marialvas - Oliveira Hospital
 2.62
 26.10. 16:00
 Mortagua - Samora Correia
-1.83
-3.15
-4.10
-1.54
-2.28
-4.50
-2.12
-2.88
+1.82
+3.10
+4.25
+1.52
+2.35
+4.70
+2.18
+3.00
 26.10. 16:00
 Naval 1893 - Peniche
 2.00
@@ -5694,7 +5574,7 @@ Estoril - Nacional
 3.20
 1.73
 2.00
-3.65
+3.70
 1.81
 2.40
 26.10. 16:30
@@ -5939,14 +5819,14 @@ Stal Mielec - Legnica
 1.85
 26.10. 17:00
 Sporting Cristal - Los Chankas
-1.12
-7.35
-17.3
-2.70
-1.40
-2.05
-2.40
-2.70
+1.14
+6.90
+14.3
+2.55
+1.45
+2.20
+2.30
+2.60
 26.10. 17:00
 +2
 Nafta - Bilje
@@ -6300,14 +6180,14 @@ Al Wakra - Al Rayyan
 1.60
 26.10. 17:30
 Pieta Hotspurs - Zebbug
-1.52
-3.75
-5.40
+1.49
+3.80
+5.75
 1.91
 1.78
 3.05
-1.91
-2.38
+1.95
+2.40
 26.10. 17:30
 Sirens - Santa Lucia
 2.35
@@ -6741,14 +6621,14 @@ Vinotinto - Tecnico U.
 2.88
 26.10. 19:00
 Moquegua - FC Cajamarca
-2.50
+2.60
 2.95
+2.60
+1.56
+2.22
+4.35
+1.95
 2.70
-1.55
-2.28
-4.50
-1.98
-2.75
 26.10. 19:00
 Santutxu U19 - Eibar U19
 3.95
@@ -7023,13 +6903,13 @@ Lazio - Juventus
 26.10. 20:45
 Lyon - Strasbourg
 2.15
-3.55
-3.30
-2.20
-1.67
-2.75
-1.60
-1.97
+3.60
+3.25
+2.25
+1.65
+2.65
+1.58
+1.94
 26.10. 21:00
 Dep. La Coruna - Valladolid
 2.02
@@ -7152,14 +7032,14 @@ Fuerte San Francisco - Municipal Limeno
 2.55
 26.10. 22:00
 Platense Municipal - CD Luis Angel Firpo
-3.75
+4.00
 3.45
-1.81
-1.94
-1.71
-2.90
-1.66
-2.07
+1.75
+1.95
+1.70
+2.88
+1.67
+2.08
 26.10. 22:00
 Olancho - Genesis Huracan
 1.59
@@ -7225,11 +7105,11 @@ Bragantino - Vasco
 2.15
 3.25
 3.35
-1.71
-2.03
-3.75
-1.84
-2.47
+1.72
+2.02
+3.70
+1.83
+2.45
 26.10. 22:30
 Vila Nova FC - Ferroviaria
 1.85
@@ -7322,13 +7202,13 @@ Atletico Vega Real - Cibao FC
 2.60
 26.10. 23:00
 Cavalry - York Utd
-1.81
+1.87
 3.45
-3.75
-1.98
-1.72
-2.90
-1.67
+3.55
+1.96
+1.74
+2.95
+1.66
 2.08
 27.10. 00:00
 FBC Melgar - Sport Huancayo
@@ -7552,7 +7432,7 @@ Ferretti - Managua FC
 2.15
 27.10. 09:00
 Macarthur FC - Adelaide United
-2.30
+2.28
 3.70
 2.75
 2.45
@@ -7905,7 +7785,7 @@ Ameliano - General Caballero JLM
 FC Cincinnati - Columbus Crew
 2.35
 3.60
-2.60
+2.55
 2.38
 1.51
 2.35
@@ -8733,13 +8613,13 @@ Greuther Furth - Kaiserslautern
 1.71
 29.10. 18:00
 Illertissen - Magdeburg
-6.40
-4.90
-1.41
-2.62
-1.44
-2.15
-1.63
+5.90
+4.70
+1.45
+2.55
+1.46
+2.20
+1.61
 1.88
 29.10. 18:00
 Mainz - Stuttgart
@@ -8753,14 +8633,14 @@ Mainz - Stuttgart
 1.84
 29.10. 18:00
 Paderborn - Bayer Leverkusen
+4.60
 4.80
-4.85
-1.52
+1.55
 2.90
-1.36
-1.96
+1.37
+1.97
 1.45
-1.65
+1.64
 29.10. 18:00
 Petrojet - Al Ahly Cairo
 9.00
@@ -10581,15 +10461,135 @@ Hertha Berlin - SG Dynamo Dresden
 2.55
 1.53
 1.86
+01.11. 13:00
+Nurnberg - Braunschweig
+1.97
+3.60
+3.65
+2.04
+1.71
+2.85
+1.63
+2.02
+01.11. 13:00
+Orgryte - Kalmar
+2.50
+3.60
+2.40
+2.38
+1.52
+2.35
+1.46
+1.75
+01.11. 13:00
+Chelsea Wom. - London City Lionesses Wom.
+1.09
+7.60
+15.5
+3.30
+1.27
+1.75
+2.12
+2.30
+01.11. 13:00
+Manchester City Wom. - West Ham Wom.
+1.11
+7.30
+14.0
+3.45
+1.25
+1.70
+1.95
+2.12
+01.11. 13:15
+Kazincbarcikai - Puskas Academy
+4.70
+3.95
+1.60
+2.22
+1.59
+2.55
+1.65
+1.98
+01.11. 13:30
+Leicester - Blackburn
+1.75
+3.50
+5.15
+1.82
+1.99
+3.60
+1.97
+2.55
+01.11. 13:30
+Norwich - Hull
+2.15
+3.50
+3.35
+2.12
+1.73
+2.88
+1.64
+2.05
+01.11. 13:30
+West Bromwich - Sheffield Wed
+1.46
+4.33
+7.40
+2.05
+1.78
+3.00
+2.04
+2.50
+01.11. 13:45
+Lok. Plovdiv - Botev Plovdiv
+2.22
+3.10
+3.15
+1.68
+2.05
+3.80
+1.85
+2.50
+01.11. 14:00
+Villarreal - Rayo Vallecano
+1.75
+3.85
+4.60
+2.12
+1.73
+2.88
+1.73
+2.12
+01.11. 14:00
+Aarhus Fremad - Hvidovre IF
+1.99
+3.45
+3.35
+2.03
+1.70
+2.85
+1.62
+2.03
+01.11. 14:00
+Hillerod - Kolding IF
+2.55
+3.30
+2.55
+1.92
+1.79
+3.10
+1.65
+2.10
 
 
-Preostalo mečeva 290
+Preostalo mečeva 278
 
 
 Učitaj sledećih  
 50
 100
-290
+278
 PODRŠKA
 POMOĆ
 ČESTA PITANJA
@@ -10607,77 +10607,78 @@ UPLATNA MESTA
 PROMOCIJE
 ALPHAPEX DOO priređuje igre na sreću preko sredstava elektronske komunikacije – klađenje i ostale igre preko svog sajta www.oktagonbet.com u skladu sa odobrenjem izdatim od strane Ministarstva finansija Republike Srbije, Uprave za igre na sreću na osnovu Rešenja broj 424-01-00022/2020-02 od 30. aprila 2020. godine. Osobama mlađim od 18 godina, po Zakonu o igrama na sreću, nije dozvoljeno klađenje putem elektronske komunikacije na sajtu www.oktagonbet.com.
 TIKET (12)
-Lokeren-Temse - Francs Borains
-31.10. 20:00
+Getafe - Girona
+31.10. 21:00
 Konačan Ishod
 X
-3.35
+2.95
 X
-Bolivar - Aurora
-30.10. 00:00
+Metalist 1925 - Ahrobiznes Volochysk
+30.10. 16:00
 Konačan Ishod
 X
-5.50
+4.40
 X
-B. Monchengladbach - Karlsruher
-28.10. 20:45
-Konačan Ishod
-X
-4.35
-X
-Hougang - Tampines
-27.10. 12:30
-Konačan Ishod
-X
-4.60
-X
-Santutxu U19 - Eibar U19
-26.10. 19:00
-Konačan Ishod
-X
-3.80
-X
-Stal Mielec - Legnica
-26.10. 17:00
-Konačan Ishod
-X
-3.55
-X
-Atletico CP - Covilha
-26.10. 16:00
+Charlotte - New York City
+28.10. 23:45
 Konačan Ishod
 X
 3.40
 X
-Savoia - Vibonese
++3
+Zrinjski - Borac Banja Luka
+27.10. 18:00
+Konačan Ishod
+X
+3.00
+X
+G.A. Eagles - Excelsior
+26.10. 20:00
+Konačan Ishod
+X
+4.00
+X
+Barcelona U19 - CD San Francisco U19
+26.10. 17:00
+Konačan Ishod
+X
+5.90
+X
+Sliema - Marsaxlokk
+26.10. 16:00
+Konačan Ishod
+X
+3.05
+X
+Aston Villa - Manchester City
+26.10. 15:00
+Konačan Ishod
+X
+3.65
+X
+Ascoli - Sambenedettese
 26.10. 14:30
+Konačan Ishod
+X
+3.70
+X
+Livyi Bereg - Ch. Odesa
+26.10. 13:00
 Konačan Ishod
 X
 2.88
 X
-Benatky n. Jiz. - Zapy
-26.10. 14:00
-Konačan Ishod
-X
-3.55
-X
-Polkowice - Pawlowice
-26.10. 13:00
-Konačan Ishod
-X
-4.90
-X
-Valencia B - Porreres
+North East Utd - Inter Kashi
 26.10. 12:00
 Konačan Ishod
 X
-3.35
+4.70
 X
-Deren - FC Ulaanbaatar
-26.10. 08:00
+Juventus U20 - Lazio U20
+26.10. 10:00
 Konačan Ishod
 X
-4.60
+3.45
 X
 OBIČAN
 SISTEM

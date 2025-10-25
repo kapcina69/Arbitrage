@@ -56,7 +56,7 @@ SP. KOŠARKA
   
   
 TENIS
-117
+118
   
   
 RUKOMET
@@ -72,11 +72,11 @@ HOKEJ
   
   
 SP. HOKEJ
-251
+213
   
   
 AM.FUDBAL
-19
+18
   
   
 SP. AM. FUDBAL
@@ -92,7 +92,7 @@ RAGBI UNIJA
   
   
 STONI TENIS
-289
+286
   
   
 FUTSAL
@@ -163,20 +163,20 @@ više 2.5
 1.61
  
 Mexico, Liga MX - Apertura
-+816
++814
 U.A.N.L.- Tigres
 Club Tijuana
 26.10. 01:00
 ki 1
-1.51
+1.52
 ki X
-4.55
+4.45
 ki 2
 5.30
 manje 2.5
-2.50
+2.40
 više 2.5
-1.48
+1.52
  
 New Zealand, National League - Championship Group
 +39
@@ -211,18 +211,18 @@ više 2.5
 2.47
  
 Peru, Liga 1 - Clausura
-+799
++803
 Cusco
 Grau
 26.10. 01:00
 ki 1
-1.45
+1.48
 ki X
-4.05
+3.95
 ki 2
-6.50
+6.10
 manje 2.5
-1.95
+1.93
 više 2.5
 1.77
  
@@ -248,71 +248,71 @@ Chattanooga Red Wolves
 Westchester SC
 26.10. 01:00
 ki 1
-1.81
+1.67
 ki X
-3.40
+3.60
 ki 2
-3.75
+4.25
 manje 2.5
-1.95
+2.05
 više 2.5
-1.73
+1.67
 +82
 FC Naples
 Charlotte Independ.
 26.10. 01:00
 ki 1
-2.20
+2.25
 ki X
-3.30
+3.55
 ki 2
-2.85
+2.62
 manje 2.5
-1.97
+2.30
 više 2.5
-1.71
-+83
+1.52
++82
 One Knoxville
 Greenville
 26.10. 01:00
 ki 1
-1.97
-ki X
-3.25
-ki 2
-3.40
-manje 2.5
-1.77
-više 2.5
 1.90
-+81
+ki X
+3.50
+ki 2
+3.35
+manje 2.5
+2.10
+više 2.5
+1.63
++82
 Tormenta
 Texoma
 26.10. 01:00
 ki 1
-1.38
+1.41
 ki X
 4.50
 ki 2
-6.00
+5.60
 manje 2.5
-2.55
+2.67
 više 2.5
-1.45
+1.40
 +81
 Union Omaha
 Spokane Velocity
 26.10. 01:00
 ki 1
-1.48
+1.43
 ki X
-3.95
+4.20
 ki 2
-5.45
+5.75
 manje 2.5
-2.08
+2.22
 više 2.5
-1.65
+1.57
  
 Paraguay, Copa de Primera - Clausura
 +804
@@ -363,20 +363,20 @@ više 2.5
 2.10
  
 Brazil, Serie B
-+799
++800
 Criciuma
 Goias
 26.10. 01:30
 ki 1
-1.97
+1.92
 ki X
-3.15
+3.20
 ki 2
-4.05
+4.20
 manje 2.5
-1.53
+1.55
 više 2.5
-2.35
+2.30
  
 USA, USL Championship
 +633
@@ -393,20 +393,20 @@ manje 2.5
 2.25
 više 2.5
 1.57
-+637
++636
 Tampa Bay
 Detroit
 26.10. 01:30
 ki 1
-2.25
+2.22
 ki X
-3.25
+3.35
 ki 2
 2.80
 manje 2.5
-1.95
+2.05
 više 2.5
-1.73
+1.67
  
 Venezuela, Liga FUTVE - Clausura - Quadrangular
 +631
@@ -430,15 +430,15 @@ Sao Paulo
 Bahia
 26.10. 02:00
 ki 1
-2.00
+2.02
 ki X
 3.25
 ki 2
-3.80
+3.70
 manje 2.5
 1.62
 više 2.5
-2.15
+2.20
  
 Costa Rica, Primera Division - Apertura
 +808
@@ -487,20 +487,20 @@ više 2.5
 2.20
  
 Mexico, Liga Premier Serie A
-+624
++636
 Celaya
 Heroes de Zaci
 26.10. 02:00
 ki 1
-1.83
+1.95
 ki X
-3.55
+3.40
 ki 2
-3.55
+3.25
 manje 2.5
-2.08
+2.03
 više 2.5
-1.65
+1.67
  
 Mexico, Liga MX - Apertura
 +813
@@ -667,7 +667,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-00:33:56
+00:59:39
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.

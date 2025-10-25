@@ -16,12 +16,11 @@ Bonus tip
 Danas
 Sutra
 28.10.
-0:00
+1:00
 23:59
-0:00 - 23:59
+1:00 - 23:59
 FUDBAL
 KOŠARKA
-HOKEJ
 RUKOMET
 AMERIČKI FUDBAL
 ESPORT
@@ -31,42 +30,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-CHILE, Primera Division
-75
-00:00
-Colo Colo
-Limache
-824
-1
-1.61
-X
-3.65
-2
-5.10
-0-2
-1.90
-2+
-1.24
-3+
-1.80
-PARAGUAY, Copa de Primera - Clausura
-624
-00:00
-Nacional Asuncion
-Cerro Porteno
-824
-1
-3.55
-X
-3.25
-2
-2.00
-0-2
-1.63
-2+
-1.35
-3+
-2.15
 BRAZIL, Serie B
 854
 01:30
@@ -1105,20 +1068,20 @@ X
 3+
 1.69
 Odigrani tiketi
-854
-Athletico-PR - Amazonas
+33371
+Tivoli - Waterhouse
 28.10. 01:30
 KONAČAN ISHOD 
 1
-  1.38  
+  2.65  
 Običan
 Sistem
 Kvota:
-1.38
+2.65
 Uplata:
 20.00 RSD
 Dobitak:
-27.60 RSD
+53.00 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express

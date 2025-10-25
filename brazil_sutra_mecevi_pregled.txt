@@ -1,100 +1,4 @@
 ======================================================================
-00:00
-Rangers de Talca  vs  D. Concepcion   (ID: 832)
-1=2.3   X=3.1   2=2.8
-0-2=1.8   2+=1.27   3+=1.9
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:00  [COSTA RICA, Primera Division - Apertura]
-Alajuelense  vs  Zeledon   (ID: 819)
-1=1.41   X=3.95   2=6.75
-0-2=1.9   2+=1.24   3+=1.8
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:00  [ECUADOR, Liga Pro - Placement Group]
-Emelec  vs  Delfin   (ID: 649)
-1=1.65   X=3.25   2=5.1
-0-2=1.55   2+=1.38   3+=2.25
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:00  [GUATEMALA, Liga Nacional - Apertura]
-Guastatoya  vs  Xelaju   (ID: 822)
-1=2.15   X=2.95   2=3.3
-0-2=1.55   2+=1.4   3+=2.3
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:00  [MEXICO, Liga MX - Apertura]
-Santos Laguna  vs  Queretaro   (ID: 834)
-1=2.02   X=3.5   2=3.45
-0-2=2.05   2+=1.21   3+=1.72
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:00  [MEXICO, Liga de Expansion MX - Apertura]
-Atl. Morelia  vs  Leones Negros   (ID: 832)
-1=1.82   X=3.45   2=3.95
-0-2=2   2+=1.22   3+=1.72
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:00  [NICARAGUA, Liga Primera - Apertura]
-UNAN-Managua  vs  Real Madriz   (ID: 650)
-1=1.48   X=3.95   2=5.5
-0-2=2   2+=1.19   3+=1.68
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:00  [PARAGUAY, Copa de Primera - Clausura]
-Recoleta Asuncion  vs  Libertad Asuncion   (ID: 830)
-1=3.95   X=3.4   2=1.85
-0-2=1.9   2+=1.25   3+=1.82
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:00  [PARAGUAY, Copa de Primera - Clausura]
-FBC Melgar  vs  Sport Huancayo   (ID: 829)
-1=1.43   X=4.3   2=6.4
-0-2=2.18   2+=1.18   3+=1.61
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:00  [USA, MLS Next Pro - Play Offs]
-New York Red Bulls 2  vs  Chicago Fire II   (ID: 659)
-1=1.68   X=3.95   2=3.85
-0-2=2.75   2+=1.09   3+=1.39
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:15  [HONDURAS, Liga Nacional - Apertura]
-CD Olimpia  vs  Real Espana   (ID: 826)
-1=1.83   X=3.3   2=3.8
-0-2=1.8   2+=1.27   3+=1.9
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:15  [PANAMA, LPF - Clausura]
-Independiente de la Chorrera  vs  Veraguas   (ID: 648)
-1=1.41   X=3.95   2=6.9
-0-2=1.85   2+=1.25   3+=1.82
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:30  [PANAMA, LPF - Clausura]
-Palmeiras  vs  Cruzeiro   (ID: 937)
-1=1.76   X=3.45   2=4.7
-0-2=1.75   2+=1.31   3+=2
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:30  [COLOMBIA, Primera A - Clausura]
-Atl. Nacional  vs  Ind. Medellin   (ID: 828)
-1=2.15   X=3.15   2=3.25
-0-2=1.72   2+=1.31   3+=2.02
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:30  [USA, MLS - Play Offs]
-Vancouver Whitecaps  vs  FC Dallas   (ID: 837)
-1=1.44   X=4.75   2=6
-0-2=2.85   2+=1.09   3+=1.38
-GG=-   IGG=-   GG&3+=-
-======================================================================
-00:30  [VENEZUELA, Liga FUTVE - Clausura - Quadrangular]
-Metropolitanos  vs  Caracas   (ID: 658)
-1=2.5   X=3.05   2=2.6
-0-2=1.72   2+=1.3   3+=1.99
-GG=-   IGG=-   GG&3+=-
-======================================================================
 01:00  [URUGUAY, Liga AUF Uruguaya - Clausura]
 Miramar  vs  Boston River   (ID: 826)
 1=3.15   X=3.05   2=2.25
@@ -132,8 +36,8 @@ Ferretti  vs  Managua FC   (ID: 657)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 09:00  [NICARAGUA, Liga Primera - Apertura]
-Macarthur FC  vs  Adelaide United   (ID: 839)
-1=2.3   X=3.65   2=2.75
+Macarthur FC  vs  Adelaide United   (ID: 840)
+1=2.28   X=3.65   2=2.8
 0-2=2.45   2+=1.14   3+=1.5
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -318,7 +222,7 @@ Perugia  vs  Livorno   (ID: 823)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:00  [ITALY, Serie C - Group B]
-Betis  vs  Atl. Madrid   (ID: 997)
+Betis  vs  Atl. Madrid   (ID: 1010)
 1=3.3   X=3.4   2=2.2
 0-2=2.05   2+=1.25   3+=1.77
 GG=-   IGG=-   GG&3+=-
@@ -327,10 +231,4 @@ GG=-   IGG=-   GG&3+=-
 Port Vale  vs  Stockport   (ID: 829)
 1=2.65   X=3.2   2=2.62
 0-2=1.68   2+=1.34   3+=2.08
-GG=-   IGG=-   GG&3+=-
-======================================================================
-21:15  [ITALY, Serie C - Group B]
-Moreirense  vs  FC Porto   (ID: 913)
-1=9.25   X=4.75   2=1.33
-0-2=2   2+=1.23   3+=1.75
 GG=-   IGG=-   GG&3+=-
