@@ -12,8 +12,8 @@ X
 17:00
 Radnički Niš - Crvena Zvezda
 9.20
-6.40
-1.23
+6.60
+1.20
 +37
 Engleska 1
 KONAČAN ISHOD
@@ -124,7 +124,7 @@ Torino - Genoa
 2.35
 2.95
 3.45
-+53
++58
 15:00
 Verona - Cagliari
 2.20
@@ -529,12 +529,6 @@ NED. 26.10.
 1
 X
 2
-01:30
-Criciuma SC - Goias GO
-1.90
-3.25
-3.70
-+41
 20:00
 CRB - Atl. Goianiense GO
 2.00
@@ -621,9 +615,9 @@ Sigma O. - Slavia P.
 +37
 18:30
 Plzen - Ostrava
-1.42
+1.40
 5.05
-6.70
+7.60
 +37
 Češka 2
 KONAČAN ISHOD
@@ -655,9 +649,9 @@ X
 2
 10:00
 Pribram B - SK Aritma Prague
-2.10
-3.60
-2.90
+2.35
+3.65
+2.60
 +35
 10:15
 SK Dynamo Ceske Budejovice B - FK Mas Taborsko II
@@ -929,9 +923,9 @@ Guayaquil City - Independiente Juniors
 +36
 23:00
 San Antonio FC - Gualaceo
-2.35
-2.85
+2.10
 3.00
+3.40
 +36
 El Salvador 1
 KONAČAN ISHOD
@@ -1147,9 +1141,9 @@ X
 2
 00:00
 Guastatoya - Xelaju
-2.20
+2.40
 2.95
-3.20
+2.80
 +39
 Holandija 2
 KONAČAN ISHOD
@@ -1781,7 +1775,7 @@ Chongqing Tonglianglong FC - Shijiazhuang Kungfu FC
 Guangzhou E-Power FC - Shaanxi Union FC
 1.65
 4.00
-4.10
+4.00
 +39
 12:30
 Guangxi Pingguo Haliao - Yanbian Longding
@@ -1839,12 +1833,6 @@ NED. 26.10.
 1
 X
 2
-01:20
-Santa Fe - Millonarios
-2.75
-3.05
-2.55
-+37
 02:30
 Once Caldas - Union Magdalena
 1.48
@@ -1885,9 +1873,9 @@ X
 2
 02:00
 Sporting San Jose - Mun.Liberia
-2.30
-3.15
-2.80
+2.25
+3.20
+2.90
 +41
 03:00
 Herediano - Cartagines
@@ -1947,9 +1935,9 @@ Metta - Auda
 +40
 15:00
 RFS - Grobinas
-1.27
+1.25
 5.80
-7.50
+8.40
 +40
 Liban 1
 KONAČAN ISHOD
@@ -2099,9 +2087,9 @@ Debreceni - Ujpest
 +41
 17:30
 Ferencvarosi - Zalaegerszeg
-1.45
-4.55
-5.70
+1.42
+4.60
+5.80
 +41
 Mađarska 2
 KONAČAN ISHOD
@@ -2467,9 +2455,9 @@ X
 2
 00:00
 Unan Managua - Real Madriz
-1.48
-4.20
-5.80
+1.60
+4.10
+4.40
 +36
 03:00
 Walter Ferretti - Managua
@@ -2763,9 +2751,9 @@ Tychy - Chrobry Glogow
 +39
 14:30
 Wisla K. - Stal Rzeszow
-1.20
-6.80
-10.40
+1.23
+6.20
+8.40
 +39
 17:00
 Stal Mielec - Legnica
@@ -3159,22 +3147,10 @@ NED. 26.10.
 1
 X
 2
-01:30
-Louisville City - Hartford
-1.58
-4.05
-4.70
-+39
-01:30
-Tampa Bay - Detroit City FC
-2.30
-3.30
-2.80
-+39
 02:00
 Tulsa - Colorado
 2.20
-3.25
+3.30
 2.80
 +39
 02:30
@@ -3192,7 +3168,7 @@ Monterey Bay Fc - Las Vegas
 03:00
 Oakland Roots Sc - Lexington SC
 2.80
-3.25
+3.30
 2.30
 +39
 03:00
@@ -3204,8 +3180,8 @@ Orange County - Indy Eleven
 03:00
 Sacramento - Miami
 1.50
-4.00
-6.10
+4.05
+5.70
 +39
 San Marino 1
 KONAČAN ISHOD
@@ -3757,9 +3733,9 @@ Buriram - Rayong
 +41
 12:30
 Bangkok U. - Lamphun Warrior
-1.62
-3.95
-4.30
+1.65
+4.00
+4.00
 +41
 12:30
 Sukhothai - Pathum U.
@@ -3817,9 +3793,9 @@ X
 2
 12:30
 Antalya - Basaksehir
-3.00
+2.95
 3.45
-2.30
+2.35
 +53
 15:00
 Galatasaray - Goztepe
@@ -3835,9 +3811,9 @@ Genclerbirligi - Konya
 +53
 18:00
 Kasimpasa - Besiktas
-4.10
-3.75
-1.85
+4.15
+3.90
+1.80
 +53
 PON. 27.10.
 1
@@ -4023,12 +3999,6 @@ NED. 26.10.
 1
 X
 2
-01:30
-Puerto Cabello - Zamora
-1.85
-3.25
-3.90
-+37
 22:30
 Carabobo - Dep.Tachira
 2.50

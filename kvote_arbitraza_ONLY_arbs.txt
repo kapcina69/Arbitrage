@@ -1,24 +1,24 @@
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1236
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 850
-Grupa sa veličinom ≥3: 577
-Grupa sa veličinom ≥4: 419
-Grupa sa veličinom ≥5: 268
-Grupa sa veličinom ≥6: 106
-Grupa sa veličinom ≥7: 12
+Ukupno mečeva (grupa): 1229
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 833
+Grupa sa veličinom ≥3: 561
+Grupa sa veličinom ≥4: 418
+Grupa sa veličinom ≥5: 275
+Grupa sa veličinom ≥6: 100
+Grupa sa veličinom ≥7: 10
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  453   spojeno (u grupama >1):  427
-  - BetOle     ukupno zapisa:   29   spojeno (u grupama >1):   29
-  - Brazil_d   ukupno zapisa:  377   spojeno (u grupama >1):  375
+  - BalkanBet  ukupno zapisa:  452   spojeno (u grupama >1):  426
+  - BetOle     ukupno zapisa:   30   spojeno (u grupama >1):   30
+  - Brazil_d   ukupno zapisa:  356   spojeno (u grupama >1):  354
   - Brazil_p   ukupno zapisa:   56   spojeno (u grupama >1):   56
   - Brazil_s   ukupno zapisa:   39   spojeno (u grupama >1):   39
-  - Mozzart    ukupno zapisa:  366   spojeno (u grupama >1):  327
-  - OktagonBet ukupno zapisa: 1038   spojeno (u grupama >1):  765
-  - Soccer     ukupno zapisa:  635   spojeno (u grupama >1):  611
-  - Topbet     ukupno zapisa:  475   spojeno (u grupama >1):  453
+  - Mozzart    ukupno zapisa:  366   spojeno (u grupama >1):  328
+  - OktagonBet ukupno zapisa: 1038   spojeno (u grupama >1):  755
+  - Soccer     ukupno zapisa:  621   spojeno (u grupama >1):  596
+  - Topbet     ukupno zapisa:  470   spojeno (u grupama >1):  448
 
 Arbitraže (broj mečeva/grupa):
   - 1-X-2: 0

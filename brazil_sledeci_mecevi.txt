@@ -41,76 +41,40 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-HONDURAS, Liga Nacional - Apertura
-1256
-01:15
-CD Choloma
-Juticalpa
-56
-1
-3.10
-X
-3.65
-2
-1.96
-0-2
-2.40
-2+
-1.13
-3+
-1.49
-COLOMBIA, Primera A - Clausura
-574
-01:20
-Santa Fe
-Millonarios
-829
-1
-2.75
-X
-3.05
-2
-2.55
-0-2
-1.65
-2+
-1.35
-3+
-2.12
 BRAZIL, Serie B
 850
 01:30
 Criciuma
 Goias
-820
+821
 1
-1.92
+1.87
 X
 3.20
 2
-4.25
+4.45
 0-2
-1.55
+1.58
 2+
-1.42
+1.40
 3+
-2.30
+2.28
 USA, USL
 828
 01:30
 Louisville City
 Hartford Athletic
-654
+655
 1
-1.58
+1.53
 X
-3.85
+3.95
 2
-4.60
+4.90
 0-2
-2.25
+2.28
 2+
-1.16
+1.15
 3+
 1.56
 829
@@ -119,11 +83,11 @@ Tampa Bay
 Detroit
 657
 1
-2.22
+2.15
 X
 3.30
 2
-2.85
+2.90
 0-2
 2.05
 2+
@@ -135,19 +99,19 @@ VENEZUELA, Liga FUTVE - Clausura - Quadrangular
 01:30
 Puerto Cabello
 Zamora
-654
+653
 1
-1.85
+1.95
 X
-3.10
+3.05
 2
-4.05
+3.75
 0-2
-1.55
+1.52
 2+
-1.40
+1.41
 3+
-2.28
+2.30
 BOLIVIA, Copa Pacena
 1367
 02:00
@@ -155,17 +119,17 @@ Aurora
 Always Ready
 660
 1
-3.05
+3.10
 X
-3.60
+3.65
 2
-1.99
+1.96
 0-2
-2.40
+2.45
 2+
-1.12
+1.11
 3+
-1.48
+1.45
 BRAZIL, Serie A
 457
 02:00
@@ -173,15 +137,15 @@ Sao Paulo
 Bahia
 921
 1
-2.02
+1.99
 X
-3.20
+3.25
 2
-3.75
+3.85
 0-2
-1.60
+1.62
 2+
-1.38
+1.37
 3+
 2.18
 COLOMBIA, Primera A - Clausura
@@ -297,15 +261,15 @@ Guadalajara Chivas
 Atlas
 827
 1
-1.52
+1.53
 X
 4.05
 2
 5.90
 0-2
-1.97
+1.95
 2+
-1.23
+1.24
 3+
 1.77
 MEXICO, Liga Premier Serie A
@@ -313,37 +277,37 @@ MEXICO, Liga Premier Serie A
 02:00
 Celaya
 Heroes de Zaci
-657
+658
 1
-1.95
+1.94
 X
-3.40
+3.45
 2
 3.30
 0-2
-2.02
+2.10
 2+
-1.20
+1.19
 3+
-1.69
+1.66
 MEXICO, Liga de Expansion MX - Apertura
 1118
 02:00
 Cancun
 Correcaminos
-831
+832
 1
-1.41
+1.47
 X
-4.40
+4.20
 2
-6.40
+5.80
 0-2
-2.30
+2.25
 2+
-1.16
+1.17
 3+
-1.56
+1.58
 1119
 02:00
 Zacatecas Mineros
@@ -404,13 +368,13 @@ FC Tulsa
 Colorado Springs
 657
 1
-2.15
+2.18
 X
 3.20
 2
-3.00
+2.95
 0-2
-1.92
+1.90
 2+
 1.23
 3+
@@ -480,11 +444,11 @@ X
 2
 18.0
 0-2
-3.60
+3.70
 2+
-1.04
+1.03
 3+
-1.24
+1.22
 1403
 03:00
 Moreton City Excelsior
@@ -563,11 +527,11 @@ Oakland Roots
 Lexington
 657
 1
-2.80
+2.90
 X
 3.20
 2
-2.28
+2.22
 0-2
 1.92
 2+
@@ -595,36 +559,36 @@ X
 03:00
 Orange County SC
 Indy Eleven
-658
+659
 1
-2.07
+2.05
 X
-3.40
+3.45
 2
 3.00
 0-2
-2.15
+2.20
 2+
-1.18
+1.17
 3+
-1.61
+1.58
 836
 03:00
 Sacramento Republic
 Miami FC
 651
 1
-1.51
+1.50
 X
-3.70
+3.75
 2
 5.70
 0-2
-1.85
+1.90
 2+
-1.25
+1.24
 3+
-1.84
+1.80
 HONDURAS, Liga Nacional - Apertura
 1257
 03:30
@@ -686,11 +650,11 @@ Cruz Azul
 Monterrey
 838
 1
-1.89
+1.92
 X
-3.80
+3.75
 2
-3.60
+3.55
 0-2
 2.30
 2+
@@ -1246,19 +1210,19 @@ CHINA, Yi League - Promotion Group
 07:30
 Chengdu Rongcheng B
 Changchun Xidu
-652
+651
 1
-1.54
+1.52
 X
-3.60
+3.70
 2
-5.40
+5.60
 0-2
-1.82
+1.85
 2+
-1.26
+1.25
 3+
-1.87
+1.82
 37794
 07:30
 Shandong Taishan B
@@ -1567,17 +1531,17 @@ Pribram B
 Aritma Prague
 658
 1
-2.15
+2.35
 X
 3.45
 2
-2.70
+2.40
 0-2
-2.35
+2.40
 2+
-1.12
+1.11
 3+
-1.48
+1.46
 ITALY, Primavera 1
 1011
 10:00
@@ -1958,11 +1922,11 @@ Merani Martvili
 Loco. Tbilisi
 658
 1
-2.30
+2.45
 X
 3.00
 2
-2.90
+2.70
 0-2
 1.67
 2+
@@ -2506,36 +2470,36 @@ CAMBODIA, C-League
 12:00
 Angkor Tiger
 Life FC
-646
+651
 1
-1.17
+1.23
 X
-5.80
+5.35
 2
-12.0
+9.00
 0-2
-2.55
+2.75
 2+
-1.11
+1.09
 3+
-1.44
+1.38
 37749
 12:00
 Visakha
 Boeung Ket
-647
+659
 1
-2.03
+2.04
 X
-3.75
+3.60
 2
-2.85
+2.95
 0-2
-2.65
+2.30
 2+
-1.10
+1.15
 3+
-1.41
+1.53
 INDIA, Super Cup
 35152
 12:00
@@ -2673,11 +2637,11 @@ X
 2
 3.60
 0-2
-3.65
+3.55
 2+
-1.01
+1.02
 3+
-1.20
+1.21
 NORWAY, Division 3 - Group 3
 37683
 12:00
@@ -3738,7 +3702,7 @@ ITALY, Serie A
 12:30
 Torino
 Genoa
-1037
+956
 1
 2.38
 X
@@ -4365,11 +4329,11 @@ Lajense
 Fatima
 654
 1
-1.82
+1.86
 X
-3.20
+3.15
 2
-4.05
+3.90
 0-2
 1.65
 2+
@@ -4953,17 +4917,17 @@ Rayo Vallecano U19
 Atletico Madrid U19
 102
 1
-3.25
+4.33
 X
-3.55
+3.95
 2
-1.86
+1.56
 0-2
-2.18
+2.30
 2+
-1.14
+1.11
 3+
-1.54
+1.47
 OMAN, Sultan Cup
 37573
 13:55
@@ -5005,7 +4969,7 @@ SPAIN, LaLiga
 14:00
 Mallorca
 Levante
-1040
+959
 1
 2.18
 X
@@ -5289,17 +5253,17 @@ Makedonikos
 Kampaniakos
 657
 1
-2.07
+2.05
 X
-3.30
+3.35
 2
 3.10
 0-2
-2.00
+2.07
 2+
-1.21
+1.19
 3+
-1.72
+1.66
 1095
 14:00
 Marko
@@ -5607,15 +5571,15 @@ Sirius
 Elfsborg
 934
 1
-2.08
+2.02
 X
-3.65
+3.70
 2
-3.15
+3.25
 0-2
 2.35
 2+
-1.16
+1.15
 3+
 1.54
 SWITZERLAND, Super League
@@ -5641,19 +5605,19 @@ SWITZERLAND, Challenge League
 14:00
 Vaduz
 Etoile-Carouge
-834
+832
 1
 1.66
 X
-3.85
+3.75
 2
-4.40
+4.50
 0-2
-2.25
+2.15
 2+
-1.17
+1.19
 3+
-1.58
+1.63
 TURKEY, TFF 1. Lig
 294
 14:00
@@ -5729,13 +5693,13 @@ WORLD, Africa Cup of Nations Women - Qualification
 14:00
 Zambia Wom.
 Namibia Wom.
-825
+824
 1
-1.35
+1.33
 X
-4.45
+4.50
 2
-7.00
+7.30
 0-2
 2.25
 2+
@@ -6435,333 +6399,8 @@ X
 1.37
 3+
 2.22
-37644
-14:30
-Sant'Angelo
-Sangiuliano City
-652
-1
-2.18
-X
-2.85
-2
-3.10
-0-2
-1.49
-2+
-1.38
-3+
-2.28
-37645
-14:30
-Tropical Coriano
-Cittadella Vis Modena
-656
-1
-2.60
-X
-3.00
-2
-2.40
-0-2
-1.75
-2+
-1.25
-3+
-1.87
-37646
-14:30
-Tuttocuoio
-Piacenza
-652
-1
-3.15
-X
-2.90
-2
-2.15
-0-2
-1.57
-2+
-1.33
-3+
-2.12
-ITALY, Serie D - Group E
-37604
-14:30
-Camaiore
-Orvietana
-653
-1
-3.05
-X
-3.00
-2
-2.15
-0-2
-1.68
-2+
-1.27
-3+
-1.95
-37605
-14:30
-Fulgens Foligno
-Terranuova Traiana
-652
-1
-2.08
-X
-2.95
-2
-3.20
-0-2
-1.60
-2+
-1.31
-3+
-2.07
-37606
-14:30
-Ghiviborgo
-Siena
-656
-1
-2.25
-X
-3.10
-2
-2.75
-0-2
-1.85
-2+
-1.21
-3+
-1.77
-37607
-14:30
-Grosseto
-Poggibonsi
-629
-1
-1.69
-X
-3.15
-2
-4.55
-0-2
-1.49
-2+
-1.38
-3+
-2.28
-37608
-14:30
-Montevarchi
-Scandicci
-652
-1
-2.10
-X
-2.90
-2
-3.25
-0-2
-1.55
-2+
-1.34
-3+
-2.15
-37609
-14:30
-Prato
-Cannara
-632
-1
-1.69
-X
-3.20
-2
-4.45
-0-2
-1.57
-2+
-1.33
-3+
-2.12
-37610
-14:30
-San Donato
-Vivi Altotevere
-650
-1
-2.04
-X
-2.88
-2
-3.40
-0-2
-1.46
-2+
-1.41
-3+
-2.35
-37611
-14:30
-Seravezza Pozzi
-Follonica Gavorrano
-650
-1
-1.95
-X
-3.00
-2
-3.55
-0-2
-1.50
-2+
-1.37
-3+
-2.25
-37612
-14:30
-Trestina
-Tau
-652
-1
-3.15
-X
-2.95
-2
-2.12
-0-2
-1.60
-2+
-1.31
-3+
-2.07
-ITALY, Serie D - Group F
-37621
-14:30
-Calcio Chieti
-Atletico Ascoli
-652
-1
-2.00
-X
-3.30
-2
-3.05
-0-2
-1.80
-2+
-1.23
-3+
-1.82
-37622
-14:30
-Castelfidardo
-Ostia Mare
-650
-1
-4.25
-X
-3.35
-2
-1.68
-0-2
-1.75
-2+
-1.24
-3+
-1.87
-37623
-14:30
-Fossombrone
-S. N. Notaresco
-652
-1
-2.25
-X
-2.88
-2
-3.00
-0-2
-1.53
-2+
-1.35
-3+
-2.18
-37624
-14:30
-Giulianova
-San Marino Calcio
-639
-1
-2.55
-X
-2.95
-2
-2.50
-0-2
-1.60
-2+
-1.32
-3+
-2.07
-37625
-14:30
-Maceratese
-Ancona
-637
-1
-2.65
-X
-2.88
-2
-2.45
-0-2
-1.57
-2+
-1.33
-3+
-2.12
-37626
-14:30
-Teramo
-Sammaurese
-648
-1
-1.48
-X
-3.70
-2
-5.45
-0-2
-1.80
-2+
-1.23
-3+
-1.82
 Odigrani tiketi
-850
-Criciuma - Goias
-26.10. 01:30
-KONAČAN ISHOD 
-1
-  1.92  
-Običan
-Sistem
-Kvota:
-1.92
-Uplata:
-20.00 RSD
-Dobitak:
-38.40 RSD
-Prihvatam sve promene kvota.
-FREEBET
-Express
-Prijavi se
+Klikni na kvotu i pokreni
 Srpski
 O nama
 Odgovorno klađenje

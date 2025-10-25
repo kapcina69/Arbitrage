@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1340
+1326
   
   
 DNEVNI SPECIJAL
@@ -44,15 +44,15 @@ DNEVNI SPECIJAL
   
   
 GOLOVI PO LIGAMA
-77
+74
   
   
 KOŠARKA
-142
+139
   
   
 SP. KOŠARKA
-96
+78
   
   
 TENIS
@@ -64,19 +64,19 @@ RUKOMET
   
   
 ODBOJKA
-82
+81
   
   
 HOKEJ
-122
+116
   
   
 SP. HOKEJ
-213
+105
   
   
 AM.FUDBAL
-18
+17
   
   
 SP. AM. FUDBAL
@@ -92,7 +92,7 @@ RAGBI UNIJA
   
   
 STONI TENIS
-286
+284
   
   
 FUTSAL
@@ -132,7 +132,7 @@ VIR. TENIS
   
   
 OUTRIGHT
-292
+262
 
 This is a modal window.
 
@@ -144,265 +144,48 @@ Takmičenja
 Vremenska
 Top
 Specijali
-KONAČAN ISHOD
- 
-Guatemala, Liga Nacional - Apertura
-+789
-Municipal
-Malacateco
-26.10. 01:00
-ki 1
-1.19
-ki X
-5.35
-ki 2
-11.5
-manje 2.5
-2.15
-više 2.5
-1.61
- 
-Mexico, Liga MX - Apertura
-+814
-U.A.N.L.- Tigres
-Club Tijuana
-26.10. 01:00
-ki 1
-1.52
-ki X
-4.45
-ki 2
-5.30
-manje 2.5
-2.40
-više 2.5
-1.52
- 
-New Zealand, National League - Championship Group
-+39
-Auckland City
-Auckland FC II
-26.10. 01:00
-ki 1
-1.32
-ki X
-4.85
-ki 2
-6.90
-manje 2.5
-2.65
-više 2.5
-1.41
- 
-Panama, LPF - Clausura
-+628
-Miguelito
-Arabe Unido
-26.10. 01:00
-ki 1
-2.60
-ki X
-2.85
-ki 2
-2.67
-manje 2.5
-1.47
-više 2.5
-2.47
- 
-Peru, Liga 1 - Clausura
-+803
-Cusco
-Grau
-26.10. 01:00
-ki 1
-1.48
-ki X
-3.95
-ki 2
-6.10
-manje 2.5
-1.93
-više 2.5
-1.77
- 
-USA, USL Championship
-+633
-Pittsburgh
-Phoenix Rising
-26.10. 01:00
-ki 1
-1.73
-ki X
-3.30
-ki 2
-4.33
-manje 2.5
-1.77
-više 2.5
-1.92
- 
-USA, USL League One
-+82
-Chattanooga Red Wolves
-Westchester SC
-26.10. 01:00
-ki 1
-1.67
-ki X
-3.60
-ki 2
-4.25
-manje 2.5
-2.05
-više 2.5
-1.67
-+82
-FC Naples
-Charlotte Independ.
-26.10. 01:00
-ki 1
-2.25
-ki X
-3.55
-ki 2
-2.62
-manje 2.5
-2.30
-više 2.5
-1.52
-+82
-One Knoxville
-Greenville
-26.10. 01:00
-ki 1
-1.90
-ki X
-3.50
-ki 2
-3.35
-manje 2.5
-2.10
-više 2.5
-1.63
-+82
-Tormenta
-Texoma
-26.10. 01:00
-ki 1
-1.41
-ki X
-4.50
-ki 2
-5.60
-manje 2.5
-2.67
-više 2.5
-1.40
-+81
-Union Omaha
-Spokane Velocity
-26.10. 01:00
-ki 1
-1.43
-ki X
-4.20
-ki 2
-5.75
-manje 2.5
-2.22
-više 2.5
-1.57
- 
-Paraguay, Copa de Primera - Clausura
-+804
-Sportivo Trinidense
-.2 de Mayo
-26.10. 01:00
-ki 1
-2.22
-ki X
-3.05
-ki 2
-3.20
-manje 2.5
-1.63
-više 2.5
-2.12
- 
-Honduras, Liga Nacional - Apertura
-+36
-CD Choloma
-Juticalpa
-26.10. 01:15
-ki 1
-3.10
-ki X
-3.70
-ki 2
-1.95
-manje 2.5
-2.40
-više 2.5
-1.50
- 
-Colombia, Primera A - Clausura
-+809
-Santa Fe
-Millonarios
-26.10. 01:20
-ki 1
-2.75
-ki X
-3.05
-ki 2
-2.50
-manje 2.5
-1.65
-više 2.5
-2.10
  
 Brazil, Serie B
-+800
++801
 Criciuma
 Goias
 26.10. 01:30
 ki 1
-1.92
+1.88
 ki X
-3.20
+3.25
 ki 2
-4.20
+4.33
 manje 2.5
-1.55
+1.57
 više 2.5
-2.30
+2.25
  
 USA, USL Championship
-+633
++634
 Louisville City
 Hartford Athletic
 26.10. 01:30
 ki 1
-1.57
+1.53
 ki X
-3.90
+4.00
 ki 2
-4.55
+4.85
 manje 2.5
-2.25
+2.27
 više 2.5
-1.57
+1.55
 +636
 Tampa Bay
 Detroit
 26.10. 01:30
 ki 1
-2.22
+2.15
 ki X
 3.35
 ki 2
-2.80
+2.88
 manje 2.5
 2.05
 više 2.5
@@ -414,31 +197,31 @@ Puerto Cabello
 Zamora
 26.10. 01:30
 ki 1
-1.85
+1.95
 ki X
-3.15
+3.05
 ki 2
-4.00
+3.70
 manje 2.5
-1.55
+1.53
 više 2.5
-2.27
+2.30
  
 Brazil, Serie A
-+954
++901
 Sao Paulo
 Bahia
 26.10. 02:00
 ki 1
-2.02
+2.00
 ki X
-3.25
+3.30
 ki 2
-3.70
+3.80
 manje 2.5
-1.62
+1.63
 više 2.5
-2.20
+2.15
  
 Costa Rica, Primera Division - Apertura
 +808
@@ -487,20 +270,20 @@ više 2.5
 2.20
  
 Mexico, Liga Premier Serie A
-+636
++637
 Celaya
 Heroes de Zaci
 26.10. 02:00
 ki 1
 1.95
 ki X
-3.40
+3.50
 ki 2
 3.25
 manje 2.5
-2.03
+2.10
 više 2.5
-1.67
+1.65
  
 Mexico, Liga MX - Apertura
 +813
@@ -514,25 +297,25 @@ ki X
 ki 2
 2.22
 manje 2.5
-1.92
+1.91
 više 2.5
-1.80
+1.81
  
 Mexico, Liga de Expansion MX - Apertura
-+810
++811
 Cancun
 Correcaminos
 26.10. 02:00
 ki 1
-1.41
+1.47
 ki X
-4.45
+4.25
 ki 2
-6.40
+5.75
 manje 2.5
-2.30
+2.25
 više 2.5
-1.55
+1.57
 +815
 Zacatecas Mineros
 Atlante
@@ -574,11 +357,11 @@ ki 1
 ki X
 3.25
 ki 2
-3.00
+2.93
 manje 2.5
-1.93
+1.92
 više 2.5
-1.75
+1.77
 +637
 San Antonio
 EL Paso
@@ -595,20 +378,236 @@ više 2.5
 1.82
  
 Bolivia, Copa Pacena
-+639
++640
 Aurora
 Always Ready
 26.10. 02:00
 ki 1
-3.05
+3.10
 ki X
-3.60
+3.65
 ki 2
-2.00
+1.97
 manje 2.5
-2.41
+2.50
 više 2.5
-1.48
+1.45
+ 
+Ecuador, Liga Pro - Placement Group
++633
+Dep. Cuenca
+Aucas
+26.10. 02:00
+ki 1
+2.15
+ki X
+3.03
+ki 2
+3.15
+manje 2.5
+1.60
+više 2.5
+2.20
+ 
+Mexico, Liga MX - Apertura
++806
+Guadalajara Chivas
+Atlas
+26.10. 02:07
+ki 1
+1.53
+ki X
+4.10
+ki 2
+5.90
+manje 2.5
+1.95
+više 2.5
+1.77
+ 
+Panama, LPF - Clausura
++636
+Plaza Amador
+Alianza FC Panama
+26.10. 02:15
+ki 1
+1.83
+ki X
+3.45
+ki 2
+3.65
+manje 2.5
+1.93
+više 2.5
+1.75
+ 
+Colombia, Primera A - Clausura
++801
+Once Caldas
+U. Magdalena
+26.10. 02:30
+ki 1
+1.52
+ki X
+3.80
+ki 2
+6.00
+manje 2.5
+1.82
+više 2.5
+1.88
+ 
+Australia, A-League
++812
+Wellington Phoenix
+Brisbane Roar
+26.10. 03:00
+ki 1
+3.00
+ki X
+3.25
+ki 2
+2.30
+manje 2.5
+1.85
+više 2.5
+1.85
+ 
+Costa Rica, Primera Division - Apertura
++808
+Herediano
+Cartagines
+26.10. 03:00
+ki 1
+2.12
+ki X
+3.15
+ki 2
+3.30
+manje 2.5
+1.73
+više 2.5
+1.97
+ 
+Guatemala, Liga Nacional - Apertura
++803
+Antigua
+Aurora
+26.10. 03:00
+ki 1
+1.43
+ki X
+4.00
+ki 2
+6.00
+manje 2.5
+2.03
+više 2.5
+1.67
+ 
+New Zealand, National League - Championship Group
++39
+Birkenhead United
+Wellington Olympic
+26.10. 03:00
+ki 1
+2.27
+ki X
+3.75
+ki 2
+2.47
+manje 2.5
+2.80
+više 2.5
+1.37
+ 
+USA, USL Championship
++637
+Oakland Roots
+Lexington
+26.10. 03:00
+ki 1
+2.80
+ki X
+3.25
+ki 2
+2.27
+manje 2.5
+1.93
+više 2.5
+1.77
++636
+Monterey Bay
+Las Vegas Lights
+26.10. 03:00
+ki 1
+1.82
+ki X
+3.45
+ki 2
+3.70
+manje 2.5
+1.97
+više 2.5
+1.73
++637
+Orange County SC
+Indy Eleven
+26.10. 03:00
+ki 1
+2.07
+ki X
+3.45
+ki 2
+3.00
+manje 2.5
+2.15
+više 2.5
+1.61
++629
+Sacramento Republic
+Miami FC
+26.10. 03:00
+ki 1
+1.51
+ki X
+3.75
+ki 2
+5.60
+manje 2.5
+1.85
+više 2.5
+1.82
+ 
+Australia, Australian Championship
++814
+Broadmeadow
+South Melbourne
+26.10. 03:00
+ki 1
+4.60
+ki X
+4.25
+ki 2
+1.52
+manje 2.5
+2.50
+više 2.5
+1.45
++37
+Heidelberg Utd
+South Hobart
+26.10. 03:00
+ki 1
+1.07
+ki X
+8.50
+ki 2
+17.0
+manje 2.5
+3.70
+više 2.5
+1.22
  Tiket
 TIKET
 
@@ -667,7 +666,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-00:59:39
+01:25:18
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
