@@ -3,7 +3,7 @@ name: Run all scripts continuously (1min pause, auto-reset every 3h, silent git,
 on:
   schedule:
     - cron: "0 */3 * * *"  # automatski restart svakih 3h
-  workflow_dispatch:        # ručno pokretanje iz Actions taba
+  workflow_dispatch:
 
 jobs:
   run:
@@ -27,7 +27,7 @@ jobs:
       - name: Set timezone to Europe/Belgrade
         run: sudo timedatectl set-timezone Europe/Belgrade
 
-      - name: Continuous execution with logs (run → commit → wait → repeat)
+      - name: Continuous execution with logs (auto-rebase, silent push)
         run: |
           mkdir -p logs
           git config --global user.name "GitHub Action" >/dev/null 2>&1
@@ -40,12 +40,13 @@ jobs:
             echo "=== [$(date)] Starting run_all.py ===" | tee -a "$log_file"
             python run_all.py >>"$log_file" 2>&1
 
-            echo "=== [$(date)] Finished run_all.py, committing changes... ===" | tee -a "$log_file"
+            echo "=== [$(date)] Finished run_all.py, syncing and pushing... ===" | tee -a "$log_file"
             git add . >/dev/null 2>&1
             git commit -m "auto: run_all update $(date '+%Y-%m-%d %H:%M')" >/dev/null 2>&1 || true
 
-            # tiha sinhronizacija sa origin/main
-            git pull --rebase origin main >/dev/null 2>&1 || true
+            # tihi rebase i push — sprečava PUSH FAIL
+            git fetch origin main >/dev/null 2>&1 || true
+            git rebase origin/main >/dev/null 2>&1 || git rebase --skip >/dev/null 2>&1 || true
             git push origin main >/dev/null 2>&1 || echo "[git] Push skipped (no changes or race condition)" >>"$log_file"
 
             echo "=== [$(date)] Sleeping 1 minute before next cycle... ===" | tee -a "$log_file"
