@@ -16,11 +16,12 @@ Bonus tip
 Danas
 Sutra
 27.10.
-5:00
+6:00
 23:59
-5:00 - 23:59
+6:00 - 23:59
 FUDBAL
 STRELCI FUDBAL
+TENIS
 HOKEJ
 ODBOJKA
 PIKADO
@@ -571,7 +572,7 @@ SPAIN, LaLiga
 20:00
 Betis
 Atl. Madrid
-1002
+1004
 1
 3.25
 X

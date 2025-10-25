@@ -180,7 +180,7 @@ Perugia  vs  Livorno   (ID: 817)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:00  [ITALY, Serie C - Group B]
-Betis  vs  Atl. Madrid   (ID: 1002)
+Betis  vs  Atl. Madrid   (ID: 1004)
 1=3.25   X=3.4   2=2.22
 0-2=2.07   2+=1.25   3+=1.77
 GG=-   IGG=-   GG&3+=-
