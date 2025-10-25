@@ -1,6 +1,6 @@
 ======================================================================
 14:00
-Mallorca  vs  Levante   (ID: 991)
+Mallorca  vs  Levante   (ID: 946)
 1=2.18   X=3.2   2=3.6
 0-2=1.75   2+=1.37   3+=2.12
 GG=-   IGG=-   GG&3+=-
@@ -18,7 +18,7 @@ Vejle  vs  Silkeborg   (ID: 835)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:00
-Nomme Kalju U21  vs  Tammeka U21   (ID: 628)
+Nomme Kalju U21  vs  Tammeka U21   (ID: 643)
 1=1.16   X=6.4   2=10.5
 0-2=3.7   2+=1.02   3+=1.2
 GG=-   IGG=-   GG&3+=-
@@ -151,8 +151,8 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:00
 Atletico Fenix Montevideo  vs  Atenas   (ID: 652)
-1=3.15   X=2.85   2=2.28
-0-2=1.46   2+=1.47   3+=2.45
+1=3.35   X=2.88   2=2.18
+0-2=1.47   2+=1.46   3+=2.45
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:00  [WORLD, Africa Cup of Nations Women - Qualification]
@@ -187,8 +187,8 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:30  [WORLD, CAF Confederation Cup - Qualification]
 Makedonikos  vs  Kampaniakos   (ID: 654)
-1=2.03   X=3.05   2=3.45
-0-2=1.62   2+=1.35   3+=2.12
+1=2.04   X=3.05   2=3.4
+0-2=1.63   2+=1.34   3+=2.12
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:30  [WORLD, CAF Confederation Cup - Qualification]
@@ -294,7 +294,7 @@ Rakow  vs  Lechia Gdansk   (ID: 826)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:00  [ITALY, Serie D - Group C]
-Arsenal  vs  Crystal Palace   (ID: 954)
+Arsenal  vs  Crystal Palace   (ID: 941)
 1=1.43   X=4.5   2=7.9
 0-2=2.08   2+=1.25   3+=1.77
 GG=-   IGG=-   GG&3+=-
@@ -312,7 +312,7 @@ Bournemouth  vs  Nottingham   (ID: 1028)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:00  [ITALY, Serie D - Group C]
-Wolves  vs  Burnley   (ID: 1035)
+Wolves  vs  Burnley   (ID: 954)
 1=1.99   X=3.25   2=4.2
 0-2=1.63   2+=1.43   3+=2.3
 GG=-   IGG=-   GG&3+=-
@@ -324,7 +324,7 @@ Sassuolo  vs  AS Roma   (ID: 940)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:00  [ITALY, Serie D - Group C]
-Verona  vs  Cagliari   (ID: 938)
+Verona  vs  Cagliari   (ID: 1032)
 1=2.25   X=2.95   2=3.7
 0-2=1.6   2+=1.45   3+=2.38
 GG=-   IGG=-   GG&3+=-
