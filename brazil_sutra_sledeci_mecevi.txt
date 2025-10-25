@@ -16,705 +16,25 @@ Bonus tip
 Danas
 Sutra
 27.10.
-13:00
+14:00
 23:59
-13:00 - 23:59
+14:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
 HOKEJ
 RUKOMET
 ODBOJKA
-FUTSAL
-ESPORT
 GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-AZERBAIJAN, Premier League
-774
-13:00
-Gabala
-Neftci Baku
-823
-1
-4.90
-X
-3.35
-2
-1.65
-0-2
-1.70
-2+
-1.31
-3+
-2.00
-BELARUS, Vysshaya Liga
-406
-13:00
-Molodechno
-Arsenal Dzyarzhynsk
-827
-1
-4.10
-X
-3.35
-2
-1.85
-0-2
-1.80
-2+
-1.28
-3+
-1.92
-CROATIA, Prva NL
-1265
-13:00
-Croatia Zmijavci
-Dubrava
-652
-1
-2.15
-X
-2.95
-2
-3.30
-0-2
-1.52
-2+
-1.38
-3+
-2.28
-CZECH REPUBLIC, Chance Liga
-599
-13:00
-Sigma Olomouc
-Slavia Prague
-829
-1
-4.80
-X
-3.50
-2
-1.74
-0-2
-1.87
-2+
-1.26
-3+
-1.87
-GREECE, Super League 2
-1097
-13:00
-Panionios
-Kalamata
-656
-1
-2.55
-X
-2.88
-2
-2.70
-0-2
-1.53
-2+
-1.41
-3+
-2.30
-HUNGARY, NB II.
-1369
-13:00
-BVSC-Zuglo
-Vasas
-653
-1
-4.75
-X
-3.55
-2
-1.62
-0-2
-1.90
-2+
-1.23
-3+
-1.79
-1370
-13:00
-Szentlorinc
-Bekescsaba 1912
-654
-1
-2.05
-X
-3.10
-2
-3.35
-0-2
-1.67
-2+
-1.32
-3+
-2.05
-INDONESIA, Championship
-35157
-13:00
-Persiba Balikpapan
-Persiku Kudus
-656
-1
-2.04
-X
-3.20
-2
-3.45
-0-2
-1.75
-2+
-1.29
-3+
-1.97
-INDONESIA, Super League
-783
-13:00
-Malut United
-Semen Padang
-827
-1
-1.66
-X
-3.55
-2
-4.45
-0-2
-2.00
-2+
-1.21
-3+
-1.72
-KENYA, Premier League
-35081
-13:00
-Murang'a
-Tusker
-650
-1
-2.30
-X
-2.85
-2
-3.10
-0-2
-1.44
-2+
-1.45
-3+
-2.40
-KENYA, Super League
-35125
-13:00
-Nairobi City
-Kibera
-102
-1
-2.10
-X
-2.88
-2
-3.50
-0-2
-1.42
-2+
-1.46
-3+
-2.45
-LITHUANIA, A Lyga
-786
-13:00
-Riteriai
-Banga
-832
-1
-2.40
-X
-3.15
-2
-2.70
-0-2
-1.80
-2+
-1.26
-3+
-1.87
-POLAND, Division 2
-468
-13:00
-Kleczew
-S. Wola
-837
-1
-3.05
-X
-3.55
-2
-2.02
-0-2
-2.28
-2+
-1.15
-3+
-1.56
-POLAND, III Liga - Group III
-1038
-13:00
-Polkowice
-Pawlowice
-59
-1
-1.33
-X
-4.60
-2
-6.30
-0-2
-2.35
-2+
-1.12
-3+
-1.49
-ROMANIA, Superliga
-587
-13:00
-Metaloglobus Bucuresti
-U Craiova 1948
-825
-1
-5.70
-X
-3.90
-2
-1.52
-0-2
-2.03
-2+
-1.21
-3+
-1.72
-RUSSIA, FNL 2 - Division B - Group 3
-33622
-13:00
-Spartak Tambov
-Arsenal Tula 2
-60
-1
-1.84
-X
-3.30
-2
-3.85
-0-2
-1.85
-2+
-1.26
-3+
-1.85
-SCOTLAND, Premiership
-172
-13:00
-Hearts
-Celtic
-833
-1
-3.10
-X
-3.35
-2
-2.22
-0-2
-2.02
-2+
-1.22
-3+
-1.72
-SWEDEN, Superettan
-392
-13:00
-Trelleborgs
-Falkenberg
-835
-1
-2.40
-X
-3.35
-2
-2.65
-0-2
-2.07
-2+
-1.20
-3+
-1.66
-SWEDEN, Division 1 - Norra
-1300
-13:00
-FC Arlanda
-Vasalund
-660
-1
-3.70
-X
-3.70
-2
-1.76
-0-2
-2.40
-2+
-1.13
-3+
-1.50
-1301
-13:00
-Gefle
-Hammarby TFF
-653
-1
-4.35
-X
-3.50
-2
-1.69
-0-2
-2.00
-2+
-1.21
-3+
-1.72
-THAILAND, Thai League 1
-741
-13:00
-Uthai Thani
-Ratchaburi
-834
-1
-2.62
-X
-3.20
-2
-2.40
-0-2
-1.93
-2+
-1.23
-3+
-1.77
-TURKEY, 2. Lig Red Group
-33463
-13:00
-Guzide Gebzespor
-Menemenspor
-657
-1
-2.12
-X
-3.20
-2
-3.10
-0-2
-1.85
-2+
-1.23
-3+
-1.82
-33464
-13:00
-Soma Spor
-Arnavutkoy Bl.
-658
-1
-2.45
-X
-3.45
-2
-2.45
-0-2
-2.25
-2+
-1.14
-3+
-1.53
-TURKEY, 2. Lig White Group
-33459
-13:00
-Beyoglu Yeni Carsi
-Karaman
-646
-1
-1.37
-X
-4.15
-2
-7.25
-0-2
-1.95
-2+
-1.20
-3+
-1.72
-UKRAINE, Persha Liga
-35087
-13:00
-Livyi Bereg
-Ch. Odesa
-651
-1
-2.70
-X
-2.85
-2
-2.60
-0-2
-1.50
-2+
-1.39
-3+
-2.30
-RUSSIA, Premier League
-222
-13:15
-Nizhny Novgorod
-Baltika
-823
-1
-4.00
-X
-3.15
-2
-2.03
-0-2
-1.57
-2+
-1.40
-3+
-2.28
-BELGIUM, Jupiler Pro League
-485
-13:30
-Antwerp
-Club Brugge KV
-932
-1
-4.45
-X
-4.25
-2
-1.65
-0-2
-2.35
-2+
-1.15
-3+
-1.53
-BOSNIA AND HERZEGOVINA, Prva Liga - FBiH
-35143
-13:30
-GOSK Gabela
-TOSK Tesanj
-59
-1
-1.99
-X
-3.05
-2
-3.30
-0-2
-1.70
-2+
-1.29
-3+
-1.97
-BULGARIA, Vtora Liga
-937
-13:30
-Pirin Blagoevgrad
-Etar
-653
-1
-2.10
-X
-3.00
-2
-3.30
-0-2
-1.60
-2+
-1.33
-3+
-2.10
-CYPRUS, Division 2
-911
-13:30
-Karmiotissa
-Zakakiou
-650
-1
-1.32
-X
-4.60
-2
-7.50
-0-2
-2.28
-2+
-1.15
-3+
-1.54
-912
-13:30
-Kitiou
-Omonia 29th May
-654
-1
-4.05
-X
-3.35
-2
-1.78
-0-2
-1.90
-2+
-1.24
-3+
-1.82
-ESTONIA, Meistriliiga
-35084
-13:30
-Paide
-Flora
-840
-1
-2.70
-X
-3.60
-2
-2.18
-0-2
-2.55
-2+
-1.12
-3+
-1.44
-GERMANY, 2. Bundesliga
-232
-13:30
-Braunschweig
-Hannover
-975
-1
-3.65
-X
-3.75
-2
-1.93
-0-2
-2.25
-2+
-1.17
-3+
-1.59
-233
-13:30
-Kaiserslautern
-Nurnberg
-934
-1
-2.10
-X
-3.65
-2
-3.20
-0-2
-2.28
-2+
-1.17
-3+
-1.56
-234
-13:30
-Magdeburg
-Preussen Munster
-978
-1
-1.93
-X
-3.85
-2
-3.55
-0-2
-2.50
-2+
-1.13
-3+
-1.48
-GERMANY, 3. Liga
-147
-13:30
-Hoffenheim II
-Aue
-840
-1
-1.87
-X
-3.85
-2
-3.60
-0-2
-2.40
-2+
-1.15
-3+
-1.51
-MACEDONIA, Prva Liga
-554
-13:30
-Sileks
-Pelister
-815
-1
-1.35
-X
-4.05
-2
-8.00
-0-2
-1.80
-2+
-1.27
-3+
-1.90
-UNITED ARAB EMIRATES, Presidents Cup
-1004
-13:55
-Dibba Al Fujairah
-Al Wasl
-652
-1
-5.60
-X
-4.00
-2
-1.48
-0-2
-2.10
-2+
-1.18
-3+
-1.64
 SPAIN, LaLiga
 447
 14:00
 Mallorca
 Levante
-946
+991
 1
 2.18
 X
@@ -732,19 +52,19 @@ DENMARK, Superliga
 14:00
 Fredericia
 Midtjylland
-837
+836
 1
-6.40
+6.70
 X
-5.00
+5.20
 2
-1.41
+1.38
 0-2
-2.85
+2.90
 2+
 1.09
 3+
-1.38
+1.37
 50
 14:00
 Vejle
@@ -1172,19 +492,19 @@ WORLD, Africa Cup of Nations Women - Qualification
 14:00
 Zambia Wom.
 Namibia Wom.
-826
+825
 1
-1.33
+1.35
 X
-4.55
+4.45
 2
-7.20
+7.00
 0-2
-2.28
+2.25
 2+
-1.15
+1.16
 3+
-1.54
+1.56
 WORLD, CAF Confederation Cup - Qualification
 35142
 14:00
@@ -1579,13 +899,13 @@ ENGLAND, Premier League
 15:00
 Arsenal
 Crystal Palace
-941
+954
 1
-1.42
+1.43
 X
 4.50
 2
-8.00
+7.90
 0-2
 2.08
 2+
@@ -1596,7 +916,7 @@ X
 15:00
 Aston Villa
 Manchester City
-1031
+1039
 1
 4.55
 X
@@ -1613,7 +933,7 @@ X
 15:00
 Bournemouth
 Nottingham
-1024
+1028
 1
 1.84
 X
@@ -1630,13 +950,13 @@ X
 15:00
 Wolves
 Burnley
-954
+1035
 1
-2.00
+1.99
 X
-3.20
+3.25
 2
-4.15
+4.20
 0-2
 1.63
 2+
@@ -1750,97 +1070,8 @@ X
 1.33
 3+
 2.08
-GERMANY, Regionalliga North
-689
-15:00
-VfB Oldenburg
-Bremer
-833
-1
-1.26
-X
-5.45
-2
-7.75
-0-2
-3.45
-2+
-1.05
-3+
-1.26
-HUNGARY, NB I
-138
-15:00
-Debrecen
-Ujpest
-835
-1
-2.50
-X
-3.40
-2
-2.55
-0-2
-2.10
-2+
-1.19
-3+
-1.66
-ICELAND, Besta-deild karla - Championship Group
-579
-15:00
-Stjarnan
-Breidablik
-847
-1
-2.45
-X
-4.05
-2
-2.30
-0-2
-3.70
-2+
-1.04
-3+
-1.24
-INDIA, Super Cup
-35153
-15:00
-Goa
-Jamshedpur
-834
-1
-1.84
-X
-3.50
-2
-3.55
-0-2
-2.05
-2+
-1.18
-3+
-1.65
 Odigrani tiketi
-1265
-Croatia Zmijavci - Dubrava
-26.10. 13:00
-KONAČAN ISHOD 
-1
-  2.15  
-Običan
-Sistem
-Kvota:
-2.15
-Uplata:
-20.00 RSD
-Dobitak:
-43.00 RSD
-Prihvatam sve promene kvota.
-FREEBET
-Express
-Prijavi se
+Klikni na kvotu i pokreni
 Srpski
 O nama
 Odgovorno klađenje

@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 27.10.
-13:00
+14:00
 23:59
-13:00 - 23:59
+14:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -31,24 +31,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-INDONESIA, Super League
-785
-13:00
-Persib Bandung
-Persis Solo
-821
-1
-1.37
-X
-4.15
-2
-7.20
-0-2
-2.00
-2+
-1.21
-3+
-1.72
 EGYPT, Premier League
 768
 15:00
@@ -411,19 +393,19 @@ SWEDEN, Allsvenskan
 19:10
 Malmo FF
 Hammarby
-930
+983
 1
-2.18
+2.20
 X
 3.30
 2
-3.25
+3.20
 0-2
-1.95
+1.90
 2+
-1.24
+1.25
 3+
-1.79
+1.82
 ROMANIA, Superliga
 590
 19:30
@@ -640,20 +622,20 @@ X
 3+
 2.40
 Odigrani tiketi
-589
-FC Botosani - FC Hermannstadt
-27.10. 15:30
+242
+CSKA 1948 Sofia - Ludogorets
+27.10. 16:30
 KONAČAN ISHOD 
 1
-  2.20  
+  3.50  
 Običan
 Sistem
 Kvota:
-2.20
+3.50
 Uplata:
 20.00 RSD
 Dobitak:
-44.00 RSD
+70.00 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express
