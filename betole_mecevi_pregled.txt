@@ -1,38 +1,14 @@
 ======================================================================
-03:00  Sub  25.10.  [Mexico, Liga Premier Serie A]
-Tigres de Alica  vs  Tecos FC   (ID: 637)
-1=3.05   X=3.3   2=2.08
-0-2=1.95   2+=-   3+=1.75
-GG=-   IGG=-   GG&3+=-
-======================================================================
-03:00  Sub  25.10.  [Mexico, Liga MX - Apertura]
-Mazatlan FC  vs  Club America   (ID: 815)
-1=4.55   X=4.15   2=1.65
-0-2=2.25   2+=-   3+=1.57
-GG=-   IGG=-   GG&3+=-
-======================================================================
-03:00  Sub  25.10.  [Mexico, Liga de Expansion MX - Apertura]
-Atletico La Paz  vs  Irapuato   (ID: 817)
-1=2.55   X=3.6   2=2.41
-0-2=2.3   2+=-   3+=1.55
-GG=-   IGG=-   GG&3+=-
-======================================================================
-03:00  Sub  25.10.  [Japan, Football League]
-Reinmeer Aomori  vs  Veertien Mie   (ID: 631)
-1=1.88   X=3.1   2=3.9
-0-2=1.53   2+=-   3+=2.3
-GG=-   IGG=-   GG&3+=-
-======================================================================
 04:00  Sub  25.10.  [Australia, A-League]
 Auckland FC  vs  WS Wanderers   (ID: 812)
-1=1.87   X=3.6   2=3.9
-0-2=2.02   2+=-   3+=1.73
+1=1.9   X=3.55   2=3.8
+0-2=1.97   2+=-   3+=1.75
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 04:00  Sub  25.10.  [Japan, Football League]
 Asuka FC  vs  YSCC   (ID: 634)
-1=2.02   X=3.1   2=3.4
-0-2=1.63   2+=-   3+=2.1
+1=1.93   X=3.15   2=3.6
+0-2=1.65   2+=-   3+=2.1
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 04:00  Sub  25.10.  [Japan, Football League]
@@ -55,24 +31,24 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 04:15  Sub  25.10.  [Australia, Australian Championship]
 Sydney United 58  vs  Metrostars   (ID: 812)
-1=2.12   X=3.25   2=3.03
-0-2=1.91   2+=-   3+=1.77
+1=2.12   X=3.25   2=3
+0-2=1.9   2+=-   3+=1.77
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 05:00  Sub  25.10.  [Australia, Australian Championship]
-Kashiwa Reysol  vs  Yokohama FC   (ID: 902)
-1=1.63   X=3.7   2=5.3
-0-2=1.87   2+=-   3+=1.85
+Kashiwa Reysol  vs  Yokohama FC   (ID: 955)
+1=1.62   X=3.7   2=5.4
+0-2=1.85   2+=-   3+=1.88
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 05:00  Sub  25.10.  [Australia, Australian Championship]
-Kyoto  vs  Kashima   (ID: 911)
-1=2.9   X=3.35   2=2.35
-0-2=1.97   2+=-   3+=1.77
+Kyoto  vs  Kashima   (ID: 965)
+1=2.67   X=3.4   2=2.5
+0-2=2   2+=-   3+=1.75
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 05:00  Sub  25.10.  [Australia, Australian Championship]
-Nagoya Grampus  vs  Gamba Osaka   (ID: 910)
+Nagoya Grampus  vs  Gamba Osaka   (ID: 963)
 1=2.67   X=3.25   2=2.57
 0-2=1.8   2+=-   3+=1.92
 GG=-   IGG=-   GG&3+=-
@@ -84,15 +60,15 @@ Shimizu S-Pulse  vs  Verdy   (ID: 951)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 05:00  Sub  25.10.  [Australia, Australian Championship]
-Urawa Reds  vs  Machida   (ID: 909)
-1=3.15   X=3.25   2=2.25
-0-2=1.8   2+=-   3+=1.93
+Urawa Reds  vs  Machida   (ID: 958)
+1=3.2   X=3.25   2=2.22
+0-2=1.81   2+=-   3+=1.9
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 05:00  Sub  25.10.  [Australia, Australian Championship]
-Yokohama F. Marinos  vs  Sanfrecce Hiroshima   (ID: 962)
-1=3.9   X=3.55   2=1.88
-0-2=1.95   2+=-   3+=1.77
+Yokohama F. Marinos  vs  Sanfrecce Hiroshima   (ID: 961)
+1=3.65   X=3.5   2=1.97
+0-2=1.92   2+=-   3+=1.8
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 05:00  Sub  25.10.  [Australia, Australian Championship]
@@ -103,7 +79,7 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 05:00  Sub  25.10.  [Australia, Australian Championship]
 Giravanz Kitakyushu  vs  Ryukyu   (ID: 806)
-1=1.77   X=3.35   2=4.45
+1=1.77   X=3.35   2=4.4
 0-2=1.75   2+=-   3+=1.95
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -127,18 +103,48 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 05:00  Sub  25.10.  [Australia, Australian Championship]
 Gwangju FC  vs  Anyang   (ID: 805)
-1=2.12   X=3.1   2=3.4
-0-2=1.67   2+=-   3+=2.07
+1=2.15   X=3.1   2=3.35
+0-2=1.65   2+=-   3+=2.1
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 05:00  Sub  25.10.  [Australia, Australian Championship]
-Suwon Bluewings  vs  Jeonnam Dragons   (ID: 818)
+Suwon Bluewings  vs  Jeonnam Dragons   (ID: 819)
 1=1.67   X=4   2=4.1
-0-2=2.5   2+=-   3+=1.47
+0-2=2.55   2+=-   3+=1.45
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 06:00  Sub  25.10.  [Australia, Australian Championship]
-Cerezo Osaka  vs  Kawasaki Frontale   (ID: 918)
+Cerezo Osaka  vs  Kawasaki Frontale   (ID: 971)
 1=2.57   X=3.85   2=2.37
-0-2=2.7   2+=-   3+=1.42
+0-2=2.73   2+=-   3+=1.41
+GG=-   IGG=-   GG&3+=-
+======================================================================
+06:00  Sub  25.10.  [Australia, A-League]
+Melbourne City  vs  Perth Glory   (ID: 812)
+1=1.47   X=4.65   2=5.75
+0-2=2.27   2+=-   3+=1.57
+GG=-   IGG=-   GG&3+=-
+======================================================================
+06:30  Sub  25.10.  [China, Yi League - Relegation Group]
+Hubei Istar FC  vs  Guangdong Mingtu   (ID: 636)
+1=2.22   X=3.05   2=3.03
+0-2=1.7   2+=-   3+=2.02
+GG=-   IGG=-   GG&3+=-
+======================================================================
+06:30  Sub  25.10.  [China, Yi League - Relegation Group]
+Jiangxi Beidamen  vs  Wuhan Three Towns B   (ID: 633)
+1=1.83   X=3.2   2=4
+0-2=1.62   2+=-   3+=2.12
+GG=-   IGG=-   GG&3+=-
+======================================================================
+06:30  Sub  25.10.  [China, Yi League - Relegation Group]
+Shanghai Port B  vs  Wenzhou Professional   (ID: 634)
+1=2.67   X=2.93   2=2.55
+0-2=1.55   2+=-   3+=2.27
+GG=-   IGG=-   GG&3+=-
+======================================================================
+06:30  Sub  25.10.  [China, Yi League - Relegation Group]
+Ganzhou Ruishi  vs  Taian Tiankuang   (ID: 634)
+1=3.35   X=3.15   2=2.02
+0-2=1.72   2+=-   3+=1.97
 GG=-   IGG=-   GG&3+=-

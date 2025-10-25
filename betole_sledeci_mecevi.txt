@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1733
+1728
   
   
 DNEVNI SPECIJAL
@@ -48,15 +48,15 @@ GOLOVI PO LIGAMA
   
   
 KOŠARKA
-233
+230
   
   
 SP. KOŠARKA
-32
+20
   
   
 TENIS
-84
+79
   
   
 RUKOMET
@@ -80,11 +80,11 @@ BEJZBOL
   
   
 RAGBI UNIJA
-18
+17
   
   
 STONI TENIS
-225
+224
   
   
 VATERPOLO
@@ -116,7 +116,7 @@ ESPORT
   
   
 SP. FUDBAL
-3404
+3403
   
   
 VIR. FUDBAL
@@ -142,101 +142,21 @@ Top
 Specijali
 KONAČAN ISHOD
  
-Mexico, Liga Premier Serie A
-+637
-Tigres de Alica
-Tecos FC
-25.10. 03:00
-ki 1
-3.05
-ki X
-3.30
-ki 2
-2.08
-manje 2.5
-1.95
-više 2.5
-1.75
- 
-Mexico, Liga MX - Apertura
-+815
-Mazatlan FC
-Club America
-25.10. 03:00
-ki 1
-4.55
-ki X
-4.15
-ki 2
-1.65
-manje 2.5
-2.25
-više 2.5
-1.57
- 
-Mexico, Liga de Expansion MX - Apertura
-+817
-Atletico La Paz
-Irapuato
-25.10. 03:00
-ki 1
-2.55
-ki X
-3.60
-ki 2
-2.41
-manje 2.5
-2.30
-više 2.5
-1.55
- 
-Russia, FNL 2 - Division B - Group 3
-+39
-SKA Khabarovsk 2
-Dynamo Petersburg
-25.10. 03:00
-ki 1
-6.25
-ki X
-4.00
-ki 2
-1.43
-manje 2.5
-2.00
-više 2.5
-1.70
- 
-Japan, Football League
-+631
-Reinmeer Aomori
-Veertien Mie
-25.10. 03:00
-ki 1
-1.88
-ki X
-3.10
-ki 2
-3.90
-manje 2.5
-1.53
-više 2.5
-2.30
- 
 Australia, A-League
 +812
 Auckland FC
 WS Wanderers
 25.10. 04:00
 ki 1
-1.87
+1.90
 ki X
-3.60
+3.55
 ki 2
-3.90
+3.80
 manje 2.5
-2.02
+1.97
 više 2.5
-1.73
+1.75
  
 Japan, Football League
 +634
@@ -244,13 +164,13 @@ Asuka FC
 YSCC
 25.10. 04:00
 ki 1
-2.02
+1.93
 ki X
-3.10
+3.15
 ki 2
-3.40
+3.60
 manje 2.5
-1.63
+1.65
 više 2.5
 2.10
 +631
@@ -306,56 +226,56 @@ ki 1
 ki X
 3.25
 ki 2
-3.03
+3.00
 manje 2.5
-1.91
+1.90
 više 2.5
 1.77
  
 Japan, J1 League
-+899
++949
 FC Tokyo
 Okayama
 25.10. 05:00
 ki 1
-2.12
+2.10
 ki X
 3.15
 ki 2
-3.55
+3.60
 manje 2.5
 1.65
 više 2.5
 2.12
-+902
++955
 Kashiwa Reysol
 Yokohama FC
 25.10. 05:00
 ki 1
-1.63
+1.62
 ki X
 3.70
 ki 2
-5.30
+5.40
 manje 2.5
-1.87
-više 2.5
 1.85
-+911
+više 2.5
+1.88
++965
 Kyoto
 Kashima
 25.10. 05:00
 ki 1
-2.90
+2.67
 ki X
-3.35
+3.40
 ki 2
-2.35
+2.50
 manje 2.5
-1.97
+2.00
 više 2.5
-1.77
-+910
+1.75
++963
 Nagoya Grampus
 Gamba Osaka
 25.10. 05:00
@@ -383,34 +303,34 @@ manje 2.5
 1.53
 više 2.5
 2.35
-+909
++958
 Urawa Reds
 Machida
 25.10. 05:00
 ki 1
-3.15
+3.20
 ki X
 3.25
 ki 2
-2.25
+2.22
 manje 2.5
-1.80
+1.81
 više 2.5
-1.93
-+962
+1.90
++961
 Yokohama F. Marinos
 Sanfrecce Hiroshima
 25.10. 05:00
 ki 1
-3.90
+3.65
 ki X
-3.55
+3.50
 ki 2
-1.88
+1.97
 manje 2.5
-1.95
+1.92
 više 2.5
-1.77
+1.80
  
 Japan, J2 League
 +812
@@ -418,15 +338,15 @@ Fujieda MYFC
 Kofu
 25.10. 05:00
 ki 1
-2.30
+2.25
 ki X
 3.25
 ki 2
-3.10
+3.15
 manje 2.5
-1.80
+1.81
 više 2.5
-1.92
+1.91
  
 Japan, J3 League
 +811
@@ -452,7 +372,7 @@ ki 1
 ki X
 3.35
 ki 2
-4.45
+4.40
 manje 2.5
 1.75
 više 2.5
@@ -501,16 +421,16 @@ više 2.5
 2.00
  
 South Korea, K League 1 - Championship Group
-+819
++820
 Jeonbuk
 Gimcheon Sangmu
 25.10. 05:00
 ki 1
-2.15
+2.20
 ki X
 3.55
 ki 2
-2.90
+2.85
 manje 2.5
 2.40
 više 2.5
@@ -522,15 +442,15 @@ Gwangju FC
 Anyang
 25.10. 05:00
 ki 1
-2.12
+2.15
 ki X
 3.10
 ki 2
-3.40
+3.35
 manje 2.5
-1.67
+1.65
 više 2.5
-2.07
+2.10
  
 South Korea, K League 2
 +805
@@ -538,16 +458,16 @@ Seongnam FC
 Hwaseong
 25.10. 05:00
 ki 1
-1.73
+1.71
 ki X
-3.35
+3.40
 ki 2
-4.70
+4.80
 manje 2.5
-1.72
+1.77
 više 2.5
-2.00
-+818
+1.95
++819
 Suwon Bluewings
 Jeonnam Dragons
 25.10. 05:00
@@ -558,9 +478,9 @@ ki X
 ki 2
 4.10
 manje 2.5
-2.50
+2.55
 više 2.5
-1.47
+1.45
  
 South Korea, K3 League
 +632
@@ -579,7 +499,7 @@ više 2.5
 2.27
  
 Japan, J1 League
-+918
++971
 Cerezo Osaka
 Kawasaki Frontale
 25.10. 06:00
@@ -590,9 +510,83 @@ ki X
 ki 2
 2.37
 manje 2.5
-2.70
+2.73
 više 2.5
-1.42
+1.41
+ 
+Australia, A-League
++812
+Melbourne City
+Perth Glory
+25.10. 06:00
+ki 1
+1.47
+ki X
+4.65
+ki 2
+5.75
+manje 2.5
+2.27
+više 2.5
+1.57
+ 
+China, Yi League - Relegation Group
++636
+Hubei Istar FC
+Guangdong Mingtu
+25.10. 06:30
+ki 1
+2.22
+ki X
+3.05
+ki 2
+3.03
+manje 2.5
+1.70
+više 2.5
+2.02
++633
+Jiangxi Beidamen
+Wuhan Three Towns B
+25.10. 06:30
+ki 1
+1.83
+ki X
+3.20
+ki 2
+4.00
+manje 2.5
+1.62
+više 2.5
+2.12
++634
+Shanghai Port B
+Wenzhou Professional
+25.10. 06:30
+ki 1
+2.67
+ki X
+2.93
+ki 2
+2.55
+manje 2.5
+1.55
+više 2.5
+2.27
++634
+Ganzhou Ruishi
+Taian Tiankuang
+25.10. 06:30
+ki 1
+3.35
+ki X
+3.15
+ki 2
+2.02
+manje 2.5
+1.72
+više 2.5
+1.97
  Tiket
 TIKET
 
@@ -651,7 +645,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-02:17:48
+03:10:31
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.

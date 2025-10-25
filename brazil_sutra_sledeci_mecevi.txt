@@ -16,16 +16,15 @@ Bonus tip
 Danas
 Sutra
 27.10.
-2:00
+3:00
 23:59
-2:00 - 23:59
+3:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
 HOKEJ
 RUKOMET
 ODBOJKA
-STONI TENIS
 FUTSAL
 BEJZBOL
 ESPORT
@@ -34,166 +33,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-AUSTRALIA, A-League
-15
-02:00
-Wellington Phoenix
-Brisbane Roar
-834
-1
-2.88
-X
-3.30
-2
-2.38
-0-2
-1.95
-2+
-1.24
-3+
-1.79
-AUSTRALIA, Australian Championship
-1401
-02:00
-Broadmeadow
-South Melbourne
-837
-1
-4.30
-X
-4.20
-2
-1.57
-0-2
-2.60
-2+
-1.11
-3+
-1.42
-1402
-02:00
-Heidelberg Utd
-South Hobart
-56
-1
-1.06
-X
-9.00
-2
-19.0
-0-2
-4.15
-2+
-1.02
-3+
-1.18
-1403
-02:00
-Moreton City Excelsior
-Sydney Olympic
-842
-1
-2.38
-X
-3.70
-2
-2.38
-0-2
-2.85
-2+
-1.08
-3+
-1.35
-COSTA RICA, Primera Division - Apertura
-1060
-02:00
-Herediano
-Cartagines
-826
-1
-1.96
-X
-3.15
-2
-3.50
-0-2
-1.72
-2+
-1.30
-3+
-1.99
-GUATEMALA, Liga Nacional - Apertura
-875
-02:00
-Antigua
-Aurora
-825
-1
-1.47
-X
-3.90
-2
-5.80
-0-2
-2.02
-2+
-1.20
-3+
-1.69
-USA, USL
-833
-02:00
-Oakland Roots
-Lexington
-658
-1
-2.60
-X
-3.05
-2
-2.50
-0-2
-1.75
-2+
-1.29
-3+
-1.95
-PANAMA, LPF - Clausura
-1124
-02:15
-Plaza Amador
-Alianza FC Panama
-653
-1
-1.66
-X
-3.50
-2
-4.50
-0-2
-1.95
-2+
-1.22
-3+
-1.75
-COLOMBIA, Primera A - Clausura
-576
-02:30
-Once Caldas
-U. Magdalena
-821
-1
-1.45
-X
-3.95
-2
-6.75
-0-2
-1.90
-2+
-1.25
-3+
-1.82
 GUATEMALA, Liga Nacional - Apertura
 876
 03:00
@@ -235,9 +74,9 @@ USA, USL
 03:00
 Monterey Bay
 Las Vegas Lights
-654
+653
 1
-1.74
+1.73
 X
 3.45
 2
@@ -1857,7 +1696,7 @@ ITALY, Serie A
 11:30
 Torino
 Genoa
-1027
+1016
 1
 2.30
 X
@@ -2430,11 +2269,11 @@ Pirin Blagoevgrad
 Etar
 653
 1
-2.02
+2.25
 X
-3.05
+3.00
 2
-3.50
+3.05
 0-2
 1.60
 2+
@@ -2569,7 +2408,7 @@ SPAIN, LaLiga
 13:00
 Mallorca
 Levante
-936
+942
 1
 2.18
 X
@@ -2974,7 +2813,7 @@ X
 13:30
 Sturm Graz
 Wolfsberger AC
-970
+929
 1
 1.93
 X
@@ -2994,11 +2833,11 @@ Makedonikos
 Kampaniakos
 654
 1
-1.98
+2.10
 X
-3.00
+2.95
 2
-3.65
+3.40
 0-2
 1.53
 2+
@@ -3309,7 +3148,7 @@ ENGLAND, Premier League
 14:00
 Arsenal
 Crystal Palace
-1038
+1042
 1
 1.42
 X
@@ -3326,7 +3165,7 @@ X
 14:00
 Aston Villa
 Manchester City
-1031
+1033
 1
 4.55
 X
@@ -3343,7 +3182,7 @@ X
 14:00
 Bournemouth
 Nottingham
-1032
+1024
 1
 1.84
 X
@@ -3395,7 +3234,7 @@ X
 14:00
 Verona
 Cagliari
-938
+934
 1
 2.25
 X
@@ -3682,7 +3521,7 @@ GERMANY, Bundesliga
 14:30
 Bayer Leverkusen
 Freiburg
-1046
+1027
 1
 1.87
 X
@@ -3718,19 +3557,19 @@ BOSNIA AND HERZEGOVINA, Premijer Liga BiH
 14:30
 Posusje
 Radnik Bijeljina
-817
+822
 1
-2.10
+2.05
 X
-2.95
+3.00
 2
-3.35
+3.50
 0-2
-1.57
+1.55
 2+
-1.38
+1.40
 3+
-2.22
+2.30
 CZECH REPUBLIC, Chance Liga
 600
 14:30
@@ -3914,19 +3753,19 @@ CROATIA, HNL
 15:00
 Rijeka
 Osijek
-829
+826
 1
-1.86
+1.84
 X
-3.40
+3.35
 2
-3.85
+4.05
 0-2
-1.88
+1.77
 2+
-1.25
+1.29
 3+
-1.82
+1.94
 CYPRUS, Cyprus League
 317
 15:00
@@ -4040,19 +3879,19 @@ MOROCCO, Botola
 15:00
 Union Touarga
 Yacoub El Mansour
-824
+821
 1
-2.20
+2.25
 X
-3.05
+3.00
 2
-3.05
+3.00
 0-2
-1.73
+1.65
 2+
-1.30
+1.33
 3+
-1.97
+2.07
 PORTUGAL, Liga 3
 1176
 15:00
@@ -4339,7 +4178,7 @@ SPAIN, LaLiga
 15:15
 Real Madrid
 Barcelona
-1019
+1015
 1
 1.96
 X
@@ -4637,21 +4476,391 @@ X
 1.33
 3+
 2.07
+1372
+16:00
+Csakvari
+Tiszakecske
+658
+1
+2.15
+X
+3.10
+2
+3.10
+0-2
+1.78
+2+
+1.28
+3+
+1.92
+1373
+16:00
+Honved
+Mezokovesd-Zsory
+657
+1
+2.12
+X
+3.20
+2
+3.05
+0-2
+1.90
+2+
+1.23
+3+
+1.79
+1374
+16:00
+Kecskemeti TE
+Karcagi
+655
+1
+1.77
+X
+3.30
+2
+4.10
+0-2
+1.85
+2+
+1.26
+3+
+1.85
+IRELAND, Premier Division
+353
+16:00
+Bohemians
+Shelbourne FC
+828
+1
+2.22
+X
+3.15
+2
+3.35
+0-2
+1.70
+2+
+1.33
+3+
+2.04
+NORWAY, Eliteserien
+362
+16:00
+Bodo/Glimt
+Molde
+838
+1
+1.32
+X
+5.45
+2
+7.50
+0-2
+3.40
+2+
+1.06
+3+
+1.28
+363
+16:00
+Haugesund
+Tromso
+826
+1
+8.75
+X
+5.10
+2
+1.32
+0-2
+2.40
+2+
+1.14
+3+
+1.50
+364
+16:00
+Kristiansund
+Ham-Kam
+834
+1
+2.20
+X
+3.40
+2
+3.10
+0-2
+2.05
+2+
+1.21
+3+
+1.69
+365
+16:00
+Sandefjord
+Fredrikstad
+837
+1
+1.92
+X
+3.70
+2
+3.55
+0-2
+2.18
+2+
+1.18
+3+
+1.61
+PERU, Liga 1 - Clausura
+537
+16:00
+Sporting Cristal
+Los Chankas
+805
+1
+1.12
+X
+7.25
+2
+18.0
+0-2
+2.70
+2+
+1.10
+3+
+1.40
+POLAND, Division 1
+384
+16:00
+Stal Mielec
+Legnica
+837
+1
+2.88
+X
+3.50
+2
+2.20
+0-2
+2.22
+2+
+1.17
+3+
+1.58
+SLOVENIA, 2. SNL
+929
+16:00
+Nafta
+Bilje
+648
+1
+1.38
+X
+4.05
+2
+6.50
+0-2
+1.95
+2+
+1.19
+3+
+1.69
+SPAIN, Segunda RFEF - Group 2
+1190
+16:00
+Alfaro
+Alaves B
+647
+1
+3.00
+X
+2.70
+2
+2.50
+0-2
+1.42
+2+
+1.46
+3+
+2.45
+SPAIN, Segunda RFEF - Group 3
+1200
+16:00
+Alcoyano
+Reus FCR
+652
+1
+1.81
+X
+3.20
+2
+4.10
+0-2
+1.62
+2+
+1.32
+3+
+2.07
+SPAIN, Segunda RFEF - Group 4
+1207
+16:00
+Lorca Deportiva
+Puente Genil
+644
+1
+1.85
+X
+3.00
+2
+4.20
+0-2
+1.42
+2+
+1.47
+3+
+2.50
+TURKEY, 2. Lig White Group
+33460
+16:00
+Elazigspor
+Kastamonuspor
+646
+1
+1.44
+X
+3.80
+2
+6.40
+0-2
+1.80
+2+
+1.24
+3+
+1.82
+TURKEY, TFF 1. Lig
+296
+16:00
+Bodrumspor
+Igdir FK
+830
+1
+1.84
+X
+3.45
+2
+3.95
+0-2
+1.90
+2+
+1.24
+3+
+1.80
+UKRAINE, Premier League
+250
+16:00
+Dyn. Kyiv
+Kryvbas
+835
+1
+1.46
+X
+4.40
+2
+5.75
+0-2
+2.50
+2+
+1.13
+3+
+1.47
+UNITED ARAB EMIRATES, Presidents Cup
+1005
+16:00
+Al Jazira Abu Dhabi
+Ajman
+657
+1
+2.10
+X
+3.20
+2
+3.15
+0-2
+1.85
+2+
+1.25
+3+
+1.85
+FRANCE, Ligue 1
+44
+16:15
+Angers
+Lorient
+931
+1
+2.62
+X
+3.05
+2
+2.95
+0-2
+1.65
+2+
+1.42
+3+
+2.28
+45
+16:15
+Auxerre
+Le Havre
+936
+1
+2.20
+X
+3.20
+2
+3.55
+0-2
+1.78
+2+
+1.34
+3+
+2.05
+46
+16:15
+Rennes
+Nice
+1022
+1
+2.22
+X
+3.45
+2
+3.25
+0-2
+2.15
+2+
+1.23
+3+
+1.72
 Odigrani tiketi
-1403
-Moreton City Excelsior - Sydney Olympic
-26.10. 02:00
+834
+Monterey Bay - Las Vegas Lights
+26.10. 03:00
 KONAČAN ISHOD 
 1
-  2.38  
+  1.73  
 Običan
 Sistem
 Kvota:
-2.38
+1.73
 Uplata:
 20.00 RSD
 Dobitak:
-47.60 RSD
+34.60 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express
