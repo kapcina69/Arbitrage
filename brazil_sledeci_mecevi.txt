@@ -45,449 +45,40 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-ITALY, Serie B
-311
-17:15
-Carrarese
-Venezia
-966
-1
-3.30
-X
-3.05
-2
-2.28
-0-2
-1.68
-2+
-1.34
-3+
-2.07
-AUSTRIA, Regionalliga West
-33335
-17:30
-Pinzgau Saalfelden
-Altach U21
-658
-1
-2.35
-X
-3.50
-2
-2.50
-0-2
-2.28
-2+
-1.13
-3+
-1.51
-BURKINA FASO, Premier League
-34411
-17:30
-ASFA Yennenga
-ASF Dioulasso
-102
-1
-2.70
-X
-2.55
-2
-2.75
-0-2
-1.27
-2+
-1.67
-3+
-3.20
-34412
-17:30
-Bobo-Dioulasso
-RDF
-102
-1
-2.80
-X
-2.55
-2
-2.65
-0-2
-1.26
-2+
-1.68
-3+
-3.25
-CHILE, Chile Segunda
-34365
-17:30
-Concon National
-Municipal Salamanca
-657
-1
-2.07
-X
-3.30
-2
-3.10
-0-2
-2.00
-2+
-1.21
-3+
-1.72
-CHILE, Primera B
-793
-17:30
-CD Santa Cruz
-San Marcos de Arica
-826
-1
-2.25
-X
-3.00
-2
-3.00
-0-2
-1.63
-2+
-1.35
-3+
-2.12
-794
-17:30
-Recoleta
-Curico Unido
-825
-1
-2.18
-X
-3.00
-2
-3.15
-0-2
-1.63
-2+
-1.35
-3+
-2.12
-795
-17:30
-San Felipe
-S. Morning
-824
-1
-1.92
-X
-3.25
-2
-3.55
-0-2
-1.63
-2+
-1.35
-3+
-2.12
-ITALY, Serie C - Group A
-879
-17:30
-Arzignano
-Lumezzane
-817
-1
-2.12
-X
-2.95
-2
-3.30
-0-2
-1.58
-2+
-1.38
-3+
-2.22
-880
-17:30
-Renate
-Lecco
-813
-1
-2.25
-X
-2.80
-2
-3.25
-0-2
-1.40
-2+
-1.53
-3+
-2.70
-ITALY, Serie C - Group B
-890
-17:30
-Campobasso
-Rimini
-824
-1
-1.82
-X
-3.15
-2
-4.15
-0-2
-1.65
-2+
-1.34
-3+
-2.12
-891
-17:30
-Carpi
-Gubbio
-820
-1
-2.22
-X
-2.85
-2
-3.25
-0-2
-1.45
-2+
-1.47
-3+
-2.45
-ITALY, Serie C - Group C
-900
-17:30
-Siracusa
-Casarano
-826
-1
-2.75
-X
-3.00
-2
-2.40
-0-2
-1.72
-2+
-1.30
-3+
-1.99
-MALTA, Division 1
-33548
-17:30
-Zurrieq FC
-Birzebbuga
-658
-1
-2.85
-X
-3.45
-2
-2.15
-0-2
-2.18
-2+
-1.17
-3+
-1.61
-POLAND, Ekstraklasa
-163
-17:30
-Pogon Szczecin
-Cracovia
-835
-1
-2.30
-X
-3.40
-2
-2.95
-0-2
-2.08
-2+
-1.20
-3+
-1.68
-SLOVENIA, Prva Liga
-423
-17:30
-Maribor
-Primorje
-832
-1
-1.32
-X
-4.95
-2
-7.60
-0-2
-2.55
-2+
-1.12
-3+
-1.44
-SPAIN, Segunda RFEF - Group 2
-1184
-17:30
-Zaragoza B
-SD Logrones
-653
-1
-2.88
-X
-2.95
-2
-2.35
-0-2
-1.60
-2+
-1.34
-3+
-2.12
-SPAIN, Segunda RFEF - Group 4
-1201
-17:30
-UCAM Murcia
-CD Estepona
-650
-1
-1.98
-X
-3.00
-2
-3.70
-0-2
-1.46
-2+
-1.43
-3+
-2.40
-SPAIN, Segunda RFEF - Group 5
-1210
-17:30
-San Sebastian Reyes
-CD Coria
-652
-1
-2.25
-X
-2.90
-2
-3.10
-0-2
-1.52
-2+
-1.38
-3+
-2.28
-SPAIN, Tercera Division - Group 14
-35116
-17:30
-Pueblonuevo
-CD Badajoz
-645
-1
-7.00
-X
-3.90
-2
-1.38
-0-2
-1.73
-2+
-1.27
-3+
-1.92
-SPAIN, Tercera RFEF - Group 11
-33484
-17:30
-Son Cladera
-Mallorca B
-646
-1
-7.50
-X
-4.40
-2
-1.31
-0-2
-2.10
-2+
-1.16
-3+
-1.61
-SPAIN, Youth League
-33403
-17:30
-Vazquez Cultural U19
-CD San Felix U19
-102
-1
-1.91
-X
-3.20
-2
-3.40
-0-2
-1.80
-2+
-1.23
-3+
-1.82
-SWEDEN, Allsvenskan
-298
-17:30
-Oster
-Degerfors
-930
-1
-2.85
-X
-3.35
-2
-2.38
-0-2
-1.90
-2+
-1.26
-3+
-1.84
 ITALY, Serie A
 20
 18:00
 Napoli
 Inter
-985
+1069
 1
-3.35
+3.45
 X
 3.15
 2
-2.30
+2.25
 0-2
-1.85
+1.87
 2+
-1.32
+1.31
 3+
-1.97
+1.95
 SERBIA, Superliga
 60
 18:00
 Zeleznicar Pancevo
 Cukaricki
-832
+831
 1
-2.20
+2.12
 X
 3.20
 2
-3.10
+3.25
 0-2
-1.83
+1.85
 2+
-1.27
+1.26
 3+
 1.87
 ALGERIA, Ligue 1
@@ -603,11 +194,11 @@ Varazdin
 Slaven Belupo
 826
 1
-2.20
+2.22
 X
 3.05
 2
-3.30
+3.20
 0-2
 1.65
 2+
@@ -637,19 +228,19 @@ CZECH REPUBLIC, Chance Liga
 18:00
 Liberec
 Jablonec
-828
+824
 1
-2.25
+2.15
 X
 3.10
 2
-3.30
+3.50
 0-2
-1.68
+1.65
 2+
-1.34
+1.36
 3+
-2.08
+2.15
 FRANCE, Coupe de France
 33279
 18:00
@@ -743,17 +334,17 @@ Aqaba
 Ittihad Al Ramtha
 659
 1
-3.50
+3.15
 X
-3.50
+3.35
 2
-1.86
+2.03
 0-2
 2.18
 2+
 1.17
 3+
-1.59
+1.61
 LUXEMBOURG, National Division
 33455
 18:00
@@ -795,19 +386,19 @@ NORWAY, Eliteserien
 18:00
 Sarpsborg
 KFUM Oslo
-835
+834
 1
-2.75
+2.65
 X
-3.40
+3.45
 2
-2.45
+2.50
 0-2
-1.95
+2.02
 2+
-1.24
+1.22
 3+
-1.80
+1.72
 OMAN, Sultan Cup
 33349
 18:00
@@ -885,19 +476,19 @@ RUSSIA, Premier League
 18:00
 CSKA Moscow
 Krylya Sovetov
-826
+829
 1
-1.41
+1.42
 X
-4.55
+4.60
 2
-7.40
+7.00
 0-2
-2.10
+2.20
 2+
-1.20
+1.18
 3+
-1.66
+1.61
 SLOVAKIA, Nike liga
 411
 18:00
@@ -905,11 +496,11 @@ Kosice
 Podbrezova
 838
 1
-2.15
+2.10
 X
 3.55
 2
-2.90
+3.05
 0-2
 2.35
 2+
@@ -921,17 +512,17 @@ SPAIN, Segunda RFEF - Group 1
 18:00
 Langreo
 Atl. Astorga
-644
+645
 1
-1.85
+1.89
 X
 3.00
 2
-4.20
+4.05
 0-2
 1.42
 2+
-1.46
+1.47
 3+
 2.50
 1223
@@ -940,17 +531,17 @@ Real Avila
 UD Samano
 642
 1
-1.47
+1.49
 X
 3.45
 2
-7.10
+6.70
 0-2
-1.47
+1.52
 2+
-1.42
+1.39
 3+
-2.38
+2.28
 SPAIN, Segunda RFEF - Group 2
 1185
 18:00
@@ -1011,17 +602,17 @@ RSD Alcala
 Tenerife B
 653
 1
-2.04
+2.12
 X
-3.05
+3.00
 2
-3.45
+3.30
 0-2
-1.60
+1.57
 2+
-1.34
+1.35
 3+
-2.15
+2.18
 SPAIN, Tercera Division - Group 1
 35108
 18:00
@@ -1080,13 +671,13 @@ SPAIN, Tercera RFEF - Group 11
 18:00
 Rotlet Molinar
 Inter Ibiza
-656
+657
 1
-2.75
+2.60
 X
-3.00
+2.95
 2
-2.35
+2.45
 0-2
 1.70
 2+
@@ -1115,19 +706,19 @@ SPAIN, Tercera RFEF - Group 12
 18:00
 Tenerife C
 Tamaraceite
-653
+656
 1
-2.75
+2.80
 X
-2.90
+3.00
 2
-2.38
+2.28
 0-2
-1.60
+1.70
 2+
-1.34
+1.28
 3+
-2.12
+1.94
 SPAIN, Tercera RFEF - Group 18
 35118
 18:00
@@ -1169,15 +760,15 @@ SWITZERLAND, Super League
 18:00
 Sion
 Thun
-834
+836
 1
-2.18
+2.10
 X
-3.50
+3.55
 2
-2.95
+3.05
 0-2
-2.15
+2.18
 2+
 1.17
 3+
@@ -1188,13 +779,13 @@ St. Gallen
 Grasshoppers
 837
 1
-1.77
+1.85
 X
 3.75
 2
-3.85
+3.55
 0-2
-2.30
+2.25
 2+
 1.15
 3+
@@ -1224,17 +815,17 @@ Dodoma Jiji
 Pamba
 103
 1
-1.82
+1.83
 X
-3.15
+3.20
 2
-4.10
+4.00
 0-2
-1.62
+1.65
 2+
-1.35
+1.33
 3+
-2.12
+2.07
 TURKEY, 2. Lig Red Group
 1075
 18:00
@@ -1260,17 +851,17 @@ Ankaragucu
 Sanliurfaspor
 657
 1
-2.85
+2.35
 X
-3.10
+3.15
 2
-2.30
+2.75
 0-2
-1.75
+1.80
 2+
-1.26
+1.25
 3+
-1.89
+1.85
 TURKEY, 3. Lig Group 3
 34403
 18:00
@@ -1278,17 +869,17 @@ Orduspor 1967
 Zonguldak
 653
 1
-2.18
+2.35
 X
-3.00
+2.90
 2
-3.00
+2.80
 0-2
-1.65
+1.60
 2+
-1.28
+1.31
 3+
-1.97
+2.07
 TURKEY, 3. Lig Group 4
 33536
 18:00
@@ -1312,19 +903,19 @@ TURKEY, TFF 1. Lig
 18:00
 Sakaryaspor
 Keciorengucu
-835
+832
 1
-2.40
+2.20
 X
 3.20
 2
-2.75
+3.10
 0-2
 1.90
 2+
-1.25
+1.24
 3+
-1.82
+1.80
 UNITED ARAB EMIRATES, Presidents Cup
 1003
 18:00
@@ -1332,11 +923,11 @@ Al Nasr Dubai
 Bani Yas
 654
 1
-2.02
+2.00
 X
 3.15
 2
-3.40
+3.45
 0-2
 1.70
 2+
@@ -1348,17 +939,17 @@ WORLD, AFC Challenge League
 18:00
 Al Ansar
 Al Kuwait SC
-656
+658
 1
-3.15
+2.75
 X
-3.15
+3.10
 2
-2.10
+2.35
 0-2
 1.80
 2+
-1.26
+1.27
 3+
 1.87
 WORLD, CAF Confederation Cup - Qualification
@@ -1366,36 +957,36 @@ WORLD, CAF Confederation Cup - Qualification
 18:00
 Singida Black Stars
 Flambeau du Centre
-815
+814
 1
-1.39
+1.40
 X
-3.95
+3.85
 2
-7.30
+7.25
 0-2
-1.73
+1.70
 2+
-1.30
+1.31
 3+
-1.97
+2.02
 34423
 18:00
 Stade Tunisien
 Olympique de Safi
-818
+820
 1
-2.08
+1.83
 X
-2.95
+3.15
 2
-3.40
+4.05
 0-2
-1.45
+1.50
 2+
-1.47
+1.43
 3+
-2.45
+2.38
 SPAIN, Youth League
 33405
 18:10
@@ -1419,13 +1010,13 @@ BELGIUM, Jupiler Pro League
 18:15
 KV Mechelen
 Leuven
-930
+929
 1
-2.55
+2.50
 X
 3.25
 2
-2.70
+2.80
 0-2
 1.80
 2+
@@ -1437,19 +1028,19 @@ ICELAND, Besta-deild karla - Championship Group
 18:15
 Vikingur Reykjavik
 Valur
-840
+839
 1
 1.65
 X
 4.15
 2
-4.10
+4.15
 0-2
-2.90
+2.80
 2+
 1.09
 3+
-1.36
+1.38
 ISRAEL, Ligat ha'Al
 643
 18:15
@@ -1474,17 +1065,17 @@ SC Ashdod
 Hapoel Petah Tikva
 828
 1
-3.10
+3.20
 X
 3.10
 2
-2.25
+2.20
 0-2
-1.73
+1.75
 2+
 1.30
 3+
-1.99
+1.97
 WALES, Cymru Premier
 480
 18:15
@@ -1510,11 +1101,11 @@ Manchester Utd
 Brighton
 1083
 1
-2.02
+2.07
 X
-3.75
+3.70
 2
-3.50
+3.40
 0-2
 2.60
 2+
@@ -1526,37 +1117,37 @@ GERMANY, Bundesliga
 18:30
 Dortmund
 FC Koln
-1073
+1086
 1
-1.44
+1.43
 X
 4.80
 2
 6.90
 0-2
-2.60
+2.55
 2+
 1.16
 3+
-1.50
+1.51
 SPAIN, LaLiga
 445
 18:30
 Athletic Bilbao
 Getafe
-1050
+1054
 1
-1.70
+1.63
 X
-3.35
+3.60
 2
-6.00
+6.25
 0-2
-1.44
+1.48
 2+
-1.59
+1.55
 3+
-2.80
+2.70
 ENGLAND, National League
 120
 18:30
@@ -1615,19 +1206,19 @@ X
 18:30
 Ironi Tiberias
 Maccabi Haifa
-824
+828
 1
-6.80
+6.30
 X
 4.30
 2
-1.42
+1.44
 0-2
-2.10
+2.20
 2+
-1.19
+1.17
 3+
-1.66
+1.61
 JORDAN, Premier League
 34350
 18:30
@@ -1687,37 +1278,37 @@ QATAR, QSL
 18:30
 Al-Sadd
 Al Arabi Doha
-844
+845
 1
-1.57
+1.55
 X
 4.60
 2
-3.95
+4.05
 0-2
-3.40
+3.35
 2+
 1.05
 3+
-1.26
+1.27
 SPAIN, LaLiga2
 430
 18:30
 Burgos CF
 R. Sociedad B
-952
+947
 1
-1.75
+1.76
 X
-3.20
+3.15
 2
-5.30
+5.40
 0-2
-1.53
+1.47
 2+
-1.43
+1.48
 3+
-2.38
+2.50
 431
 18:30
 Granada CF
@@ -1742,17 +1333,17 @@ CF Talavera
 Osasuna B
 654
 1
-1.89
+2.05
 X
-3.15
+3.00
 2
-3.80
+3.40
 0-2
 1.60
 2+
-1.35
+1.36
 3+
-2.15
+2.18
 SPAIN, Primera RFEF - Group 2
 1165
 18:30
@@ -1993,13 +1584,13 @@ Future FC
 Arab Contractors
 643
 1
-2.55
+2.40
 X
-2.70
+2.75
 2
-2.88
+3.05
 0-2
-1.35
+1.36
 2+
 1.58
 3+
@@ -2019,7 +1610,7 @@ X
 0-2
 1.75
 2+
-1.29
+1.30
 3+
 1.97
 ISRAEL, Ligat ha'Al
@@ -2123,7 +1714,7 @@ AVS
 X
 3.70
 2
-7.40
+7.50
 0-2
 1.62
 2+
@@ -2171,19 +1762,19 @@ SPAIN, Tercera Division - Group 1
 19:00
 Noia
 Montaneros
-652
+653
 1
-2.18
+2.12
 X
-2.88
+3.05
 2
 3.10
 0-2
-1.55
+1.72
 2+
-1.36
+1.27
 3+
-2.20
+1.92
 SPAIN, Tercera Division - Group 3
 33468
 19:00
@@ -2207,19 +1798,19 @@ SPAIN, Tercera RFEF - Group 18
 19:00
 Albacete B
 Huracan de Balazote
-651
+652
 1
-1.82
+1.81
 X
-3.10
+3.15
 2
 3.90
 0-2
-1.60
+1.67
 2+
-1.33
+1.29
 3+
-2.12
+1.99
 TURKEY, Super Lig
 269
 19:00
@@ -2227,17 +1818,17 @@ Trabzonspor
 Eyupspor
 950
 1
-1.66
+1.65
 X
 3.70
 2
 5.10
 0-2
-1.92
+1.95
 2+
-1.25
+1.24
 3+
-1.82
+1.79
 WORLD, CAF Champions League - Qualification
 34367
 19:00
@@ -2314,7 +1905,7 @@ ITALY, Serie B
 19:30
 Catanzaro
 Palermo
-964
+923
 1
 3.20
 X
@@ -2458,17 +2049,17 @@ Beveren
 Patro Eisden
 825
 1
-1.68
+1.65
 X
-3.50
+3.55
 2
-4.85
+5.00
 0-2
-1.75
+1.77
 2+
-1.30
+1.29
 3+
-1.97
+1.94
 521
 20:00
 Eupen
@@ -2563,17 +2154,17 @@ Artsul
 AA Carapebus
 644
 1
-1.55
+1.59
 X
-3.30
+3.25
 2
-6.25
+5.75
 0-2
-1.47
+1.46
 2+
 1.46
 3+
-2.40
+2.45
 34448
 20:00
 Bonsucesso
@@ -2739,15 +2330,15 @@ Annecy
 St Etienne
 966
 1
-3.65
+3.70
 X
 3.35
 2
-2.02
+2.00
 0-2
 1.80
 2+
-1.29
+1.28
 3+
 1.92
 MEXICO, Liga Premier Serie B
@@ -2793,13 +2384,13 @@ CFR Cluj
 Farul Constanta
 829
 1
-1.81
+1.93
 X
 3.35
 2
-4.15
+3.65
 0-2
-1.90
+1.88
 2+
 1.25
 3+
@@ -2809,7 +2400,7 @@ SAUDI ARABIA, Professional League
 20:00
 Al-Hazem
 Al-Nassr Riyadh
-818
+817
 1
 12.0
 X
@@ -2845,19 +2436,19 @@ POLAND, Ekstraklasa
 20:15
 GKS Katowice
 Korona Kielce
-835
+834
 1
 2.50
 X
-3.30
+3.25
 2
 2.75
 0-2
-1.90
+1.85
 2+
-1.25
+1.27
 3+
-1.82
+1.87
 BRAZIL, Campeonato Maranhense 2 - Play Offs
 34454
 20:30
@@ -2981,9 +2572,9 @@ X
 0-2
 2.05
 2+
-1.26
+1.25
 3+
-1.79
+1.77
 BELGIUM, Jupiler Pro League
 484
 20:45
@@ -3038,21 +2629,271 @@ X
 1.23
 3+
 1.77
+ENGLAND, Premier League
+80
+21:00
+Brentford
+Liverpool
+1001
+1
+3.95
+X
+4.10
+2
+1.82
+0-2
+2.45
+2+
+1.18
+3+
+1.56
+SPAIN, LaLiga
+446
+21:00
+Valencia
+Villarreal
+1074
+1
+3.45
+X
+3.45
+2
+2.12
+0-2
+2.03
+2+
+1.26
+3+
+1.80
+NETHERLANDS, Eredivisie
+255
+21:00
+Zwolle
+Nijmegen
+935
+1
+3.45
+X
+3.75
+2
+1.98
+0-2
+2.30
+2+
+1.16
+3+
+1.56
+BOLIVIA, Copa Pacena
+1365
+21:00
+Academia del Balompie
+Universitario de Vinto
+655
+1
+1.92
+X
+3.40
+2
+3.40
+0-2
+1.93
+2+
+1.22
+3+
+1.75
+BRAZIL, Campeonato Mineiro 3
+35151
+21:00
+Essube
+Paracatu
+60
+1
+2.30
+X
+2.95
+2
+2.95
+0-2
+1.62
+2+
+1.35
+3+
+2.15
+BRAZIL, Campeonato Sergipano 2
+35158
+21:00
+Desportiva Aracaju
+Atletica Gloriense
+657
+1
+2.00
+X
+3.30
+2
+3.25
+0-2
+1.93
+2+
+1.23
+3+
+1.77
+BRAZIL, Copa Santa Catarina - Play Offs
+34436
+21:00
+Santa Catarina
+Marcilio Dias
+656
+1
+2.22
+X
+3.05
+2
+3.05
+0-2
+1.70
+2+
+1.31
+3+
+2.02
+BRAZIL, Serie A
+452
+21:00
+Atletico-MG
+Ceara
+998
+1
+1.92
+X
+3.25
+2
+4.10
+0-2
+1.55
+2+
+1.42
+3+
+2.30
+453
+21:00
+Vitoria
+Corinthians
+996
+1
+2.60
+X
+2.95
+2
+2.88
+0-2
+1.50
+2+
+1.45
+3+
+2.40
+BRAZIL, Serie B
+847
+21:00
+Athletic Club
+America MG
+824
+1
+2.55
+X
+3.00
+2
+2.90
+0-2
+1.57
+2+
+1.40
+3+
+2.28
+848
+21:00
+Volta Redonda
+Coritiba
+823
+1
+3.35
+X
+3.05
+2
+2.25
+0-2
+1.60
+2+
+1.39
+3+
+2.22
+COLOMBIA, Primera A - Clausura
+570
+21:00
+Envigado
+Chico
+822
+1
+2.15
+X
+3.00
+2
+3.45
+0-2
+1.55
+2+
+1.41
+3+
+2.30
+COSTA RICA, Liga de Ascenso - Apertura
+33533
+21:00
+Escorpiones
+Pitbulls
+656
+1
+1.72
+X
+3.55
+2
+4.05
+0-2
+2.10
+2+
+1.19
+3+
+1.64
+ECUADOR, Liga Pro - Relegation Group
+1406
+21:00
+Mushuc Runa
+Manta
+921
+1
+1.52
+X
+3.75
+2
+5.40
+0-2
+1.92
+2+
+1.22
+3+
+1.75
 Odigrani tiketi
-34411
-ASFA Yennenga - ASF Dioulasso
-25.10. 17:30
+626
+Constantine - Olympique Akbou
+25.10. 18:00
 KONAČAN ISHOD 
 1
-  2.70  
+  1.90  
 Običan
 Sistem
 Kvota:
-2.70
+1.90
 Uplata:
 20.00 RSD
 Dobitak:
-54.00 RSD
+38.00 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express
