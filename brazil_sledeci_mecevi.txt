@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 27.10.
-11:00
+13:00
 23:59
-11:00 - 23:59
+13:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -42,680 +42,45 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-IRAN - Azadegan League
-34358
-11:15
-Shahrdari Noshahr
-Ario Eslamshahr
-102
-1
-2.75
-X
-2.60
-2
-2.62
-0-2
-1.25
-2+
-1.70
-3+
-3.30
-POLAND, Division 2
-464
-11:15
-Hutnik Krakow
-Zaglebie Sosnowiec SA
-837
-1
-2.95
-X
-3.50
-2
-2.07
-0-2
-2.35
-2+
-1.14
-3+
-1.51
-AUSTRIA, Salzburg
-33629
-11:30
-Thalgau
-TSU Bramberg
-59
-1
-2.95
-X
-3.75
-2
-1.93
-0-2
-2.85
-2+
-1.06
-3+
-1.33
-CHINA, Jia League
-33301
-11:30
-Foshan Nanshi
-Shanghai Jiading Huilong
-825
-1
-1.83
-X
-3.20
-2
-3.95
-0-2
-1.70
-2+
-1.31
-3+
-2.02
-33302
-11:30
-Heilongjiang Ice City
-Dalian Kuncheng
-823
-1
-2.50
-X
-2.90
-2
-2.75
-0-2
-1.55
-2+
-1.40
-3+
-2.30
-33303
-11:30
-Qingdao Red Lions
-Nanjing City
-834
-1
-2.55
-X
-3.15
-2
-2.50
-0-2
-1.87
-2+
-1.24
-3+
-1.82
-CROATIA, Prva NL
-1263
-11:30
-Opatija
-Bijelo Brdo
-651
-1
-2.22
-X
-2.85
-2
-3.25
-0-2
-1.45
-2+
-1.44
-3+
-2.40
-DENMARK, 2nd Division
-1150
-11:30
-VSK Aarhus
-Roskilde
-652
-1
-5.60
-X
-3.95
-2
-1.48
-0-2
-2.07
-2+
-1.19
-3+
-1.66
-DENMARK, 3rd Division
-1238
-11:30
-Lyseng
-Sundby
-658
-1
-2.50
-X
-3.45
-2
-2.38
-0-2
-2.22
-2+
-1.16
-3+
-1.56
-ENGLAND, Championship
-28
-11:30
-Coventry
-Watford
-1004
-1
-1.55
-X
-4.33
-2
-5.75
-0-2
-2.22
-2+
-1.22
-3+
-1.66
-29
-11:30
-Ipswich
-West Bromwich
-925
-1
-1.95
-X
-3.35
-2
-4.20
-0-2
-1.70
-2+
-1.38
-3+
-2.15
-30
-11:30
-Portsmouth
-Stoke
-926
-1
-2.85
-X
-3.30
-2
-2.55
-0-2
-1.77
-2+
-1.35
-3+
-2.07
-ENGLAND, League One
-183
-11:30
-Bolton
-Cardiff
-837
-1
-1.92
-X
-3.65
-2
-3.60
-0-2
-2.18
-2+
-1.19
-3+
-1.63
-184
-11:30
-Mansfield
-Wigan
-825
-1
-2.40
-X
-3.05
-2
-3.05
-0-2
-1.60
-2+
-1.38
-3+
-2.22
-ENGLAND, League Two
-194
-11:30
-Cheltenham
-Walsall
-827
-1
-3.85
-X
-3.30
-2
-1.98
-0-2
-1.72
-2+
-1.32
-3+
-2.02
-195
-11:30
-Fleetwood
-Accrington
-829
-1
-2.12
-X
-3.30
-2
-3.40
-0-2
-1.82
-2+
-1.28
-3+
-1.90
-ENGLAND, National League
-109
-11:30
-FC Halifax
-York
-835
-1
-4.10
-X
-3.80
-2
-1.72
-0-2
-2.22
-2+
-1.17
-3+
-1.58
-ENGLAND, Premier League 2
-33316
-11:30
-Sunderland U21
-Stoke City U21
-659
-1
-1.81
-X
-4.10
-2
-3.20
-0-2
-3.60
-2+
-1.04
-3+
-1.24
-ESTONIA, Meistriliiga
-33338
-11:30
-Harju JK Laagri
-Narva
-840
-1
-3.10
-X
-3.70
-2
-1.93
-0-2
-2.50
-2+
-1.12
-3+
-1.45
-33339
-11:30
-Kuressaare
-Kalju
-831
-1
-6.60
-X
-4.75
-2
-1.35
-0-2
-2.70
-2+
-1.09
-3+
-1.39
-IRAN - Azadegan League
-35075
-11:30
-Damash Gilan
-Nassaji Mazandaran
-101
-1
-3.95
-X
-2.90
-2
-1.90
-0-2
-1.37
-2+
-1.51
-3+
-2.70
-35076
-11:30
-Mes Kerman
-Fard
-102
-1
-2.70
-X
-2.45
-2
-2.88
-0-2
-1.22
-2+
-1.77
-3+
-3.55
-SINGAPORE, S-league
-777
-11:30
-Young Lions
-Geylang
-643
-1
-10.5
-X
-6.60
-2
-1.17
-0-2
-4.15
-2+
-1.02
-3+
-1.18
-SLOVAKIA, 2. Liga
-838
-11:30
-I. Bratislava
-Slavia TU Kosice
-833
-1
-1.42
-X
-4.25
-2
-5.90
-0-2
-2.35
-2+
-1.12
-3+
-1.49
-839
-11:30
-Lehota p. V.
-Banska Bystrica
-822
-1
-6.70
-X
-4.25
-2
-1.39
-0-2
-2.10
-2+
-1.16
-3+
-1.61
-840
-11:30
-Lubovna
-Slovan Bratislava B
-829
-1
-1.77
-X
-3.45
-2
-3.95
-0-2
-1.98
-2+
-1.19
-3+
-1.68
-841
-11:30
-Puchov
-L. Mikulas
-834
-1
-2.70
-X
-3.50
-2
-2.22
-0-2
-2.10
-2+
-1.16
-3+
-1.61
-842
-11:30
-Samorin
-Malzenice
-833
-1
-1.81
-X
-3.55
-2
-3.65
-0-2
-2.10
-2+
-1.16
-3+
-1.61
-SPAIN, Tercera RFEF - Group 12
-35115
-11:30
-Villa Santa Brigida
-San Miguel
-653
-1
-1.86
-X
-3.15
-2
-3.70
-0-2
-1.65
-2+
-1.30
-3+
-2.02
-THAILAND, Thai League 1
-736
-11:30
-Chiangrai Utd
-Kanchanaburi City
-821
-1
-2.12
-X
-3.05
-2
-3.25
-0-2
-1.68
-2+
-1.32
-3+
-2.04
-THAILAND, Thai League 2
-943
-11:30
-Police Tero
-Khonkaen Utd.
-658
-1
-2.65
-X
-3.35
-2
-2.30
-0-2
-2.12
-2+
-1.18
-3+
-1.63
-TURKEY, 2. Lig White Group
-1067
-11:30
-Adana
-Muglaspor
-653
-1
-3.25
-X
-3.00
-2
-2.12
-0-2
-1.60
-2+
-1.33
-3+
-2.10
-TURKEY, 3. Lig Group 1
-33515
-11:30
-Etimesgut
-Galata
-652
-1
-2.08
-X
-2.95
-2
-3.20
-0-2
-1.55
-2+
-1.34
-3+
-2.15
-TURKEY, 3. Lig Group 2
-33513
-11:30
-Kirikkale FK
-Erciyes 38
-656
-1
-2.28
-X
-3.00
-2
-2.80
-0-2
-1.70
-2+
-1.26
-3+
-1.92
-33514
-11:30
-Silifke
-Osmaniyespor
-651
-1
-1.91
-X
-3.05
-2
-3.55
-0-2
-1.60
-2+
-1.31
-3+
-2.07
-UZBEKISTAN, Super League
-33430
-11:30
-Shortan Guzor
-Neftchi Fargona
-815
-1
-7.40
-X
-4.00
-2
-1.39
-0-2
-1.82
-2+
-1.24
-3+
-1.82
 MALAYSIA, Super League
 34355
-11:45
+13:45
 Kuching City FC
 Penang
-833
+832
 1
-1.37
+1.35
 X
-4.45
+4.55
 2
-6.40
+6.75
 0-2
-2.40
+2.45
 2+
 1.13
 3+
-1.49
+1.48
 SPAIN, LaLiga
 443
-12:00
+14:00
 Girona
 Real Oviedo
-973
+1068
 1
-1.80
+1.78
 X
 3.50
 2
-4.85
+4.90
 0-2
-1.82
+1.83
 2+
 1.33
 3+
-2.00
+1.99
 ALBANIA, First Division
 33608
-12:00
+14:00
 Kukesi
 AF Luftetari
 648
@@ -732,7 +97,7 @@ X
 3+
 2.50
 33609
-12:00
+14:00
 Laci
 Burreli
 641
@@ -749,7 +114,7 @@ X
 3+
 3.05
 34415
-12:00
+14:00
 Pogradeci
 Kastrioti
 647
@@ -767,7 +132,7 @@ X
 1.77
 AUSTRIA, Regionalliga East
 33328
-12:00
+14:00
 Sportunion Mauer
 Neusiedl
 658
@@ -785,24 +150,24 @@ X
 1.51
 AUSTRIA, Regionalliga West
 33330
-12:00
+14:00
 Bischofshofen
 SC Imst
 657
 1
-2.40
+2.38
 X
 3.25
 2
 2.60
 0-2
-1.95
+2.00
 2+
-1.20
+1.19
 3+
-1.72
+1.66
 33331
-12:00
+14:00
 Kitzbuhel
 Kufstein
 658
@@ -820,24 +185,24 @@ X
 1.56
 AUSTRIA, Steiermark
 33647
-12:00
+14:00
 Hartberg (Am)
 SV Pachern
 59
 1
-1.40
+1.35
 X
-4.50
+4.70
 2
-5.10
+5.75
 0-2
-3.25
+3.35
 2+
-1.04
+1.03
 3+
-1.26
+1.25
 33648
-12:00
+14:00
 SV Wildon
 Lebring
 59
@@ -855,7 +220,7 @@ X
 1.40
 AUSTRIA, Wien
 33631
-12:00
+14:00
 Kagran
 Dinamo Helfort
 59
@@ -873,25 +238,25 @@ X
 1.41
 AZERBAIJAN, Premier League
 772
-12:00
+14:00
 Araz Saatli
 Sabah Baku
-823
+824
 1
-3.30
+3.65
 X
-2.95
+3.15
 2
-2.15
+1.94
 0-2
-1.55
+1.63
 2+
-1.40
+1.35
 3+
-2.28
+2.12
 BELARUS, Pershaya Liga
 34379
-12:00
+14:00
 Baranovici
 Volna Pinsk
 657
@@ -908,7 +273,7 @@ X
 3+
 1.41
 34380
-12:00
+14:00
 Osipovichi
 Lida
 648
@@ -926,7 +291,7 @@ X
 1.26
 BOSNIA AND HERZEGOVINA, Prva Liga - RS
 34432
-12:00
+14:00
 Drina Zvornik
 Romanija Pale
 60
@@ -943,7 +308,7 @@ X
 3+
 1.87
 34433
-12:00
+14:00
 Famos Vojkovici
 Kozara
 59
@@ -960,7 +325,7 @@ X
 3+
 1.72
 34434
-12:00
+14:00
 Laktasi
 BSK Banja Luka
 59
@@ -977,25 +342,25 @@ X
 3+
 1.66
 34435
-12:00
+14:00
 Vlasenica
 Slavija Sarajevo
 60
 1
-2.38
+4.55
 X
-3.00
+3.40
 2
-2.80
+1.69
 0-2
-1.70
+1.82
 2+
-1.32
+1.26
 3+
-2.02
+1.87
 CYPRUS, Division 2
 909
-12:00
+14:00
 Iraklis Yerolakkou
 Digenis Akritas
 651
@@ -1012,7 +377,7 @@ X
 3+
 2.02
 910
-12:00
+14:00
 Nea Salamis
 Halkanoras Idaliou
 642
@@ -1029,7 +394,7 @@ X
 3+
 1.45
 33354
-12:00
+14:00
 Ayia Napa
 Paeek
 654
@@ -1046,7 +411,7 @@ X
 3+
 2.07
 33355
-12:00
+14:00
 Doxa
 Achyronas-Onisilos
 645
@@ -1064,7 +429,7 @@ X
 1.61
 CZECH REPUBLIC, 3. CFL - Group B
 33654
-12:00
+14:00
 FK Ceska Lipa
 Velvary
 648
@@ -1082,42 +447,42 @@ X
 1.25
 CZECH REPUBLIC, CFL - Group A
 35140
-12:00
+14:00
 Domazlice
 Dukla Prague B
 652
 1
-1.38
+1.33
 X
-4.45
+4.60
 2
-5.70
+6.20
 0-2
-2.75
+2.80
 2+
 1.07
 3+
-1.35
+1.34
 DENMARK, 1st Division
 88
-12:00
+14:00
 Aalborg
 Lyngby
-835
+836
 1
-2.45
+2.35
 X
 3.50
 2
-2.50
+2.70
 0-2
-2.22
+2.25
 2+
-1.17
+1.16
 3+
-1.58
+1.56
 89
-12:00
+14:00
 Aarhus Fremad
 Esbjerg
 837
@@ -1134,16 +499,16 @@ X
 3+
 1.58
 90
-12:00
+14:00
 Hobro
 Hillerod
 834
 1
-2.55
+2.62
 X
 3.30
 2
-2.55
+2.50
 0-2
 2.00
 2+
@@ -1152,7 +517,7 @@ X
 1.72
 DENMARK, 2nd Division
 1151
-12:00
+14:00
 AB Copenhagen
 Brabrand
 648
@@ -1169,7 +534,7 @@ X
 3+
 1.29
 1152
-12:00
+14:00
 Hellerup
 Skive
 656
@@ -1187,7 +552,7 @@ X
 1.92
 DENMARK, 3rd Division
 1239
-12:00
+14:00
 BK Frem
 Holbaek
 657
@@ -1204,24 +569,24 @@ X
 3+
 1.85
 1240
-12:00
+14:00
 Bronshoj
 Vejgaard
-656
+654
 1
-1.66
+1.67
 X
-3.75
+3.60
 2
-4.20
+4.25
 0-2
-2.20
+2.10
 2+
-1.16
+1.18
 3+
-1.58
+1.64
 1241
-12:00
+14:00
 FA 2000
 Vanlose
 657
@@ -1239,7 +604,7 @@ X
 1.75
 ENGLAND, Premier League 2
 33317
-12:00
+14:00
 Leicester U21
 Southampton U21
 661
@@ -1257,7 +622,7 @@ X
 1.27
 ETHIOPIA, Premier League
 33544
-12:00
+14:00
 St. George
 Ethiopian Insurance
 102
@@ -1275,7 +640,7 @@ X
 3.00
 FAROE ISLAND, 1. Deild
 33526
-12:00
+14:00
 B71 Sandur
 IF Fuglafjordur
 659
@@ -1293,7 +658,7 @@ X
 1.34
 FRANCE, Ligue 2
 328
-12:00
+14:00
 Amiens
 Rodez
 969
@@ -1310,25 +675,25 @@ X
 3+
 1.77
 329
-12:00
+14:00
 Montpellier
 Nancy
-965
+963
 1
-2.22
+2.15
 X
-3.15
+3.20
 2
-3.30
+3.40
 0-2
-1.77
+1.78
 2+
-1.30
+1.29
 3+
-1.97
+1.95
 GERMANY, 3. Liga
 141
-12:00
+14:00
 Cottbus
 TSV Havelse
 833
@@ -1345,16 +710,16 @@ X
 3+
 1.37
 142
-12:00
+14:00
 Ingolstadt
 Saarbrucken
 840
 1
-2.45
+2.55
 X
 3.70
 2
-2.55
+2.45
 0-2
 2.50
 2+
@@ -1362,16 +727,16 @@ X
 3+
 1.48
 143
-12:00
+14:00
 Mannheim
 Munich 1860
 835
 1
-2.50
+2.45
 X
 3.45
 2
-2.62
+2.70
 0-2
 2.10
 2+
@@ -1379,16 +744,16 @@ X
 3+
 1.66
 144
-12:00
+14:00
 Regensburg
 Stuttgart II
 835
 1
-2.55
+2.45
 X
 3.30
 2
-2.65
+2.75
 0-2
 2.05
 2+
@@ -1396,7 +761,7 @@ X
 3+
 1.69
 145
-12:00
+14:00
 Verl
 Ulm
 840
@@ -1414,7 +779,7 @@ X
 1.48
 GERMANY, Oberliga Bayern Sud
 33443
-12:00
+14:00
 Heimstetten
 Landsberg
 102
@@ -1431,7 +796,7 @@ X
 3+
 1.30
 33444
-12:00
+14:00
 Schalding
 Erlbach
 102
@@ -1448,7 +813,7 @@ X
 3+
 1.32
 34383
-12:00
+14:00
 Geretsried
 FC Sturm Hauzenberg
 102
@@ -1465,7 +830,7 @@ X
 3+
 1.44
 34384
-12:00
+14:00
 TSV Kottern
 Ismaning
 102
@@ -1483,7 +848,7 @@ X
 1.54
 GERMANY, Oberliga NOFV-Sud
 34427
-12:00
+14:00
 Auerbach
 Sandersdorf
 102
@@ -1500,7 +865,7 @@ X
 3+
 1.49
 34428
-12:00
+14:00
 Freital
 Heiligenstadt
 100
@@ -1517,7 +882,7 @@ X
 3+
 1.51
 34429
-12:00
+14:00
 RSV Eintracht
 Einheit Wernigerode
 102
@@ -1535,7 +900,7 @@ X
 1.29
 GERMANY, Oberliga Niedersachsen
 34388
-12:00
+14:00
 Meppen II
 Delmenhorst
 102
@@ -1553,7 +918,7 @@ X
 1.30
 GERMANY, Oberliga Rheinland-Pfalz/Saar
 34385
-12:00
+14:00
 RW Koblenz
 Eisbachtal
 102
@@ -1571,7 +936,7 @@ X
 1.32
 GERMANY, Oberliga Schleswig-Holstein
 34387
-12:00
+14:00
 Neumunster
 Hohenwestedt
 102
@@ -1589,7 +954,7 @@ X
 1.22
 GERMANY, Regionalliga Bayern
 636
-12:00
+14:00
 Aschaffenburg
 Eichstatt
 832
@@ -1606,24 +971,24 @@ X
 3+
 1.72
 637
-12:00
+14:00
 Bayern II
 Illertissen
-840
+842
 1
-2.25
+2.22
 X
-3.65
+3.70
 2
 2.55
 0-2
-2.70
+2.90
 2+
-1.09
+1.08
 3+
-1.39
+1.35
 638
-12:00
+14:00
 Furth II
 Ansbach
 840
@@ -1640,7 +1005,7 @@ X
 3+
 1.45
 639
-12:00
+14:00
 Hankofen-Hailing
 Aubstadt
 836
@@ -1657,24 +1022,24 @@ X
 3+
 1.61
 640
-12:00
+14:00
 Memmingen
 Unterhaching
-831
+830
 1
-4.65
+4.95
 X
-3.75
+3.85
 2
-1.59
+1.55
 0-2
-2.10
+2.12
 2+
 1.18
 3+
-1.63
+1.61
 641
-12:00
+14:00
 Schwaben Augsburg
 Vilzing
 835
@@ -1692,7 +1057,7 @@ X
 1.61
 GERMANY, Regionalliga North
 685
-12:00
+14:00
 Norderstedt
 SC Weiche-08
 841
@@ -1701,7 +1066,7 @@ SC Weiche-08
 X
 3.70
 2
-2.50
+2.45
 0-2
 2.75
 2+
@@ -1709,42 +1074,42 @@ X
 3+
 1.38
 686
-12:00
+14:00
 Schoningen
 Lohne
-841
+840
 1
 2.70
 X
-3.70
+3.60
 2
-2.15
+2.18
 0-2
-2.70
+2.55
 2+
-1.09
+1.11
 3+
-1.39
+1.44
 GERMANY, Regionalliga Northeast
 661
-12:00
+14:00
 Chemie Leipzig
 Hertha Berlin II
-833
+834
 1
-2.15
+2.40
 X
-3.35
+3.30
 2
-2.90
+2.55
 0-2
-2.08
+2.05
 2+
 1.19
 3+
 1.66
 662
-12:00
+14:00
 Chemnitzer
 Hertha Zehlendorf
 828
@@ -1761,7 +1126,7 @@ X
 3+
 1.66
 663
-12:00
+14:00
 Greifswald
 Jena
 829
@@ -1779,7 +1144,7 @@ X
 1.77
 GERMANY, Regionalliga Southwest
 690
-12:00
+14:00
 Balingen
 Kassel
 660
@@ -1796,24 +1161,24 @@ X
 3+
 1.45
 691
-12:00
+14:00
 Freiburg II
 Walldorf
 661
 1
 2.55
 X
-3.85
+3.90
 2
-2.20
+2.18
 0-2
-3.15
+3.45
 2+
-1.06
+1.04
 3+
-1.30
+1.25
 692
-12:00
+14:00
 Grossaspach
 Bahlinger
 655
@@ -1830,24 +1195,24 @@ X
 3+
 1.36
 693
-12:00
+14:00
 Mainz II
 Freiberg
-659
+658
 1
 2.50
 X
-3.50
+3.45
 2
-2.35
+2.38
 0-2
-2.35
+2.25
 2+
-1.14
+1.16
 3+
-1.51
+1.56
 694
-12:00
+14:00
 Steinbach Haiger
 FSV Frankfurt
 660
@@ -1864,7 +1229,7 @@ X
 3+
 1.43
 695
-12:00
+14:00
 Stuttgarter Kickers
 Schott Mainz
 653
@@ -1882,7 +1247,7 @@ X
 1.35
 GERMANY, Regionalliga West
 650
-12:00
+14:00
 B. Monchengladbach II
 Wuppertaler
 838
@@ -1899,7 +1264,7 @@ X
 3+
 1.49
 651
-12:00
+14:00
 Bocholt
 Bochum II
 838
@@ -1916,7 +1281,7 @@ X
 3+
 1.39
 652
-12:00
+14:00
 Bonner
 Wiedenbruck
 833
@@ -1933,41 +1298,41 @@ X
 3+
 1.72
 653
-12:00
+14:00
 Dusseldorf II
 Paderborn II
-836
+834
 1
-2.75
+2.65
 X
-3.45
+3.30
 2
-2.20
+2.35
 0-2
-2.25
+2.08
 2+
-1.16
+1.19
 3+
-1.56
+1.66
 654
-12:00
+14:00
 Fortuna Koln
 Koln II
 834
 1
 1.66
 X
-3.70
+3.75
 2
 4.20
 0-2
-2.28
+2.35
 2+
-1.15
+1.14
 3+
-1.56
+1.51
 655
-12:00
+14:00
 Oberhausen
 Lotte
 835
@@ -1984,7 +1349,7 @@ X
 3+
 1.61
 656
-12:00
+14:00
 SC Velbert
 Schalke II
 835
@@ -2002,7 +1367,7 @@ X
 1.43
 GREECE, Super League 2
 1091
-12:00
+14:00
 Ilioupoli
 PAE Chania
 656
@@ -2019,42 +1384,42 @@ X
 3+
 2.30
 1092
-12:00
+14:00
 Kavala
 Karditsa
+651
+1
+4.95
+X
+3.35
+2
+1.65
+0-2
+1.67
+2+
+1.32
+3+
+2.05
+1093
+14:00
+Panargiakos
+Athens Kallithea
 646
 1
-5.75
+6.90
 X
-3.30
+3.50
 2
-1.58
+1.48
 0-2
 1.53
 2+
 1.41
 3+
 2.30
-1093
-12:00
-Panargiakos
-Athens Kallithea
-645
-1
-7.40
-X
-3.55
-2
-1.45
-0-2
-1.52
-2+
-1.42
-3+
-2.35
 ICELAND, Besta-deild karla - Relegation Group
 581
-12:00
+14:00
 Vestmannaeyjar
 KA Akureyri
 842
@@ -2065,32 +1430,32 @@ X
 2
 2.45
 0-2
-2.80
+2.90
 2+
-1.09
+1.08
 3+
-1.38
+1.36
 INDONESIA, Championship
 34464
-12:00
+14:00
 PSMS Medan
 Persiraja Aceh
-652
+654
 1
-1.66
+1.87
 X
-3.40
+3.20
 2
-5.20
+4.10
 0-2
-1.67
+1.60
 2+
-1.33
+1.37
 3+
-2.07
+2.18
 INDONESIA, Super League
 781
-12:00
+14:00
 Bali United
 Persita
 832
@@ -2106,27 +1471,9 @@ X
 1.20
 3+
 1.68
-IRAN - Azadegan League
-35077
-12:00
-Besat Kermanshah
-Naft Gachsaran
-101
-1
-1.91
-X
-2.95
-2
-3.75
-0-2
-1.45
-2+
-1.43
-3+
-2.40
 KENYA, Super League
 34401
-12:00
+14:00
 Naivas FC
 Mwatate United
 101
@@ -2144,7 +1491,7 @@ X
 2.07
 LATVIA, 1. Liga
 33433
-12:00
+14:00
 Skanstes SK
 JFK Ventspils
 642
@@ -2162,7 +1509,7 @@ X
 1.66
 LEBANON, Premier League
 33549
-12:00
+14:00
 Tadamon
 Al Ahed
 645
@@ -2180,7 +1527,7 @@ X
 1.66
 MALTA, Division 1
 33546
-12:00
+14:00
 Fgura
 Melita
 657
@@ -2198,7 +1545,7 @@ X
 1.69
 MONTENEGRO, Druga Liga
 35099
-12:00
+14:00
 Internacional Podgorica
 Berane
 102
@@ -2216,7 +1563,7 @@ X
 1.87
 NORWAY, OBOS Ligaen
 607
-12:00
+14:00
 Skeid
 Raufoss
 836
@@ -2234,7 +1581,7 @@ X
 1.58
 POLAND, Division 2
 465
-12:00
+14:00
 GKS Jastrzebie
 Podbeskidzie
 832
@@ -2252,7 +1599,7 @@ X
 1.56
 POLAND, III Liga - Group I
 1050
-12:00
+14:00
 Biala Piska
 Wasilkow
 59
@@ -2270,7 +1617,7 @@ X
 1.47
 POLAND, III Liga - Group II
 1041
-12:00
+14:00
 Elana Torun
 Pogon Szczecin II
 59
@@ -2288,7 +1635,7 @@ X
 1.45
 POLAND, III Liga - Group IV
 1021
-12:00
+14:00
 Avia Swidnik
 Star Starachowice
 59
@@ -2305,7 +1652,7 @@ X
 3+
 1.39
 1022
-12:00
+14:00
 Lubaczow
 Swidniczanka Swidnik
 59
@@ -2322,7 +1669,7 @@ X
 3+
 1.53
 1023
-12:00
+14:00
 Naprzod Jedrzejow
 Wislanie Skawina
 59
@@ -2340,7 +1687,7 @@ X
 1.49
 RUSSIA, FNL 2 - Division B - Group 1 - Relegation Group
 1336
-12:00
+14:00
 Maykop
 Legion Dynamo
 59
@@ -2358,7 +1705,7 @@ X
 1.85
 RUSSIA, FNL 2 - Division B - Group 3
 1317
-12:00
+14:00
 Znamya Truda
 Lipetsk
 58
@@ -2376,24 +1723,24 @@ X
 1.77
 SERBIA, Prva Liga
 507
-12:00
+14:00
 Dinamo Jug
 Vozdovac
 102
 1
-3.00
+2.70
 X
-2.85
+2.80
 2
-2.25
+2.50
 0-2
-1.50
+1.49
 2+
-1.37
+1.38
 3+
-2.25
+2.28
 508
-12:00
+14:00
 FAP
 Zemun
 102
@@ -2410,7 +1757,7 @@ X
 3+
 2.35
 509
-12:00
+14:00
 Smederevo
 Vrsac
 102
@@ -2428,61 +1775,61 @@ X
 2.40
 SPAIN, LaLiga2
 427
-12:00
+14:00
 Cultural Leonesa
 Ceuta
-920
+923
 1
 2.30
 X
-3.05
+3.10
 2
-3.25
+3.20
 0-2
-1.60
+1.65
 2+
-1.39
+1.35
 3+
-2.22
+2.12
 SPAIN, Primera RFEF - Group 2
 1163
-12:00
+14:00
 Algeciras
 Alcorcon
-653
+652
 1
-2.35
+2.25
 X
-2.90
+2.88
 2
-2.95
+3.15
 0-2
-1.52
+1.49
 2+
-1.41
+1.44
 3+
-2.30
+2.40
 SWEDEN, Division 1 - Sodra
 1289
-12:00
+14:00
 Ljungskile
 Rosengard
-653
+650
 1
-1.35
+1.27
 X
-4.60
+5.10
 2
-6.70
+8.25
 0-2
-2.50
+2.60
 2+
-1.12
+1.11
 3+
-1.45
+1.42
 SWITZERLAND, 1.Liga Promotion
 33409
-12:00
+14:00
 Young Boys II
 Lausanne II
 661
@@ -2500,52 +1847,52 @@ X
 1.31
 THAILAND, Thai League 1
 737
-12:00
+14:00
 Prachuap
 Nakhon Ratchasima FC
-827
+826
 1
-1.69
+1.65
 X
-3.35
+3.50
 2
-4.55
+4.60
 0-2
-1.82
-2+
-1.26
-3+
 1.87
+2+
+1.24
+3+
+1.82
 THAILAND, Thai League 2
 35094
-12:00
+14:00
 Nakhon Si
 Chiangmai Utd
 657
 1
-3.10
+3.05
 X
 3.25
 2
-2.08
+2.10
 0-2
 1.95
 2+
 1.22
 3+
-1.77
+1.75
 TURKEY, 2. Lig Red Group
 1072
-12:00
+14:00
 Aliaga
 Yeni Mersin Idmanyurdu
-634
+636
 1
-1.07
+1.09
 X
-7.90
+7.40
 2
-19.0
+17.0
 0-2
 2.85
 2+
@@ -2553,7 +1900,7 @@ X
 3+
 1.33
 1073
-12:00
+14:00
 Ankara Demirspor
 Adanaspor AS
 51
@@ -2571,24 +1918,24 @@ X
 1.03
 TURKEY, 2. Lig White Group
 1068
-12:00
+14:00
 Altinordu
 Karacabey Belediyespor
-654
+651
 1
-3.50
+4.20
 X
-3.15
+3.25
 2
-1.97
+1.78
 0-2
-1.67
+1.70
 2+
-1.30
+1.28
 3+
-2.00
+1.95
 1069
-12:00
+14:00
 Inegolspor
 Kepez Bld.
 646
@@ -2606,7 +1953,7 @@ X
 1.72
 TURKEY, 3. Lig Group 1
 33516
-12:00
+14:00
 Bulvarspor
 Edirnespor
 650
@@ -2623,7 +1970,7 @@ X
 3+
 1.56
 33517
-12:00
+14:00
 Bursa Nilufer
 .1923 Mustafakemalpasa
 656
@@ -2640,7 +1987,7 @@ X
 3+
 1.97
 33518
-12:00
+14:00
 Kucukcekmece
 Yesil Yalova FK
 654
@@ -2657,7 +2004,7 @@ X
 3+
 1.77
 33519
-12:00
+14:00
 Silivrispor
 Cankaya FK
 652
@@ -2675,7 +2022,7 @@ X
 2.04
 TURKEY, 3. Lig Group 4
 33534
-12:00
+14:00
 Ayvalikgucu
 Soke 1970
 654
@@ -2692,7 +2039,7 @@ X
 3+
 2.07
 33535
-12:00
+14:00
 Usakspor
 Tire 2021 FK
 653
@@ -2710,7 +2057,7 @@ X
 1.87
 WORLD, AFC Challenge League
 33676
-12:00
+14:00
 Al Shabab Seeb
 Paro FC
 660
@@ -2728,7 +2075,7 @@ X
 1.46
 MALAYSIA, Super League
 34356
-12:15
+14:15
 Johor DT
 DPMM
 48
@@ -2739,32 +2086,32 @@ X
 2
 40.0
 0-2
-10.0
+10.5
 2+
 1.01
 3+
 1.01
 AUSTRIA, 2. Liga
 180
-12:30
+14:30
 A. Salzburg
 Austria Vienna (Am)
-836
+834
 1
-2.60
+2.65
 X
-3.50
+3.35
 2
-2.38
+2.45
 0-2
-2.25
+2.05
 2+
-1.17
+1.20
 3+
-1.58
+1.69
 AUSTRIA, Karnten
 33642
-12:30
+14:30
 Bleiburg
 Kottmannsdorf
 59
@@ -2782,7 +2129,7 @@ X
 1.40
 AUSTRIA, Regionalliga West
 33332
-12:30
+14:30
 Dornbirn
 Seekirchen
 659
@@ -2799,7 +2146,7 @@ X
 3+
 1.38
 33333
-12:30
+14:30
 Wals-Grunau
 SK St. Johann
 659
@@ -2817,7 +2164,7 @@ X
 1.47
 BOSNIA AND HERZEGOVINA, Prva Liga - FBiH
 34424
-12:30
+14:30
 Banovici
 Bratstvo Gracanica
 60
@@ -2834,7 +2181,7 @@ X
 3+
 2.08
 34426
-12:30
+14:30
 Travnik
 NK Vitez
 59
@@ -2852,7 +2199,7 @@ X
 1.92
 BULGARIA, Parva Liga
 239
-12:30
+14:30
 Slavia Sofia
 Cherno More
 828
@@ -2870,7 +2217,7 @@ X
 2.04
 CZECH REPUBLIC, Division 2
 1271
-12:30
+14:30
 Kromeriz
 Jihlava
 834
@@ -2887,7 +2234,7 @@ X
 3+
 1.85
 1272
-12:30
+14:30
 Pribram
 Chrudim
 832
@@ -2904,7 +2251,7 @@ X
 3+
 1.85
 1273
-12:30
+14:30
 Taborsko
 Slavia Prague B
 833
@@ -2922,7 +2269,7 @@ X
 1.66
 CZECH REPUBLIC, MSFL
 33589
-12:30
+14:30
 Blansko
 Sigma Olomouc B
 650
@@ -2939,7 +2286,7 @@ X
 3+
 1.34
 33590
-12:30
+14:30
 Hlubina
 Polanka nad Odrou
 657
@@ -2956,7 +2303,7 @@ X
 3+
 1.46
 33591
-12:30
+14:30
 Hodonin
 FK Frydek-Mistek
 658
@@ -2973,7 +2320,7 @@ X
 3+
 1.42
 33592
-12:30
+14:30
 Start Brno
 Vrchovina
 658
@@ -2991,7 +2338,7 @@ X
 1.43
 HUNGARY, NB I
 134
-12:30
+14:30
 Puskas Academy
 MTK Budapest
 840
@@ -3009,7 +2356,7 @@ X
 1.46
 IRAN - Azadegan League
 34359
-12:30
+14:30
 Niroye Zamini
 Mes Soongoun Varzaghan
 101
@@ -3018,32 +2365,15 @@ Mes Soongoun Varzaghan
 X
 3.20
 2
-4.50
+4.45
 0-2
-1.36
+1.37
 2+
-1.53
+1.51
 3+
-2.75
-34360
-12:30
-Saipa
-Shenavarsazi Qeshm
-101
-1
-1.90
-X
-2.90
-2
-3.85
-0-2
-1.23
-2+
-1.73
-3+
-3.40
+2.70
 35078
-12:30
+14:30
 Navad Urmia
 Havadar SC
 102
@@ -3061,7 +2391,7 @@ X
 2.85
 ITALY, Primavera 2
 33423
-12:30
+14:30
 Reggiana U19
 Entella U19
 655
@@ -3078,7 +2408,7 @@ X
 3+
 1.69
 33424
-12:30
+14:30
 Bari U19
 Ascoli U19
 658
@@ -3095,7 +2425,7 @@ X
 3+
 1.56
 33425
-12:30
+14:30
 Cittadella U19
 Sudtirol U19
 657
@@ -3112,7 +2442,7 @@ X
 3+
 1.72
 33426
-12:30
+14:30
 Padova U19
 Venezia U19
 657
@@ -3129,7 +2459,7 @@ X
 3+
 1.66
 33427
-12:30
+14:30
 Spezia U19
 Empoli U19
 660
@@ -3147,7 +2477,7 @@ X
 1.46
 ITALY, Serie C - Group A
 878
-12:30
+14:30
 Union Brescia
 Albinoleffe
 813
@@ -3165,7 +2495,7 @@ X
 2.02
 ITALY, Serie C - Group B
 887
-12:30
+14:30
 Guidonia
 Torres
 816
@@ -3182,7 +2512,7 @@ X
 3+
 2.28
 888
-12:30
+14:30
 Juventus U23
 Pontedera
 826
@@ -3199,7 +2529,7 @@ X
 3+
 1.97
 889
-12:30
+14:30
 Ternana
 Arezzo
 814
@@ -3217,10 +2547,10 @@ X
 2.45
 ITALY, Serie C - Group C
 898
-12:30
+14:30
 Atalanta U23
 Picerno
-833
+832
 1
 1.55
 X
@@ -3234,7 +2564,7 @@ X
 3+
 1.56
 899
-12:30
+14:30
 Cavese
 Crotone
 827
@@ -3252,7 +2582,7 @@ X
 1.92
 MACEDONIA, Prva Liga
 552
-12:30
+14:30
 Rabotnicki
 Makedonija GP
 823
@@ -3269,7 +2599,7 @@ X
 3+
 2.22
 553
-12:30
+14:30
 Struga
 Brera Strumica
 813
@@ -3287,7 +2617,7 @@ X
 1.48
 MALAWI, Super League
 34404
-12:30
+14:30
 Chitipa United
 MAFCO
 60
@@ -3304,7 +2634,7 @@ X
 3+
 2.62
 34405
-12:30
+14:30
 Ekhaya
 Blue Eagles
 60
@@ -3321,7 +2651,7 @@ X
 3+
 2.55
 34406
-12:30
+14:30
 Mighty Tigers
 Songwe Border
 59
@@ -3339,7 +2669,7 @@ X
 1.63
 NETHERLANDS, Tweede Divisie
 913
-12:30
+14:30
 Excelsior Maassluis
 Hardenberg
 655
@@ -3356,7 +2686,7 @@ X
 3+
 1.66
 914
-12:30
+14:30
 GVVV
 ACV Assen
 656
@@ -3373,7 +2703,7 @@ X
 3+
 1.49
 915
-12:30
+14:30
 HFC
 Jong Almere City
 660
@@ -3390,7 +2720,7 @@ X
 3+
 1.48
 916
-12:30
+14:30
 Hoek
 IJsselmeervogels
 659
@@ -3407,7 +2737,7 @@ X
 3+
 1.45
 917
-12:30
+14:30
 RKAV Volendam
 Quick Boys
 656
@@ -3425,7 +2755,7 @@ X
 1.33
 NORTHEN IRELAND, Irish Cup
 33375
-12:30
+14:30
 Knockbreda
 Dollingstown
 62
@@ -3443,16 +2773,16 @@ X
 1.32
 PHILIPPINES, PFL
 34374
-12:30
+14:30
 Tuloy
 Cebu FC
-632
+633
 1
-18.0
+16.0
 X
-8.75
+8.25
 2
-1.07
+1.08
 0-2
 4.20
 2+
@@ -3461,7 +2791,7 @@ X
 1.18
 POLAND, Division 2
 466
-12:30
+14:30
 Bielsko-Biala
 Ol. Grudziadz
 828
@@ -3479,7 +2809,7 @@ X
 1.66
 POLAND, III Liga - Group I
 1051
-12:30
+14:30
 LKS Lomza
 Swit Mazowiecki
 59
@@ -3497,7 +2827,7 @@ X
 1.56
 POLAND, III Liga - Group IV
 1024
-12:30
+14:30
 Czarni Polaniec
 Kolbuszowa Dolna
 59
@@ -3515,7 +2845,7 @@ X
 1.61
 THAILAND, Thai League 2
 33377
-12:30
+14:30
 Trat FC
 Nakhon Pathom
 658
@@ -3533,25 +2863,25 @@ X
 1.94
 UKRAINE, Premier League
 246
-12:30
+14:30
 Karpaty Lviv
 Rukh Lviv
-824
+820
 1
-1.83
+1.70
 X
-3.20
+3.30
 2
-4.35
+5.10
 0-2
-1.60
+1.65
 2+
-1.37
+1.35
 3+
-2.20
+2.12
 AUSTRIA, Regionalliga West
 35074
-12:45
+14:45
 FC Lustenau
 Kuchl
 658
@@ -3569,7 +2899,7 @@ X
 1.31
 POLAND, Ekstraklasa
 162
-12:45
+14:45
 Arka Gdynia
 Piast Gliwice
 829
@@ -3587,7 +2917,7 @@ X
 2.15
 OMAN, Sultan Cup
 33348
-12:55
+14:55
 Nizwa
 Dhofar
 651
@@ -3605,7 +2935,7 @@ X
 1.68
 UNITED ARAB EMIRATES, Presidents Cup
 1001
-12:55
+14:55
 Al Bataeh
 Shabab Al-Ahli Dubai
 650
@@ -3622,7 +2952,7 @@ X
 3+
 1.66
 1002
-12:55
+14:55
 Khorfakkan
 Ittihad Kalba
 657
@@ -3640,16 +2970,16 @@ X
 1.74
 ITALY, Serie A
 18
-13:00
+15:00
 Parma
 Como
-1078
+1074
 1
-4.30
+4.35
 X
 3.25
 2
-1.97
+1.96
 0-2
 1.70
 2+
@@ -3657,42 +2987,42 @@ X
 3+
 2.18
 19
-13:00
+15:00
 Udinese
 Lecce
-1047
+974
 1
-2.02
+2.00
 X
 3.45
 2
 4.20
 0-2
-1.66
+1.68
 2+
-1.40
+1.39
 3+
-2.30
+2.25
 SERBIA, Superliga
 57
-13:00
+15:00
 IMT Novi Beograd
 OFK Beograd
-840
+839
 1
-2.50
+2.75
 X
-3.55
+3.50
 2
-2.45
+2.25
 0-2
-2.50
+2.40
 2+
-1.12
+1.14
 3+
-1.46
+1.51
 58
-13:00
+15:00
 Radnicki 1923
 TSC
 832
@@ -3710,7 +3040,7 @@ X
 1.69
 ALGERIA, Division 2
 34364
-13:00
+15:00
 Khroub
 MO Constantine
 643
@@ -3728,7 +3058,7 @@ X
 2.70
 ARMENIA, Premier League
 33305
-13:00
+15:00
 Pyunik Yerevan
 FC Gandzasar
 820
@@ -3746,7 +3076,7 @@ X
 1.46
 AUSTRIA, Burgenland
 33640
-13:00
+15:00
 Horitschon
 Deutschlandsberger
 59
@@ -3764,7 +3094,7 @@ X
 1.33
 AUSTRIA, Regionalliga Centre
 35083
-13:00
+15:00
 Dietach
 Wolfsberger AC (Am)
 657
@@ -3782,7 +3112,7 @@ X
 1.64
 AUSTRIA, Wien
 33632
-13:00
+15:00
 .1980 Wien
 Simmeringer SC
 59
@@ -3800,7 +3130,7 @@ X
 1.32
 BELARUS, Vysshaya Liga
 402
-13:00
+15:00
 Slavia-Mozyr
 Neman
 826
@@ -3818,7 +3148,7 @@ X
 2.12
 BRAZIL, Campeonato Carioca U20 - Taca Guanabara - Play Offs
 34443
-13:00
+15:00
 Botafogo U20
 Bangu U20
 59
@@ -3835,7 +3165,7 @@ X
 3+
 1.56
 34444
-13:00
+15:00
 Vasco da Gama AC U20
 Portuguesa RJ U20
 56
@@ -3853,7 +3183,7 @@ X
 1.43
 BRAZIL, Campeonato Paulista U20 - Play Offs
 34453
-13:00
+15:00
 Guarani U20
 Sao Paulo U20
 59
@@ -3871,7 +3201,7 @@ X
 1.72
 BULGARIA, Vtora Liga
 933
-13:00
+15:00
 Belasitsa
 Marek
 643
@@ -3888,7 +3218,7 @@ X
 3+
 2.80
 934
-13:00
+15:00
 Chernomorets 1919
 Hebar
 654
@@ -3905,24 +3235,24 @@ X
 3+
 2.07
 935
-13:00
+15:00
 Lok. Gorna
 Minyor Pernik
-646
+643
 1
-1.42
+1.30
 X
-3.70
+4.20
 2
-7.30
+9.75
 0-2
-1.60
+1.70
 2+
-1.33
+1.28
 3+
-2.08
+1.97
 936
-13:00
+15:00
 Vihren
 Sevlievo
 646
@@ -3940,7 +3270,7 @@ X
 2.08
 CROATIA, Prva NL
 1264
-13:00
+15:00
 Jarun
 Karlovac
 652
@@ -3958,7 +3288,7 @@ X
 2.30
 CZECH REPUBLIC, Chance Liga
 594
-13:00
+15:00
 Dukla Prague
 Slovacko
 823
@@ -3975,24 +3305,24 @@ X
 3+
 2.28
 595
-13:00
+15:00
 Hradec Kralove
 Teplice
 825
 1
-1.84
+1.85
 X
 3.35
 2
 4.33
 0-2
-1.68
+1.65
 2+
-1.34
+1.35
 3+
-2.08
+2.12
 596
-13:00
+15:00
 Mlada Boleslav
 Karvina
 839
@@ -4009,25 +3339,25 @@ X
 3+
 1.50
 597
-13:00
+15:00
 Zlin
 FK Pardubice
 828
 1
 2.18
 X
-3.10
+3.15
 2
-3.45
+3.40
 0-2
-1.70
+1.75
 2+
-1.32
+1.31
 3+
-2.04
+2.02
 DENMARK, 3rd Division
 1242
-13:00
+15:00
 Nykobing
 Naesby
 659
@@ -4045,12 +3375,12 @@ X
 1.44
 ENGLAND, Premier League 2
 33318
-13:00
+15:00
 Chelsea U21
 Arsenal U21
 660
 1
-2.00
+1.99
 X
 4.00
 2
@@ -4063,7 +3393,7 @@ X
 1.24
 ETHIOPIA, Premier League
 33545
-13:00
+15:00
 Sidama Bunna
 Hawassa
 102
@@ -4081,7 +3411,7 @@ X
 2.80
 GERMANY, Oberliga Bayern Nord
 33441
-13:00
+15:00
 Coburg
 Weiden
 102
@@ -4098,7 +3428,7 @@ X
 3+
 1.32
 34382
-13:00
+15:00
 Fortuna Regensburg
 Ingolstadt II
 102
@@ -4116,7 +3446,7 @@ X
 1.43
 GERMANY, Oberliga Bayern Sud
 33445
-13:00
+15:00
 Gundelfingen
 Kirchanschoring
 102
@@ -4134,7 +3464,7 @@ X
 1.28
 ITALY, Primavera 1
 1010
-13:00
+15:00
 AS Roma U20
 Torino U20
 653
@@ -4151,7 +3481,7 @@ X
 3+
 1.44
 34377
-13:00
+15:00
 Napoli U20
 Monza U20
 657
@@ -4169,7 +3499,7 @@ X
 1.72
 ITALY, Primavera 2
 33428
-13:00
+15:00
 Vicenza U19
 Pro Vercelli U19
 656
@@ -4187,24 +3517,24 @@ X
 1.56
 ITALY, Serie B
 306
-13:00
+15:00
 Avellino
 Spezia
-920
+919
 1
-3.20
+3.25
 X
 2.95
 2
-2.38
+2.35
 0-2
 1.53
 2+
-1.44
+1.43
 3+
 2.38
 307
-13:00
+15:00
 Entella
 Pescara
 960
@@ -4221,7 +3551,7 @@ X
 3+
 2.18
 308
-13:00
+15:00
 Monza
 Reggiana
 961
@@ -4238,10 +3568,10 @@ X
 3+
 1.95
 309
-13:00
+15:00
 Sampdoria
 Frosinone
-964
+923
 1
 2.22
 X
@@ -4255,25 +3585,25 @@ X
 3+
 2.12
 310
-13:00
+15:00
 Sudtirol
 Cesena
-965
+925
 1
-3.00
+2.85
 X
 3.10
 2
-2.40
+2.50
 0-2
-1.67
+1.65
 2+
-1.34
+1.35
 3+
-2.10
+2.12
 KENYA, Premier League
 34363
-13:00
+15:00
 Leopards
 KCB
 637
@@ -4291,7 +3621,7 @@ X
 3.15
 LATVIA, 1. Liga
 33434
-13:00
+15:00
 Rigas 2
 Augsdaugavas
 644
@@ -4309,25 +3639,25 @@ X
 1.40
 LATVIA, Virsliga
 439
-13:00
+15:00
 FK Liepaja
 Jelgava
-833
+829
 1
-1.86
+1.88
 X
-3.45
+3.35
 2
 3.55
 0-2
-2.05
+1.93
 2+
-1.20
+1.23
 3+
-1.68
+1.77
 MALAYSIA, Super League
 34357
-13:00
+15:00
 Negeri Sembilan
 PDRM FC
 833
@@ -4345,7 +3675,7 @@ X
 1.56
 MALTA, Division 1
 33547
-13:00
+15:00
 Swieqi
 Vittoriosa
 647
@@ -4363,7 +3693,7 @@ X
 1.87
 NETHERLANDS, Tweede Divisie
 918
-13:00
+15:00
 Jong Sparta Rotterdam
 Kozakken Boys
 660
@@ -4380,7 +3710,7 @@ X
 3+
 1.36
 919
-13:00
+15:00
 Spakenburg
 AFC
 659
@@ -4398,7 +3728,7 @@ X
 1.56
 POLAND, III Liga - Group II
 1042
-13:00
+15:00
 Blekitni Stargard
 Nowe Skalmierzyce
 59
@@ -4415,7 +3745,7 @@ X
 3+
 1.51
 1043
-13:00
+15:00
 Swinoujscie
 Rewal
 57
@@ -4432,7 +3762,7 @@ X
 3+
 1.54
 1044
-13:00
+15:00
 Victoria Wrzesnia
 Unia Swarzedz
 59
@@ -4449,7 +3779,7 @@ X
 3+
 1.64
 1045
-13:00
+15:00
 WDA Swiecie
 Zawisza
 59
@@ -4467,24 +3797,24 @@ X
 1.59
 POLAND, III Liga - Group IV
 1025
-13:00
+15:00
 Cracovia Krakow II
 Wisla II
 59
 1
-1.51
+1.56
 X
-4.15
+4.05
 2
-4.40
+4.15
 0-2
-2.95
+2.90
 2+
 1.06
 3+
-1.31
+1.32
 1026
-13:00
+15:00
 Siarka Tarnobrzeg
 Stal Krasnik
 59
@@ -4502,7 +3832,7 @@ X
 1.49
 PORTUGAL, Liga Portugal 2
 563
-13:00
+15:00
 Pacos Ferreira
 Portimonense
 832
@@ -4520,16 +3850,16 @@ X
 2.02
 ROMANIA, Superliga
 585
-13:00
+15:00
 Otelul
 U. Cluj
 825
 1
-2.40
+2.35
 X
 3.00
 2
-2.95
+3.05
 0-2
 1.60
 2+
@@ -4538,7 +3868,7 @@ X
 2.22
 RUSSIA, FNL 2 - Division B - Group 1 - Promotion Group
 1343
-13:00
+15:00
 FC Sevastopol
 Rostov 2
 60
@@ -4556,7 +3886,7 @@ X
 1.85
 RWANDA, Premier League
 33540
-13:00
+15:00
 Bugesera
 Muhanga
 101
@@ -4573,7 +3903,7 @@ X
 3+
 2.22
 33541
-13:00
+15:00
 Etincelles
 Gorilla
 102
@@ -4590,7 +3920,7 @@ X
 3+
 3.05
 33542
-13:00
+15:00
 Mukura Victory Sports
 AS Kigali
 102
@@ -4607,7 +3937,7 @@ X
 3+
 3.50
 33543
-13:00
+15:00
 Musanze
 Rutsiro
 102
@@ -4624,7 +3954,7 @@ X
 3+
 2.85
 35131
-13:00
+15:00
 SC Kiyovu
 APR
 100
@@ -4642,7 +3972,7 @@ X
 2.40
 SAN MARINO, Campionato Sammarinese
 33380
-13:00
+15:00
 Folgore
 Pennarossa
 643
@@ -4659,7 +3989,7 @@ X
 3+
 1.63
 34370
-13:00
+15:00
 Murata
 Domagnano
 653
@@ -4676,7 +4006,7 @@ X
 3+
 2.00
 35095
-13:00
+15:00
 Libertas
 La Fiorita
 637
@@ -4694,25 +4024,25 @@ X
 1.51
 SLOVENIA, Prva Liga
 422
-13:00
+15:00
 Radomlje
 Koper
 835
 1
-4.10
+4.05
 X
 3.75
 2
 1.74
 0-2
-2.22
+2.25
 2+
-1.17
+1.16
 3+
-1.58
+1.56
 SLOVENIA, 2. SNL
 924
-13:00
+15:00
 Ilirija
 Dravinja
 656
@@ -4729,7 +4059,7 @@ X
 3+
 1.79
 925
-13:00
+15:00
 Jadran Dekani
 Triglav
 647
@@ -4746,7 +4076,7 @@ X
 3+
 1.56
 926
-13:00
+15:00
 NK Bistrica
 Beltinci
 656
@@ -4763,7 +4093,7 @@ X
 3+
 1.59
 927
-13:00
+15:00
 NK Jesenice
 Slovan Ljubljana
 657
@@ -4781,7 +4111,7 @@ X
 1.66
 SOUTH AFRICA, Carling Knockout
 33649
-13:00
+15:00
 Richards Bay
 Durban City
 829
@@ -4799,7 +4129,7 @@ X
 2.07
 SWEDEN, Allsvenskan
 297
-13:00
+15:00
 Djurgarden
 Varnamo
 987
@@ -4817,7 +4147,7 @@ X
 1.29
 SWEDEN, Superettan
 388
-13:00
+15:00
 Brage
 Helsingborg
 835
@@ -4834,7 +4164,7 @@ X
 3+
 1.61
 389
-13:00
+15:00
 Oddevold
 Ostersund
 831
@@ -4851,24 +4181,24 @@ X
 3+
 1.77
 390
-13:00
+15:00
 Sandviken
 Utsikten
 838
 1
-1.92
+1.94
 X
 3.65
 2
-3.40
+3.35
 0-2
-2.22
+2.25
 2+
 1.17
 3+
 1.58
 391
-13:00
+15:00
 Sundsvall
 Kalmar
 820
@@ -4886,7 +4216,7 @@ X
 1.97
 SWITZERLAND, 1.Liga Promotion
 33410
-13:00
+15:00
 Paradiso
 Kreuzlingen
 660
@@ -4904,25 +4234,25 @@ X
 1.45
 TURKEY, TFF 1. Lig
 291
-13:00
+15:00
 Pendikspor
 Serik Belediyespor
-825
+824
 1
-1.55
+1.54
 X
 3.85
 2
-5.40
+5.50
 0-2
-2.05
+2.02
 2+
-1.20
+1.21
 3+
-1.68
+1.72
 UGANDA, Premier League
 35090
-13:00
+15:00
 Gadaffi
 NEC FC Bugolobi
 102
@@ -4940,7 +4270,7 @@ X
 2.30
 URUGUAY, Segunda Division
 864
-13:00
+15:00
 Uruguay Montevideo
 Tacuarembo
 654
@@ -4958,16 +4288,16 @@ X
 2.30
 WALES, Cymru Premier
 476
-13:00
+15:00
 Connahs Q.
 Haverfordwest
-824
+823
 1
-1.44
+1.46
 X
-3.95
+3.90
 2
-6.10
+5.90
 0-2
 2.00
 2+
@@ -4976,7 +4306,7 @@ X
 1.72
 WORLD, AFC Challenge League
 33677
-13:00
+15:00
 Al Seeb
 Bashundara Kings
 651
@@ -4994,7 +4324,7 @@ X
 1.85
 WORLD, CAF Champions League - Qualification
 33378
-13:00
+15:00
 Orlando Pirates
 St Eloi Lupopo
 810
@@ -5012,42 +4342,42 @@ X
 1.56
 WORLD, Friendly Women
 751
-13:00
+15:00
 Wales Wom.
 Australia Wom.
-657
+658
 1
-3.10
-X
 3.40
+X
+3.50
 2
-2.03
+1.89
 0-2
-2.08
+2.10
 2+
 1.19
 3+
-1.66
+1.64
 ZAMBIA, Premier League
 1056
-13:00
+15:00
 Nkana
 Mufulira
 102
 1
-2.12
+2.15
 X
-2.70
+2.75
 2
-3.70
+3.55
 0-2
-1.31
+1.36
 2+
-1.64
+1.58
 3+
-3.10
+2.85
 1057
-13:00
+15:00
 Nkwazi
 Red Arrows
 102
@@ -5065,7 +4395,7 @@ X
 2.95
 BELARUS, Pershaya Liga
 34381
-13:15
+15:15
 Uni X Labs
 Minsk 2
 659
@@ -5083,7 +4413,7 @@ X
 1.50
 LEBANON, Premier League
 33550
-13:15
+15:15
 Jwaya FC
 Al-Mabarrah
 647
@@ -5101,7 +4431,7 @@ X
 2.05
 TANZANIA, Ligi Kuu Bara
 33407
-13:15
+15:15
 Fountain Gate
 Kinondoni MC
 103
@@ -5119,7 +4449,7 @@ X
 2.30
 GERMANY, Bundesliga
 92
-13:30
+15:30
 Augsburg
 RB Leipzig
 1073
@@ -5136,7 +4466,7 @@ X
 3+
 1.46
 93
-13:30
+15:30
 B. Monchengladbach
 Bayern Munich
 1038
@@ -5153,27 +4483,27 @@ X
 3+
 1.26
 94
-13:30
+15:30
 Eintracht Frankfurt
 St. Pauli
 1067
 1
-1.80
+1.78
 X
 4.30
 2
-4.25
+4.33
 0-2
 2.50
 2+
 1.16
 3+
-1.57
+1.56
 95
-13:30
+15:30
 Hamburger SV
 Wolfsburg
-1079
+1092
 1
 2.22
 X
@@ -5187,16 +4517,16 @@ X
 3+
 1.56
 96
-13:30
+15:30
 Hoffenheim
 Heidenheim
 1070
 1
-1.62
+1.63
 X
 4.20
 2
-5.10
+5.00
 0-2
 2.65
 2+
@@ -5205,7 +4535,7 @@ X
 1.48
 AUSTRIA, Regionalliga East
 33329
-13:30
+15:30
 Wiener Viktoria
 TWL Elektra
 650
@@ -5223,7 +4553,7 @@ X
 1.35
 AUSTRIA, Tirol
 33630
-13:30
+15:30
 Innsbrucker AC
 Telfs
 59
@@ -5241,7 +4571,7 @@ X
 1.38
 FAROE ISLAND, Premier League
 471
-13:30
+15:30
 07 Vestur Sorvagur
 Streymur
 659
@@ -5258,7 +4588,7 @@ X
 3+
 1.45
 472
-13:30
+15:30
 B36 Torshavn
 FC Suduroy
 647
@@ -5275,7 +4605,7 @@ X
 3+
 1.24
 473
-13:30
+15:30
 NSI Runavik
 Klaksvik
 660
@@ -5292,7 +4622,7 @@ X
 3+
 1.44
 474
-13:30
+15:30
 Vikingur
 HB Torshavn
 658
@@ -5309,7 +4639,7 @@ X
 3+
 1.58
 33351
-13:30
+15:30
 TB Tvoroyri
 Toftir
 659
@@ -5327,7 +4657,7 @@ X
 1.35
 GERMANY, Oberliga Rheinland-Pfalz/Saar
 33446
-13:30
+15:30
 Diefflen
 Dudenhofen
 102
@@ -5344,7 +4674,7 @@ X
 3+
 1.31
 33447
-13:30
+15:30
 Eppelborn
 Emmelshausen-Karbach
 100
@@ -5361,7 +4691,7 @@ X
 3+
 1.30
 33448
-13:30
+15:30
 Kaiserslautern II
 Engers
 102
@@ -5378,7 +4708,7 @@ X
 3+
 1.30
 34386
-13:30
+15:30
 Auersmacher
 TSV 1881 Gau-Odernheim
 102
@@ -5396,7 +4726,7 @@ X
 1.44
 GERMANY, Regionalliga North
 687
-13:30
+15:30
 Hamburger SV II
 St. Pauli II
 842
@@ -5414,25 +4744,25 @@ X
 1.32
 IRAN, Persian Gulf Pro League
 722
-13:30
+15:30
 Gol Gohar
 Tractor
-636
+639
 1
-3.70
+3.60
 X
-2.55
+2.62
 2
 2.22
 0-2
-1.24
+1.27
 2+
-1.73
+1.67
 3+
-3.40
+3.20
 NETHERLANDS, Tweede Divisie
 920
-13:30
+15:30
 Katwijk
 Barendrecht
 660
@@ -5450,7 +4780,7 @@ X
 1.46
 RUSSIA, Premier League
 219
-13:30
+15:30
 FK Rostov
 Dynamo Makhachkala
 815
@@ -5468,10 +4798,10 @@ X
 2.35
 SLOVAKIA, Nike liga
 408
-13:30
+15:30
 AS Trencin
 Komarno
-833
+832
 1
 2.25
 X
@@ -5479,22 +4809,22 @@ X
 2
 2.95
 0-2
-1.95
+1.93
 2+
-1.23
+1.24
 3+
-1.77
+1.79
 409
-13:30
+15:30
 Michalovce
 Dun. Streda
 834
 1
-4.05
+3.95
 X
 3.65
 2
-1.76
+1.78
 0-2
 2.15
 2+
@@ -5502,7 +4832,7 @@ X
 3+
 1.61
 410
-13:30
+15:30
 Zilina
 Skalica
 829
@@ -5520,7 +4850,7 @@ X
 1.64
 SOUTH AFRICA, Motsepe Foundation Championship
 33372
-13:30
+15:30
 Cape Town City
 The Bees
 103
@@ -5537,7 +4867,7 @@ X
 3+
 2.02
 33373
-13:30
+15:30
 Pretoria U.
 Upington City
 101
@@ -5554,7 +4884,7 @@ X
 3+
 2.88
 35091
-13:30
+15:30
 Hungry Lions
 Baroka
 102
@@ -5572,7 +4902,7 @@ X
 2.45
 SPAIN, Tercera Division - Group 4
 33469
-13:30
+15:30
 Zamudio
 Derio
 653
@@ -5590,7 +4920,7 @@ X
 1.99
 SWITZERLAND, 1.Liga Promotion
 33411
-13:30
+15:30
 Basel II
 Cham
 660
@@ -5608,7 +4938,7 @@ X
 1.36
 TUNISIA, Ligue 1
 33293
-13:30
+15:30
 Metlaoui
 Gabes
 639
@@ -5625,7 +4955,7 @@ X
 3+
 2.85
 35045
-13:30
+15:30
 JS Kairouan
 Club Africain
 640
@@ -5643,7 +4973,7 @@ X
 2.62
 TUNISIA, Ligue 2
 33553
-13:30
+15:30
 Hammam-Sousse
 BS Bouhajla
 648
@@ -5660,7 +4990,7 @@ X
 3+
 2.28
 33554
-13:30
+15:30
 OC Kerkennah
 AS Agareb
 646
@@ -5677,7 +5007,7 @@ X
 3+
 2.40
 33555
-13:30
+15:30
 US Tataouine
 Megrine
 647
@@ -5695,7 +5025,7 @@ X
 2.40
 WALES, Cymru North
 33557
-13:30
+15:30
 Brickfield
 Gresford
 660
@@ -5712,7 +5042,7 @@ X
 3+
 1.39
 33558
-13:30
+15:30
 Caersws FC
 Guilsfield
 659
@@ -5729,7 +5059,7 @@ X
 3+
 1.41
 33559
-13:30
+15:30
 Mold Alexandra
 Holywell
 657
@@ -5746,7 +5076,7 @@ X
 3+
 1.40
 33560
-13:30
+15:30
 Newtown
 Holyhead
 651
@@ -5763,7 +5093,7 @@ X
 3+
 1.28
 33561
-13:30
+15:30
 Penrhyncoch
 Flint Mountain
 660
@@ -5781,7 +5111,7 @@ X
 1.41
 WALES, Cymru Premier
 477
-13:30
+15:30
 Bala
 Barry
 832
@@ -5790,7 +5120,7 @@ Barry
 X
 3.15
 2
-2.18
+2.15
 0-2
 1.80
 2+
@@ -5798,7 +5128,7 @@ X
 3+
 1.87
 478
-13:30
+15:30
 Briton Ferry
 Colwyn Bay
 834
@@ -5815,7 +5145,7 @@ X
 3+
 1.56
 479
-13:30
+15:30
 Penybont
 Caernarfon
 836
@@ -5833,7 +5163,7 @@ X
 1.56
 WALES, Cymru South
 33562
-13:30
+15:30
 Cardiff Draconians
 Trethomas Bluebirds
 657
@@ -5850,7 +5180,7 @@ X
 3+
 1.66
 33563
-13:30
+15:30
 Llantwit Major
 Ynyshir Albions
 653
@@ -5867,7 +5197,7 @@ X
 3+
 1.64
 35135
-13:30
+15:30
 Aberystwyth
 Newport City
 657
@@ -5885,7 +5215,7 @@ X
 1.68
 WORLD, CAF Confederation Cup - Qualification
 1321
-13:30
+15:30
 USM Alger
 Academie de FAD
 808
@@ -5903,7 +5233,7 @@ X
 2.05
 CROATIA, HNL
 130
-13:45
+15:45
 Lok. Zagreb
 Istra 1961
 828
@@ -5921,7 +5251,7 @@ X
 2.07
 MALTA, Premier League - First stage - Main
 33684
-13:45
+15:45
 Valletta
 Hibernians
 651
@@ -5939,16 +5269,16 @@ X
 1.87
 ENGLAND, Premier League
 77
-14:00
+16:00
 Chelsea
 Sunderland
-1066
+985
 1
 1.44
 X
-4.45
+4.40
 2
-7.70
+7.60
 0-2
 2.08
 2+
@@ -5956,25 +5286,25 @@ X
 3+
 1.77
 78
-14:00
+16:00
 Newcastle
 Fulham
-985
+1068
 1
 1.65
 X
-3.85
+3.80
 2
 5.50
 0-2
-1.92
-2+
-1.29
-3+
 1.90
+2+
+1.30
+3+
+1.92
 ALGERIA, Ligue 1
 625
-14:00
+16:00
 El Bayadh
 Oran
 807
@@ -5992,7 +5322,7 @@ X
 2.95
 ALGERIA, Division 2
 33356
-14:00
+16:00
 Annaba
 MSP Batna
 644
@@ -6009,7 +5339,7 @@ X
 3+
 2.30
 33357
-14:00
+16:00
 Arba
 RC Kouba
 645
@@ -6026,7 +5356,7 @@ X
 3+
 2.45
 33358
-14:00
+16:00
 Bechar Djedid
 GC Mascara
 642
@@ -6043,7 +5373,7 @@ X
 3+
 2.40
 33359
-14:00
+16:00
 Beni Oulbane
 Biskra
 644
@@ -6060,7 +5390,7 @@ X
 3+
 2.62
 33360
-14:00
+16:00
 Bordj Menail
 Khemis El Khechna
 646
@@ -6077,24 +5407,24 @@ X
 3+
 2.02
 33361
-14:00
+16:00
 CA Batna
 Chelghoum
-641
+640
 1
-1.24
+1.25
 X
-4.50
+4.40
 2
 12.0
 0-2
-1.67
+1.65
 2+
-1.30
+1.31
 3+
-2.00
+2.04
 33362
-14:00
+16:00
 El Biar
 Tixeraine
 640
@@ -6111,7 +5441,7 @@ X
 3+
 1.97
 33363
-14:00
+16:00
 Hussein Dey
 Harrach
 641
@@ -6128,7 +5458,7 @@ X
 3+
 2.85
 33364
-14:00
+16:00
 JSM Tiaret
 ASM Oran
 642
@@ -6145,7 +5475,7 @@ X
 3+
 2.50
 33365
-14:00
+16:00
 Kolea
 WA Mostaganem
 651
@@ -6162,7 +5492,7 @@ X
 3+
 2.15
 33366
-14:00
+16:00
 MO Bejaia
 Djijel
 644
@@ -6179,7 +5509,7 @@ X
 3+
 2.22
 33367
-14:00
+16:00
 Magra
 CR Beni Thour
 644
@@ -6196,7 +5526,7 @@ X
 3+
 1.77
 33368
-14:00
+16:00
 Telaghema
 US Chaouia
 652
@@ -6213,7 +5543,7 @@ X
 3+
 2.35
 33369
-14:00
+16:00
 Temouchent
 Adrar
 639
@@ -6230,7 +5560,7 @@ X
 3+
 2.18
 33370
-14:00
+16:00
 Tlemcen
 Saida
 644
@@ -6248,7 +5578,7 @@ X
 2.50
 AUSTRIA, Regionalliga East
 35073
-14:00
+16:00
 Retz
 Leobendorf
 650
@@ -6266,7 +5596,7 @@ X
 1.49
 AUSTRIA, Regionalliga West
 33334
-14:00
+16:00
 Lauterach
 Schwaz
 659
@@ -6284,7 +5614,7 @@ X
 1.45
 AUSTRIA, Wien
 33633
-14:00
+16:00
 First Vienna (Am)
 Wienerberger
 59
@@ -6301,7 +5631,7 @@ X
 3+
 1.47
 33634
-14:00
+16:00
 Stadlau
 Schwechat
 59
@@ -6319,7 +5649,7 @@ X
 1.61
 BELGIUM, 1B Pro League
 519
-14:00
+16:00
 Club Brugge KV U23
 OC Charleroi
 836
@@ -6337,7 +5667,7 @@ X
 1.61
 BELGIUM, Jupiler Pro League
 482
-14:00
+16:00
 Westerlo
 Dender
 933
@@ -6355,7 +5685,7 @@ X
 1.59
 BOSNIA AND HERZEGOVINA, Premijer Liga BiH
 603
-14:00
+16:00
 Prijedor
 Zeljeznicar
 822
@@ -6373,7 +5703,7 @@ X
 2.30
 BOTSWANA, Premier League
 33625
-14:00
+16:00
 BDF XI
 Orapa United
 102
@@ -6391,7 +5721,7 @@ X
 2.62
 BRAZIL, Campeonato Carioca U20 - Taca Guanabara - Play Offs
 34445
-14:00
+16:00
 Flamengo U20
 Marica U20
 59
@@ -6408,7 +5738,7 @@ X
 3+
 1.54
 34446
-14:00
+16:00
 Fluminense U20
 Volta Redonda U20
 59
@@ -6426,7 +5756,7 @@ X
 1.66
 CYPRUS, Cyprus League
 315
-14:00
+16:00
 Achnas
 Paralimni
 825
@@ -6444,7 +5774,7 @@ X
 2.00
 EGYPT, Premier League
 763
-14:00
+16:00
 Haras El Hodood
 Ghazl El Mahallah
 642
@@ -6462,7 +5792,7 @@ X
 3.10
 ENGLAND, Championship
 31
-14:00
+16:00
 Blackburn
 Southampton
 987
@@ -6479,27 +5809,27 @@ X
 3+
 2.18
 32
-14:00
+16:00
 Bristol City
 Birmingham
-925
+991
 1
 2.20
 X
 3.15
 2
-3.60
+3.55
 0-2
 1.75
 2+
-1.36
+1.37
 3+
 2.12
 33
-14:00
+16:00
 Derby
 QPR
-995
+926
 1
 2.85
 X
@@ -6513,10 +5843,10 @@ X
 3+
 2.18
 34
-14:00
+16:00
 Hull
 Charlton
-995
+929
 1
 2.50
 X
@@ -6530,16 +5860,16 @@ X
 3+
 2.04
 35
-14:00
+16:00
 Middlesbrough
 Wrexham
 1000
 1
-1.79
+1.76
 X
-3.45
+3.50
 2
-4.90
+5.10
 0-2
 1.85
 2+
@@ -6547,16 +5877,16 @@ X
 3+
 1.97
 36
-14:00
+16:00
 Millwall
 Leicester
-947
+988
 1
-2.88
+2.80
 X
 3.15
 2
-2.60
+2.65
 0-2
 1.70
 2+
@@ -6564,10 +5894,10 @@ X
 3+
 2.18
 37
-14:00
+16:00
 Sheffield Wed
 Oxford Utd
-995
+926
 1
 2.80
 X
@@ -6581,7 +5911,7 @@ X
 3+
 2.04
 38
-14:00
+16:00
 Swansea
 Norwich
 1001
@@ -6599,7 +5929,7 @@ X
 1.90
 ENGLAND, League One
 185
-14:00
+16:00
 AFC Wimbledon
 Burton
 820
@@ -6616,12 +5946,12 @@ X
 3+
 2.38
 186
-14:00
+16:00
 Barnsley
 Rotherham
 836
 1
-1.85
+1.86
 X
 3.75
 2
@@ -6633,7 +5963,7 @@ X
 3+
 1.64
 187
-14:00
+16:00
 Leyton Orient
 Lincoln
 834
@@ -6650,7 +5980,7 @@ X
 3+
 1.90
 188
-14:00
+16:00
 Northampton
 Luton
 823
@@ -6667,7 +5997,7 @@ X
 3+
 2.25
 189
-14:00
+16:00
 Peterborough
 Blackpool
 833
@@ -6684,7 +6014,7 @@ X
 3+
 1.77
 190
-14:00
+16:00
 Reading
 Doncaster
 833
@@ -6701,7 +6031,7 @@ X
 3+
 1.82
 191
-14:00
+16:00
 Stevenage
 Bradford
 831
@@ -6718,7 +6048,7 @@ X
 3+
 2.07
 192
-14:00
+16:00
 Wycombe
 Huddersfield
 831
@@ -6736,7 +6066,7 @@ X
 1.87
 ENGLAND, League Two
 196
-14:00
+16:00
 Barrow
 Barnet
 828
@@ -6753,7 +6083,7 @@ X
 3+
 1.97
 197
-14:00
+16:00
 Bromley
 MK Dons
 834
@@ -6770,7 +6100,7 @@ X
 3+
 1.90
 198
-14:00
+16:00
 Crawley
 Bristol Rovers
 834
@@ -6787,7 +6117,7 @@ X
 3+
 1.77
 199
-14:00
+16:00
 Crewe
 Grimsby
 833
@@ -6804,7 +6134,7 @@ X
 3+
 1.87
 200
-14:00
+16:00
 Gillingham
 Salford
 835
@@ -6821,7 +6151,7 @@ X
 3+
 1.87
 201
-14:00
+16:00
 Harrogate
 Newport Co
 828
@@ -6838,7 +6168,7 @@ X
 3+
 1.97
 202
-14:00
+16:00
 Notts Co
 Cambridge Utd
 825
@@ -6855,10 +6185,10 @@ X
 3+
 2.22
 203
-14:00
+16:00
 Oldham
 Shrewsbury
-820
+822
 1
 2.18
 X
@@ -6868,11 +6198,11 @@ X
 0-2
 1.55
 2+
-1.42
+1.41
 3+
 2.30
 204
-14:00
+16:00
 Swindon
 Colchester
 836
@@ -6889,7 +6219,7 @@ X
 3+
 1.61
 205
-14:00
+16:00
 Tranmere
 Chesterfield
 835
@@ -6907,7 +6237,7 @@ X
 1.82
 ENGLAND, FA Trophy
 950
-14:00
+16:00
 AFC Sudbury
 Leiston
 836
@@ -6924,7 +6254,7 @@ X
 3+
 1.58
 951
-14:00
+16:00
 Alvechurch
 Worcester City
 821
@@ -6941,7 +6271,7 @@ X
 3+
 2.25
 952
-14:00
+16:00
 Anstey Nomads
 Stratford
 837
@@ -6958,7 +6288,7 @@ X
 3+
 1.61
 953
-14:00
+16:00
 Basingstoke
 Dorchester
 836
@@ -6975,7 +6305,7 @@ X
 3+
 1.59
 954
-14:00
+16:00
 Billericay
 Bishop's Stortford
 832
@@ -6992,7 +6322,7 @@ X
 3+
 1.72
 955
-14:00
+16:00
 Bracknell
 Banbury
 837
@@ -7009,7 +6339,7 @@ X
 3+
 1.53
 956
-14:00
+16:00
 Bradford PA
 Morpeth
 831
@@ -7026,7 +6356,7 @@ X
 3+
 1.77
 957
-14:00
+16:00
 Brentwood
 Welling
 837
@@ -7042,21 +6372,327 @@ X
 1.15
 3+
 1.54
+958
+16:00
+FC United
+Bamber Bridge
+832
+1
+1.85
+X
+3.50
+2
+3.80
+0-2
+2.02
+2+
+1.21
+3+
+1.72
+959
+16:00
+Hyde
+Stocksbridge
+837
+1
+2.10
+X
+3.55
+2
+3.05
+0-2
+2.25
+2+
+1.16
+3+
+1.56
+960
+16:00
+Ilkeston
+St Ives
+836
+1
+2.10
+X
+3.50
+2
+3.05
+0-2
+2.18
+2+
+1.18
+3+
+1.61
+961
+16:00
+Leatherhead
+Canvey
+833
+1
+1.95
+X
+3.45
+2
+3.45
+0-2
+2.05
+2+
+1.21
+3+
+1.69
+962
+16:00
+Leek Town
+Bromsgrove
+837
+1
+1.79
+X
+3.75
+2
+3.80
+0-2
+2.35
+2+
+1.15
+3+
+1.51
+963
+16:00
+Plymouth Parkway
+Poole
+839
+1
+2.38
+X
+3.65
+2
+2.55
+0-2
+2.50
+2+
+1.12
+3+
+1.46
+964
+16:00
+Prescot Cables
+Guiseley
+825
+1
+2.50
+X
+3.05
+2
+2.80
+0-2
+1.57
+2+
+1.40
+3+
+2.28
+965
+16:00
+Real Bedford
+Ashford U.
+835
+1
+1.39
+X
+4.70
+2
+6.30
+0-2
+2.50
+2+
+1.13
+3+
+1.46
+966
+16:00
+St. Albans
+Hanwell Town
+837
+1
+1.77
+X
+3.75
+2
+3.90
+0-2
+2.35
+2+
+1.15
+3+
+1.53
+967
+16:00
+Stanway Rovers
+Harrow Borough
+841
+1
+2.07
+X
+3.75
+2
+2.95
+0-2
+2.70
+2+
+1.10
+3+
+1.40
+968
+16:00
+Tilbury
+Hadley
+837
+1
+2.08
+X
+3.55
+2
+3.05
+0-2
+2.30
+2+
+1.16
+3+
+1.56
+969
+16:00
+Waltham Abbey
+Chatham Town
+834
+1
+4.00
+X
+3.65
+2
+1.78
+0-2
+2.15
+2+
+1.18
+3+
+1.61
+970
+16:00
+Walton & Hersham
+Hendon
+833
+1
+1.29
+X
+5.35
+2
+7.75
+0-2
+3.20
+2+
+1.06
+3+
+1.30
+971
+16:00
+Wimborne
+AFC Portchester
+841
+1
+1.53
+X
+4.35
+2
+4.85
+0-2
+2.80
+2+
+1.09
+3+
+1.38
+972
+16:00
+Wingate & Finchley
+Cheshunt
+836
+1
+1.84
+X
+3.70
+2
+3.65
+0-2
+2.22
+2+
+1.17
+3+
+1.58
+33381
+16:00
+Burgess Hill Town
+Folkestone
+832
+1
+2.18
+X
+3.35
+2
+3.00
+0-2
+1.85
+2+
+1.26
+3+
+1.87
+33382
+16:00
+Clitheroe
+Stockton Town
+828
+1
+3.85
+X
+4.25
+2
+1.68
+0-2
+1.93
+2+
+1.22
+3+
+1.75
+33383
+16:00
+Farnham
+Bishops Cleeve
+839
+1
+1.67
+X
+4.15
+2
+4.00
+0-2
+2.55
+2+
+1.12
+3+
+1.44
 Odigrani tiketi
-33629
-Thalgau - TSU Bramberg
-25.10. 11:30
+33608
+Kukesi - AF Luftetari
+25.10. 14:00
 KONAČAN ISHOD 
 1
-  2.95  
+  2.75  
 Običan
 Sistem
 Kvota:
-2.95
+2.75
 Uplata:
 20.00 RSD
 Dobitak:
-59.00 RSD
+55.00 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express

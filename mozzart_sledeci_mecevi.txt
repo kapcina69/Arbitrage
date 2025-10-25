@@ -21,7 +21,7 @@ Pomoć?
 
 A +/-
 
-11:03:49 | 25.10.2025.
+13:35:50 | 25.10.2025.
 Pretraga
 
 Danas
@@ -74,7 +74,7 @@ X2
 2+
 0-2
 3+
-04.11. Uto 17:45
+04.11. Uto 18:45
 
 Napoli
 
@@ -91,7 +91,7 @@ Eintr.Frankfurt
 1.18
 2.29
 1.55
-04.11. Uto 17:45
+04.11. Uto 18:45
 
 Slavia Praha
 
@@ -108,7 +108,7 @@ Arsenal
 1.22
 2.11
 1.65
-04.11. Uto 20:00
+04.11. Uto 21:00
 
 Atl.Madrid
 
@@ -125,7 +125,7 @@ St.Gilloise
 1.17
 2.41
 1.50
-04.11. Uto 20:00
+04.11. Uto 21:00
 
 Tottenham
 
@@ -142,7 +142,7 @@ Copenhagen
 1.22
 2.03
 1.70
-04.11. Uto 20:00
+04.11. Uto 21:00
 
 Olympiakos
 
@@ -159,7 +159,7 @@ PSV
 1.23
 2.03
 1.70
-04.11. Uto 20:00
+04.11. Uto 21:00
 
 Juventus
 
@@ -176,7 +176,7 @@ Sporting
 1.25
 1.96
 1.75
-04.11. Uto 20:00
+04.11. Uto 21:00
 
 Bodo
 
@@ -193,7 +193,7 @@ Monaco
 1.18
 2.29
 1.55
-04.11. Uto 20:00
+04.11. Uto 21:00
 
 PSG
 
@@ -210,7 +210,7 @@ Bayern
 1.10
 2.70
 1.40
-04.11. Uto 20:00
+04.11. Uto 21:00
 
 Liverpool
 
@@ -227,7 +227,7 @@ Real Madrid
 1.17
 2.41
 1.50
-05.11. Sre 17:45
+05.11. Sre 18:45
 
 Qarabag
 
@@ -244,7 +244,7 @@ Chelsea
 1.18
 2.29
 1.55
-05.11. Sre 17:45
+05.11. Sre 18:45
 
 Paphos
 
@@ -261,7 +261,7 @@ Villareal
 1.22
 2.11
 1.65
-05.11. Sre 20:00
+05.11. Sre 21:00
 
 Man.City
 
@@ -278,7 +278,7 @@ Dortmund
 1.15
 2.55
 1.45
-05.11. Sre 20:00
+05.11. Sre 21:00
 
 Benfica
 
@@ -295,7 +295,7 @@ Leverkusen
 1.23
 2.03
 1.70
-05.11. Sre 20:00
+05.11. Sre 21:00
 
 Club Brugge
 
@@ -312,7 +312,7 @@ Barcelona
 1.08
 2.90
 1.35
-05.11. Sre 20:00
+05.11. Sre 21:00
 
 Newcastle
 
@@ -329,7 +329,7 @@ Ath.Bilbao
 1.27
 1.85
 1.85
-05.11. Sre 20:00
+05.11. Sre 21:00
 
 Olympique Marseille
 
@@ -346,7 +346,7 @@ Atalanta
 1.20
 2.19
 1.60
-05.11. Sre 20:00
+05.11. Sre 21:00
 
 Ajax
 
@@ -363,7 +363,7 @@ Galatasaray
 1.10
 2.70
 1.40
-05.11. Sre 20:00
+05.11. Sre 21:00
 
 Inter
 
@@ -390,7 +390,7 @@ X2
 2+
 0-2
 3+
-06.11. Čet 17:45
+06.11. Čet 18:45
 
 Basel
 
@@ -407,7 +407,7 @@ FCSB
 1.28
 1.85
 1.85
-06.11. Čet 17:45
+06.11. Čet 18:45
 
 Crvena Zvezda
 
@@ -424,7 +424,7 @@ Lille
 1.28
 1.85
 1.85
-06.11. Čet 17:45
+06.11. Čet 18:45
 
 Dinamo Zagreb
 
@@ -441,7 +441,7 @@ Celta
 1.30
 1.76
 1.95
-06.11. Čet 17:45
+06.11. Čet 18:45
 
 Malmo
 
@@ -458,7 +458,7 @@ Panathinaikos
 1.33
 1.72
 2.00
-06.11. Čet 17:45
+06.11. Čet 18:45
 
 Midtjylland
 
@@ -475,7 +475,7 @@ Celtic
 1.23
 2.03
 1.70
-06.11. Čet 17:45
+06.11. Čet 18:45
 
 Nice
 
@@ -492,7 +492,7 @@ Freiburg
 1.27
 1.90
 1.80
-06.11. Čet 17:45
+06.11. Čet 18:45
 
 Salzburg
 
@@ -509,7 +509,7 @@ Go Ahead
 1.22
 2.11
 1.65
-06.11. Čet 17:45
+06.11. Čet 18:45
 
 Sturm
 
@@ -526,7 +526,7 @@ Nott.Forest
 1.27
 1.90
 1.80
-06.11. Čet 17:45
+06.11. Čet 18:45
 
 Utrecht
 
@@ -543,7 +543,7 @@ Porto
 1.23
 2.03
 1.70
-06.11. Čet 20:00
+06.11. Čet 21:00
 
 Betis
 
@@ -560,7 +560,7 @@ Olympique Lyon
 1.27
 1.90
 1.80
-06.11. Čet 20:00
+06.11. Čet 21:00
 
 Bologna
 
@@ -577,7 +577,7 @@ Brann
 1.20
 2.19
 1.60
-06.11. Čet 20:00
+06.11. Čet 21:00
 
 Braga
 
@@ -594,7 +594,7 @@ Genk
 1.23
 2.03
 1.70
-06.11. Čet 20:00
+06.11. Čet 21:00
 
 Ferencvaros
 
@@ -611,7 +611,7 @@ Ludogorets
 1.30
 1.76
 1.95
-06.11. Čet 20:00
+06.11. Čet 21:00
 
 PAOK
 
@@ -628,7 +628,7 @@ Young Boys
 1.23
 2.03
 1.70
-06.11. Čet 20:00
+06.11. Čet 21:00
 
 Plzen
 
@@ -645,7 +645,7 @@ Fenerbahce
 1.30
 1.76
 1.95
-06.11. Čet 20:00
+06.11. Čet 21:00
 
 Rangers
 
@@ -662,7 +662,7 @@ Roma
 1.35
 1.69
 2.05
-06.11. Čet 20:00
+06.11. Čet 21:00
 
 Stuttgart
 
@@ -679,7 +679,7 @@ Feyenoord
 1.23
 2.03
 1.70
-06.11. Čet 20:00
+06.11. Čet 21:00
 
 Aston Villa
 
@@ -706,7 +706,7 @@ X2
 2+
 0-2
 3+
-Sub 14:00
+Sub 16:00
 
 Chelsea
 
@@ -723,7 +723,7 @@ Sunderland
 1.23
 2.08
 1.79
-Sub 14:00
+Sub 16:00
 
 Newcastle
 
@@ -740,7 +740,7 @@ Fulham
 1.28
 1.95
 1.89
-Sub 16:30
+Sub 18:30
 
 Man.Utd.
 
@@ -757,7 +757,7 @@ Brighton
 1.18
 2.45
 1.58
-Sub 19:00
+Sub 21:00
 
 Brentford
 
@@ -774,7 +774,7 @@ Liverpool
 1.18
 2.45
 1.58
-Ned 14:00
+Ned 15:00
 
 Bournemouth
 
@@ -791,7 +791,7 @@ Nott.Forest
 1.28
 1.95
 1.89
-Ned 14:00
+Ned 15:00
 
 Wolverhampton
 
@@ -808,7 +808,7 @@ Burnley
 1.45
 1.62
 2.35
-Ned 14:00
+Ned 15:00
 
 Arsenal
 
@@ -816,16 +816,16 @@ Crystal Palace
 
 +523
 
-1.40
-4.60
-8.00
+1.38
+4.70
+8.50
 1.07
 1.19
-2.90
+3.00
 1.23
 1.96
 1.79
-Ned 14:00
+Ned 15:00
 
 Aston Villa
 
@@ -842,7 +842,7 @@ Man.City
 1.25
 2.08
 1.79
-Ned 16:30
+Ned 17:30
 
 Everton
 
@@ -869,7 +869,7 @@ X2
 2+
 0-2
 3+
-Uto 19:45
+Uto 20:45
 
 Grimsby
 
@@ -886,7 +886,7 @@ Brentford
 1.17
 2.41
 1.50
-Uto 19:45
+Uto 20:45
 
 Wycombe
 
@@ -903,7 +903,7 @@ Fulham
 1.22
 2.03
 1.70
-Uto 20:00
+Uto 21:00
 
 Wrexham
 
@@ -920,7 +920,7 @@ Cardiff
 1.29
 1.80
 1.90
-Sre 19:45
+Sre 20:45
 
 Wolverhampton
 
@@ -937,7 +937,7 @@ Chelsea
 1.18
 2.29
 1.55
-Sre 19:45
+Sre 20:45
 
 Liverpool
 
@@ -954,7 +954,7 @@ Crystal Palace
 1.18
 2.29
 1.55
-Sre 19:45
+Sre 20:45
 
 Swansea
 
@@ -971,7 +971,7 @@ Man.City
 1.15
 2.55
 1.45
-Sre 19:45
+Sre 20:45
 
 Arsenal
 
@@ -988,7 +988,7 @@ Brighton
 1.18
 2.29
 1.55
-Sre 20:00
+Sre 21:00
 
 Newcastle
 
@@ -1015,7 +1015,7 @@ X2
 2+
 0-2
 3+
-Sub 12:00
+Sub 14:00
 
 Girona
 
@@ -1024,15 +1024,15 @@ Oviedo
 +523
 
 1.80
-3.65
-5.05
-1.21
+3.60
+5.10
+1.20
 1.33
-2.12
+2.11
 1.33
 1.81
 2.04
-Sub 14:15
+Sub 16:15
 
 Espanyol
 
@@ -1049,7 +1049,7 @@ Elche
 1.35
 1.77
 2.09
-Sub 16:30
+Sub 18:30
 
 Ath.Bilbao
 
@@ -1066,7 +1066,7 @@ Getafe
 1.60
 1.47
 2.75
-Sub 19:00
+Sub 21:00
 
 Valencia
 
@@ -1083,7 +1083,7 @@ Villareal
 1.27
 2.01
 1.84
-Ned 13:00
+Ned 14:00
 
 Mallorca
 
@@ -1100,7 +1100,7 @@ Levante
 1.38
 1.62
 2.19
-Ned 15:15
+Ned 16:15
 
 Real Madrid
 
@@ -1109,15 +1109,15 @@ Barcelona
 +523
 
 2.00
-4.30
+4.35
 3.40
 1.37
 1.26
-1.90
+1.91
 1.07
 3.50
 1.33
-Ned 17:30
+Ned 18:30
 
 Osasuna
 
@@ -1125,16 +1125,16 @@ Celta
 
 +523
 
-2.45
-3.30
-3.20
+2.50
+3.25
+3.15
 1.41
 1.39
-1.62
+1.60
 1.40
 1.67
 2.24
-Ned 20:00
+Ned 21:00
 
 Rayo Vallecano
 
@@ -1151,7 +1151,7 @@ Alaves
 1.55
 1.53
 2.55
-Pon 20:00
+Pon 21:00
 
 Betis
 
@@ -1178,7 +1178,7 @@ X2
 2+
 0-2
 3+
-Sub 13:00
+Sub 15:00
 
 Parma
 
@@ -1195,7 +1195,7 @@ Como
 1.38
 1.70
 2.19
-Sub 13:00
+Sub 15:00
 
 Udinese
 
@@ -1204,15 +1204,15 @@ Lecce
 +523
 
 2.00
-3.45
-4.30
+3.50
+4.20
 1.27
-1.37
+1.35
 1.91
-1.45
-1.62
-2.35
-Sub 16:00
+1.40
+1.67
+2.24
+Sub 18:00
 
 Napoli
 
@@ -1229,7 +1229,7 @@ Inter
 1.29
 1.90
 1.94
-Sub 18:45
+Sub 20:45
 
 Cremonese
 
@@ -1237,16 +1237,16 @@ Atalanta
 
 +523
 
-5.70
-3.90
-1.68
-2.32
-1.30
+6.00
+4.00
+1.65
+2.40
+1.29
 1.17
 1.27
 2.01
 1.84
-Ned 11:30
+Ned 12:30
 
 Torino
 
@@ -1263,7 +1263,7 @@ Genoa
 1.60
 1.41
 2.75
-Ned 14:00
+Ned 15:00
 
 Sassuolo
 
@@ -1280,7 +1280,7 @@ Roma
 1.35
 1.77
 2.09
-Ned 14:00
+Ned 15:00
 
 Verona
 
@@ -1297,7 +1297,7 @@ Cagliari
 1.55
 1.53
 2.55
-Ned 17:00
+Ned 18:00
 
 Fiorentina
 
@@ -1314,7 +1314,7 @@ Bologna
 1.45
 1.62
 2.35
-Ned 19:45
+Ned 20:45
 
 Lazio
 
@@ -1331,7 +1331,7 @@ Juventus
 1.40
 1.67
 2.24
-Uto 17:30
+Uto 18:30
 
 Lecce
 
@@ -1348,7 +1348,7 @@ Napoli
 1.30
 1.72
 2.00
-Uto 19:45
+Uto 20:45
 
 Atalanta
 
@@ -1365,7 +1365,7 @@ Milan
 1.27
 1.90
 1.80
-Sre 17:30
+Sre 18:30
 
 Como
 
@@ -1382,7 +1382,7 @@ Verona
 1.38
 1.62
 2.15
-Sre 17:30
+Sre 18:30
 
 Roma
 
@@ -1399,7 +1399,7 @@ Parma
 1.28
 1.76
 1.95
-Sre 17:30
+Sre 18:30
 
 Juventus
 
@@ -1416,7 +1416,7 @@ Udinese
 1.28
 1.76
 1.95
-Sre 19:45
+Sre 20:45
 
 Inter
 
@@ -1433,7 +1433,7 @@ Fiorentina
 1.22
 2.03
 1.70
-Sre 19:45
+Sre 20:45
 
 Bologna
 
@@ -1450,7 +1450,7 @@ Torino
 1.45
 1.55
 2.30
-Sre 19:45
+Sre 20:45
 
 Genoa
 
@@ -1467,7 +1467,7 @@ Cremonese
 1.50
 1.53
 2.35
-Čet 17:30
+Čet 18:30
 
 Cagliari
 
@@ -1484,7 +1484,7 @@ Sassuolo
 1.38
 1.62
 2.15
-Čet 19:45
+Čet 20:45
 
 Pisa
 
@@ -1511,7 +1511,7 @@ X2
 2+
 0-2
 3+
-Sub 13:30
+Sub 15:30
 
 Hoffenheim
 
@@ -1528,7 +1528,7 @@ Heidenheim
 1.17
 2.55
 1.53
-Sub 13:30
+Sub 15:30
 
 Eintr.Frankfurt
 
@@ -1545,7 +1545,7 @@ St.Pauli
 1.18
 2.45
 1.58
-Sub 13:30
+Sub 15:30
 
 M' gladbach
 
@@ -1562,7 +1562,7 @@ Bayern
 1.06
 3.95
 1.28
-Sub 13:30
+Sub 15:30
 
 Augsburg
 
@@ -1579,7 +1579,7 @@ RB Leipzig
 1.17
 2.41
 1.53
-Sub 13:30
+Sub 15:30
 
 Hamburger
 
@@ -1588,15 +1588,15 @@ Wolfsburg
 +523
 
 2.30
-3.60
-3.20
-1.40
-1.34
+3.85
+3.00
+1.44
+1.30
 1.69
 1.20
 2.34
 1.63
-Sub 16:30
+Sub 18:30
 
 Dortmund
 
@@ -1613,7 +1613,7 @@ Koln
 1.15
 2.75
 1.48
-Ned 14:30
+Ned 15:30
 
 Leverkusen
 
@@ -1622,15 +1622,15 @@ Freiburg
 +523
 
 1.85
-3.70
-4.20
-1.23
-1.28
-1.97
+3.90
+4.35
 1.25
-1.96
+1.30
+2.06
+1.25
+2.08
 1.79
-Ned 16:30
+Ned 17:30
 
 Stuttgart
 
@@ -1657,7 +1657,7 @@ X2
 2+
 0-2
 3+
-Uto 17:30
+Uto 18:30
 
 Hertha
 
@@ -1674,7 +1674,7 @@ Elversberg
 1.17
 2.41
 1.50
-Uto 17:30
+Uto 18:30
 
 Eintr.Frankfurt
 
@@ -1691,7 +1691,7 @@ Dortmund
 1.20
 2.19
 1.60
-Uto 17:30
+Uto 18:30
 
 Heidenheim
 
@@ -1708,7 +1708,7 @@ Hamburger
 1.25
 1.96
 1.75
-Uto 17:30
+Uto 18:30
 
 Wolfsburg
 
@@ -1725,7 +1725,7 @@ Holstein Kiel
 1.18
 2.29
 1.55
-Uto 19:45
+Uto 20:45
 
 Cottbus
 
@@ -1742,7 +1742,7 @@ RB Leipzig
 1.07
 3.20
 1.30
-Uto 19:45
+Uto 20:45
 
 St.Pauli
 
@@ -1759,7 +1759,7 @@ Hoffenheim
 1.25
 1.96
 1.75
-Uto 19:45
+Uto 20:45
 
 M' gladbach
 
@@ -1776,7 +1776,7 @@ Karlsruher
 1.17
 2.41
 1.50
-Uto 19:45
+Uto 20:45
 
 Augsburg
 
@@ -1793,7 +1793,7 @@ Bochum
 1.18
 2.29
 1.55
-Sre 17:00
+Sre 18:00
 
 Mainz
 
@@ -1810,7 +1810,7 @@ Stuttgart
 1.18
 2.29
 1.55
-Sre 17:00
+Sre 18:00
 
 Illertissen
 
@@ -1827,7 +1827,7 @@ Magdeburg
 1.10
 2.70
 1.40
-Sre 17:00
+Sre 18:00
 
 Greuther Furth
 
@@ -1844,7 +1844,7 @@ K'lautern
 1.17
 2.41
 1.50
-Sre 17:00
+Sre 18:00
 
 Paderborn
 
@@ -1861,7 +1861,7 @@ Leverkusen
 1.06
 3.55
 1.25
-Sre 19:45
+Sre 20:45
 
 Koln
 
@@ -1878,7 +1878,7 @@ Bayern
 1.07
 3.20
 1.30
-Sre 19:45
+Sre 20:45
 
 Union Berlin
 
@@ -1895,7 +1895,7 @@ Bielefeld
 1.22
 2.11
 1.65
-Sre 19:45
+Sre 20:45
 
 Darmstadt
 
@@ -1912,7 +1912,7 @@ Schalke
 1.17
 2.41
 1.50
-Sre 19:45
+Sre 20:45
 
 Fortuna Dusseldorf
 
@@ -1939,7 +1939,7 @@ X2
 2+
 0-2
 3+
-Sub 15:00
+Sub 17:00
 
 Brest
 
@@ -1947,16 +1947,16 @@ PSG
 
 +523
 
-8.30
-5.65
+8.40
+5.60
 1.37
 3.35
 1.18
 1.10
-1.17
-2.55
-1.53
-Sub 17:00
+1.15
+2.75
+1.48
+Sub 19:00
 
 Monaco
 
@@ -1973,7 +1973,7 @@ Toulouse
 1.20
 2.34
 1.63
-Sub 19:05
+Sub 21:05
 
 Lens
 
@@ -1990,7 +1990,7 @@ Olympique Marseille
 1.23
 2.15
 1.73
-Ned 14:00
+Ned 15:00
 
 Lille
 
@@ -2007,7 +2007,7 @@ Metz
 1.20
 2.34
 1.63
-Ned 16:15
+Ned 17:15
 
 Auxerre
 
@@ -2015,16 +2015,16 @@ Le Havre
 
 +523
 
-2.15
-3.45
-3.70
-1.32
-1.36
-1.79
+2.10
+3.50
+3.80
+1.31
+1.35
+1.82
 1.35
 1.77
 2.05
-Ned 16:15
+Ned 17:15
 
 Angers
 
@@ -2041,7 +2041,7 @@ Lorient
 1.45
 1.62
 2.30
-Ned 16:15
+Ned 17:15
 
 Rennes
 
@@ -2058,7 +2058,7 @@ Nice
 1.23
 2.15
 1.70
-Ned 19:45
+Ned 20:45
 
 Olympique Lyon
 
@@ -2075,7 +2075,7 @@ Strasbourg
 1.22
 2.24
 1.68
-Sre 18:00
+Sre 19:00
 
 Lorient
 
@@ -2092,7 +2092,7 @@ PSG
 1.17
 2.41
 1.50
-Sre 18:00
+Sre 19:00
 
 Metz
 
@@ -2109,7 +2109,7 @@ Lens
 1.29
 1.80
 1.90
-Sre 18:00
+Sre 19:00
 
 Le Havre
 
@@ -2126,7 +2126,7 @@ Brest
 1.30
 1.76
 1.95
-Sre 18:00
+Sre 19:00
 
 Nice
 
@@ -2143,7 +2143,7 @@ Lille
 1.27
 1.90
 1.80
-Sre 20:05
+Sre 21:05
 
 Strasbourg
 
@@ -2160,7 +2160,7 @@ Auxerre
 1.27
 1.90
 1.80
-Sre 20:05
+Sre 21:05
 
 Olympique Marseille
 
@@ -2177,7 +2177,7 @@ Angers
 1.20
 2.19
 1.60
-Sre 20:05
+Sre 21:05
 
 Paris
 
@@ -2194,7 +2194,7 @@ Olympique Lyon
 1.22
 2.11
 1.65
-Sre 20:05
+Sre 21:05
 
 Toulouse
 
@@ -2211,7 +2211,7 @@ Rennes
 1.28
 1.85
 1.85
-Sre 20:05
+Sre 21:05
 
 Nantes
 
@@ -2238,7 +2238,7 @@ X2
 2+
 0-2
 3+
-Sub 13:00
+Sub 15:00
 
 Radnički 1923
 
@@ -2255,7 +2255,7 @@ TSC Backa Topola
 1.22
 2.11
 1.68
-Sub 13:00
+Sub 15:00
 
 IMT
 
@@ -2263,16 +2263,16 @@ OFK Belgrade Mozzartbet
 
 +523
 
-2.40
+2.95
 3.50
-2.85
-1.42
-1.30
-1.57
-1.17
-2.41
-1.53
-Sub 15:00
+2.35
+1.60
+1.31
+1.41
+1.18
+2.29
+1.58
+Sub 17:00
 
 Radnik Surdulica
 
@@ -2280,16 +2280,16 @@ Spartak Subotica
 
 +523
 
-2.10
+2.05
 3.40
-3.60
-1.30
-1.33
-1.75
+3.70
+1.28
+1.32
+1.77
 1.33
 1.72
 2.04
-Sub 16:00
+Sub 18:00
 
 Zeleznicar Pancevo
 
@@ -2306,7 +2306,7 @@ Cukaricki
 1.25
 1.96
 1.79
-Ned 16:00
+Ned 17:00
 
 Radnicki Nis
 
@@ -2333,7 +2333,7 @@ X2
 2+
 0-2
 3+
-Sub 14:30
+Sub 16:30
 
 Fortuna S.
 
@@ -2350,7 +2350,7 @@ Groningen
 1.30
 1.76
 1.99
-Sub 16:45
+Sub 18:45
 
 Sparta
 
@@ -2367,7 +2367,7 @@ Telstar
 1.18
 2.29
 1.58
-Sub 18:00
+Sub 20:00
 
 Volendam
 
@@ -2384,7 +2384,7 @@ Heracles
 1.22
 2.11
 1.68
-Sub 19:00
+Sub 21:00
 
 Zwolle
 
@@ -2401,7 +2401,7 @@ NEC
 1.18
 2.29
 1.58
-Ned 11:15
+Ned 12:15
 
 Twente
 
@@ -2418,7 +2418,7 @@ Ajax
 1.20
 2.19
 1.63
-Ned 13:30
+Ned 14:30
 
 Feyenoord
 
@@ -2435,7 +2435,7 @@ PSV
 1.10
 2.95
 1.43
-Ned 15:45
+Ned 16:45
 
 AZ Alkmaar
 
@@ -2452,7 +2452,7 @@ Utrecht
 1.18
 2.29
 1.58
-Ned 19:00
+Ned 20:00
 
 Go Ahead
 
@@ -2479,7 +2479,7 @@ X2
 2+
 0-2
 3+
-Sub 14:00
+Sub 16:00
 
 Westerlo
 
@@ -2496,7 +2496,7 @@ Dender
 1.20
 2.19
 1.63
-Sub 16:15
+Sub 18:15
 
 Mechelen
 
@@ -2513,7 +2513,7 @@ Leuven
 1.27
 1.90
 1.84
-Sub 18:45
+Sub 20:45
 
 Gent
 
@@ -2530,7 +2530,7 @@ Standard
 1.27
 1.90
 1.84
-Ned 12:30
+Ned 13:30
 
 Antwerp
 
@@ -2547,7 +2547,7 @@ Club Brugge
 1.18
 2.29
 1.58
-Ned 15:00
+Ned 16:00
 
 Cercle Brugge
 
@@ -2564,7 +2564,7 @@ Zulte-Waregem
 1.20
 2.19
 1.63
-Ned 17:30
+Ned 18:30
 
 Genk
 
@@ -2581,7 +2581,7 @@ RAAL La Louviere
 1.22
 2.11
 1.68
-Ned 18:15
+Ned 19:15
 
 St.Gilloise
 
@@ -2608,7 +2608,7 @@ X2
 2+
 0-2
 3+
-Sub 14:00
+Sub 16:00
 
 Kocaelispor
 
@@ -2625,7 +2625,7 @@ Alanyaspor
 1.38
 1.62
 2.19
-Sub 17:00
+Sub 19:00
 
 Trabzon
 
@@ -2642,7 +2642,7 @@ Eyupspor
 1.23
 1.96
 1.79
-Ned 11:30
+Ned 12:30
 
 Antalya
 
@@ -2659,7 +2659,7 @@ Basaksehir
 1.29
 1.80
 1.94
-Ned 14:00
+Ned 15:00
 
 Genclerbirligi
 
@@ -2676,7 +2676,7 @@ Konyaspor
 1.29
 1.80
 1.94
-Ned 14:00
+Ned 15:00
 
 Galatasaray
 
@@ -2693,7 +2693,7 @@ Goztepe
 1.18
 2.29
 1.58
-Ned 17:00
+Ned 18:00
 
 Kasimpasa
 
@@ -2710,7 +2710,7 @@ Besiktas
 1.22
 2.11
 1.68
-Pon 17:00
+Pon 18:00
 
 Gaziantep
 
@@ -2727,7 +2727,7 @@ Fenerbahce
 1.22
 2.11
 1.68
-Pon 17:00
+Pon 18:00
 
 Samsunspor
 
@@ -2754,7 +2754,7 @@ X2
 2+
 0-2
 3+
-Sub 13:30
+Sub 15:30
 
 Rostov
 
@@ -2771,7 +2771,7 @@ Dyn.Makhachkala
 1.50
 1.53
 2.35
-Sub 16:00
+Sub 18:00
 
 CSKA
 
@@ -2788,7 +2788,7 @@ Krylya Sovetov
 1.23
 1.96
 1.75
-Ned 10:00
+Ned 11:00
 
 Akron Togliatti
 
@@ -2805,7 +2805,7 @@ Lok.Moscow
 1.17
 2.41
 1.50
-Ned 12:15
+Ned 13:15
 
 Nizhny Novgorod
 
@@ -2822,7 +2822,7 @@ Baltika
 1.45
 1.55
 2.30
-Ned 14:30
+Ned 15:30
 
 Zenit
 
@@ -2839,7 +2839,7 @@ Dinamo Moscow
 1.22
 2.11
 1.65
-Ned 16:45
+Ned 17:45
 
 Krasnodar
 
@@ -2856,7 +2856,7 @@ Rubin
 1.27
 1.85
 1.85
-Pon 16:30
+Pon 17:30
 
 Akhmat Grozny
 
@@ -2883,58 +2883,7 @@ X2
 2+
 0-2
 3+
-Sub 11:30
-
-Ipswich
-
-WBA
-
-+523
-
-1.90
-3.45
-4.20
-1.23
-1.31
-1.89
-1.35
-1.69
-2.05
-Sub 11:30
-
-Coventry
-
-Watford
-
-+523
-
-1.53
-4.20
-6.25
-1.12
-1.23
-2.50
-1.20
-2.19
-1.60
-Sub 11:30
-
-Portsmouth
-
-Stoke
-
-+523
-
-2.80
-3.25
-2.60
-1.50
-1.35
-1.44
-1.33
-1.72
-2.00
-Sub 14:00
+Sub 16:00
 
 Bristol City
 
@@ -2951,7 +2900,7 @@ Birmingham
 1.35
 1.69
 2.05
-Sub 14:00
+Sub 16:00
 
 Middlesbrou.
 
@@ -2968,7 +2917,7 @@ Wrexham
 1.29
 1.80
 1.90
-Sub 14:00
+Sub 16:00
 
 Blackburn
 
@@ -2985,7 +2934,7 @@ Southampton
 1.35
 1.69
 2.05
-Sub 14:00
+Sub 16:00
 
 Hull
 
@@ -3002,7 +2951,7 @@ Charlton
 1.30
 1.76
 1.95
-Sub 14:00
+Sub 16:00
 
 Millwall
 
@@ -3019,7 +2968,7 @@ Leicester
 1.38
 1.62
 2.15
-Sub 14:00
+Sub 16:00
 
 Swansea
 
@@ -3036,7 +2985,7 @@ Norwich
 1.28
 1.85
 1.85
-Sub 14:00
+Sub 16:00
 
 Sheffield W.
 
@@ -3053,7 +3002,7 @@ Oxford
 1.33
 1.72
 2.00
-Sub 14:00
+Sub 16:00
 
 Derby
 
@@ -3080,7 +3029,7 @@ X2
 2+
 0-2
 3+
-Sub 18:30
+Sub 20:30
 
 Hertha
 
@@ -3097,7 +3046,7 @@ Fortuna Dusseldorf
 1.18
 2.29
 1.55
-Ned 12:30
+Ned 13:30
 
 Braunschweig
 
@@ -3114,7 +3063,7 @@ Hannover
 1.20
 2.19
 1.60
-Ned 12:30
+Ned 13:30
 
 Magdeburg
 
@@ -3131,7 +3080,7 @@ Munster
 1.18
 2.29
 1.55
-Ned 12:30
+Ned 13:30
 
 K'lautern
 
@@ -3158,7 +3107,7 @@ X2
 2+
 0-2
 3+
-Sub 17:00
+Sub 19:00
 
 Santa Clara
 
@@ -3166,16 +3115,16 @@ AVS
 
 +523
 
-1.45
-4.10
-8.50
+1.47
+4.00
+8.00
 1.07
 1.24
-2.75
+2.65
 1.40
 1.60
 2.24
-Sub 19:30
+Sub 21:30
 
 Estrela Amadora
 
@@ -3192,7 +3141,7 @@ Rio Ave
 1.35
 1.69
 2.09
-Sub 19:30
+Sub 21:30
 
 Benfica
 
@@ -3209,7 +3158,7 @@ Arouca
 1.10
 2.70
 1.43
-Ned 15:30
+Ned 16:30
 
 Famalicao
 
@@ -3226,7 +3175,7 @@ Guimaraes
 1.40
 1.60
 2.24
-Ned 15:30
+Ned 16:30
 
 Estoril
 
@@ -3243,7 +3192,7 @@ Nacional
 1.30
 1.76
 1.99
-Ned 18:00
+Ned 19:00
 
 Tondela
 
@@ -3260,7 +3209,7 @@ Sporting
 1.17
 2.41
 1.53
-Ned 20:30
+Ned 21:30
 
 Braga
 
@@ -3277,7 +3226,7 @@ Casa Pia
 1.25
 1.90
 1.84
-Pon 20:15
+Pon 21:15
 
 Moreirense
 
@@ -3304,7 +3253,7 @@ X2
 2+
 0-2
 3+
-Sub 12:00
+Sub 14:00
 
 FAP Priboj
 
@@ -3321,7 +3270,7 @@ Zemun
 1.45
 1.55
 2.30
-Sub 12:00
+Sub 14:00
 
 Smederevo
 
@@ -3338,7 +3287,7 @@ OFK Vrsac
 1.55
 1.47
 2.50
-Sub 12:00
+Sub 14:00
 
 Dinamo Jug
 
@@ -3346,16 +3295,16 @@ Vozdovac
 
 +337
 
-3.20
-3.10
-2.25
-1.57
-1.32
-1.30
+2.90
+3.05
+2.45
+1.49
+1.33
+1.36
 1.45
 1.55
 2.30
-Sub 15:00
+Sub 17:00
 
 Trajal
 
@@ -3363,12 +3312,12 @@ Kabel
 
 +337
 
-1.90
+1.95
 3.30
-4.00
-1.21
+3.80
+1.23
 1.29
-1.81
+1.77
 1.38
 1.62
 2.15
@@ -3382,7 +3331,7 @@ X2
 2+
 0-2
 3+
-Sub 14:40
+Sub 16:40
 
 Al Qadisiyah Khubar
 
@@ -3399,7 +3348,7 @@ Al Akhdoud
 1.17
 2.41
 1.50
-Sub 14:55
+Sub 16:55
 
 Al Shabab R.
 
@@ -3407,16 +3356,16 @@ Dhamk
 
 +523
 
-1.57
+1.60
 3.70
-5.80
-1.10
-1.24
-2.26
+5.40
+1.12
+1.23
+2.20
 1.22
 2.03
 1.70
-Sub 18:00
+Sub 20:00
 
 Al Hazm
 
@@ -3443,7 +3392,7 @@ X2
 2+
 0-2
 3+
-Sub 12:00
+Sub 14:00
 
 Al Shabab Seb
 
@@ -3460,7 +3409,7 @@ Paro
 1.15
 2.15
 1.55
-Sub 13:00
+Sub 15:00
 
 Al Seeb
 
@@ -3468,16 +3417,16 @@ Bashundhara Kings
 
 +523
 
-1.62
-3.60
-5.40
-1.12
-1.25
-2.16
-1.33
-1.72
-2.00
-Sub 14:00
+1.48
+4.00
+6.50
+1.08
+1.21
+2.48
+1.27
+1.85
+1.85
+Sub 16:00
 
 Regar Tadaz
 
@@ -3494,7 +3443,7 @@ Muras
 1.40
 1.48
 2.30
-Sub 16:00
+Sub 18:00
 
 Al Ansar B.
 
@@ -3511,6 +3460,23 @@ Kuwait SC
 1.30
 1.64
 2.00
+Ned 10:00
+
+Svay Rieng
+
+Bulgan Falcons
+
++523
+
+1.50
+4.30
+5.10
+1.11
+1.16
+2.33
+1.13
+2.37
+1.45
 Albanija 1
 1
 X
@@ -3521,7 +3487,7 @@ X2
 2+
 0-2
 3+
-Sub 15:00
+Sub 17:00
 
 Teuta
 
@@ -3530,15 +3496,15 @@ Flamurtari
 +523
 
 2.00
-3.25
+3.20
 3.70
-1.24
+1.23
 1.30
-1.73
-1.40
-1.60
-2.20
-Sub 15:00
+1.72
+1.45
+1.55
+2.30
+Sub 17:00
 
 Partizani
 
@@ -3546,15 +3512,15 @@ Egnatia
 
 +523
 
-3.35
-3.05
+3.40
+3.00
 2.20
+1.59
+1.34
+1.27
 1.60
-1.33
-1.28
-1.55
-1.47
-2.50
+1.41
+2.70
 Alžir 1
 1
 X
@@ -3565,7 +3531,7 @@ X2
 2+
 0-2
 3+
-Sub 14:00
+Sub 16:00
 
 El Bayadh
 
@@ -3582,7 +3548,7 @@ Oran
 1.60
 1.41
 2.70
-Sub 16:00
+Sub 18:00
 
 Constantine
 
@@ -3599,7 +3565,7 @@ Olympique Akbou
 1.55
 1.47
 2.50
-Sub 17:00
+Sub 19:00
 
 Rouissat
 
@@ -3616,7 +3582,7 @@ Ben Aknoun
 1.55
 1.47
 2.50
-Ned 14:00
+Ned 15:00
 
 Paradou
 
@@ -3643,7 +3609,7 @@ X2
 2+
 0-2
 3+
-Sub 14:00
+Sub 16:00
 
 Annaba
 
@@ -3660,7 +3626,7 @@ MSP Batna
 1.30
 1.72
 2.00
-Sub 14:00
+Sub 16:00
 
 Beni Oulbane
 
@@ -3669,15 +3635,15 @@ Biskra
 +523
 
 2.40
-2.95
-3.05
-1.32
-1.34
+2.60
+3.55
+1.25
+1.43
 1.50
 1.60
-1.41
-2.70
-Sub 14:00
+1.38
+2.80
+Sub 16:00
 
 Batna
 
@@ -3694,7 +3660,7 @@ Chelghoum Laid
 1.30
 1.72
 2.00
-Sub 14:00
+Sub 16:00
 
 Bordj Menaiel
 
@@ -3711,7 +3677,7 @@ Khemis El Khechna
 1.28
 1.76
 1.95
-Sub 14:00
+Sub 16:00
 
 Telaghema
 
@@ -3728,7 +3694,7 @@ Chaouia
 1.45
 1.55
 2.30
-Sub 14:00
+Sub 16:00
 
 Magra
 
@@ -3745,7 +3711,7 @@ CR Beni Thour
 1.27
 1.85
 1.85
-Sub 14:00
+Sub 16:00
 
 MO Bejaia
 
@@ -3772,7 +3738,7 @@ X2
 2+
 0-2
 3+
-Sub 14:00
+Sub 16:00
 
 Hussein
 
@@ -3789,7 +3755,7 @@ El Harrach
 1.60
 1.41
 2.70
-Sub 14:00
+Sub 16:00
 
 Temouchent
 
@@ -3806,7 +3772,7 @@ Adrar
 1.50
 1.53
 2.35
-Sub 14:00
+Sub 16:00
 
 El Biar
 
@@ -3823,7 +3789,7 @@ Tixeraine
 1.28
 1.76
 1.95
-Sub 14:00
+Sub 16:00
 
 JSM Tiaret
 
@@ -3840,7 +3806,7 @@ ASM Oran
 1.50
 1.53
 2.35
-Sub 14:00
+Sub 16:00
 
 Kolea
 
@@ -3857,7 +3823,7 @@ Mostaganem WA
 1.50
 1.53
 2.35
-Sub 14:00
+Sub 16:00
 
 Arba
 
@@ -3874,7 +3840,7 @@ Kouba
 1.55
 1.47
 2.50
-Sub 14:00
+Sub 16:00
 
 Bechar Djedid
 
@@ -3891,7 +3857,7 @@ Mascara
 1.55
 1.47
 2.50
-Sub 14:00
+Sub 16:00
 
 Tlemcen
 
@@ -3918,7 +3884,7 @@ X2
 2+
 0-2
 3+
-Sub 15:00
+Sub 17:00
 
 Inter Escaldes
 
@@ -3945,7 +3911,7 @@ X2
 2+
 0-2
 3+
-Ned 02:00
+Ned 03:00
 
 Wellington
 
@@ -3959,10 +3925,10 @@ Brisbane Roar
 1.50
 1.28
 1.39
-1.23
-2.03
-1.70
-Pon 08:00
+1.25
+1.96
+1.75
+Pon 09:00
 
 Macarthur
 
@@ -3989,7 +3955,7 @@ X2
 2+
 0-2
 3+
-Sub 15:00
+Sub 17:00
 
 Altach
 
@@ -4003,10 +3969,10 @@ Hartberg
 1.24
 1.32
 1.86
-1.38
-1.62
-2.15
-Sub 15:00
+1.40
+1.60
+2.20
+Sub 17:00
 
 LASK
 
@@ -4023,7 +3989,7 @@ GAK
 1.23
 1.96
 1.75
-Sub 15:00
+Sub 17:00
 
 WSG Tirol
 
@@ -4040,7 +4006,7 @@ BW Linz
 1.30
 1.76
 1.95
-Ned 13:30
+Ned 14:30
 
 Sturm
 
@@ -4057,7 +4023,7 @@ Wolfsberger
 1.25
 1.96
 1.75
-Ned 13:30
+Ned 14:30
 
 Ried
 
@@ -4074,7 +4040,7 @@ Rapid
 1.28
 1.85
 1.85
-Ned 16:00
+Ned 17:00
 
 Austria Vienna
 
@@ -4101,7 +4067,7 @@ X2
 2+
 0-2
 3+
-Sub 12:30
+Sub 14:30
 
 Austria Salzburg
 
@@ -4109,16 +4075,16 @@ Austria W.II
 
 +523
 
-2.70
-3.30
-2.45
-1.49
+2.80
+3.35
+2.35
+1.53
 1.28
-1.41
+1.38
 1.22
 2.11
 1.65
-Sub 18:00
+Sub 20:00
 
 Rapid II
 
@@ -4135,7 +4101,7 @@ A.Lustenau
 1.18
 2.29
 1.55
-Ned 09:30
+Ned 10:30
 
 Amstetten
 
@@ -4162,7 +4128,7 @@ X2
 2+
 0-2
 3+
-Sub 13:00
+Sub 15:00
 
 Union Dietach
 
@@ -4189,7 +4155,7 @@ X2
 2+
 0-2
 3+
-Sub 12:00
+Sub 14:00
 
 Union Mauer
 
@@ -4206,7 +4172,7 @@ Neusiedl
 1.15
 2.15
 1.55
-Sub 13:30
+Sub 15:30
 
 Viktoria W.
 
@@ -4223,7 +4189,7 @@ TWL Elektra
 1.05
 2.70
 1.35
-Sub 14:00
+Sub 16:00
 
 Retz
 
@@ -4231,12 +4197,12 @@ Leobendorf
 
 +523
 
-7.25
-4.60
-1.35
-2.80
-1.14
-1.04
+7.00
+4.50
+1.37
+2.70
+1.15
+1.05
 1.15
 2.15
 1.55
@@ -4250,7 +4216,7 @@ X2
 2+
 0-2
 3+
-Sub 12:00
+Sub 14:00
 
 Kitzbuhel
 
@@ -4267,7 +4233,7 @@ Kufstein
 1.15
 2.15
 1.55
-Sub 12:00
+Sub 14:00
 
 Bischofshofen
 
@@ -4284,7 +4250,7 @@ Imst
 1.20
 1.91
 1.70
-Sub 12:30
+Sub 14:30
 
 Dornbirn
 
@@ -4301,7 +4267,7 @@ Seekirchen
 1.08
 2.50
 1.40
-Sub 12:30
+Sub 14:30
 
 Wals-Grunau
 
@@ -4318,7 +4284,7 @@ TSV St. Johann
 1.15
 2.25
 1.50
-Sub 12:45
+Sub 14:45
 
 Lustenau
 
@@ -4326,16 +4292,16 @@ Kuchl
 
 +523
 
-4.10
-4.30
-1.62
-2.10
-1.16
-1.18
+4.60
+4.40
+1.53
+2.25
+1.15
+1.14
 1.05
 2.70
 1.35
-Sub 14:00
+Sub 16:00
 
 FC Lauterach
 
@@ -4343,16 +4309,16 @@ Schwaz
 
 +523
 
-4.20
-4.20
-1.62
-2.10
-1.17
-1.17
-1.08
-2.50
-1.40
-Sub 15:30
+4.10
+4.10
+1.65
+2.05
+1.18
+1.18
+1.13
+2.37
+1.45
+Sub 17:30
 
 Saalfelden
 
@@ -4379,7 +4345,7 @@ X2
 2+
 0-2
 3+
-Sub 12:00
+Sub 14:00
 
 Araz
 
@@ -4387,16 +4353,16 @@ Sabah
 
 +523
 
+3.70
 3.25
-3.15
-2.20
-1.60
-1.31
+2.00
+1.73
 1.30
+1.24
 1.40
 1.60
 2.20
-Sub 14:30
+Sub 16:30
 
 Zira
 
@@ -4423,7 +4389,7 @@ X2
 2+
 0-2
 3+
-Sub 14:00
+Sub 16:00
 
 Rudar Pr.
 
@@ -4440,7 +4406,7 @@ Zeljeznicar
 1.40
 1.60
 2.20
-Sub 18:45
+Sub 20:45
 
 Velez Mostar
 
@@ -4467,7 +4433,7 @@ X2
 2+
 0-2
 3+
-Sub 16:00
+Sub 18:00
 
 Al Ittifaq Maqaba
 
@@ -4484,7 +4450,7 @@ Al-Ittihad Bahrain
 1.29
 1.80
 1.90
-Sub 16:00
+Sub 18:00
 
 Al Hala
 
@@ -4501,7 +4467,7 @@ Bouri
 1.23
 1.96
 1.75
-Sub 16:00
+Sub 18:00
 
 Busaiteen
 
@@ -4528,7 +4494,7 @@ X2
 2+
 0-2
 3+
-Sub 14:00
+Sub 16:00
 
 Club Brugge II
 
@@ -4545,7 +4511,7 @@ Olympic Charleroi
 1.20
 2.19
 1.60
-Sub 18:00
+Sub 20:00
 
 Liege
 
@@ -4562,7 +4528,7 @@ RWD Molenbeek
 1.25
 1.96
 1.75
-Sub 18:00
+Sub 20:00
 
 Waas.Beveren
 
@@ -4579,7 +4545,7 @@ Patro Eisden
 1.33
 1.72
 2.00
-Sub 18:00
+Sub 20:00
 
 Eupen
 
@@ -4596,7 +4562,7 @@ Genk II
 1.20
 2.19
 1.60
-Ned 15:00
+Ned 16:00
 
 Lommel
 
@@ -4613,7 +4579,7 @@ Beerschot Wilrijk
 1.22
 2.11
 1.65
-Ned 15:00
+Ned 16:00
 
 Anderlecht II
 
@@ -4640,7 +4606,7 @@ X2
 2+
 0-2
 3+
-Sub 13:00
+Sub 15:00
 
 Slavia Mozyr
 
@@ -4657,7 +4623,7 @@ Neman Grodno
 1.38
 1.62
 2.15
-Sub 15:00
+Sub 17:00
 
 Gomel
 
@@ -4674,7 +4640,7 @@ Slutsk
 1.40
 1.60
 2.20
-Sub 17:00
+Sub 19:00
 
 Bate Borisov
 
@@ -4691,7 +4657,7 @@ Torpedo Zhodino
 1.40
 1.60
 2.20
-Ned 10:00
+Ned 11:00
 
 Minsk Isloch
 
@@ -4708,7 +4674,7 @@ Dinamo Brest
 1.35
 1.69
 2.05
-Ned 12:00
+Ned 13:00
 
 Molodechno
 
@@ -4716,16 +4682,16 @@ Arsenal Dzershinsk
 
 +523
 
-4.70
+4.80
 3.45
-1.73
-1.99
-1.26
+1.72
+2.01
+1.27
 1.15
 1.30
 1.76
 1.95
-Ned 17:15
+Ned 18:15
 
 Vitebsk
 
@@ -4752,7 +4718,7 @@ X2
 2+
 0-2
 3+
-Sub 12:00
+Sub 14:00
 
 Osipovichi
 
@@ -4769,7 +4735,7 @@ Lida
 1.08
 2.90
 1.35
-Sub 12:00
+Sub 14:00
 
 Baranovichi
 
@@ -4796,7 +4762,7 @@ X2
 2+
 0-2
 3+
-Sub 14:00
+Sub 16:00
 
 BDF XI
 
@@ -4813,7 +4779,24 @@ Orapa United
 -
 1.41
 2.70
-Sub 17:00
+Sub 16:00
+
+BDF XI
+
+Orapa United
+
++44
+
+2.90
+2.90
+2.55
+1.45
+1.36
+1.36
+-
+1.41
+2.70
+Sub 19:00
 
 Extension Gunners
 
@@ -4830,7 +4813,7 @@ Morupule
 -
 1.53
 2.35
-Sub 18:00
+Sub 20:00
 
 Mochudi Centre Chiefs
 
@@ -4857,7 +4840,7 @@ X2
 2+
 0-2
 3+
-Sub 19:00
+Sub 21:00
 
 Balompie
 
@@ -4874,7 +4857,7 @@ Universitario Vinto
 1.25
 1.96
 1.75
-Sub 21:30
+Sub 23:30
 
 Guabira
 
@@ -4891,7 +4874,7 @@ Blooming
 1.23
 2.03
 1.70
-Ned 00:00
+Ned 02:00
 
 Aurora
 
@@ -4918,7 +4901,7 @@ X2
 2+
 0-2
 3+
-Sub 19:00
+Sub 21:00
 
 Vitoria
 
@@ -4935,7 +4918,7 @@ Corinthians
 1.50
 1.53
 2.35
-Sub 19:00
+Sub 21:00
 
 Atletico Mineiro
 
@@ -4952,7 +4935,7 @@ Ceara CE
 1.50
 1.53
 2.35
-Sub 20:30
+Sub 22:30
 
 Fluminense
 
@@ -4966,10 +4949,10 @@ Internacional
 1.21
 1.30
 1.95
-1.35
-1.69
-2.05
-Sub 21:30
+1.38
+1.62
+2.15
+Sub 23:30
 
 Sport Recife
 
@@ -4986,7 +4969,7 @@ Mirassol
 1.30
 1.76
 1.95
-Sub 22:30
+Ned 00:30
 
 Fortaleza CE
 
@@ -5003,7 +4986,7 @@ Flamengo
 1.35
 1.69
 2.05
-Ned 00:30
+Ned 02:30
 
 Sao Paulo
 
@@ -5020,7 +5003,7 @@ Bahia
 1.45
 1.55
 2.30
-Ned 19:00
+Ned 20:00
 
 Gremio
 
@@ -5037,7 +5020,7 @@ Juventude
 1.38
 1.62
 2.15
-Ned 19:00
+Ned 20:00
 
 Botafogo
 
@@ -5054,7 +5037,7 @@ Santos
 1.38
 1.62
 2.15
-Ned 21:30
+Ned 22:30
 
 Bragantino
 
@@ -5071,23 +5054,6 @@ Vasco da Gama
 1.30
 1.76
 1.95
-Ned 23:30
-
-Palmeiras
-
-Cruzeiro
-
-+523
-
-1.80
-3.50
-4.70
-1.19
-1.30
-2.01
-1.33
-1.72
-2.00
 Brazil 2
 1
 X
@@ -5098,7 +5064,7 @@ X2
 2+
 0-2
 3+
-Sub 19:00
+Sub 21:00
 
 Athletic Club
 
@@ -5115,7 +5081,7 @@ America Mineiro
 1.40
 1.60
 2.20
-Sub 19:00
+Sub 21:00
 
 Volta Redonda
 
@@ -5129,10 +5095,10 @@ Coritiba
 1.52
 1.34
 1.32
-1.55
-1.47
-2.50
-Sub 21:30
+1.50
+1.53
+2.35
+Sub 23:30
 
 Paysandu
 
@@ -5149,7 +5115,7 @@ Avai
 1.38
 1.62
 2.15
-Sub 23:30
+Ned 01:30
 
 Criciuma
 
@@ -5166,7 +5132,7 @@ Goias
 1.55
 1.47
 2.50
-Ned 19:00
+Ned 20:00
 
 CRB
 
@@ -5183,7 +5149,7 @@ Atletico Go
 1.40
 1.60
 2.20
-Ned 21:30
+Ned 22:30
 
 Villa Nova
 
@@ -5200,7 +5166,7 @@ Ferroviaria
 1.40
 1.60
 2.20
-Pon 22:00
+Pon 23:00
 
 Chapecoense
 
@@ -5217,7 +5183,7 @@ Operario PR
 1.50
 1.53
 2.35
-Uto 00:30
+Uto 01:30
 
 Atletico PR
 
@@ -5244,7 +5210,7 @@ X2
 2+
 0-2
 3+
-Sub 20:00
+Sub 22:00
 
 Ponte Preta
 
@@ -5271,7 +5237,7 @@ X2
 2+
 0-2
 3+
-Sub 12:30
+Sub 14:30
 
 Slavia Sofia
 
@@ -5288,7 +5254,7 @@ Cherno More
 1.35
 1.69
 2.05
-Sub 15:00
+Sub 17:00
 
 Levski Sofia
 
@@ -5305,7 +5271,7 @@ Dobrudzha
 1.20
 2.19
 1.60
-Ned 15:15
+Ned 16:15
 
 CSKA Sofia
 
@@ -5313,12 +5279,12 @@ Beroe
 
 +523
 
-1.22
+1.23
 5.50
-13.0
+12.0
 -
 1.12
-3.85
+3.75
 1.22
 2.03
 1.70
@@ -5332,7 +5298,7 @@ X2
 2+
 0-2
 3+
-Sub 13:00
+Sub 15:00
 
 Belasica Petrich
 
@@ -5349,7 +5315,7 @@ Marek D.
 1.60
 1.41
 2.70
-Sub 13:00
+Sub 15:00
 
 Chernomorets B.
 
@@ -5366,7 +5332,7 @@ Hebar
 1.40
 1.60
 2.20
-Sub 13:00
+Sub 15:00
 
 Vihren
 
@@ -5393,7 +5359,7 @@ X2
 2+
 0-2
 3+
-Sub 12:00
+Sub 14:00
 
 Internacional
 
@@ -5420,7 +5386,7 @@ X2
 2+
 0-2
 3+
-Ned 13:00
+Ned 14:00
 
 Fredericia
 
@@ -5437,7 +5403,7 @@ Midtjylland
 1.10
 2.70
 1.40
-Ned 13:00
+Ned 14:00
 
 Vejle Kolding
 
@@ -5454,7 +5420,7 @@ Silkeborg
 1.23
 2.03
 1.70
-Ned 15:00
+Ned 16:00
 
 Randers
 
@@ -5471,7 +5437,7 @@ Sonderjylland
 1.20
 2.19
 1.60
-Ned 17:00
+Ned 18:00
 
 Copenhagen
 
@@ -5488,7 +5454,7 @@ Viborg
 1.20
 2.19
 1.60
-Pon 18:00
+Pon 19:00
 
 Odense
 
@@ -5515,7 +5481,7 @@ X2
 2+
 0-2
 3+
-Sub 12:00
+Sub 14:00
 
 Arhus Fremad
 
@@ -5532,7 +5498,7 @@ Esbjerg
 1.20
 2.19
 1.60
-Sub 12:00
+Sub 14:00
 
 Aalborg
 
@@ -5549,7 +5515,7 @@ Lyngby
 1.20
 2.19
 1.60
-Sub 12:00
+Sub 14:00
 
 Hobro IK
 
@@ -5576,24 +5542,7 @@ X2
 2+
 0-2
 3+
-Sub 11:30
-
-Vsk Aarhus
-
-Roskilde
-
-+523
-
-6.00
-4.00
-1.50
-2.40
-1.20
-1.09
-1.22
-2.11
-1.65
-Sub 12:00
+Sub 14:00
 
 AB Kobenhavn
 
@@ -5601,16 +5550,16 @@ Brabrand
 
 +523
 
-1.22
-6.25
-10.0
-1.02
-1.09
-3.85
+1.20
+6.50
+10.5
+-
+1.08
+4.00
 1.07
 3.20
 1.30
-Sub 12:00
+Sub 14:00
 
 HIK
 
@@ -5637,24 +5586,7 @@ X2
 2+
 0-2
 3+
-Sub 11:30
-
-Lyseng
-
-Sundby
-
-+523
-
-2.70
-3.30
-2.45
-1.49
-1.28
-1.41
-1.23
-2.03
-1.70
-Sub 12:00
+Sub 14:00
 
 Frem
 
@@ -5671,7 +5603,7 @@ Holbaek
 1.29
 1.80
 1.90
-Sub 12:00
+Sub 14:00
 
 Bronshoj
 
@@ -5688,7 +5620,7 @@ Vejgaard
 1.18
 2.29
 1.55
-Sub 12:00
+Sub 14:00
 
 FA 2000
 
@@ -5705,7 +5637,7 @@ Vanlose
 1.25
 1.96
 1.75
-Sub 13:00
+Sub 15:00
 
 Nykobing
 
@@ -5732,7 +5664,7 @@ X2
 2+
 0-2
 3+
-Sub 14:00
+Sub 16:00
 
 Haras
 
@@ -5749,7 +5681,7 @@ Ghazi Al Mehalla
 1.60
 1.34
 3.00
-Sub 17:00
+Sub 19:00
 
 Modern Sport
 
@@ -5776,7 +5708,7 @@ X2
 2+
 0-2
 3+
-Sub 21:30
+Sub 23:30
 
 B.Guayaquil
 
@@ -5803,7 +5735,7 @@ X2
 2+
 0-2
 3+
-Ned 00:00
+Ned 02:00
 
 Deportivo Cuenca
 
@@ -5820,7 +5752,7 @@ Aucas
 1.38
 1.62
 2.15
-Ned 20:30
+Ned 21:30
 
 El Nacional
 
@@ -5837,7 +5769,7 @@ Macara
 1.33
 1.72
 2.00
-Ned 22:55
+Ned 23:55
 
 Emelec
 
@@ -5864,7 +5796,7 @@ X2
 2+
 0-2
 3+
-Sub 19:00
+Sub 21:00
 
 Mushuc Runa
 
@@ -5881,7 +5813,7 @@ Manta
 1.22
 2.03
 1.70
-Ned 18:00
+Ned 19:00
 
 Vinotinto
 
@@ -5908,7 +5840,7 @@ X2
 2+
 0-2
 3+
-Sub 21:00
+Sub 23:00
 
 Zacatecoluca FC
 
@@ -5925,7 +5857,7 @@ Cd Aguila
 1.28
 1.85
 1.85
-Ned 00:00
+Ned 02:00
 
 Fas
 
@@ -5942,7 +5874,7 @@ Alianza FC
 1.35
 1.69
 2.05
-Ned 00:30
+Ned 02:30
 
 Metapan
 
@@ -5969,7 +5901,7 @@ X2
 2+
 0-2
 3+
-Sub 14:00
+Sub 16:00
 
 Wingate&Finchley
 
@@ -5986,7 +5918,7 @@ Cheshunt
 1.18
 2.06
 1.60
-Sub 14:00
+Sub 16:00
 
 Wimborne
 
@@ -6003,7 +5935,7 @@ AFC Portchester
 1.08
 2.50
 1.40
-Sub 14:00
+Sub 16:00
 
 Utd of Manch.
 
@@ -6020,7 +5952,7 @@ Bamber Bridge
 1.20
 1.91
 1.70
-Sub 14:00
+Sub 16:00
 
 Waltham Abbey
 
@@ -6037,7 +5969,7 @@ Chatham
 1.20
 1.98
 1.65
-Sub 14:00
+Sub 16:00
 
 Walton&Hersham
 
@@ -6054,7 +5986,7 @@ Hendon
 1.05
 2.70
 1.35
-Sub 14:00
+Sub 16:00
 
 Sudbury
 
@@ -6071,7 +6003,7 @@ Leiston
 1.15
 2.15
 1.55
-Sub 14:00
+Sub 16:00
 
 Tilbury
 
@@ -6088,7 +6020,7 @@ Hadley
 1.15
 2.25
 1.50
-Sub 14:00
+Sub 16:00
 
 St.Albans
 
@@ -6105,7 +6037,7 @@ Hanwell Town
 1.15
 2.15
 1.55
-Sub 14:00
+Sub 16:00
 
 Stanway Rovers
 
@@ -6122,7 +6054,7 @@ Harrow Borough
 1.08
 2.50
 1.40
-Sub 14:00
+Sub 16:00
 
 Prescot
 
@@ -6139,7 +6071,7 @@ Guiseley
 1.40
 1.48
 2.30
-Sub 14:00
+Sub 16:00
 
 Real Bedford
 
@@ -6156,7 +6088,7 @@ Ashford United
 1.15
 2.25
 1.50
-Sub 14:00
+Sub 16:00
 
 Plymouth Parkway
 
@@ -6173,7 +6105,7 @@ Poole
 1.15
 2.25
 1.50
-Sub 14:00
+Sub 16:00
 
 Alvechurch
 
@@ -6190,7 +6122,7 @@ Worcester
 1.43
 1.46
 2.35
-Sub 14:00
+Sub 16:00
 
 Leek Town
 
@@ -6207,7 +6139,7 @@ FC Bromsgrove Sporting
 1.15
 2.15
 1.55
-Sub 14:00
+Sub 16:00
 
 Hyde
 
@@ -6224,7 +6156,7 @@ Stocksbridge Park Steels
 1.18
 2.06
 1.60
-Sub 14:00
+Sub 16:00
 
 Leatherhead
 
@@ -6241,7 +6173,7 @@ Canvey
 1.20
 1.91
 1.70
-Sub 14:00
+Sub 16:00
 
 Ilkeston
 
@@ -6258,7 +6190,7 @@ St Ives Town
 1.18
 2.06
 1.60
-Sub 14:00
+Sub 16:00
 
 Brentwood Town
 
@@ -6275,7 +6207,7 @@ Welling Utd.
 1.15
 2.15
 1.55
-Sub 14:00
+Sub 16:00
 
 Billericay
 
@@ -6292,7 +6224,7 @@ Bishop's S.
 1.20
 1.91
 1.70
-Sub 14:00
+Sub 16:00
 
 Bradford P.A.
 
@@ -6309,7 +6241,7 @@ Morpeth
 1.22
 1.85
 1.75
-Sub 14:00
+Sub 16:00
 
 Basingstoke
 
@@ -6326,7 +6258,7 @@ Dorchester
 1.18
 2.06
 1.60
-Sub 14:00
+Sub 16:00
 
 Anstey Nomads
 
@@ -6343,7 +6275,7 @@ Stratford Town
 1.18
 2.06
 1.60
-Sub 14:00
+Sub 16:00
 
 Spalding United
 
@@ -6360,7 +6292,7 @@ Corby Town
 1.08
 2.50
 1.40
-Sub 14:00
+Sub 16:00
 
 Gloucester City
 
@@ -6377,7 +6309,7 @@ Havant&Wat.
 1.20
 1.98
 1.65
-Sub 14:00
+Sub 16:00
 
 Redditch
 
@@ -6394,7 +6326,7 @@ Gainsborough
 1.30
 1.64
 2.00
-Sub 14:00
+Sub 16:00
 
 Sittingbourne
 
@@ -6411,7 +6343,7 @@ Cray Valley
 1.18
 2.06
 1.60
-Sub 14:00
+Sub 16:00
 
 Harborough Town
 
@@ -6428,7 +6360,7 @@ Rushden & Diamonds
 1.15
 2.25
 1.50
-Sub 14:00
+Sub 16:00
 
 Farnham Town
 
@@ -6445,7 +6377,7 @@ Bishops Cleeve
 1.15
 2.25
 1.50
-Sub 14:00
+Sub 16:00
 
 Clitheroe
 
@@ -6462,7 +6394,7 @@ Stockton Town
 1.25
 1.80
 1.80
-Sub 14:00
+Sub 16:00
 
 Burgess Hill
 
@@ -6479,7 +6411,7 @@ Folkestone
 1.25
 1.75
 1.85
-Ned 15:00
+Ned 16:00
 
 Bracknell Town
 
@@ -6506,41 +6438,7 @@ X2
 2+
 0-2
 3+
-Sub 11:30
-
-Bolton
-
-Cardiff
-
-+523
-
-2.00
-3.40
-3.50
-1.26
-1.27
-1.72
-1.22
-2.11
-1.65
-Sub 11:30
-
-Mansfield
-
-Wigan
-
-+523
-
-2.55
-3.05
-2.75
-1.39
-1.32
-1.45
-1.40
-1.60
-2.20
-Sub 14:00
+Sub 16:00
 
 Stevenage
 
@@ -6557,7 +6455,7 @@ Bradford
 1.35
 1.69
 2.05
-Sub 14:00
+Sub 16:00
 
 Wimbledon
 
@@ -6574,7 +6472,7 @@ Burton
 1.50
 1.53
 2.35
-Sub 14:00
+Sub 16:00
 
 Peterborough
 
@@ -6591,7 +6489,24 @@ Blackpool
 1.27
 1.90
 1.80
-Sub 14:00
+Sub 16:00
+
+Peterborough
+
+Blackpool
+
++523
+
+2.30
+3.30
+2.90
+1.36
+1.28
+1.54
+1.27
+1.90
+1.80
+Sub 16:00
 
 Barnsley
 
@@ -6608,7 +6523,7 @@ Rotherham
 1.22
 2.11
 1.65
-Sub 14:00
+Sub 16:00
 
 Northampton
 
@@ -6625,7 +6540,7 @@ Luton
 1.40
 1.60
 2.20
-Sub 14:00
+Sub 16:00
 
 Leyton
 
@@ -6642,7 +6557,7 @@ Lincoln City
 1.29
 1.80
 1.90
-Sub 14:00
+Sub 16:00
 
 Reading
 
@@ -6659,7 +6574,7 @@ Doncaster
 1.27
 1.90
 1.80
-Sub 14:00
+Sub 16:00
 
 Wycombe
 
@@ -6676,7 +6591,7 @@ Huddersfield
 1.28
 1.85
 1.85
-Pon 20:00
+Pon 21:00
 
 Port Vale
 
@@ -6703,41 +6618,7 @@ X2
 2+
 0-2
 3+
-Sub 11:30
-
-Fleetwood
-
-Accrington
-
-+523
-
-2.05
-3.30
-3.45
-1.26
-1.29
-1.69
-1.29
-1.80
-1.90
-Sub 11:30
-
-Cheltenham
-
-Walsall
-
-+523
-
-3.80
-3.30
-1.95
-1.77
-1.29
-1.23
-1.33
-1.72
-2.00
-Sub 14:00
+Sub 16:00
 
 Harrogate T.
 
@@ -6754,7 +6635,7 @@ Newport
 1.29
 1.80
 1.90
-Sub 14:00
+Sub 16:00
 
 Barrow
 
@@ -6771,7 +6652,7 @@ Barnet
 1.30
 1.76
 1.95
-Sub 14:00
+Sub 16:00
 
 Notts County
 
@@ -6788,7 +6669,7 @@ Cambridge
 1.40
 1.60
 2.20
-Sub 14:00
+Sub 16:00
 
 Tranmere
 
@@ -6805,7 +6686,7 @@ Chesterfield
 1.27
 1.90
 1.80
-Sub 14:00
+Sub 16:00
 
 Crawley Town
 
@@ -6822,7 +6703,7 @@ Bristol Rovers
 1.27
 1.90
 1.80
-Sub 14:00
+Sub 16:00
 
 Crewe
 
@@ -6839,7 +6720,7 @@ Grimsby
 1.28
 1.85
 1.85
-Sub 14:00
+Sub 16:00
 
 Bromley
 
@@ -6856,7 +6737,7 @@ Milton Keynes Dons
 1.29
 1.80
 1.90
-Sub 14:00
+Sub 16:00
 
 Gillingham
 
@@ -6873,7 +6754,7 @@ Salford City
 1.28
 1.85
 1.85
-Sub 14:00
+Sub 16:00
 
 Swindon
 
@@ -6890,7 +6771,7 @@ Colchester
 1.20
 2.19
 1.60
-Sub 14:00
+Sub 16:00
 
 Oldham
 
@@ -6899,14 +6780,14 @@ Shrewsbury
 +523
 
 2.15
-3.10
-3.40
-1.27
-1.32
+3.15
+3.35
+1.28
+1.31
 1.62
-1.50
-1.53
-2.35
+1.45
+1.55
+2.30
 Engleska 5
 1
 X
@@ -6917,24 +6798,7 @@ X2
 2+
 0-2
 3+
-Sub 11:30
-
-Halifax
-
-York
-
-+523
-
-4.30
-3.50
-1.77
-1.93
-1.25
-1.18
-1.20
-2.19
-1.60
-Sub 14:00
+Sub 16:00
 
 Yeovil
 
@@ -6951,7 +6815,7 @@ Carlisle
 1.28
 1.85
 1.85
-Sub 14:00
+Sub 16:00
 
 Wealdstone
 
@@ -6968,7 +6832,7 @@ Sutton United
 1.22
 2.11
 1.65
-Sub 14:00
+Sub 16:00
 
 Southend
 
@@ -6985,7 +6849,7 @@ Brackley Town
 1.28
 1.80
 1.90
-Sub 14:00
+Sub 16:00
 
 Woking
 
@@ -7002,7 +6866,7 @@ Rochdale
 1.25
 1.96
 1.75
-Sub 14:00
+Sub 16:00
 
 Forest Green
 
@@ -7019,7 +6883,7 @@ Boreham Wood
 1.28
 1.85
 1.85
-Sub 14:00
+Sub 16:00
 
 Braintree
 
@@ -7036,7 +6900,7 @@ Altrincham
 1.23
 2.03
 1.70
-Sub 14:00
+Sub 16:00
 
 Eastleigh
 
@@ -7053,7 +6917,7 @@ Morecambe
 1.18
 2.29
 1.55
-Sub 14:00
+Sub 16:00
 
 Gateshead
 
@@ -7070,7 +6934,7 @@ Truro City
 1.23
 2.03
 1.70
-Sub 14:00
+Sub 16:00
 
 Hartlepool
 
@@ -7087,7 +6951,7 @@ Solihull
 1.20
 2.19
 1.60
-Sub 14:00
+Sub 16:00
 
 Scunthorpe
 
@@ -7104,7 +6968,7 @@ Aldershot
 1.17
 2.41
 1.50
-Sub 16:30
+Sub 18:30
 
 Tamworth
 
@@ -7131,7 +6995,7 @@ X2
 2+
 0-2
 3+
-Sub 14:00
+Sub 16:00
 
 Dorking Wanderers
 
@@ -7148,7 +7012,7 @@ Torquay
 1.25
 1.96
 1.75
-Sub 14:00
+Sub 16:00
 
 Afc Totton
 
@@ -7165,7 +7029,7 @@ Chelmsford City
 1.25
 1.96
 1.75
-Sub 14:00
+Sub 16:00
 
 Worthing
 
@@ -7182,7 +7046,7 @@ Dover Athletic
 1.17
 2.41
 1.50
-Sub 14:00
+Sub 16:00
 
 Slough Town
 
@@ -7199,7 +7063,7 @@ Maidstone Utd
 1.22
 2.11
 1.65
-Sub 14:00
+Sub 16:00
 
 Tonbridge
 
@@ -7216,7 +7080,7 @@ Weston
 1.27
 1.90
 1.80
-Sub 14:00
+Sub 16:00
 
 Eastbourne
 
@@ -7233,7 +7097,7 @@ Chesham Utd.
 1.33
 1.72
 2.00
-Sub 14:00
+Sub 16:00
 
 Hornchurch
 
@@ -7250,7 +7114,7 @@ Hampton&R.
 1.20
 2.19
 1.60
-Sub 14:00
+Sub 16:00
 
 Ebbsfleet
 
@@ -7267,7 +7131,7 @@ Salisbury
 1.27
 1.90
 1.80
-Sub 14:00
+Sub 16:00
 
 Horsham Fc
 
@@ -7284,7 +7148,7 @@ Enfield Town
 1.22
 2.03
 1.70
-Sub 14:00
+Sub 16:00
 
 Chippenham
 
@@ -7301,7 +7165,7 @@ Dag & Red
 1.27
 1.90
 1.80
-Sub 14:00
+Sub 16:00
 
 Hemel Hempstead
 
@@ -7328,7 +7192,7 @@ X2
 2+
 0-2
 3+
-Sub 14:00
+Sub 16:00
 
 Buxton
 
@@ -7345,7 +7209,7 @@ Alfreton
 1.23
 2.03
 1.70
-Sub 14:00
+Sub 16:00
 
 Scarborough
 
@@ -7362,7 +7226,7 @@ Marine
 1.27
 1.90
 1.80
-Sub 14:00
+Sub 16:00
 
 Curzon
 
@@ -7379,7 +7243,7 @@ Peterborough Sports
 1.27
 1.90
 1.80
-Sub 14:00
+Sub 16:00
 
 Kings Lynn
 
@@ -7396,7 +7260,7 @@ Radcliffe Borough
 1.25
 1.96
 1.75
-Sub 14:00
+Sub 16:00
 
 Macclesfield
 
@@ -7413,7 +7277,7 @@ South Shields
 1.20
 2.19
 1.60
-Sub 14:00
+Sub 16:00
 
 Kidderminster
 
@@ -7430,7 +7294,7 @@ Spennymoor
 1.30
 1.76
 1.95
-Sub 14:00
+Sub 16:00
 
 Chorley
 
@@ -7447,7 +7311,7 @@ Merthyr Town
 1.15
 2.55
 1.45
-Sub 14:00
+Sub 16:00
 
 Darlington
 
@@ -7464,7 +7328,7 @@ Southport
 1.25
 1.96
 1.75
-Sub 14:00
+Sub 16:00
 
 Oxford City
 
@@ -7481,7 +7345,7 @@ Leamington
 1.25
 1.96
 1.75
-Sub 14:00
+Sub 16:00
 
 Chester
 
@@ -7489,16 +7353,16 @@ Bedford
 
 +523
 
-1.55
-3.80
-5.80
-1.10
-1.22
-2.30
+1.58
+3.70
+5.60
+1.11
+1.23
+2.23
 1.22
 2.11
 1.65
-Sub 14:00
+Sub 16:00
 
 Telford
 
@@ -7512,10 +7376,10 @@ Worksop
 1.20
 1.26
 1.89
-1.22
-2.11
-1.65
-Sub 14:00
+1.20
+2.19
+1.60
+Sub 16:00
 
 Fylde
 
@@ -7542,7 +7406,7 @@ X2
 2+
 0-2
 3+
-Sub 14:00
+Sub 16:00
 
 Kettering
 
@@ -7556,6 +7420,162 @@ Needham
 1.34
 1.22
 1.63
+1.22
+1.85
+1.75
+Sub 16:00
+
+Stamford
+
+Barwell
+
++523
+
+2.35
+3.60
+2.55
+1.42
+1.22
+1.49
+1.25
+1.80
+1.80
+Engleska 7 istok
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Sub 16:00
+
+Ramsgate
+
+Carshalton Athletic
+
++523
+
+2.10
+3.70
+2.90
+1.34
+1.22
+1.63
+1.18
+2.06
+1.60
+Sub 16:00
+
+Cray Wanderers
+
+Dartford
+
++523
+
+2.50
+3.70
+2.35
+1.49
+1.21
+1.44
+1.15
+2.15
+1.55
+Sub 16:00
+
+Potters Bar Town
+
+Aveley
+
++523
+
+2.80
+3.70
+2.15
+1.59
+1.22
+1.36
+1.25
+1.80
+1.80
+Engleska 7 jug
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Sub 16:00
+
+Hungerford
+
+Weymouth
+
++523
+
+1.95
+3.70
+3.15
+1.28
+1.20
+1.70
+1.25
+1.80
+1.80
+Sub 16:00
+
+Sholing
+
+Gosport
+
++523
+
+2.50
+3.50
+2.50
+1.46
+1.25
+1.46
+1.25
+1.75
+1.85
+Sub 16:00
+
+Evesham Utd
+
+Uxbridge
+
++523
+
+2.05
+3.70
+2.95
+1.32
+1.21
+1.64
+1.20
+1.91
+1.70
+Sub 16:00
+
+Tiverton
+
+Yate Town
+
++523
+
+2.15
+3.70
+2.80
+1.36
+1.22
+1.59
 1.22
 1.85
 1.75
@@ -7621,7 +7641,7 @@ Mozzart je osnivač i član Evropske organizacije za pravo igara na sreću (Euro
 Metode plaćanja
 
 © Mozzartbet. All rights reserved 2025
-11:03:48 | 25.10.2025.
+13:35:50 | 25.10.2025.
 
 Ekskluzivni beting partneri
 

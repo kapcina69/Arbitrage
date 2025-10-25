@@ -16,7 +16,7 @@ Top Mečevi
 Top Lige
  
 Fudbal
-339
+334
 Fudbal Strelci
 12
 Oktagon Derbi
@@ -26,9 +26,9 @@ Oktagon Duel
 Golovi Po Ligama
 1
 Tenis
-31
+30
 Košarka
-59
+58
 Košarka Specijal
 9
 MMA
@@ -50,7 +50,7 @@ Am. Fudbal Specijal
 Vaterpolo
 4
 Stoni Tenis
-4
+2
 Formula 1
 1
 Bejzbol
@@ -66,7 +66,7 @@ Pikado
 Boks
 11
 Pobednici
-28
+27
 PODRŠKA
 POMOĆ
 ČESTA PITANJA
@@ -84,10 +84,10 @@ UPLATNA MESTA
 PROMOCIJE
 ALPHAPEX DOO priređuje igre na sreću preko sredstava elektronske komunikacije – klađenje i ostale igre preko svog sajta www.oktagonbet.com u skladu sa odobrenjem izdatim od strane Ministarstva finansija Republike Srbije, Uprave za igre na sreću na osnovu Rešenja broj 424-01-00022/2020-02 od 30. aprila 2020. godine. Osobama mlađim od 18 godina, po Zakonu o igrama na sreću, nije dozvoljeno klađenje putem elektronske komunikacije na sajtu www.oktagonbet.com.
 TIKET 
-11:15:29
+13:47:30
 STATUS TIKETA
-MINI
-DO: 10.000 RSD
+MAXI
+DO: 100.000 RSD
  RSD
 OKTAGON TIKET
 
