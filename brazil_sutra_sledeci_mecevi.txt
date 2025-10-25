@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 27.10.
-8:00
+9:00
 23:59
-8:00 - 23:59
+9:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -33,94 +33,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-INDONESIA, Championship
-35154
-08:30
-Deltras Sidoarjo
-PSIS Semarang
-646
-1
-1.19
-X
-5.80
-2
-12.0
-0-2
-2.45
-2+
-1.13
-3+
-1.49
-35155
-08:30
-Garudayaksa
-Persikad Depok
-631
-1
-1.30
-X
-4.65
-2
-9.75
-0-2
-2.00
-2+
-1.22
-3+
-1.74
-35156
-08:30
-Sriwijaya
-Bekasi City
-654
-1
-3.75
-X
-3.20
-2
-1.97
-0-2
-1.65
-2+
-1.34
-3+
-2.10
-INDONESIA, Super League
-782
-08:30
-Arema FC
-Borneo
-833
-1
-2.75
-X
-3.20
-2
-2.30
-0-2
-1.95
-2+
-1.22
-3+
-1.75
-THAILAND, Thai League 3
-33587
-08:30
-Prime Bangkok
-Futura United
-100
-1
-1.26
-X
-5.25
-2
-7.90
-0-2
-2.65
-2+
-1.08
-3+
-1.38
 ITALY, Primavera 1
 1011
 09:00
@@ -1134,7 +1046,7 @@ ITALY, Serie A
 11:30
 Torino
 Genoa
-1027
+1014
 1
 2.30
 X
@@ -1154,11 +1066,11 @@ Fajr Sepasi
 Esteghlal F.C.
 645
 1
-3.65
+4.00
 X
-2.80
+2.90
 2
-2.08
+1.94
 0-2
 1.38
 2+
@@ -1188,19 +1100,19 @@ THAILAND, Thai League 1
 11:30
 Bangkok Utd
 Lamphun Warrior
-832
+829
 1
-1.57
+1.66
 X
-3.80
+3.55
 2
-4.75
+4.45
 0-2
-2.15
+2.00
 2+
-1.18
+1.20
 3+
-1.61
+1.69
 740
 11:30
 Sukhothai
@@ -1457,17 +1369,17 @@ Malut United
 Semen Padang
 827
 1
-1.68
+1.66
 X
-3.45
+3.55
 2
-4.40
+4.45
 0-2
-1.95
+2.00
 2+
-1.22
+1.21
 3+
-1.77
+1.72
 KENYA, Premier League
 35081
 12:00
@@ -1583,11 +1495,11 @@ Spartak Tambov
 Arsenal Tula 2
 60
 1
-1.86
+1.84
 X
 3.30
 2
-3.75
+3.85
 0-2
 1.85
 2+
@@ -1759,19 +1671,19 @@ RUSSIA, Premier League
 12:15
 Nizhny Novgorod
 Baltika
-821
+823
 1
-3.95
+4.00
 X
 3.15
 2
-2.04
+2.03
 0-2
 1.57
 2+
-1.41
+1.40
 3+
-2.30
+2.28
 BELGIUM, Jupiler Pro League
 485
 12:30
@@ -1949,6 +1861,24 @@ X
 1.15
 3+
 1.53
+MACEDONIA, Prva Liga
+554
+12:30
+Sileks
+Pelister
+815
+1
+1.35
+X
+4.05
+2
+8.00
+0-2
+1.80
+2+
+1.27
+3+
+1.90
 UNITED ARAB EMIRATES, Presidents Cup
 1004
 12:55
@@ -2430,13 +2360,13 @@ WORLD, Africa Cup of Nations Women - Qualification
 13:00
 Zambia Wom.
 Namibia Wom.
-832
+829
 1
-1.47
+1.38
 X
-4.10
+4.33
 2
-5.40
+6.40
 0-2
 2.28
 2+
@@ -2450,11 +2380,11 @@ Kaizer Chiefs
 Simba
 824
 1
-1.38
+1.35
 X
-4.30
+4.40
 2
-6.60
+7.10
 0-2
 2.15
 2+
@@ -2871,7 +2801,7 @@ X
 14:00
 Aston Villa
 Manchester City
-1033
+952
 1
 4.55
 X
@@ -2888,7 +2818,7 @@ X
 14:00
 Bournemouth
 Nottingham
-1034
+1032
 1
 1.84
 X
@@ -2940,7 +2870,7 @@ X
 14:00
 Verona
 Cagliari
-1021
+1023
 1
 2.25
 X
@@ -2971,6 +2901,24 @@ X
 1.19
 3+
 1.61
+ALGERIA, Ligue 1
+627
+14:00
+Paradou
+Mostaganem
+815
+1
+2.18
+X
+2.90
+2
+3.25
+0-2
+1.50
+2+
+1.42
+3+
+2.35
 CZECH REPUBLIC, 3. CFL - Group B
 1356
 14:00
@@ -2978,11 +2926,11 @@ Mlada Boleslav B
 Varnsdorf
 659
 1
-1.63
+1.65
 X
-3.80
+3.75
 2
-4.00
+3.90
 0-2
 2.45
 2+
@@ -3245,7 +3193,7 @@ GERMANY, Bundesliga
 14:30
 Bayer Leverkusen
 Freiburg
-1033
+1046
 1
 1.87
 X
@@ -3358,7 +3306,7 @@ Dynamo Moscow
 X
 4.15
 2
-5.45
+5.40
 0-2
 2.25
 2+
@@ -4059,7 +4007,24 @@ X
 3+
 2.18
 Odigrani tiketi
-Klikni na kvotu i pokreni
+813
+FC Bihor - Afumati
+26.10. 09:30
+KONAČAN ISHOD 
+1
+  1.51  
+Običan
+Sistem
+Kvota:
+1.51
+Uplata:
+20.00 RSD
+Dobitak:
+30.20 RSD
+Prihvatam sve promene kvota.
+FREEBET
+Express
+Prijavi se
 Srpski
 O nama
 Odgovorno klađenje

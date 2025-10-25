@@ -30,7 +30,7 @@ Tenis
 Košarka
 58
 Košarka Specijal
-9
+10
 MMA
 10
 Esport
@@ -54,7 +54,7 @@ Stoni Tenis
 Formula 1
 1
 Bejzbol
-3
+2
 Futsal
 3
 Ragbi Unija
@@ -84,7 +84,7 @@ UPLATNA MESTA
 PROMOCIJE
 ALPHAPEX DOO priređuje igre na sreću preko sredstava elektronske komunikacije – klađenje i ostale igre preko svog sajta www.oktagonbet.com u skladu sa odobrenjem izdatim od strane Ministarstva finansija Republike Srbije, Uprave za igre na sreću na osnovu Rešenja broj 424-01-00022/2020-02 od 30. aprila 2020. godine. Osobama mlađim od 18 godina, po Zakonu o igrama na sreću, nije dozvoljeno klađenje putem elektronske komunikacije na sajtu www.oktagonbet.com.
 TIKET 
-09:04:44
+09:36:53
 STATUS TIKETA
 MAXI
 DO: 100.000 RSD
