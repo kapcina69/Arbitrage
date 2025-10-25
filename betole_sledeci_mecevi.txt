@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1720
+1726
   
   
 DNEVNI SPECIJAL
@@ -48,7 +48,7 @@ GOLOVI PO LIGAMA
   
   
 KOŠARKA
-229
+259
   
   
 SP. KOŠARKA
@@ -56,19 +56,19 @@ SP. KOŠARKA
   
   
 TENIS
-73
+91
   
   
 RUKOMET
-171
+175
   
   
 ODBOJKA
-137
+160
   
   
 HOKEJ
-119
+192
   
   
 AM.FUDBAL
@@ -84,11 +84,11 @@ BEJZBOL
   
   
 RAGBI UNIJA
-17
+18
   
   
 STONI TENIS
-224
+220
   
   
 VATERPOLO
@@ -96,11 +96,11 @@ VATERPOLO
   
   
 FUTSAL
-16
+20
   
   
 BADMINTON
-4
+8
   
   
 MMA
@@ -111,8 +111,12 @@ BOKS
 19
   
   
+SNUKER
+2
+  
+  
 PIKADO
-4
+23
   
   
 ESPORT
@@ -147,30 +151,30 @@ Specijali
 KONAČAN ISHOD
  
 Japan, J1 League
-+952
++902
 FC Tokyo
 Okayama
 25.10. 05:00
 ki 1
-1.92
+1.88
 ki X
 3.35
 ki 2
-4.00
+4.10
 manje 2.5
-1.72
+1.73
 više 2.5
-2.02
+2.00
 +900
 Kashiwa Reysol
 Yokohama FC
 25.10. 05:00
 ki 1
-1.70
+1.65
 ki X
-3.50
+3.55
 ki 2
-5.20
+5.40
 manje 2.5
 1.72
 više 2.5
@@ -180,25 +184,25 @@ Kyoto
 Kashima
 25.10. 05:00
 ki 1
-2.63
+2.60
 ki X
-3.35
+3.30
 ki 2
-2.55
+2.60
 manje 2.5
-1.93
+1.88
 više 2.5
-1.80
-+961
+1.83
++909
 Nagoya Grampus
 Gamba Osaka
 25.10. 05:00
 ki 1
-2.62
+2.65
 ki X
 3.15
 ki 2
-2.70
+2.65
 manje 2.5
 1.71
 više 2.5
@@ -217,30 +221,30 @@ manje 2.5
 1.53
 više 2.5
 2.35
-+905
++954
 Urawa Reds
 Machida
 25.10. 05:00
 ki 1
 3.25
 ki X
-3.15
+3.10
 ki 2
-2.25
+2.27
 manje 2.5
-1.70
+1.67
 više 2.5
-2.05
-+909
+2.08
++966
 Yokohama F. Marinos
 Sanfrecce Hiroshima
 25.10. 05:00
 ki 1
-3.25
+3.10
 ki X
 3.30
 ki 2
-2.20
+2.27
 manje 2.5
 1.87
 više 2.5
@@ -263,34 +267,34 @@ više 2.5
 1.90
  
 Japan, J3 League
-+811
++813
 Gifu
 Kagoshima Utd
 25.10. 05:00
 ki 1
-3.35
+3.20
 ki X
-3.40
+3.30
 ki 2
-2.03
+2.10
 manje 2.5
-1.93
+1.92
 više 2.5
 1.77
-+806
++808
 Giravanz Kitakyushu
 Ryukyu
 25.10. 05:00
 ki 1
 1.77
 ki X
-3.35
+3.40
 ki 2
 4.40
 manje 2.5
-1.75
+1.81
 više 2.5
-1.95
+1.88
 +813
 Kusatsu
 Nara Club
@@ -330,25 +334,25 @@ ki X
 ki 2
 2.93
 manje 2.5
-1.70
+1.71
 više 2.5
-2.03
+2.02
  
 South Korea, K League 1 - Championship Group
-+819
++820
 Jeonbuk
 Gimcheon Sangmu
 25.10. 05:00
 ki 1
-2.10
+1.91
 ki X
-3.55
+3.75
 ki 2
-2.97
+3.35
 manje 2.5
-2.41
+2.45
 više 2.5
-1.50
+1.48
  
 South Korea, K League 1 - Relegation Group
 +803
@@ -381,7 +385,7 @@ manje 2.5
 1.77
 više 2.5
 1.95
-+819
++818
 Suwon Bluewings
 Jeonnam Dragons
 25.10. 05:00
@@ -390,9 +394,9 @@ ki 1
 ki X
 4.00
 ki 2
-4.10
+4.05
 manje 2.5
-2.55
+2.57
 više 2.5
 1.45
  
@@ -413,7 +417,7 @@ više 2.5
 2.27
  
 Japan, J1 League
-+972
++919
 Cerezo Osaka
 Kawasaki Frontale
 25.10. 06:00
@@ -459,16 +463,16 @@ manje 2.5
 1.70
 više 2.5
 2.02
-+633
++634
 Jiangxi Beidamen
 Wuhan Three Towns B
 25.10. 06:30
 ki 1
-1.83
+1.93
 ki X
-3.20
+3.15
 ki 2
-4.00
+3.65
 manje 2.5
 1.62
 više 2.5
@@ -534,31 +538,31 @@ Shanxi Chongde Ronghai
 Guangxi Lanhang
 25.10. 06:30
 ki 1
-1.14
+1.13
 ki X
-6.50
+6.70
 ki 2
-13.0
+14.0
 manje 2.5
-2.70
+2.80
 više 2.5
-1.40
+1.36
  
 China, Super League
-+809
++806
 Tianjin Jinmen Tiger
 Changchun Yatai
 25.10. 07:30
 ki 1
 1.85
 ki X
-3.45
+3.40
 ki 2
-3.90
+3.95
 manje 2.5
-1.87
-više 2.5
 1.82
+više 2.5
+1.88
  
 China, Jia League
 +811
@@ -577,20 +581,20 @@ više 2.5
 1.97
  
 South Korea, K League 1 - Relegation Group
-+818
++817
 Suwon FC
 Jeju Utd
 25.10. 07:30
 ki 1
-1.90
+1.80
 ki X
-3.70
+3.75
 ki 2
-3.40
+3.75
 manje 2.5
-2.30
+2.35
 više 2.5
-1.55
+1.53
  
 South Korea, K League 2
 +808
@@ -658,11 +662,11 @@ V-Varen Nagasaki
 Imabari
 25.10. 08:00
 ki 1
-1.82
+1.77
 ki X
-3.70
+3.75
 ki 2
-3.95
+4.15
 manje 2.5
 2.15
 više 2.5
@@ -697,20 +701,20 @@ manje 2.5
 2.05
 više 2.5
 1.67
-+634
++633
 CSM Resita
 Poli Iasi
 25.10. 08:00
 ki 1
-1.82
+1.67
 ki X
-3.30
+3.50
 ki 2
-3.85
+4.50
 manje 2.5
-1.77
+1.90
 više 2.5
-1.91
+1.77
 +629
 CSM Satu Mare
 Steaua Bucuresti
@@ -881,11 +885,11 @@ Persik Kediri
 PSM Makassar
 25.10. 08:30
 ki 1
-2.35
+2.25
 ki X
 3.03
 ki 2
-2.85
+3.00
 manje 2.5
 1.67
 više 2.5
@@ -908,34 +912,34 @@ više 2.5
 1.67
  
 Thailand, Thai League 3
-+81
++83
 Chamchuri Utd
 North Bangkok Univ.
 25.10. 08:30
 ki 1
-4.90
-ki X
 3.60
+ki X
+3.20
 ki 2
-1.60
+1.91
 manje 2.5
-1.82
+1.70
 više 2.5
-1.81
-+83
+1.97
++82
 Kasem Bundit Univ.
 Royal Thai Air Force FC
 25.10. 08:30
 ki 1
-2.15
+1.81
 ki X
-3.05
+3.30
 ki 2
-3.10
+3.95
 manje 2.5
-1.67
+1.72
 više 2.5
-2.00
+1.93
 +81
 Pluak Daeng United
 BFB Pattaya City
@@ -950,34 +954,34 @@ manje 2.5
 1.90
 više 2.5
 1.75
-+82
++81
 Roi-Et PB United
 Surin City FC
 25.10. 08:30
 ki 1
-1.65
+1.48
 ki X
-3.80
+4.10
 ki 2
-4.15
+5.25
 manje 2.5
-2.20
+2.25
 više 2.5
-1.55
+1.52
 +82
 Saraburi
 Ang Thong FC
 25.10. 08:30
 ki 1
-2.20
+2.57
 ki X
-3.35
+3.30
 ki 2
-2.80
+2.40
 manje 2.5
-2.03
+2.00
 više 2.5
-1.65
+1.67
 +82
 Singburi Warriors
 Lopburi City FC
@@ -1031,7 +1035,7 @@ ki 1
 ki X
 4.33
 ki 2
-5.20
+5.25
 manje 2.5
 2.27
 više 2.5
@@ -1131,15 +1135,15 @@ Ispe FC
 Thitsar Arman
 25.10. 09:00
 ki 1
-2.12
+2.05
 ki X
-3.70
+3.90
 ki 2
-2.70
+2.75
 manje 2.5
-2.50
+2.90
 više 2.5
-1.45
+1.35
 +80
 Yangon Utd
 Hantharwady Utd.
@@ -1250,20 +1254,20 @@ više 2.5
 1.65
  
 Italy, Primavera 2
-+629
++632
 Benevento U19
 Crotone U19
 25.10. 09:30
 ki 1
-1.37
+1.47
 ki X
-4.45
+4.10
 ki 2
-6.50
+5.35
 manje 2.5
-2.30
+2.22
 više 2.5
-1.53
+1.57
 +633
 Sampdoria U19
 Brescia U19
@@ -1358,6 +1362,22 @@ manje 2.5
 1.55
 više 2.5
 2.27
+ 
+International Youth, Euro U19 Women - Qualification - Round 1 - League A
++581
+England U19 Wom.
+Greece U19 Wom.
+25.10. 10:00
+ki 1
+-
+ki X
+20.0
+ki 2
+40.0
+manje 2.5
+8.10
+više 2.5
+1.04
  
 Latvia, 1. Liga 2020
 +625
@@ -1609,13 +1629,13 @@ Khonkaen Mordindang FC
 EUMT FC
 25.10. 10:00
 ki 1
-2.80
+2.70
 ki X
-3.35
+3.30
 ki 2
-2.20
+2.27
 manje 2.5
-2.03
+2.02
 više 2.5
 1.65
 +80
@@ -1650,20 +1670,20 @@ više 2.5
 1.24
  
 Turkey, 3. Lig Group 3
-+609
++627
 Fatsa Belediyespor
 Giresunspor
 25.10. 10:00
 ki 1
-1.83
+1.65
 ki X
-3.10
+3.35
 ki 2
-3.80
+4.45
 manje 2.5
-1.57
+1.77
 više 2.5
-2.10
+1.83
  
 Vietnam, V.League 2
 +632
@@ -1671,15 +1691,15 @@ Khanh Hoa
 PVF-CAND B
 25.10. 10:00
 ki 1
-1.95
+2.12
 ki X
-3.10
+2.95
 ki 2
-3.65
+3.30
 manje 2.5
-1.55
+1.52
 više 2.5
-2.25
+2.35
  
 International Clubs, AFC Challenge League
 +631
@@ -1705,13 +1725,13 @@ Academico Viseu U19
 ki 1
 2.35
 ki X
-3.05
+3.10
 ki 2
 2.67
 manje 2.5
-1.80
+1.83
 više 2.5
-1.81
+1.77
  
 Romania, Liga 2
 +634
@@ -1776,18 +1796,18 @@ više 2.5
 1.42
  
 Germany, 2. Bundesliga
-+917
++958
 Arminia Bielefeld
 Elversberg
 25.10. 11:00
 ki 1
-2.85
+2.83
 ki X
 3.80
 ki 2
 2.25
 manje 2.5
-2.55
+2.57
 više 2.5
 1.45
 +915
@@ -1836,20 +1856,20 @@ više 2.5
 1.70
  
 China, Super League
-+821
++822
 Henan Songshan Longmen
 Zhejiang Professional
 25.10. 11:00
 ki 1
 1.83
 ki X
-4.05
+4.10
 ki 2
 3.35
 manje 2.5
-2.90
+3.05
 više 2.5
-1.36
+1.33
  
 Denmark, 2nd Division
 +636
@@ -1873,15 +1893,15 @@ Horsholm-Usserod IK
 Odder
 25.10. 11:00
 ki 1
-2.35
+2.08
 ki X
-3.20
+3.25
 ki 2
-2.67
+3.10
 manje 2.5
-1.88
+1.90
 više 2.5
-1.80
+1.77
  
 England, Premier League 2
 +639
@@ -2048,20 +2068,20 @@ manje 2.5
 2.35
 više 2.5
 1.51
-+822
++819
 Sandviken
 Brattvag
 25.10. 11:00
 ki 1
-5.25
+6.20
 ki X
-4.85
+5.25
 ki 2
-1.40
+1.32
 manje 2.5
-3.70
+3.95
 više 2.5
-1.22
+1.20
 +813
 Sotra
 Lysekloster
@@ -2092,34 +2112,34 @@ više 2.5
 1.37
  
 Norway, Division 2 - Group 2
-+826
++825
 Eidsvold TF
 Ull/Kisa
 25.10. 11:00
 ki 1
-2.02
+2.00
 ki X
-4.10
+4.20
 ki 2
-2.73
+2.70
 manje 2.5
-3.90
+4.45
 više 2.5
-1.20
-+817
+1.16
++818
 Follo
 Strommen
 25.10. 11:00
 ki 1
-6.00
+6.20
 ki X
-4.85
+5.10
 ki 2
-1.36
+1.33
 manje 2.5
-3.15
+3.55
 više 2.5
-1.30
+1.24
 +807
 Honefoss
 Asker
@@ -2134,20 +2154,20 @@ manje 2.5
 4.75
 više 2.5
 1.14
-+819
++817
 Kjelsas
 Alta
 25.10. 11:00
 ki 1
-1.33
+1.32
 ki X
-5.10
+5.35
 ki 2
-5.90
+6.00
 manje 2.5
-3.90
+4.45
 više 2.5
-1.20
+1.16
 +819
 Levanger
 Strindheim
@@ -2707,69 +2727,69 @@ ki 2
 manje 2.5
 1.83
 više 2.5
-1.90
+1.88
  
 England, National League
-+814
++816
 FC Halifax
 York
 25.10. 11:30
 ki 1
-3.95
+3.75
 ki X
-3.80
+3.75
 ki 2
-1.75
+1.80
 manje 2.5
 2.20
 više 2.5
 1.60
  
 Austria, Salzburg
-+38
++39
 Thalgau
 TSU Bramberg
 25.10. 11:30
 ki 1
-2.45
+3.03
 ki X
-3.60
+3.80
 ki 2
-2.30
+1.87
 manje 2.5
-2.62
+2.83
 više 2.5
-1.38
+1.33
  
 China, Jia League
-+796
++805
 Foshan Nanshi
 Shanghai Jiading Huilong
 25.10. 11:30
 ki 1
-1.75
+1.73
 ki X
-3.20
+3.30
 ki 2
 4.40
 manje 2.5
-1.67
+1.73
 više 2.5
-2.07
-+802
+1.95
++800
 Heilongjiang Ice City
 Dalian Kuncheng
 25.10. 11:30
 ki 1
-2.50
+2.27
 ki X
-2.97
+3.00
 ki 2
-2.67
+2.97
 manje 2.5
-1.61
+1.62
 više 2.5
-2.15
+2.12
 +808
 Qingdao Red Lions
 Nanjing City
@@ -2802,32 +2822,32 @@ više 2.5
 2.41
  
 Denmark, 2nd Division
-+629
++630
 VSK Aarhus
 Roskilde
 25.10. 11:30
 ki 1
-6.50
+5.60
 ki X
-4.35
+4.00
 ki 2
-1.37
+1.47
 manje 2.5
-2.20
+2.08
 više 2.5
-1.57
+1.65
  
 Denmark, 3rd Division
-+638
++637
 Lyseng
 Sundby
 25.10. 11:30
 ki 1
-2.95
+2.50
 ki X
-3.50
+3.45
 ki 2
-2.07
+2.35
 manje 2.5
 2.22
 više 2.5
@@ -2989,11 +3009,11 @@ Police Tero
 Khonkaen Utd.
 25.10. 11:30
 ki 1
-2.77
+2.60
 ki X
 3.25
 ki 2
-2.27
+2.40
 manje 2.5
 1.93
 više 2.5
@@ -3062,30 +3082,30 @@ više 2.5
 2.12
  
 Uzbekistan, Super League
-+779
++794
 Shortan Guzor
 Neftchi Fargona
 25.10. 11:30
 ki 1
-7.75
+7.40
 ki X
-4.20
+4.05
 ki 2
-1.35
+1.37
 manje 2.5
-1.87
+1.82
 više 2.5
-1.77
+1.81
  
 Spain, LaLiga
-+1017
++1013
 Girona
 Real Oviedo
 25.10. 12:00
 ki 1
-1.83
+1.82
 ki X
-3.40
+3.45
 ki 2
 4.75
 manje 2.5
@@ -3094,20 +3114,20 @@ više 2.5
 2.10
  
 Spain, LaLiga2
-+900
++943
 Cultural Leonesa
 Ceuta
 25.10. 12:00
 ki 1
-2.30
+2.35
 ki X
-3.05
+3.03
 ki 2
 3.20
 manje 2.5
 1.57
 više 2.5
-2.25
+2.27
  
 France, Ligue 2
 +949
@@ -3115,15 +3135,15 @@ Amiens
 Rodez
 25.10. 12:00
 ki 1
-3.10
+3.03
 ki X
-3.40
+3.50
 ki 2
 2.20
 manje 2.5
-2.05
+2.12
 više 2.5
-1.70
+1.65
 +943
 Montpellier
 Nancy
@@ -3190,29 +3210,29 @@ Kukesi
 AF Luftetari
 25.10. 12:00
 ki 1
-3.85
+3.30
 ki X
-3.20
+3.03
 ki 2
-1.87
-manje 2.5
-1.63
-više 2.5
 2.10
-+628
+manje 2.5
+1.61
+više 2.5
+2.15
++625
 Laci
 Burreli
 25.10. 12:00
 ki 1
-1.87
+1.80
 ki X
-3.00
+2.90
 ki 2
-4.15
+4.80
 manje 2.5
-1.47
+1.45
 više 2.5
-2.47
+2.55
  
 Austria, Regionalliga East
 +637
@@ -3236,29 +3256,29 @@ Bischofshofen
 SC Imst
 25.10. 12:00
 ki 1
-2.08
+2.40
 ki X
-3.30
+3.25
 ki 2
-3.05
+2.57
 manje 2.5
-1.92
+1.95
 više 2.5
-1.72
-+636
+1.70
++637
 Kitzbuhel
 Kufstein
 25.10. 12:00
 ki 1
-1.72
+1.93
 ki X
-3.70
+3.60
 ki 2
-3.85
+3.20
 manje 2.5
-2.25
+2.20
 više 2.5
-1.53
+1.55
  
 Austria, Steiermark
 +39
@@ -3298,13 +3318,13 @@ Dinamo Helfort
 ki 1
 4.90
 ki X
-4.05
+4.25
 ki 2
-1.48
+1.45
 manje 2.5
-2.37
+2.73
 više 2.5
-1.47
+1.36
  
 Azerbaijan, Premier League
 +796
@@ -3649,16 +3669,16 @@ manje 2.5
 2.03
 više 2.5
 1.67
-+820
++821
 Bayern II
 Illertissen
 25.10. 12:00
 ki 1
-2.27
+2.05
 ki X
-3.65
+3.70
 ki 2
-2.50
+2.85
 manje 2.5
 2.70
 više 2.5
@@ -3691,34 +3711,34 @@ manje 2.5
 2.22
 više 2.5
 1.57
-+810
++808
 Memmingen
 Unterhaching
 25.10. 12:00
 ki 1
-5.00
+4.35
 ki X
-3.95
+3.70
 ki 2
-1.53
+1.65
 manje 2.5
-2.15
+2.08
 više 2.5
-1.60
-+813
+1.65
++815
 Schwaben Augsburg
 Vilzing
 25.10. 12:00
 ki 1
-4.10
+3.55
 ki X
-3.80
+3.60
 ki 2
-1.67
+1.81
 manje 2.5
-2.25
+2.20
 više 2.5
-1.55
+1.60
  
 Germany, Oberliga Bayern Sud
 +82
@@ -3751,20 +3771,20 @@ više 2.5
 1.32
  
 Germany, Regionalliga North
-+824
++826
 Norderstedt
 SC Weiche-08
 25.10. 12:00
 ki 1
-2.65
+2.40
 ki X
-3.85
+3.80
 ki 2
-2.10
+2.30
 manje 2.5
-3.10
+3.05
 više 2.5
-1.31
+1.32
 +827
 Schoningen
 Lohne
@@ -3825,18 +3845,18 @@ više 2.5
 1.77
  
 Germany, Regionalliga West
-+814
++816
 B. Monchengladbach II
 Wuppertaler
 25.10. 12:00
 ki 1
-2.12
+1.97
 ki X
-3.45
+3.50
 ki 2
-2.88
+3.15
 manje 2.5
-2.20
+2.15
 više 2.5
 1.60
 +813
@@ -3844,41 +3864,41 @@ Bocholt
 Bochum II
 25.10. 12:00
 ki 1
-1.73
+1.60
 ki X
-3.70
+3.90
 ki 2
-3.85
+4.40
 manje 2.5
-2.25
+2.30
 više 2.5
-1.55
-+815
+1.53
++813
 Bonner
 Wiedenbruck
 25.10. 12:00
 ki 1
-2.20
+2.22
 ki X
-3.45
+3.30
 ki 2
-2.75
+2.80
 manje 2.5
-2.20
+2.00
 više 2.5
-1.60
-+817
+1.70
++815
 Dusseldorf II
 Paderborn II
 25.10. 12:00
 ki 1
-2.08
+2.35
 ki X
-3.50
+3.45
 ki 2
-2.90
+2.55
 manje 2.5
-2.27
+2.25
 više 2.5
 1.55
 +813
@@ -3909,20 +3929,20 @@ manje 2.5
 2.15
 više 2.5
 1.62
-+817
++815
 SC Velbert
 Schalke II
 25.10. 12:00
 ki 1
-4.75
+4.00
 ki X
-4.50
+4.25
 ki 2
-1.48
+1.60
 manje 2.5
-2.55
+2.45
 više 2.5
-1.43
+1.47
  
 Germany, Regionalliga Sudwest
 +638
@@ -3930,15 +3950,15 @@ Balingen
 Kassel
 25.10. 12:00
 ki 1
-3.75
+3.35
 ki X
-3.85
+3.70
 ki 2
-1.71
+1.85
 manje 2.5
-2.35
+2.25
 više 2.5
-1.52
+1.55
 +641
 Freiburg II
 Walldorf
@@ -3967,18 +3987,18 @@ manje 2.5
 2.88
 više 2.5
 1.35
-+641
++640
 Mainz II
 Freiberg
 25.10. 12:00
 ki 1
-2.30
+2.63
 ki X
 3.70
 ki 2
-2.45
+2.15
 manje 2.5
-2.73
+2.70
 više 2.5
 1.40
 +639
@@ -3995,20 +4015,20 @@ manje 2.5
 2.62
 više 2.5
 1.42
-+631
++632
 Stuttgarter Kickers
 Schott Mainz
 25.10. 12:00
 ki 1
-1.27
+1.35
 ki X
-5.35
+4.95
 ki 2
-7.30
+6.20
 manje 2.5
-2.97
+2.88
 više 2.5
-1.33
+1.35
  
 Greece, Super League 2
 +633
@@ -4016,29 +4036,29 @@ Ilioupoli
 PAE Chania
 25.10. 12:00
 ki 1
-3.00
+2.41
 ki X
-3.03
+3.00
 ki 2
-2.25
+2.75
 manje 2.5
-1.57
+1.55
 više 2.5
-2.20
-+627
+2.25
++629
 Kavala
 Karditsa
 25.10. 12:00
 ki 1
-6.70
+5.00
 ki X
-3.60
+3.25
 ki 2
-1.47
+1.65
 manje 2.5
-1.61
+1.60
 više 2.5
-2.15
+2.20
 +622
 Panargiakos
 Athens Kallithea
@@ -4556,11 +4576,11 @@ A. Salzburg
 Austria Vienna (Am)
 25.10. 12:30
 ki 1
-2.12
+2.20
 ki X
 3.45
 ki 2
-3.05
+2.93
 manje 2.5
 2.10
 više 2.5
@@ -4629,6 +4649,20 @@ više 2.5
 2.02
  
 Czech Republic, MSFL
++629
+Blansko
+Sigma Olomouc B
+25.10. 12:30
+ki 1
+7.40
+ki X
+5.60
+ki 2
+1.23
+manje 2.5
+3.35
+više 2.5
+1.24
 +637
 Hlubina
 Polanka nad Odrou
@@ -4643,20 +4677,20 @@ manje 2.5
 2.37
 više 2.5
 1.47
-+638
++637
 Hodonin
 FK Frydek-Mistek
 25.10. 12:30
 ki 1
-1.63
+1.77
 ki X
-3.90
+3.70
 ki 2
-3.85
+3.40
 manje 2.5
-2.62
+2.50
 više 2.5
-1.40
+1.42
 +638
 Start Brno
 Vrchovina
@@ -4706,15 +4740,15 @@ Taborsko
 Slavia Prague B
 25.10. 12:30
 ki 1
-1.73
+1.71
 ki X
-3.40
+3.45
 ki 2
 4.25
 manje 2.5
-1.87
+1.93
 više 2.5
-1.81
+1.77
  
 Netherlands, Tweede Divisie
 +634
@@ -4805,20 +4839,20 @@ više 2.5
 2.02
  
 Italy, Serie C - Group B
-+799
++804
 Guidonia
 Torres
 25.10. 12:30
 ki 1
-2.47
+2.40
 ki X
-2.95
+3.00
 ki 2
-2.88
+2.97
 manje 2.5
-1.53
+1.57
 više 2.5
-2.35
+2.25
 +806
 Juventus U23
 Pontedera
@@ -4849,7 +4883,7 @@ više 2.5
 2.47
  
 Italy, Serie C - Group C
-+812
++810
 Atalanta U23
 Picerno
 25.10. 12:30
@@ -4860,7 +4894,7 @@ ki X
 ki 2
 4.90
 manje 2.5
-2.15
+2.12
 više 2.5
 1.63
 +808
@@ -4953,6 +4987,20 @@ više 2.5
 1.32
  
 North Macedonia, 1. MFL
++811
+Rabotnicki
+Makedonija GP
+25.10. 12:30
+ki 1
+2.67
+ki X
+3.15
+ki 2
+2.40
+manje 2.5
+1.72
+više 2.5
+1.97
 +783
 Struga
 Brera Strumica
@@ -5017,20 +5065,20 @@ više 2.5
 1.60
  
 Thailand, Thai League 2
-+637
++638
 Trat FC
 Nakhon Pathom
 25.10. 12:30
 ki 1
-2.20
+2.25
 ki X
-3.30
+3.10
 ki 2
-2.85
+2.90
 manje 2.5
-2.00
+1.77
 više 2.5
-1.71
+1.93
  
 Poland, Ekstraklasa
 +810
@@ -5095,7 +5143,7 @@ više 2.5
 1.71
  
 Italy, Serie A
-+1025
++1021
 Parma
 Como
 25.10. 13:00
@@ -5109,7 +5157,7 @@ manje 2.5
 1.75
 više 2.5
 2.08
-+918
++922
 Udinese
 Lecce
 25.10. 13:00
@@ -5192,7 +5240,7 @@ Djurgarden
 Varnamo
 25.10. 13:00
 ki 1
-1.27
+1.26
 ki X
 5.90
 ki 2
@@ -5245,26 +5293,26 @@ manje 2.5
 1.80
 više 2.5
 1.91
-+900
++940
 Sampdoria
 Frosinone
 25.10. 13:00
 ki 1
 2.35
 ki X
-3.05
+3.03
 ki 2
-3.15
+3.20
 manje 2.5
-1.60
+1.57
 više 2.5
-2.25
-+905
+2.27
++947
 Sudtirol
 Cesena
 25.10. 13:00
 ki 1
-2.83
+2.80
 ki X
 3.10
 ki 2
@@ -5457,16 +5505,16 @@ manje 2.5
 1.80
 više 2.5
 1.93
-+819
++818
 Mlada Boleslav
 Karvina
 25.10. 13:00
 ki 1
-2.00
+2.03
 ki X
 3.80
 ki 2
-3.25
+3.20
 manje 2.5
 2.45
 više 2.5
@@ -5602,9 +5650,9 @@ Orlando Pirates
 St Eloi Lupopo
 25.10. 13:00
 ki 1
-1.12
+1.13
 ki X
-6.40
+6.30
 ki 2
 15.0
 manje 2.5
@@ -5786,11 +5834,11 @@ FC Sevastopol
 Rostov 2
 25.10. 13:00
 ki 1
-1.48
+1.53
 ki X
-3.75
+3.70
 ki 2
-5.90
+5.45
 manje 2.5
 1.85
 više 2.5
@@ -5816,15 +5864,15 @@ Etincelles
 Gorilla
 25.10. 13:00
 ki 1
-2.40
+2.57
 ki X
 2.70
 ki 2
-3.10
+2.85
 manje 2.5
-1.32
+1.33
 više 2.5
-3.03
+3.00
 +81
 Mukura Victory Sports
 AS Kigali
@@ -5904,29 +5952,29 @@ NK Bistrica
 Beltinci
 25.10. 13:00
 ki 1
-2.73
+2.37
 ki X
-3.35
+3.30
 ki 2
-2.15
-manje 2.5
-2.12
-više 2.5
-1.60
-+633
-NK Jesenice
-Slovan Ljubljana
-25.10. 13:00
-ki 1
-3.70
-ki X
-3.50
-ki 2
-1.75
+2.45
 manje 2.5
 2.10
 više 2.5
 1.60
++636
+NK Jesenice
+Slovan Ljubljana
+25.10. 13:00
+ki 1
+3.10
+ki X
+3.35
+ki 2
+1.97
+manje 2.5
+2.00
+više 2.5
+1.65
  
 Sweden, Superettan
 +816
@@ -5943,16 +5991,16 @@ manje 2.5
 2.20
 više 2.5
 1.60
-+809
++810
 Oddevold
 Ostersunds
 25.10. 13:00
 ki 1
-1.95
+1.93
 ki X
 3.45
 ki 2
-3.50
+3.55
 manje 2.5
 1.95
 više 2.5
@@ -5985,54 +6033,6 @@ manje 2.5
 2.07
 više 2.5
 1.67
- 
-Switzerland, Promotion League
-+640
-Paradiso
-Kreuzlingen
-25.10. 13:00
-ki 1
-1.73
-ki X
-4.00
-ki 2
-3.55
-manje 2.5
-2.90
-više 2.5
-1.35
- 
-Turkey, TFF 1. Lig
-+812
-Pendikspor
-Serik Belediyespor
-25.10. 13:00
-ki 1
-1.52
-ki X
-4.10
-ki 2
-5.35
-manje 2.5
-2.20
-više 2.5
-1.60
- 
-Uruguay, Segunda Division
-+632
-Uruguay Montevideo
-Tacuarembo
-25.10. 13:00
-ki 1
-3.05
-ki X
-2.93
-ki 2
-2.27
-manje 2.5
-1.55
-više 2.5
-2.27
  Tiket
 TIKET
 
@@ -6046,7 +6046,7 @@ UPLATI
 DOBITAK DO: 10,000.00 din
 din
 RSD
-5
+1
 0
 0
 .
@@ -6091,7 +6091,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-04:20:52
+04:52:57
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.

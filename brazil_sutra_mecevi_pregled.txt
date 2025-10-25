@@ -43,7 +43,7 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 05:00
 Blaublitz  vs  Chiba   (ID: 828)
-1=3.3   X=3.2   2=2.22
+1=3.25   X=3.2   2=2.22
 0-2=1.77   2+=1.3   3+=1.97
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -138,9 +138,9 @@ Jeonbuk 2  vs  Gyeongju KHNP   (ID: 638)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 05:00
-Mokpo City  vs  Gangneung   (ID: 658)
-1=3.35   X=3.4   2=1.94
-0-2=2.03   2+=1.2   3+=1.68
+Mokpo City  vs  Gangneung   (ID: 657)
+1=3.2   X=3.4   2=2
+0-2=2.05   2+=1.2   3+=1.66
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 05:30
@@ -522,7 +522,7 @@ Twente  vs  Ajax   (ID: 987)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 11:30  [POLAND, III Liga - Group I]
-Torino  vs  Genoa   (ID: 1016)
+Torino  vs  Genoa   (ID: 1018)
 1=2.3   X=2.85   2=3.75
 0-2=1.46   2+=1.56   3+=2.75
 GG=-   IGG=-   GG&3+=-
@@ -613,8 +613,8 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 12:00  [ITALY, Serie C - Group C]
 Szentlorinc  vs  Bekescsaba 1912   (ID: 655)
-1=2.02   X=3.2   2=3.35
-0-2=1.78   2+=1.28   3+=1.92
+1=2.04   X=3.15   2=3.35
+0-2=1.73   2+=1.3   3+=1.97
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 12:00  [ITALY, Serie C - Group C]
@@ -750,9 +750,9 @@ Magdeburg  vs  Preussen Munster   (ID: 978)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 12:30  [POLAND, III Liga - Group III]
-Hoffenheim II  vs  Aue   (ID: 838)
+Hoffenheim II  vs  Aue   (ID: 840)
 1=1.86   X=3.85   2=3.65
-0-2=2.3   2+=1.16   3+=1.56
+0-2=2.38   2+=1.15   3+=1.53
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 12:55  [POLAND, III Liga - Group III]
@@ -1014,25 +1014,25 @@ Rakow  vs  Lechia Gdansk   (ID: 826)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:00  [ITALY, Serie C - Group C]
-Arsenal  vs  Crystal Palace   (ID: 1025)
+Arsenal  vs  Crystal Palace   (ID: 1029)
 1=1.42   X=4.5   2=8
 0-2=2.08   2+=1.25   3+=1.77
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:00  [ITALY, Serie C - Group C]
-Aston Villa  vs  Manchester City   (ID: 1033)
-1=4.5   X=3.55   2=1.83
-0-2=2.07   2+=1.25   3+=1.77
+Aston Villa  vs  Manchester City   (ID: 1050)
+1=4.55   X=3.55   2=1.82
+0-2=2.08   2+=1.25   3+=1.77
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:00  [ITALY, Serie C - Group C]
-Bournemouth  vs  Nottingham   (ID: 1024)
+Bournemouth  vs  Nottingham   (ID: 1030)
 1=1.84   X=3.65   2=4.33
 0-2=1.92   2+=1.29   3+=1.9
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:00  [ITALY, Serie C - Group C]
-Wolves  vs  Burnley   (ID: 954)
+Wolves  vs  Burnley   (ID: 952)
 1=1.98   X=3.25   2=4.25
 0-2=1.63   2+=1.43   3+=2.3
 GG=-   IGG=-   GG&3+=-
@@ -1140,7 +1140,7 @@ Maldonado  vs  La Luz   (ID: 653)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:30  [ICELAND, Besta-deild karla - Championship Group]
-Bayer Leverkusen  vs  Freiburg   (ID: 1040)
+Bayer Leverkusen  vs  Freiburg   (ID: 1027)
 1=1.87   X=3.7   2=4.1
 0-2=2.1   2+=1.25   3+=1.77
 GG=-   IGG=-   GG&3+=-
@@ -1152,9 +1152,9 @@ Qarabag  vs  Shamakhi   (ID: 810)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:30  [ICELAND, Besta-deild karla - Championship Group]
-Posusje  vs  Radnik Bijeljina   (ID: 822)
-1=2.05   X=3   2=3.5
-0-2=1.55   2+=1.4   3+=2.3
+Posusje  vs  Radnik Bijeljina   (ID: 820)
+1=2.3   X=2.88   2=3.05
+0-2=1.5   2+=1.43   3+=2.38
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:30  [ICELAND, Besta-deild karla - Championship Group]
@@ -1362,7 +1362,7 @@ Norrby  vs  IFK Skovde   (ID: 648)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:15  [MALTA, Premier League - First stage - Main]
-Real Madrid  vs  Barcelona   (ID: 1027)
+Real Madrid  vs  Barcelona   (ID: 1040)
 1=1.96   X=4.2   2=3.35
 0-2=3.65   2+=1.08   3+=1.29
 GG=-   IGG=-   GG&3+=-
@@ -1394,7 +1394,7 @@ GG=-   IGG=-   GG&3+=-
 15:30  [MALTA, Premier League - First stage - Main]
 Viktoria Koln  vs  Hansa Rostock   (ID: 835)
 1=2.7   X=3.35   2=2.5
-0-2=1.95   2+=1.24   3+=1.79
+0-2=1.95   2+=1.23   3+=1.77
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:30  [MALTA, Premier League - First stage - Main]
@@ -1437,136 +1437,4 @@ GG=-   IGG=-   GG&3+=-
 Servette  vs  Lugano   (ID: 836)
 1=2.4   X=3.55   2=2.55
 0-2=2.25   2+=1.16   3+=1.57
-GG=-   IGG=-   GG&3+=-
-======================================================================
-15:45  [MALTA, Premier League - First stage - Main]
-AZ Alkmaar  vs  Utrecht   (ID: 932)
-1=1.65   X=4.15   2=4.7
-0-2=2.3   2+=1.16   3+=1.56
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Radnicki Nis  vs  Crvena zvezda   (ID: 828)
-1=9.75   X=6   2=1.23
-0-2=3.25   2+=1.06   3+=1.3
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Austria Vienna  vs  Salzburg   (ID: 933)
-1=3.25   X=3.5   2=2.15
-0-2=2.15   2+=1.22   3+=1.69
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Ajka  vs  Kozarmisleny SE   (ID: 654)
-1=2.1   X=3.05   2=3.3
-0-2=1.67   2+=1.33   3+=2.07
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Csakvari  vs  Tiszakecske   (ID: 658)
-1=2.15   X=3.1   2=3.1
-0-2=1.78   2+=1.28   3+=1.92
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Honved  vs  Mezokovesd-Zsory   (ID: 657)
-1=2.12   X=3.2   2=3.05
-0-2=1.9   2+=1.23   3+=1.79
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Kecskemeti TE  vs  Karcagi   (ID: 655)
-1=1.77   X=3.3   2=4.1
-0-2=1.85   2+=1.26   3+=1.85
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Bohemians  vs  Shelbourne FC   (ID: 828)
-1=2.22   X=3.15   2=3.35
-0-2=1.7   2+=1.33   3+=2.04
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Bodo/Glimt  vs  Molde   (ID: 838)
-1=1.32   X=5.45   2=7.5
-0-2=3.4   2+=1.06   3+=1.28
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Haugesund  vs  Tromso   (ID: 826)
-1=8.75   X=5.1   2=1.32
-0-2=2.4   2+=1.14   3+=1.5
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Kristiansund  vs  Ham-Kam   (ID: 834)
-1=2.2   X=3.4   2=3.1
-0-2=2.05   2+=1.21   3+=1.69
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Sandefjord  vs  Fredrikstad   (ID: 837)
-1=1.92   X=3.7   2=3.55
-0-2=2.18   2+=1.18   3+=1.61
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Sporting Cristal  vs  Los Chankas   (ID: 805)
-1=1.12   X=7.25   2=18
-0-2=2.7   2+=1.1   3+=1.4
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Stal Mielec  vs  Legnica   (ID: 837)
-1=2.88   X=3.5   2=2.2
-0-2=2.22   2+=1.17   3+=1.58
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Nafta  vs  Bilje   (ID: 648)
-1=1.38   X=4.05   2=6.5
-0-2=1.95   2+=1.19   3+=1.69
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Alfaro  vs  Alaves B   (ID: 647)
-1=3   X=2.7   2=2.5
-0-2=1.42   2+=1.46   3+=2.45
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Alcoyano  vs  Reus FCR   (ID: 652)
-1=1.81   X=3.2   2=4.1
-0-2=1.62   2+=1.32   3+=2.07
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Lorca Deportiva  vs  Puente Genil   (ID: 644)
-1=1.85   X=3   2=4.2
-0-2=1.42   2+=1.47   3+=2.5
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Elazigspor  vs  Kastamonuspor   (ID: 646)
-1=1.44   X=3.8   2=6.4
-0-2=1.8   2+=1.24   3+=1.82
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Bodrumspor  vs  Igdir FK   (ID: 830)
-1=1.84   X=3.45   2=3.95
-0-2=1.9   2+=1.24   3+=1.8
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Dyn. Kyiv  vs  Kryvbas   (ID: 835)
-1=1.46   X=4.4   2=5.75
-0-2=2.5   2+=1.13   3+=1.47
-GG=-   IGG=-   GG&3+=-
-======================================================================
-16:00  [MALTA, Premier League - First stage - Main]
-Al Jazira Abu Dhabi  vs  Ajman   (ID: 657)
-1=2.1   X=3.2   2=3.15
-0-2=1.85   2+=1.25   3+=1.85
 GG=-   IGG=-   GG&3+=-
