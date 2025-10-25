@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1361
+1349
   
   
 DNEVNI SPECIJAL
@@ -48,11 +48,11 @@ GOLOVI PO LIGAMA
   
   
 KOŠARKA
-143
+142
   
   
 SP. KOŠARKA
-98
+92
   
   
 TENIS
@@ -64,7 +64,7 @@ RUKOMET
   
   
 ODBOJKA
-83
+82
   
   
 HOKEJ
@@ -92,7 +92,7 @@ RAGBI UNIJA
   
   
 STONI TENIS
-300
+298
   
   
 FUTSAL
@@ -120,7 +120,7 @@ ESPORT
   
   
 SP. FUDBAL
-1691
+1784
   
   
 VIR. FUDBAL
@@ -144,194 +144,8 @@ Takmičenja
 Vremenska
 Top
 Specijali
- 
-Colombia, Primera A - Clausura
-+796
-Bucaramanga
-Llaneros
-25.10. 23:10
-ki 1
-1.55
-ki X
-3.65
-ki 2
-5.90
-manje 2.5
-1.62
-više 2.5
-2.15
- 
-Brazil, Serie A
-+909
-Sport Recife
-Mirassol
-25.10. 23:30
-ki 1
-2.77
-ki X
-3.25
-ki 2
-2.47
-manje 2.5
-1.83
-više 2.5
-1.88
- 
-Brazil, Serie B
-+806
-Paysandu PA
-Avai
-25.10. 23:30
-ki 1
-2.55
-ki X
-3.10
-ki 2
-2.80
-manje 2.5
-1.63
-više 2.5
-2.15
- 
-Mexico, Liga Premier Serie A
-+633
-Chapulineros
-Inter Playa Del Carmen
-25.10. 23:30
-ki 1
-4.35
-ki X
-3.35
-ki 2
-1.72
-manje 2.5
-1.80
-više 2.5
-1.88
-+633
-Ciervos
-Canamy
-25.10. 23:30
-ki 1
-4.40
-ki X
-3.55
-ki 2
-1.67
-manje 2.5
-1.97
-više 2.5
-1.73
-+634
-Cordobes FC
-Lobos ULMX
-25.10. 23:30
-ki 1
-1.82
-ki X
-3.20
-ki 2
-4.00
-manje 2.5
-1.67
-više 2.5
-2.05
- 
-Mexico, Liga Premier Serie B
-+638
-Uruapan
-Poza Rica
-25.10. 23:30
-ki 1
-1.80
-ki X
-3.70
-ki 2
-3.50
-manje 2.5
-2.30
-više 2.5
-1.52
- 
-Venezuela, Liga FUTVE 2 - Play Offs
-+624
-Dynamo Puerto
-Trujillanos
-25.10. 23:30
-ki 1
-2.30
-ki X
-2.83
-ki 2
-3.15
-manje 2.5
-1.38
-više 2.5
-2.75
- 
-Venezuela, Liga FUTVE - Clausura - Quadrangular
-+635
-Monagas
-La Guaira
-25.10. 23:30
-ki 1
-3.05
-ki X
-3.00
-ki 2
-2.22
-manje 2.5
-1.62
-više 2.5
-2.12
- 
-Bolivia, Copa Pacena
-+640
-Guabira
-Blooming
-25.10. 23:30
-ki 1
-2.50
-ki X
-3.60
-ki 2
-2.30
-manje 2.5
-2.55
-više 2.5
-1.45
- 
-Ecuador, Liga Pro - Championship Group
-+632
-Barcelona SC
-Libertad Loja
-25.10. 23:30
-ki 1
-1.57
-ki X
-3.70
-ki 2
-4.95
-manje 2.5
-1.95
-više 2.5
-1.75
- 
-Uruguay, Liga AUF Uruguaya - Clausura
-+799
-Cerro Largo
-Racing Montevideo
-25.10. 23:30
-ki 1
-2.45
-ki X
-3.03
-ki 2
-2.83
-manje 2.5
-1.52
-više 2.5
-2.37
+KONAČAN ISHOD
+Trenutno nema mečeva.
  Tiket
 TIKET
 
@@ -342,8 +156,8 @@ Molimo odigrajte neku igru.
 Prihvatam promene
 FREEBET
 UPLATI
-DOBITAK DO: 10,000.00 RSD
-RSD
+DOBITAK DO: 10,000.00 din
+din
 RSD
 1
 0
@@ -390,7 +204,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-23:09:31
+23:38:54
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.

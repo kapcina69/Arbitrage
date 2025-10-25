@@ -19,75 +19,14 @@ Sutra
 23:00
 23:59
 23:00 - 23:59
-FUDBAL
-STRELCI FUDBAL
-ODBOJKA
 STONI TENIS
-FUDBAL
-BOLIVIA, Copa Pacena
-1366
-23:30
-Guabira
-Blooming
-660
-BRAZIL, Serie A
-455
-23:30
-Sport Recife
-Mirassol
-929
-BRAZIL, Serie B
-849
-23:30
-Paysandu PA
-Avai
-828
-ECUADOR, Liga Pro - Championship Group
-1394
-23:30
-Barcelona SC
-Libertad Loja
-653
-MEXICO, Liga Premier Serie A
-34393
-23:30
-Chapulineros
-Inter Playa Del Carmen
-653
-34394
-23:30
-Ciervos
-Canamy
-653
-34395
-23:30
-Cordobes FC
-Lobos ULMX
-654
-MEXICO, Liga Premier Serie B
-34400
-23:30
-Uruapan
-Poza Rica
-659
-URUGUAY, Liga AUF Uruguaya - Clausura
-1379
-23:30
-Cerro Largo
-Racing Montevideo
-819
-VENEZUELA, Liga FUTVE - Clausura - Quadrangular
-1359
-23:30
-Monagas
-La Guaira
-655
-VENEZUELA, Liga FUTVE 2 - Play Offs
-1303
-23:30
-Dynamo Puerto
-Trujillanos
-645
+STONI TENIS
+RUSSIA, Liga Pro Men
+33081
+23:50
+Alexander Kitaytsev
+Evgeny Ledyaev
+49
 Odigrani tiketi
 Klikni na kvotu i pokreni
 Srpski
